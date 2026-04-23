@@ -1095,7 +1095,7 @@ body {
   <button class="filter-chip" onclick="filterNews('lopez',this)">C. López</button>
 </div>
 
-<div class="news-grid">
+<div class="news-grid" id="news-grid">
 
 <!-- Noticia 1: El Tiempo -->
 <div class="news-card" data-c="cepeda">
@@ -1359,7 +1359,7 @@ body {
 <!-- ==================== TAB 3: SENTIMENT ==================== -->
 <section id="tab-sentiment" class="tab-content">
 
-<div class="sentiment-overview">
+<div class="sentiment-overview" id="sentiment-overview">
   <!-- Espriella -->
   <div class="sentiment-card" style="border-top:3px solid #e67e22">
     <h4 style="color:#e67e22">De la Espriella</h4>
@@ -3324,5 +3324,68 @@ window.addEventListener('load', () => {
   if (imgC2) { var el = document.getElementById('pred-img-cepeda'); if(el) el.src = imgC2.src; }
   if (imgV2) { var el = document.getElementById('pred-img-valencia'); if(el) el.src = imgV2.src; }
 </script>
+
+<script>
+(function() {
+  fetch('./data.json?v=' + Date.now())
+    .then(function(r) { return r.json(); })
+    .then(function(d) {
+      // 1. Fecha
+      var badge = document.querySelector('.timestamp-badge');
+      if (badge) badge.innerHTML = '<span class="dot"></span>Datos actualizados: ' + d.fecha;
+
+      // 2. Noticias
+      var ng = document.getElementById('news-grid');
+      if (ng && d.noticias) {
+        ng.innerHTML = d.noticias.map(function(n) {
+          var oc = n.objetividad >= 80 ? '#2ecc71' : n.objetividad >= 65 ? '#FCD116' : '#e74c3c';
+          var crits = n.criterios.map(function(c) {
+            return '<div class="crit">' + (c.ok ? '&#x2705;' : '&#x274C;') + ' ' + c.texto + '</div>';
+          }).join('');
+          return '<div class="news-card" data-c="' + n.filter + '">' +
+            '<div class="news-source-line"><span style="color:' + n.fuente_color + '">' + n.fuente + '</span><span>' + n.fecha + '</span></div>' +
+            '<span class="candidate-tag" style="background:' + n.tag_bg + ';color:' + n.tag_color + '">' + n.tag + '</span>' +
+            '<h4>' + n.titulo + '</h4>' +
+            '<div class="news-summary">' + n.resumen + '</div>' +
+            '<div class="objectivity-meter">' +
+              '<div class="obj-header"><span>Objetividad</span><span style="color:' + oc + ';font-weight:700">' + n.objetividad + '%</span></div>' +
+              '<div class="obj-bar"><div class="obj-fill" style="width:' + n.objetividad + '%;background:' + oc + '"></div></div>' +
+              '<div class="obj-criteria">' + crits + '</div>' +
+            '</div>' +
+            '<a class="source-link" href="' + n.url + '" target="_blank" rel="noopener">&#x1F517; ' + n.url_label + '</a>' +
+          '</div>';
+        }).join('');
+      }
+
+      // 3. Sentimiento
+      var so = document.getElementById('sentiment-overview');
+      if (so && d.sentimiento && d.sentimiento.candidatos) {
+        var iconos = {up: '&#x2191;', down: '&#x2193;', stable: '&#x2194;'};
+        var clases = {up: 'trend-up', down: 'trend-down', stable: 'trend-stable'};
+        so.innerHTML = d.sentimiento.candidatos.map(function(s) {
+          return '<div class="sentiment-card" style="border-top:3px solid ' + s.color + '">' +
+            '<h4 style="color:' + s.color + '">' + s.nombre + '</h4>' +
+            '<div class="sentiment-stats">' +
+              '<div class="stat"><div class="stat-value" style="color:#2ecc71">' + s.positivo + '%</div><div class="stat-label">Positivo</div></div>' +
+              '<div class="stat"><div class="stat-value" style="color:#e74c3c">' + s.negativo + '%</div><div class="stat-label">Negativo</div></div>' +
+              '<div class="stat"><div class="stat-value" style="color:#FCD116">' + s.neutro + '%</div><div class="stat-label">Neutro</div></div>' +
+            '</div>' +
+            '<div class="trend-line ' + clases[s.tendencia] + '">' + (iconos[s.tendencia] || '') + ' ' + s.tendencia_texto + '</div>' +
+          '</div>';
+        }).join('');
+      }
+
+      // 4. Porcentajes en prediccion
+      if (d.encuestas) {
+        var p1 = document.querySelector('#tab-prediccion .pred-place:first-child .pred-pct');
+        if (p1) p1.textContent = d.encuestas.cepeda + '%';
+        var p2 = document.querySelector('#tab-prediccion .pred-place:nth-child(2) .pred-pct');
+        if (p2) p2.textContent = d.encuestas.valencia + '%';
+      }
+    })
+    .catch(function() {});
+})();
+</script>
+
 </body>
 </html>
