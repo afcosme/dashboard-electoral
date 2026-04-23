@@ -2,132 +2,240 @@
   "fecha": "23 de abril de 2026",
   "noticias": [
     {
-      "filter": "cepeda",
-      "fuente": "El Tiempo / CNC",
-      "fuente_color": "#27ae60",
-      "fecha": "22 mar 2026",
-      "tag": "Cepeda · Valencia · De la Espriella",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Encuesta CNC: Cepeda lidera con 34.5%, Paloma sube a 22.2%, De la Espriella baja a 15.4%",
-      "resumen": "El Centro Nacional de Consultoría revela que Iván Cepeda mantiene la delantera. Paloma Valencia creció 12 puntos tras ganar la Gran Consulta, mientras De la Espriella cae 5 puntos. En segunda vuelta, Cepeda y Valencia quedarían técnicamente empatados (43.3% vs 42.9%).",
-      "objetividad": 80,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Fuentes verificables"
-        },
-        {
-          "ok": true,
-          "texto": "Ambas partes"
-        },
-        {
-          "ok": true,
-          "texto": "Lenguaje neutro"
-        },
-        {
-          "ok": true,
-          "texto": "Hechos vs opinión"
-        },
-        {
-          "ok": false,
-          "texto": "Verificación independiente limitada"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/encuesta-del-cnc-para-cambio-cepeda-34-5-paloma-22-2-de-la-espriella-15-3542146",
-      "url_label": "El Tiempo - Encuesta CNC marzo 2026"
-    },
-    {
       "filter": "all",
-      "fuente": "La Silla Vacía",
-      "fuente_color": "#9b59b6",
-      "fecha": "06 mar 2026",
-      "tag": "Todos los candidatos",
-      "tag_color": "#9b59b6",
-      "tag_bg": "rgba(155,89,182,0.15)",
-      "titulo": "Elecciones 2026: guía completa para votar en las consultas del 8 de marzo",
-      "resumen": "La Silla Vacía publicó una guía exhaustiva para las elecciones legislativas y consultas presidenciales del 8 de marzo. Detalla el mecanismo de las consultas interpartidistas, las listas al Senado y Cámara, y los perfiles de los candidatos que se disputaban la nominación de cada sector.",
-      "objetividad": 95,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Fuente independiente"
-        },
-        {
-          "ok": true,
-          "texto": "Información completa"
-        },
-        {
-          "ok": true,
-          "texto": "Lenguaje neutro"
-        },
-        {
-          "ok": true,
-          "texto": "Solo hechos"
-        },
-        {
-          "ok": true,
-          "texto": "Verificación propia"
-        }
-      ],
-      "url": "https://www.lasillavacia.com/en-vivo/elecciones-colombia-2026-guia-completa-para-votar-este-8-de-marzo/",
-      "url_label": "La Silla Vacía - Guía completa elecciones 2026"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "Revista Semana",
+      "fuente": "Infobae Colombia",
       "fuente_color": "#e74c3c",
-      "fecha": "22 mar 2026",
-      "tag": "Valencia",
-      "tag_color": "#3498db",
-      "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Paloma Valencia revela su estrategia para segunda vuelta: alianza amplia sin ceder en seguridad",
-      "resumen": "Semana entrevistó a Paloma Valencia, quien afirmó que busca alianzas con el centro político sin ceder en sus pilares de seguridad y economía. Valencia insiste en que su programa de bonos escolares y Casa Semilla serán sus banderas, y que está dispuesta a dialogar con sectores moderados.",
-      "objetividad": 65,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Fuente verificable"
-        },
-        {
-          "ok": false,
-          "texto": "Solo versión de la candidata"
-        },
-        {
-          "ok": true,
-          "texto": "Lenguaje neutro"
-        },
-        {
-          "ok": false,
-          "texto": "Mezcla análisis con hechos"
-        },
-        {
-          "ok": true,
-          "texto": "Medio con trayectoria"
-        }
-      ],
-      "url": "https://www.semana.com/politica/articulo/elecciones-2026-estas-son-las-fechas-clave-para-votar-en-los-comicios-presidenciales-y-al-congreso/202652/",
-      "url_label": "Revista Semana - Elecciones 2026"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Canal 1",
-      "fuente_color": "#1abc9c",
-      "fecha": "12 feb 2026",
-      "tag": "Cepeda · Valencia",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Encuesta exclusiva: Cepeda domina la consulta del Frente Amplio con 40%, Valencia y Dávila empatan en la derecha",
-      "resumen": "Canal 1 reveló encuesta sobre intención de voto para las consultas del 8 de marzo. Iván Cepeda lideraba con 40% en el Frente Amplio, muy por encima de Roy Barreras y Camilo Romero (4% cada uno). En la consulta de la derecha, Paloma Valencia y Vicky Dávila empataban en 8%.",
+      "fecha": "22 abr 2026",
+      "tag": "Elecciones · Institucional",
+      "tag_color": "#FCD116",
+      "tag_bg": "rgba(252,209,22,0.15)",
+      "titulo": "Observadores del Gobierno Trump estarán en las elecciones de Colombia: el CNE lo aprobó",
+      "resumen": "El Consejo Nacional Electoral autorizó formalmente la presencia de veedores internacionales del gobierno estadounidense para las presidenciales del 31 de mayo. Es la primera vez que Colombia acepta observadores del gobierno de Trump en un proceso electoral.",
       "objetividad": 85,
       "criterios": [
         {
           "ok": true,
-          "texto": "Encuesta con metodología"
+          "texto": "Decisión institucional verificable"
         },
         {
           "ok": true,
-          "texto": "Datos de todos los candidatos"
+          "texto": "Hechos confirmados por CNE"
+        },
+        {
+          "ok": true,
+          "texto": "Lenguaje neutro"
+        },
+        {
+          "ok": true,
+          "texto": "Relevancia pública clara"
+        },
+        {
+          "ok": false,
+          "texto": "Contexto diplomático pendiente"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/04/22/el-consejo-nacional-electoral-autorizo-la-presencia-de-observadores-estadounidenses-en-las-elecciones-presidenciales-de-2026/",
+      "url_label": "Infobae Colombia - CNE y observadores Trump"
+    },
+    {
+      "filter": "all",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#e74c3c",
+      "fecha": "22 abr 2026",
+      "tag": "Seguridad · Elecciones",
+      "tag_color": "#e74c3c",
+      "tag_bg": "rgba(231,76,60,0.15)",
+      "titulo": "El Clan del Golfo afirmó que no intervendrá en las elecciones y mencionó tres aspirantes opcionados",
+      "resumen": "El grupo criminal Clan del Golfo emitió un comunicado declarando que no interferirá en las presidenciales del 31 de mayo. El grupo mencionó a tres candidatos como los más opcionados según su evaluación propia.",
+      "objetividad": 68,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Hecho noticioso de interés público"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente identificada"
+        },
+        {
+          "ok": false,
+          "texto": "Declaración de actor ilegal no verificable"
+        },
+        {
+          "ok": true,
+          "texto": "Lenguaje neutro del medio"
+        },
+        {
+          "ok": false,
+          "texto": "Difícil verificación independiente"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/04/22/el-clan-del-golfo-afirmo-que-no-intervendra-en-las-elecciones-presidenciales-de-2026-y-menciono-a-tres-aspirantes-opcionados/",
+      "url_label": "Infobae Colombia - Clan del Golfo y elecciones"
+    },
+    {
+      "filter": "valencia",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#3498db",
+      "fecha": "22 abr 2026",
+      "tag": "Valencia",
+      "tag_color": "#3498db",
+      "tag_bg": "rgba(52,152,219,0.15)",
+      "titulo": "Así le fue a Paloma Valencia calculando los precios de la canasta familiar: se rajó",
+      "resumen": "Paloma Valencia fue cuestionada en Tropicana radio sobre el valor de productos básicos como huevos y carne, fallando en varios precios. El episodio generó críticas sobre el conocimiento de la candidata uribista sobre la realidad cotidiana de los colombianos.",
+      "objetividad": 62,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Hecho verificable en video público"
+        },
+        {
+          "ok": false,
+          "texto": "Titular usa lenguaje evaluativo"
+        },
+        {
+          "ok": true,
+          "texto": "Evento público documentado"
+        },
+        {
+          "ok": false,
+          "texto": "Encuadre editorial desfavorable"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente con trayectoria"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/04/22/asi-le-fue-a-paloma-valencia-con-algunos-precios-de-la-canasta-familiar-en-colombia-se-rajo/",
+      "url_label": "Infobae Colombia - Valencia y precios de canasta"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#e67e22",
+      "fecha": "22 abr 2026",
+      "tag": "De la Espriella",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella reivindica las JAC: \"Colombia no se construye desde los clubes de Bogotá\"",
+      "resumen": "Abelardo de la Espriella destacó las elecciones de Juntas de Acción Comunal del 26 de abril como expresión de la democracia popular. Criticó el reparto de poder entre élites capitalinas y aseguró que su campaña se construye desde los barrios.",
+      "objetividad": 72,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Hecho verificable"
+        },
+        {
+          "ok": false,
+          "texto": "Solo versión del candidato"
+        },
+        {
+          "ok": true,
+          "texto": "Lenguaje mayormente neutro"
+        },
+        {
+          "ok": true,
+          "texto": "Contexto electoral claro"
+        },
+        {
+          "ok": false,
+          "texto": "Sin contraste de otras voces"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/04/22/abelardo-de-la-espriella-critico-el-reparto-de-poder-tradicional-y-reivindico-el-papel-de-los-barrios-colombia-no-se-construye-desde-los-clubes-de-bogota/",
+      "url_label": "Infobae Colombia - De la Espriella y las JAC"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#e67e22",
+      "fecha": "21 abr 2026",
+      "tag": "De la Espriella · Polémica",
+      "tag_color": "#e74c3c",
+      "tag_bg": "rgba(231,76,60,0.15)",
+      "titulo": "Canciller Murillo tomó acciones formales tras polémicas declaraciones de De la Espriella",
+      "resumen": "El canciller Luis Gilberto Murillo respondió con medidas formales a declaraciones del candidato Abelardo de la Espriella que generaron controversia. Murillo cuestionó: \"Así es que quieren gobernar\", señalando el estilo que proyectan las palabras del candidato.",
+      "objetividad": 58,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Acción institucional verificable"
+        },
+        {
+          "ok": false,
+          "texto": "Solo versión del funcionario"
+        },
+        {
+          "ok": false,
+          "texto": "Titular con carga negativa"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente identificada"
+        },
+        {
+          "ok": false,
+          "texto": "Falta respuesta del candidato"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/04/21/luis-gilberto-murillo-tomo-acciones-radicales-tras-polemicas-declaraciones-de-abelardo-de-la-espriella-asi-es-que-quieren-gobernar/",
+      "url_label": "Infobae Colombia - Murillo vs De la Espriella"
+    },
+    {
+      "filter": "valencia",
+      "fuente": "El Espectador",
+      "fuente_color": "#3498db",
+      "fecha": "21 abr 2026",
+      "tag": "Valencia · Alianzas",
+      "tag_color": "#3498db",
+      "tag_bg": "rgba(52,152,219,0.15)",
+      "titulo": "Paloma Valencia se reúne con sectores del Partido Liberal: se cocina apoyo presidencial",
+      "resumen": "La candidata del Centro Democrático se reunió con senadores y representantes liberales, entre quienes hay apoyo mayoritario a su fórmula con Juan Daniel Oviedo. El respaldo liberal se sumaría al ya formalizado de la U, el Conservador y un bloque de Cambio Radical.",
+      "objetividad": 80,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Reunión verificada con asistentes nombrados"
+        },
+        {
+          "ok": true,
+          "texto": "Fuentes identificadas"
+        },
+        {
+          "ok": true,
+          "texto": "Lenguaje neutro"
+        },
+        {
+          "ok": true,
+          "texto": "Hechos diferenciados de proyecciones"
+        },
+        {
+          "ok": false,
+          "texto": "Apoyo aún no oficial"
+        }
+      ],
+      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/paloma-valencia-se-reune-con-sectores-del-partido-liberal-se-cocina-apoyo-presidencial/",
+      "url_label": "El Espectador - Valencia y liberales"
+    },
+    {
+      "filter": "all",
+      "fuente": "El Espectador",
+      "fuente_color": "#9b59b6",
+      "fecha": "22 abr 2026",
+      "tag": "Cepeda · Valencia · De la Espriella",
+      "tag_color": "#9b59b6",
+      "tag_bg": "rgba(155,89,182,0.15)",
+      "titulo": "Cepeda, Valencia y De la Espriella siguen en pulso por participación en debates presidenciales",
+      "resumen": "Los tres candidatos principales mantienen tensión sobre el formato de los debates: Paloma Valencia exigió a Cepeda nombrar compromisarios, mientras De la Espriella rechazó debatir en el Congreso por considerar la propuesta un movimiento para generar titulares.",
+      "objetividad": 88,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Cubre posición de los tres candidatos"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente independiente"
         },
         {
           "ok": true,
@@ -138,156 +246,48 @@
           "texto": "Hechos verificables"
         },
         {
-          "ok": true,
-          "texto": "Medio independiente"
+          "ok": false,
+          "texto": "Debate aún en evolución"
         }
       ],
-      "url": "https://canal1.com.co/programas/noticentro-1/exclusivo-encuesta-sobre-la-intencion-de-voto-consultas-presidenciales/",
-      "url_label": "Canal 1 - Encuesta consultas presidenciales"
+      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/ivan-cepeda-paloma-valencia-y-abelardo-de-la-espriella-siguen-en-su-lucha-por-participacion-en-debates-noticias-hoy/",
+      "url_label": "El Espectador - Debate presidencial"
     },
     {
-      "filter": "all",
-      "fuente": "CNN en Español",
-      "fuente_color": "#c0392b",
-      "fecha": "02 mar 2026",
-      "tag": "Todos los candidatos",
-      "tag_color": "#FCD116",
-      "tag_bg": "rgba(252,209,22,0.15)",
-      "titulo": "Colombia elige Congreso y define candidatos presidenciales: lo que hay que saber de las elecciones de 2026",
-      "resumen": "CNN en Español explicó el panorama electoral colombiano: las consultas interpartidistas seleccionaron a Paloma Valencia por la derecha. Iván Cepeda y Abelardo de la Espriella compiten directamente en las presidenciales del 31 de mayo. Un total de 14 candidatos conforman el tarjetón.",
+      "filter": "cepeda",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#27ae60",
+      "fecha": "09 abr 2026",
+      "tag": "Cepeda · Valencia · De la Espriella",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Encuesta AtlasIntel (Semana): Cepeda lidera con 37,8 % pero perdería en segunda vuelta frente a Valencia y De la Espriella",
+      "resumen": "AtlasIntel encuestó 3.617 personas (6-9 abr) para Semana: Cepeda 37,8 %, De la Espriella 27,2 %, Valencia 22,9 % en primera vuelta. En segunda vuelta, De la Espriella ganaría 48,8 % vs 39,8 %; Valencia 47,1 % vs 39,6 %, invirtiéndose el resultado.",
       "objetividad": 90,
       "criterios": [
         {
           "ok": true,
-          "texto": "Observador internacional"
+          "texto": "Encuesta con metodología publicada"
+        },
+        {
+          "ok": true,
+          "texto": "Muestra representativa (n=3.617)"
+        },
+        {
+          "ok": true,
+          "texto": "Lenguaje neutro"
         },
         {
           "ok": true,
           "texto": "Cubre todos los candidatos"
         },
         {
-          "ok": true,
-          "texto": "Lenguaje neutro"
-        },
-        {
-          "ok": true,
-          "texto": "Solo hechos"
-        },
-        {
-          "ok": true,
-          "texto": "Sin sesgo local"
-        }
-      ],
-      "url": "https://cnnespanol.cnn.com/2026/03/02/colombia/elecciones-legislativas-cuando-son-presidenciales-orix",
-      "url_label": "CNN en Español - Elecciones Colombia 2026"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#e67e22",
-      "fecha": "25 mar 2026",
-      "tag": "De la Espriella · Valencia",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Pacho Santos advierte sobre división en la derecha: \"Cada ataque entre nosotros le da votos a Cepeda\"",
-      "resumen": "El ex vicepresidente Francisco Santos pidió unidad a los seguidores de Valencia y De la Espriella. Señaló que los ataques cruzados entre candidatos de derecha solo benefician a Iván Cepeda en las encuestas y advirtió que sin unión, la izquierda ganaría en primera vuelta.",
-      "objetividad": 60,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Fuentes verificables"
-        },
-        {
           "ok": false,
-          "texto": "Solo versión de Santos"
-        },
-        {
-          "ok": true,
-          "texto": "Lenguaje neutro"
-        },
-        {
-          "ok": false,
-          "texto": "Mezcla hechos y opinión"
-        },
-        {
-          "ok": true,
-          "texto": "Medio con verificación"
+          "texto": "Financiada por Semana (posible sesgo)"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/03/25/pacho-santos-lanzo-advertencia-a-los-seguidores-de-paloma-valencia-que-atacan-a-abelardo-de-la-espriella-el-enemigo-no-esta-en-el-otro-campo/",
-      "url_label": "Infobae - Pacho Santos y la división en la derecha"
-    },
-    {
-      "filter": "all",
-      "fuente": "El País (España)",
-      "fuente_color": "#2980b9",
-      "fecha": "10 mar 2026",
-      "tag": "Todos los candidatos",
-      "tag_color": "#FCD116",
-      "tag_bg": "rgba(252,209,22,0.15)",
-      "titulo": "Colombia define su rumbo: 14 candidatos y una elección que marcará el futuro de la paz y la economía",
-      "resumen": "El País de España analiza el panorama electoral colombiano. Destaca la polarización entre el proyecto de la izquierda liderado por Cepeda, la propuesta de centro-derecha de Valencia y el fenómeno populista de De la Espriella. Los observadores internacionales subrayan la importancia de estas elecciones para la estabilidad regional.",
-      "objetividad": 92,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Observador internacional"
-        },
-        {
-          "ok": true,
-          "texto": "Cubre todos los candidatos"
-        },
-        {
-          "ok": true,
-          "texto": "Lenguaje neutro"
-        },
-        {
-          "ok": true,
-          "texto": "Perspectiva externa sin sesgo local"
-        },
-        {
-          "ok": true,
-          "texto": "Medio de referencia global"
-        }
-      ],
-      "url": "https://elpais.com/america-colombia/",
-      "url_label": "El País España - Cobertura Colombia"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Espectador",
-      "fuente_color": "#e67e22",
-      "fecha": "24 mar 2026",
-      "tag": "De la Espriella",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella recibe apoyo de Teófilo Gutiérrez en evento masivo en Barranquilla",
-      "resumen": "El candidato de Salvación Nacional sumó el apoyo del futbolista del Junior de Barranquilla en un evento público. El candidato continúa buscando ampliar su base electoral fuera de los círculos políticos tradicionales.",
-      "objetividad": 70,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Fuentes verificables"
-        },
-        {
-          "ok": false,
-          "texto": "Solo versión candidato"
-        },
-        {
-          "ok": true,
-          "texto": "Lenguaje neutro"
-        },
-        {
-          "ok": true,
-          "texto": "Hechos vs opinión"
-        },
-        {
-          "ok": true,
-          "texto": "Medio con verificación"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/03/24/el-futbolista-teofilo-gutierrez-anuncio-su-respaldo-a-la-candidatura-presidencial-de-abelardo-de-la-espriella/",
-      "url_label": "El Espectador / Infobae - De la Espriella y Teófilo"
+      "url": "https://www.infobae.com/colombia/2026/04/09/encuesta-atlas-intel-ivan-cepeda-lidera-intencion-de-voto-pero-perderia-en-segunda-vuelta-con-abelardo-de-la-espriella-y-paloma-valencia/",
+      "url_label": "Infobae Colombia - Encuesta AtlasIntel abril 2026"
     }
   ],
   "sentimiento": {
@@ -295,29 +295,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 35,
-        "negativo": 42,
-        "neutro": 23,
-        "tendencia": "down",
-        "tendencia_texto": "Baja tras caída en encuestas y polémica sobre porte de armas"
+        "positivo": 32,
+        "negativo": 48,
+        "neutro": 20,
+        "tendencia": "up",
+        "tendencia_texto": "Sube a 27,2 % en AtlasIntel, pero semana marcada por polémicas declaraciones y cuestionamientos legales a su concurso del Mundial."
       },
       {
         "nombre": "Valencia",
         "color": "#3498db",
-        "positivo": 45,
-        "negativo": 32,
-        "neutro": 23,
+        "positivo": 52,
+        "negativo": 26,
+        "neutro": 22,
         "tendencia": "up",
-        "tendencia_texto": "Sube 12 puntos tras ganar Gran Consulta. Momento positivo."
+        "tendencia_texto": "Suma liberales a su coalición. Lidera por primera vez en Polymarket. Episodio de precios de canasta básica genera críticas."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 40,
-        "negativo": 38,
+        "positivo": 42,
+        "negativo": 36,
         "neutro": 22,
         "tendencia": "stable",
-        "tendencia_texto": "Estable. Lidera encuestas pero enfrenta polarización."
+        "tendencia_texto": "Lidera primera vuelta con 37,8 % (AtlasIntel) pero perdería segunda vuelta. Impulsa debate presidencial como proponente."
       },
       {
         "nombre": "Fajardo",
@@ -335,31 +335,31 @@
         "negativo": 29,
         "neutro": 23,
         "tendencia": "up",
-        "tendencia_texto": "Sube tras ganar Consulta de las Soluciones."
+        "tendencia_texto": "Retiró candidatura el 6 de abril y se sumó a campaña de Iván Cepeda."
       }
     ]
   },
   "encuestas": {
-    "cepeda": 34.5,
-    "valencia": 22.2,
-    "espriella": 15.4,
-    "fuente": "CNC, 22 mar 2026"
+    "cepeda": 37.8,
+    "valencia": 22.9,
+    "espriella": 27.2,
+    "fuente": "AtlasIntel para Semana, 6-9 abr 2026"
   },
   "prediccion": {
     "primero": {
       "nombre": "Iván Cepeda",
       "partido": "Pacto Histórico",
       "color": "#27ae60",
-      "pct": 34.5,
-      "fuente_encuesta": "Encuesta CNC"
+      "pct": 37.8,
+      "fuente_encuesta": "AtlasIntel (abr 2026)"
     },
     "segundo": {
-      "nombre": "Paloma Valencia",
-      "partido": "Centro Democrático",
-      "color": "#3498db",
-      "pct": 22.2,
-      "fuente_encuesta": "Encuesta CNC"
+      "nombre": "Abelardo De la Espriella",
+      "partido": "Salvación Nacional",
+      "color": "#e67e22",
+      "pct": 27.2,
+      "fuente_encuesta": "AtlasIntel (abr 2026)"
     },
-    "resumen_analisis": "Basado en el análisis de noticias de 8 fuentes, sentimiento en medios y datos de encuestas del período más reciente disponible."
+    "resumen_analisis": "Basado en el análisis de 8 noticias recientes, sentimiento en medios y encuesta AtlasIntel del 6-9 de abril de 2026 (n=3.617)."
   }
 }
