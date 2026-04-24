@@ -2,24 +2,24 @@
   "fecha": "24 de abril de 2026",
   "noticias": [
     {
-      "filter": "all",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#e74c3c",
-      "fecha": "22 abr 2026",
-      "tag": "Elecciones · Institucional",
-      "tag_color": "#FCD116",
-      "tag_bg": "rgba(252,209,22,0.15)",
-      "titulo": "Observadores del Gobierno Trump estarán en las elecciones de Colombia: el CNE lo aprobó",
-      "resumen": "El Consejo Nacional Electoral autorizó formalmente la presencia de veedores internacionales del gobierno estadounidense para las presidenciales del 31 de mayo. Es la primera vez que Colombia acepta observadores del gobierno de Trump en un proceso electoral.",
-      "objetividad": 85,
+      "filter": "cepeda",
+      "fuente": "El Tiempo",
+      "fuente_color": "#27ae60",
+      "fecha": "24 abr 2026",
+      "tag": "Cepeda · Alianzas",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Alianza Verde oficializa respaldo a Iván Cepeda; el candidato se compromete a no buscar una Constituyente",
+      "resumen": "La Alianza Verde selló su apoyo formal a Iván Cepeda de cara a la primera vuelta del 31 de mayo, tras un acuerdo donde el candidato del Pacto Histórico se comprometió explícitamente a no convocar una Asamblea Constituyente, desmarcándose de la propuesta del presidente Petro.",
+      "objetividad": 84,
       "criterios": [
         {
           "ok": true,
-          "texto": "Decisión institucional verificable"
+          "texto": "Acuerdo político verificable"
         },
         {
           "ok": true,
-          "texto": "Hechos confirmados por CNE"
+          "texto": "Fuente de referencia nacional"
         },
         {
           "ok": true,
@@ -27,15 +27,15 @@
         },
         {
           "ok": true,
-          "texto": "Relevancia pública clara"
+          "texto": "Cubre ambas partes del acuerdo"
         },
         {
           "ok": false,
-          "texto": "Contexto diplomático pendiente"
+          "texto": "Evento de oficialización aún pendiente"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/04/22/el-consejo-nacional-electoral-autorizo-la-presencia-de-observadores-estadounidenses-en-las-elecciones-presidenciales-de-2026/",
-      "url_label": "Infobae Colombia - CNE y observadores Trump"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-llego-a-acuerdos-con-la-alianza-verde-y-alista-evento-para-oficializar-el-apoyo-se-comprometio-a-no-buscar-una-constituyente-3550413",
+      "url_label": "El Tiempo - Cepeda y Alianza Verde"
     },
     {
       "filter": "all",
@@ -111,39 +111,39 @@
     },
     {
       "filter": "espriella",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#e67e22",
-      "fecha": "22 abr 2026",
-      "tag": "De la Espriella",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella reivindica las JAC: \"Colombia no se construye desde los clubes de Bogotá\"",
-      "resumen": "Abelardo de la Espriella destacó las elecciones de Juntas de Acción Comunal del 26 de abril como expresión de la democracia popular. Criticó el reparto de poder entre élites capitalinas y aseguró que su campaña se construye desde los barrios.",
-      "objetividad": 72,
+      "fuente": "Cambio Colombia",
+      "fuente_color": "#e74c3c",
+      "fecha": "23 abr 2026",
+      "tag": "De la Espriella · Polémica",
+      "tag_color": "#e74c3c",
+      "tag_bg": "rgba(231,76,60,0.15)",
+      "titulo": "La conexión entre Abelardo de la Espriella y el narco 'Boliche': la imagen que sacude la campaña",
+      "resumen": "Cambio Colombia reveló una fotografía que muestra a Abelardo de la Espriella junto al narcotraficante conocido como alias 'Boliche', generando una grave controversia que amenaza su campaña presidencial a cinco semanas de la primera vuelta del 31 de mayo.",
+      "objetividad": 70,
       "criterios": [
         {
           "ok": true,
-          "texto": "Hecho verificable"
-        },
-        {
-          "ok": false,
-          "texto": "Solo versión del candidato"
+          "texto": "Evidencia gráfica publicada"
         },
         {
           "ok": true,
-          "texto": "Lenguaje mayormente neutro"
-        },
-        {
-          "ok": true,
-          "texto": "Contexto electoral claro"
+          "texto": "Fuente con trayectoria investigativa"
         },
         {
           "ok": false,
-          "texto": "Sin contraste de otras voces"
+          "texto": "Sin respuesta del candidato incluida"
+        },
+        {
+          "ok": true,
+          "texto": "Interés público evidente"
+        },
+        {
+          "ok": false,
+          "texto": "Contexto de la foto no completamente verificado"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/04/22/abelardo-de-la-espriella-critico-el-reparto-de-poder-tradicional-y-reivindico-el-papel-de-los-barrios-colombia-no-se-construye-desde-los-clubes-de-bogota/",
-      "url_label": "Infobae Colombia - De la Espriella y las JAC"
+      "url": "https://cambiocolombia.com/elecciones-colombia-2026/articulo/2026/4/abelardo-de-la-espriella-y-alias-boliche-la-imagen-que-sacude-la-campana-presidencial/",
+      "url_label": "Cambio Colombia - De la Espriella y alias Boliche"
     },
     {
       "filter": "espriella",
@@ -295,29 +295,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 32,
-        "negativo": 48,
-        "neutro": 20,
-        "tendencia": "up",
-        "tendencia_texto": "Sube a 27,2 % en AtlasIntel, pero semana marcada por polémicas declaraciones y cuestionamientos legales a su concurso del Mundial."
+        "positivo": 26,
+        "negativo": 55,
+        "neutro": 19,
+        "tendencia": "down",
+        "tendencia_texto": "Foto con narco alias 'Boliche' sacude la campaña. Canciller Murillo tomó acciones formales por sus declaraciones. Sube en encuestas (27,2 % AtlasIntel) pero la semana está marcada por controversias graves."
       },
       {
         "nombre": "Valencia",
         "color": "#3498db",
-        "positivo": 52,
-        "negativo": 26,
+        "positivo": 48,
+        "negativo": 30,
         "neutro": 22,
         "tendencia": "up",
-        "tendencia_texto": "Suma liberales a su coalición. Lidera por primera vez en Polymarket. Episodio de precios de canasta básica genera críticas."
+        "tendencia_texto": "Acepta debate presidencial propuesto por Cepeda. Avanza en coalición con sectores del Partido Liberal. Episodio de precios de canasta familiar en Tropicana genera críticas y viralidad en redes."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 42,
-        "negativo": 36,
-        "neutro": 22,
-        "tendencia": "stable",
-        "tendencia_texto": "Lidera primera vuelta con 37,8 % (AtlasIntel) pero perdería segunda vuelta. Impulsa debate presidencial como proponente."
+        "positivo": 52,
+        "negativo": 28,
+        "neutro": 20,
+        "tendencia": "up",
+        "tendencia_texto": "Alianza Verde oficializa respaldo hoy 24 de abril comprometiéndose a no convocar Constituyente. Lidera primera vuelta con ~38 % (AtlasIntel) aunque perdería en segunda vuelta."
       },
       {
         "nombre": "Fajardo",
