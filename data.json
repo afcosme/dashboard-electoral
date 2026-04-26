@@ -1,5 +1,5 @@
 {
-  "fecha": "25 de abril de 2026",
+  "fecha": "26 de abril de 2026",
   "noticias": [
     {
       "filter": "cepeda",
@@ -13,11 +13,26 @@
       "resumen": "El candidato del Pacto Histórico reafirmó sus denuncias sobre el presunto 'proyecto Júpiter', respondiendo a las críticas de Valencia y Uribe que califican sus acusaciones de 'carentes de todo sustento'. La polémica tensiona la campaña a cinco semanas de la primera vuelta.",
       "objetividad": 72,
       "criterios": [
-        {"ok": true, "texto": "Hecho noticioso de interés público"},
-        {"ok": false, "texto": "Acusaciones sin prueba documental publicada"},
-        {"ok": true, "texto": "Recoge respuesta de los aludidos"},
-        {"ok": true, "texto": "Fuente con trayectoria"},
-        {"ok": false, "texto": "Carga política en el debate"}
+        {
+          "ok": true,
+          "texto": "Hecho noticioso de interés público"
+        },
+        {
+          "ok": false,
+          "texto": "Acusaciones sin prueba documental publicada"
+        },
+        {
+          "ok": true,
+          "texto": "Recoge respuesta de los aludidos"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente con trayectoria"
+        },
+        {
+          "ok": false,
+          "texto": "Carga política en el debate"
+        }
       ],
       "url": "https://www.infobae.com/colombia/2026/04/24/ivan-cepeda-volvio-a-hablar-del-proyecto-jupier-y-critico-a-paloma-valencia-y-a-alvaro-uribe-lanza-acusaciones-carentes-de-todo-sustento/",
       "url_label": "Infobae Colombia - Cepeda y Proyecto Júpiter"
@@ -34,11 +49,26 @@
       "resumen": "La facción mayoritaria de la Alianza Verde refrendó su adhesión a la campaña de Iván Cepeda bajo compromisos estrictos, incluyendo el rechazo explícito a convocar una Asamblea Constituyente y compromisos en materia ambiental. El respaldo verde consolida la coalición progresista de cara al 31 de mayo.",
       "objetividad": 85,
       "criterios": [
-        {"ok": true, "texto": "Acuerdo político verificable"},
-        {"ok": true, "texto": "Fuente de referencia nacional"},
-        {"ok": true, "texto": "Lenguaje neutro"},
-        {"ok": true, "texto": "Cubre condiciones del acuerdo"},
-        {"ok": false, "texto": "Falta voz del ala minoritaria de la Alianza"}
+        {
+          "ok": true,
+          "texto": "Acuerdo político verificable"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente de referencia nacional"
+        },
+        {
+          "ok": true,
+          "texto": "Lenguaje neutro"
+        },
+        {
+          "ok": true,
+          "texto": "Cubre condiciones del acuerdo"
+        },
+        {
+          "ok": false,
+          "texto": "Falta voz del ala minoritaria de la Alianza"
+        }
       ],
       "url": "https://cambiocolombia.com/poder/articulo/2026/4/alianza-verde-adhiere-ivan-cepeda-claves-acuerdo-politico-programatico-elecciones/",
       "url_label": "Cambio Colombia - Alianza Verde y Cepeda"
@@ -55,11 +85,26 @@
       "resumen": "Desde Pereira, el candidato del Pacto Histórico aclaró que solo participará en debates con un formato sustancial y candidatos que considere opciones reales de poder. La postura generó críticas de sus rivales, quienes la califican como evasión del escrutinio público.",
       "objetividad": 76,
       "criterios": [
-        {"ok": true, "texto": "Declaraciones directas del candidato"},
-        {"ok": true, "texto": "Evento público en Pereira"},
-        {"ok": false, "texto": "Solo recoge la versión de Cepeda"},
-        {"ok": true, "texto": "Tema de interés electoral"},
-        {"ok": false, "texto": "Falta reacción de candidatos excluidos"}
+        {
+          "ok": true,
+          "texto": "Declaraciones directas del candidato"
+        },
+        {
+          "ok": true,
+          "texto": "Evento público en Pereira"
+        },
+        {
+          "ok": false,
+          "texto": "Solo recoge la versión de Cepeda"
+        },
+        {
+          "ok": true,
+          "texto": "Tema de interés electoral"
+        },
+        {
+          "ok": false,
+          "texto": "Falta reacción de candidatos excluidos"
+        }
       ],
       "url": "https://www.infobae.com/colombia/2026/04/23/ivan-cepeda-reitero-condiciones-para-ir-a-los-debates-solo-aceptara-discusion-con-la-extrema-derecha-y-sin-cultura-del-espectaculo/",
       "url_label": "Infobae Colombia - Cepeda y condiciones debates"
@@ -76,56 +121,101 @@
       "resumen": "En entrevista con la revista Bocas, el candidato del Pacto Histórico expresó su visión sobre sus principales contrincantes, analizando sus propuestas y perfiles políticos en la recta final de la campaña presidencial del 31 de mayo.",
       "objetividad": 78,
       "criterios": [
-        {"ok": true, "texto": "Entrevista directa con el candidato"},
-        {"ok": true, "texto": "Medio de referencia cultural"},
-        {"ok": false, "texto": "Solo perspectiva de Cepeda sobre sus rivales"},
-        {"ok": true, "texto": "Lenguaje neutro del medio"},
-        {"ok": false, "texto": "Sin derecho de réplica de los aludidos"}
+        {
+          "ok": true,
+          "texto": "Entrevista directa con el candidato"
+        },
+        {
+          "ok": true,
+          "texto": "Medio de referencia cultural"
+        },
+        {
+          "ok": false,
+          "texto": "Solo perspectiva de Cepeda sobre sus rivales"
+        },
+        {
+          "ok": true,
+          "texto": "Lenguaje neutro del medio"
+        },
+        {
+          "ok": false,
+          "texto": "Sin derecho de réplica de los aludidos"
+        }
       ],
       "url": "https://www.pulzo.com/elecciones-colombia-2026/ivan-cepeda-habla-abelardo-espriella-paloma-valencia-revista-bocas-PP5155019",
       "url_label": "Pulzo - Cepeda en revista Bocas"
     },
     {
       "filter": "valencia",
-      "fuente": "La Opinión",
+      "fuente": "El Heraldo",
       "fuente_color": "#3498db",
-      "fecha": "23 abr 2026",
-      "tag": "Valencia · Seguridad",
+      "fecha": "25 abr 2026",
+      "tag": "Valencia · Propuesta",
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Paloma Valencia denunció que extorsionistas intimidaron a su fórmula Juan Daniel Oviedo en Atlántico",
-      "resumen": "La candidata presidencial del Centro Democrático denunció un presunto acto de hostigamiento contra su compañero de fórmula, Juan Daniel Oviedo, mientras realizaba actividades de campaña en Soledad, Atlántico. Valencia exigió garantías electorales al Gobierno nacional.",
-      "objetividad": 75,
+      "titulo": "Paloma Valencia propone al expresidente Álvaro Uribe como su ministro de Defensa",
+      "resumen": "En recorrido por Antioquia junto a Uribe, Valencia anunció que quiere al expresidente encabezando la cartera de Defensa y repitiendo la Seguridad Democrática. 'Necesito que me lo convenzan', dijo ante una multitud. La declaración domina la agenda mediática y polariza el espectro político.",
+      "objetividad": 80,
       "criterios": [
-        {"ok": true, "texto": "Denuncia formal de candidata"},
-        {"ok": true, "texto": "Fuente regional verificable"},
-        {"ok": false, "texto": "Solo versión de la campaña Valencia"},
-        {"ok": true, "texto": "Hecho de interés público"},
-        {"ok": false, "texto": "Sin respuesta confirmada del gobierno"}
+        {
+          "ok": true,
+          "texto": "Declaración directa y en video de la candidata"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente de referencia regional verificable"
+        },
+        {
+          "ok": false,
+          "texto": "Sin reacción de expertos en seguridad o Fuerzas Militares"
+        },
+        {
+          "ok": true,
+          "texto": "Hecho político de alto impacto electoral"
+        },
+        {
+          "ok": false,
+          "texto": "Falta análisis de viabilidad constitucional"
+        }
       ],
-      "url": "https://www.laopinion.co/elecciones-2026/paloma-valencia-denuncio-que-extorsionistas-intimidaron-juan-daniel-oviedo-en",
-      "url_label": "La Opinión - Valencia denuncia hostigamiento a Oviedo"
+      "url": "https://www.elheraldo.co/colombia/2026/04/25/paloma-valencia-pidio-al-expresidente-uribe-que-sea-su-ministro-de-defensa-en-caso-de-conseguir-la-presidencia/",
+      "url_label": "El Heraldo - Valencia propone a Uribe ministro de Defensa"
     },
     {
       "filter": "valencia",
-      "fuente": "Infobae Colombia",
+      "fuente": "El Tiempo",
       "fuente_color": "#3498db",
-      "fecha": "22 abr 2026",
-      "tag": "Valencia",
+      "fecha": "25 abr 2026",
+      "tag": "Valencia · Seguridad",
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Así le fue a Paloma Valencia calculando los precios de la canasta familiar en Colombia: se rajó",
-      "resumen": "Paloma Valencia fue cuestionada en Tropicana radio sobre el valor de productos básicos como huevos y carne, fallando en varios precios. El episodio generó críticas sobre el conocimiento de la candidata uribista sobre la realidad cotidiana de los colombianos.",
-      "objetividad": 62,
+      "titulo": "Desde Palmira, Valencia condenó la ola de violencia en el suroccidente y propuso militarizar la vía Cali-Popayán",
+      "resumen": "La candidata rechazó los recientes ataques terroristas en el suroeste colombiano y anunció que su primera medida presidencial sería militarizar la vía Cali-Popayán-Pasto-Rumichaca y fortalecer la Fuerza Pública en la región, en respuesta a la crisis de seguridad.",
+      "objetividad": 79,
       "criterios": [
-        {"ok": true, "texto": "Hecho verificable en video público"},
-        {"ok": false, "texto": "Titular usa lenguaje evaluativo"},
-        {"ok": true, "texto": "Evento público documentado"},
-        {"ok": false, "texto": "Encuadre editorial desfavorable"},
-        {"ok": true, "texto": "Fuente con trayectoria"}
+        {
+          "ok": true,
+          "texto": "Declaraciones verificables en evento público"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente de referencia nacional"
+        },
+        {
+          "ok": true,
+          "texto": "Contexto de violencia real en la región"
+        },
+        {
+          "ok": false,
+          "texto": "Sin análisis de expertos en seguridad o Fuerzas Militares"
+        },
+        {
+          "ok": false,
+          "texto": "Falta voz del Gobierno sobre la situación"
+        }
       ],
-      "url": "https://www.infobae.com/colombia/2026/04/22/asi-le-fue-a-paloma-valencia-con-algunos-precios-de-la-canasta-familiar-en-colombia-se-rajo/",
-      "url_label": "Infobae Colombia - Valencia y precios de canasta"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/desde-palmira-paloma-valencia-rechazo-ola-de-violencia-en-el-suroccidente-y-hablo-de-militarizar-la-via-cali-popayan-3550903",
+      "url_label": "El Tiempo - Valencia y militarización vía Cali-Popayán"
     },
     {
       "filter": "espriella",
@@ -136,14 +226,29 @@
       "tag_color": "#e74c3c",
       "tag_bg": "rgba(231,76,60,0.15)",
       "titulo": "La conexión entre Abelardo de la Espriella y el narco 'Boliche': la imagen que sacude la campaña",
-      "resumen": "Cambio Colombia reveló una fotografía que muestra a Abelardo de la Espriella junto al narcotraficante conocido como alias 'Boliche', generando una grave controversia que amenaza su campaña presidencial a cinco semanas de la primera vuelta del 31 de mayo.",
+      "resumen": "Cambio Colombia reveló una fotografía que muestra a Abelardo de la Espriella junto al narcotraficante conocido como alias 'Boliche'. El presidente Petro amplificó la polémica en redes sociales y De la Espriella respondió calificando las fotos de 'viejas'. Controversia que amenaza su campaña presidencial.",
       "objetividad": 70,
       "criterios": [
-        {"ok": true, "texto": "Evidencia gráfica publicada"},
-        {"ok": true, "texto": "Fuente con trayectoria investigativa"},
-        {"ok": false, "texto": "Sin respuesta del candidato incluida"},
-        {"ok": true, "texto": "Interés público evidente"},
-        {"ok": false, "texto": "Contexto de la foto no completamente verificado"}
+        {
+          "ok": true,
+          "texto": "Evidencia gráfica publicada"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente con trayectoria investigativa"
+        },
+        {
+          "ok": false,
+          "texto": "Contexto y fecha exacta de la foto no confirmados"
+        },
+        {
+          "ok": true,
+          "texto": "Interés público evidente"
+        },
+        {
+          "ok": false,
+          "texto": "Respuesta del candidato incluida solo parcialmente"
+        }
       ],
       "url": "https://cambiocolombia.com/elecciones-colombia-2026/articulo/2026/4/abelardo-de-la-espriella-y-alias-boliche-la-imagen-que-sacude-la-campana-presidencial/",
       "url_label": "Cambio Colombia - De la Espriella y alias Boliche"
@@ -160,11 +265,26 @@
       "resumen": "El candidato presidencial presentó su programa de gobierno con las primeras 13 propuestas oficiales en seguridad, economía y política social, buscando mostrar sustancia programática en medio de la controversia por la foto con alias 'Boliche'.",
       "objetividad": 82,
       "criterios": [
-        {"ok": true, "texto": "Propuestas oficiales verificables"},
-        {"ok": true, "texto": "Fuente de referencia nacional"},
-        {"ok": true, "texto": "Lenguaje neutro"},
-        {"ok": true, "texto": "Información de interés electoral"},
-        {"ok": false, "texto": "Sin análisis de viabilidad de propuestas"}
+        {
+          "ok": true,
+          "texto": "Propuestas oficiales verificables"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente de referencia nacional"
+        },
+        {
+          "ok": true,
+          "texto": "Lenguaje neutro"
+        },
+        {
+          "ok": true,
+          "texto": "Información de interés electoral"
+        },
+        {
+          "ok": false,
+          "texto": "Sin análisis de viabilidad de propuestas"
+        }
       ],
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-publica-oficialmente-sus-primeras-13-propuestas-de-campana-3545691",
       "url_label": "El Tiempo - De la Espriella 13 propuestas"
@@ -179,16 +299,16 @@
         "negativo": 60,
         "neutro": 18,
         "tendencia": "down",
-        "tendencia_texto": "Foto con narco alias 'Boliche' domina la cobertura mediática. Canciller Murillo presentó queja formal ante el CNE. Publica 13 propuestas para contrarrestar la polémica. Semana muy negativa para la campaña."
+        "tendencia_texto": "Foto con narco alias 'Boliche' domina la cobertura mediática. Petro amplificó la polémica en redes. De la Espriella responde con insultos pero sin pruebas que limpien su imagen. Publica 13 propuestas para reconducir la agenda. Semana muy negativa para la campaña."
       },
       {
         "nombre": "Valencia",
         "color": "#3498db",
-        "positivo": 47,
-        "negativo": 33,
-        "neutro": 20,
+        "positivo": 49,
+        "negativo": 38,
+        "neutro": 13,
         "tendencia": "up",
-        "tendencia_texto": "Denuncia hostigamiento a su fórmula Oviedo en Atlántico. Primera vez arriba en Polymarket. Episodio de precios de canasta familiar sigue generando ruido. Avanza en coalición con el Partido Liberal."
+        "tendencia_texto": "Propone a Uribe como ministro de Defensa en Antioquia, acaparando la agenda noticiosa. Plantea militarizar la vía Cali-Popayán ante ola de violencia en el suroccidente. Medida energiza su base uribista aunque polariza a votantes de centro. Primera vez arriba en Polymarket la semana pasada. Semana de muy alto perfil mediático."
       },
       {
         "nombre": "Cepeda",
@@ -197,7 +317,7 @@
         "negativo": 30,
         "neutro": 19,
         "tendencia": "up",
-        "tendencia_texto": "Alianza Verde oficializa respaldo comprometiéndolo a no convocar Constituyente. Revive polémica del 'proyecto Júpiter' atacando a Valencia y Uribe. Sus condiciones para debates generan críticas de rivales. Lidera primera vuelta (~38%)."
+        "tendencia_texto": "Alianza Verde oficializa respaldo comprometiéndolo a no convocar Constituyente. Revive polémica del 'proyecto Júpiter' atacando a Valencia y Uribe. Sus condiciones para debates generan críticas de rivales. Lidera primera vuelta con ~37.8% según AtlasIntel."
       },
       {
         "nombre": "Fajardo",
@@ -242,5 +362,5 @@
     },
     "resumen_analisis": "Basado en el análisis de 8 noticias recientes, sentimiento en medios y encuesta AtlasIntel del 6-9 de abril de 2026 (n=3.617)."
   },
-  "ultimo_deploy": "2026-04-25T13:00:00Z"
+  "ultimo_deploy": "2026-04-26T12:00:00Z"
 }
