@@ -1,173 +1,205 @@
 {
-  "fecha": "26 de abril de 2026",
+  "fecha": "27 de abril de 2026",
   "noticias": [
     {
       "filter": "cepeda",
       "fuente": "Infobae Colombia",
       "fuente_color": "#27ae60",
-      "fecha": "24 abr 2026",
-      "tag": "Cepeda · Polémica",
+      "fecha": "27 abr 2026",
+      "tag": "Cepeda · Encuesta",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda volvió a hablar del 'proyecto Júpiter' y criticó a Paloma Valencia y a Álvaro Uribe",
-      "resumen": "El candidato del Pacto Histórico reafirmó sus denuncias sobre el presunto 'proyecto Júpiter', respondiendo a las críticas de Valencia y Uribe que califican sus acusaciones de 'carentes de todo sustento'. La polémica tensiona la campaña a cinco semanas de la primera vuelta.",
-      "objetividad": 72,
+      "titulo": "Cepeda se impone ante De la Espriella y Valencia en las presidenciales, según encuesta Invamer",
+      "resumen": "La nueva encuesta Invamer del 15-24 de abril (3.800 encuestados, 149 municipios) confirma a Cepeda como líder indiscutido con 44,3% de intención de voto a 34 días de las elecciones. De la Espriella sube al 21,5% y Valencia se duplica al 19,8%, reordenando la carrera por el segundo puesto.",
+      "objetividad": 88,
       "criterios": [
         {
           "ok": true,
-          "texto": "Hecho noticioso de interés público"
-        },
-        {
-          "ok": false,
-          "texto": "Acusaciones sin prueba documental publicada"
+          "texto": "Encuesta de firma reconocida con metodología publicada"
         },
         {
           "ok": true,
-          "texto": "Recoge respuesta de los aludidos"
+          "texto": "Muestra amplia: 3.800 encuestados, 149 municipios"
         },
         {
           "ok": true,
-          "texto": "Fuente con trayectoria"
+          "texto": "Lenguaje neutro y datos verificables"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente con trayectoria periodística"
         },
         {
           "ok": false,
-          "texto": "Carga política en el debate"
+          "texto": "Sin margen de error explicitado en el titular"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/04/24/ivan-cepeda-volvio-a-hablar-del-proyecto-jupier-y-critico-a-paloma-valencia-y-a-alvaro-uribe-lanza-acusaciones-carentes-de-todo-sustento/",
-      "url_label": "Infobae Colombia - Cepeda y Proyecto Júpiter"
+      "url": "https://www.infobae.com/colombia/2026/04/27/ivan-cepeda-se-impone-ante-abelardo-de-la-espriella-y-paloma-valencia-en-las-elecciones-presidenciales-segun-encuesta-invamer/",
+      "url_label": "Infobae Colombia - Cepeda lidera encuesta Invamer"
     },
     {
       "filter": "cepeda",
-      "fuente": "Cambio Colombia",
+      "fuente": "Infobae Colombia",
       "fuente_color": "#27ae60",
-      "fecha": "23 abr 2026",
-      "tag": "Cepeda · Alianzas",
+      "fecha": "27 abr 2026",
+      "tag": "Cepeda · Segunda vuelta",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Alianza Verde se suma a Iván Cepeda: claves del acuerdo político y programático",
-      "resumen": "La facción mayoritaria de la Alianza Verde refrendó su adhesión a la campaña de Iván Cepeda bajo compromisos estrictos, incluyendo el rechazo explícito a convocar una Asamblea Constituyente y compromisos en materia ambiental. El respaldo verde consolida la coalición progresista de cara al 31 de mayo.",
+      "titulo": "Nueva encuesta sacude la carrera presidencial y revela quién le compite mejor a Cepeda en segunda vuelta",
+      "resumen": "En escenario de segunda vuelta Cepeda vs. Valencia, el resultado es 51,2% vs. 46,6%, diferencia de solo 4,6 puntos. Cepeda perdió más de 10 puntos desde febrero mientras Valencia ganó más de 16, señalando una tendencia que preocupa al Pacto Histórico de cara al 31 de mayo.",
       "objetividad": 85,
       "criterios": [
         {
           "ok": true,
-          "texto": "Acuerdo político verificable"
+          "texto": "Datos de encuesta verificables con metodología publicada"
+        },
+        {
+          "ok": true,
+          "texto": "Contexto de tendencia histórica bien explicado"
         },
         {
           "ok": true,
           "texto": "Fuente de referencia nacional"
         },
         {
-          "ok": true,
-          "texto": "Lenguaje neutro"
-        },
-        {
-          "ok": true,
-          "texto": "Cubre condiciones del acuerdo"
-        },
-        {
           "ok": false,
-          "texto": "Falta voz del ala minoritaria de la Alianza"
+          "texto": "El titular usa lenguaje dramático ('sacude')"
+        },
+        {
+          "ok": true,
+          "texto": "Análisis de escenarios de segunda vuelta con cifras precisas"
         }
       ],
-      "url": "https://cambiocolombia.com/poder/articulo/2026/4/alianza-verde-adhiere-ivan-cepeda-claves-acuerdo-politico-programatico-elecciones/",
-      "url_label": "Cambio Colombia - Alianza Verde y Cepeda"
+      "url": "https://www.infobae.com/colombia/2026/04/27/nueva-encuesta-sacude-la-carrera-presidencial-y-revela-quien-le-compite-mejor-a-ivan-cepeda-en-segunda-vuelta/",
+      "url_label": "Infobae Colombia - Segunda vuelta y escenarios Cepeda"
     },
     {
       "filter": "cepeda",
-      "fuente": "Infobae Colombia",
+      "fuente": "El Colombiano",
       "fuente_color": "#27ae60",
-      "fecha": "23 abr 2026",
-      "tag": "Cepeda · Debates",
+      "fecha": "26 abr 2026",
+      "tag": "Cepeda · Tendencias",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda reiteró condiciones para los debates: solo con 'extrema derecha' y sin 'cultura del espectáculo'",
-      "resumen": "Desde Pereira, el candidato del Pacto Histórico aclaró que solo participará en debates con un formato sustancial y candidatos que considere opciones reales de poder. La postura generó críticas de sus rivales, quienes la califican como evasión del escrutinio público.",
-      "objetividad": 76,
+      "titulo": "Cepeda sube y Paloma Valencia se duplica, metiéndose en la pelea por la segunda vuelta, según Invamer",
+      "resumen": "La encuesta Invamer de abril reordena la disputa por el segundo cupo de la segunda vuelta: Valencia casi duplica su intención de voto mientras De la Espriella mantiene pero ve reducida su ventaja a solo 1,7 puntos. A 35 días del 31 de mayo, el bloque de oposición a Cepeda empieza a definir sus cartas.",
+      "objetividad": 86,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaraciones directas del candidato"
+          "texto": "Medio regional de referencia con amplia trayectoria"
         },
         {
           "ok": true,
-          "texto": "Evento público en Pereira"
-        },
-        {
-          "ok": false,
-          "texto": "Solo recoge la versión de Cepeda"
+          "texto": "Datos respaldados por encuesta Invamer con metodología publicada"
         },
         {
           "ok": true,
-          "texto": "Tema de interés electoral"
+          "texto": "Lenguaje descriptivo y neutro"
+        },
+        {
+          "ok": true,
+          "texto": "Contexto electoral claro y relevante"
         },
         {
           "ok": false,
-          "texto": "Falta reacción de candidatos excluidos"
+          "texto": "Sin análisis de márgenes de error estadístico"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/04/23/ivan-cepeda-reitero-condiciones-para-ir-a-los-debates-solo-aceptara-discusion-con-la-extrema-derecha-y-sin-cultura-del-espectaculo/",
-      "url_label": "Infobae Colombia - Cepeda y condiciones debates"
+      "url": "https://www.elcolombiano.com/colombia/encuesta-invamer-abril-elecciones-2026-paloma-valencia-y-cepeda-crecen-BG35885620",
+      "url_label": "El Colombiano - Encuesta Invamer abril 2026"
     },
     {
-      "filter": "cepeda",
-      "fuente": "Pulzo",
-      "fuente_color": "#27ae60",
-      "fecha": "24 abr 2026",
-      "tag": "Cepeda · Entrevista",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Iván Cepeda habla de Abelardo de la Espriella y Paloma Valencia en revista Bocas",
-      "resumen": "En entrevista con la revista Bocas, el candidato del Pacto Histórico expresó su visión sobre sus principales contrincantes, analizando sus propuestas y perfiles políticos en la recta final de la campaña presidencial del 31 de mayo.",
+      "filter": "valencia",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#3498db",
+      "fecha": "27 abr 2026",
+      "tag": "Valencia · Encuesta",
+      "tag_color": "#3498db",
+      "tag_bg": "rgba(52,152,219,0.15)",
+      "titulo": "Paloma Valencia celebra repunte en encuesta presidencial: 'Somos la campaña que le puede ganar a Cepeda en segunda vuelta'",
+      "resumen": "La candidata del Centro Democrático reaccionó eufórica ante el resultado de Invamer que la lleva del 10% al 19,8% de intención de voto en solo dos meses. Valencia argumenta que su crecimiento la convierte en la única opción capaz de derrotar a Cepeda en segunda vuelta, donde la brecha se redujo a 4,6 puntos (51,2% vs. 46,6%).",
       "objetividad": 78,
       "criterios": [
         {
           "ok": true,
-          "texto": "Entrevista directa con el candidato"
+          "texto": "Declaraciones directas de la candidata verificables"
         },
         {
           "ok": true,
-          "texto": "Medio de referencia cultural"
+          "texto": "Datos de encuesta Invamer que respaldan el argumento"
         },
         {
           "ok": false,
-          "texto": "Solo perspectiva de Cepeda sobre sus rivales"
+          "texto": "Titular refleja la narrativa de campaña sin cuestionarla"
         },
         {
           "ok": true,
-          "texto": "Lenguaje neutro del medio"
+          "texto": "Fuente de referencia nacional con trayectoria"
         },
         {
           "ok": false,
-          "texto": "Sin derecho de réplica de los aludidos"
+          "texto": "Sin voz de analistas independientes que contrasten"
         }
       ],
-      "url": "https://www.pulzo.com/elecciones-colombia-2026/ivan-cepeda-habla-abelardo-espriella-paloma-valencia-revista-bocas-PP5155019",
-      "url_label": "Pulzo - Cepeda en revista Bocas"
+      "url": "https://www.infobae.com/colombia/2026/04/27/paloma-valencia-celebra-repunte-en-encuesta-presidencial-somos-la-campana-que-le-puede-ganar-a-cepeda-en-segunda-vuelta/",
+      "url_label": "Infobae Colombia - Valencia celebra repunte en Invamer"
     },
     {
       "filter": "valencia",
-      "fuente": "El Heraldo",
+      "fuente": "Pulzo",
+      "fuente_color": "#3498db",
+      "fecha": "27 abr 2026",
+      "tag": "Valencia · Segunda vuelta",
+      "tag_color": "#3498db",
+      "tag_bg": "rgba(52,152,219,0.15)",
+      "titulo": "Paloma Valencia estaría más cerca de ganarle a Cepeda en segunda vuelta, según Invamer",
+      "resumen": "El análisis de la encuesta Invamer muestra que en segunda vuelta Valencia-Cepeda la diferencia cayó de más de 34 puntos en febrero a solo 4,6 puntos en abril. La tendencia beneficia a la candidata uribista, que ganó más de 16 puntos en ese escenario mientras Cepeda perdía más de 13 en el mismo período.",
+      "objetividad": 84,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Análisis de tendencia histórica basado en datos verificables"
+        },
+        {
+          "ok": true,
+          "texto": "Contexto comparativo de encuestas anteriores bien explicado"
+        },
+        {
+          "ok": true,
+          "texto": "Lenguaje moderado y condicional ('estaría')"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente digital de amplia cobertura nacional"
+        },
+        {
+          "ok": false,
+          "texto": "Sin análisis de márgenes de error ni tamaño muestral"
+        }
+      ],
+      "url": "https://www.pulzo.com/elecciones-colombia-2026/paloma-valencia-estaria-cerca-ganarle-cepeda-segunda-vuelta-PP5157821",
+      "url_label": "Pulzo - Valencia más cerca de ganar en segunda vuelta"
+    },
+    {
+      "filter": "valencia",
+      "fuente": "El Tiempo",
       "fuente_color": "#3498db",
       "fecha": "25 abr 2026",
       "tag": "Valencia · Propuesta",
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Paloma Valencia propone al expresidente Álvaro Uribe como su ministro de Defensa",
-      "resumen": "En recorrido por Antioquia junto a Uribe, Valencia anunció que quiere al expresidente encabezando la cartera de Defensa y repitiendo la Seguridad Democrática. 'Necesito que me lo convenzan', dijo ante una multitud. La declaración domina la agenda mediática y polariza el espectro político.",
+      "titulo": "Candidata Paloma Valencia dice que quiere al expresidente Álvaro Uribe como uno de sus ministros si gana las presidenciales",
+      "resumen": "En recorrido por Antioquia junto a Álvaro Uribe, Valencia anunció su intención de nombrarlo ministro si llega a la Presidencia. La declaración, respaldada en video, polarizó la campaña: energizó la base uribista pero generó críticas de sectores de centro que ven el anuncio como un obstáculo para construir alianzas más amplias.",
       "objetividad": 80,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaración directa y en video de la candidata"
+          "texto": "Declaración directa en video, verificable públicamente"
         },
         {
           "ok": true,
-          "texto": "Fuente de referencia regional verificable"
-        },
-        {
-          "ok": false,
-          "texto": "Sin reacción de expertos en seguridad o Fuerzas Militares"
+          "texto": "Fuente de referencia nacional con trayectoria"
         },
         {
           "ok": true,
@@ -175,119 +207,87 @@
         },
         {
           "ok": false,
-          "texto": "Falta análisis de viabilidad constitucional"
+          "texto": "Sin análisis de viabilidad constitucional del eventual nombramiento"
+        },
+        {
+          "ok": false,
+          "texto": "Falta reacción de sectores de centro y analistas de seguridad"
         }
       ],
-      "url": "https://www.elheraldo.co/colombia/2026/04/25/paloma-valencia-pidio-al-expresidente-uribe-que-sea-su-ministro-de-defensa-en-caso-de-conseguir-la-presidencia/",
-      "url_label": "El Heraldo - Valencia propone a Uribe ministro de Defensa"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/video-candidata-paloma-valencia-dice-que-quiere-tener-al-expresidente-alvaro-uribe-como-uno-de-sus-ministros-si-gana-las-presidenciales-3550904",
+      "url_label": "El Tiempo - Valencia propone a Uribe como ministro"
     },
     {
-      "filter": "valencia",
-      "fuente": "El Tiempo",
-      "fuente_color": "#3498db",
-      "fecha": "25 abr 2026",
-      "tag": "Valencia · Seguridad",
-      "tag_color": "#3498db",
-      "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Desde Palmira, Valencia condenó la ola de violencia en el suroccidente y propuso militarizar la vía Cali-Popayán",
-      "resumen": "La candidata rechazó los recientes ataques terroristas en el suroeste colombiano y anunció que su primera medida presidencial sería militarizar la vía Cali-Popayán-Pasto-Rumichaca y fortalecer la Fuerza Pública en la región, en respuesta a la crisis de seguridad.",
+      "filter": "espriella",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#e74c3c",
+      "fecha": "26 abr 2026",
+      "tag": "De la Espriella · Campaña",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella pidió 'serenidad, mesura y respeto' entre su campaña y la de Paloma Valencia: 'Ya nos encontraremos el 1 de junio'",
+      "resumen": "El candidato de Salvación Nacional llamó a la calma en la creciente tensión con el equipo de Valencia y afirmó que 'los únicos enemigos son Petro, Cepeda y sus socios del crimen organizado', insinuando apertura a una alianza de segunda vuelta. La declaración llega mientras Valencia lo presiona con 19,8% frente a su 21,5% en la más reciente Invamer.",
       "objetividad": 79,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaraciones verificables en evento público"
+          "texto": "Declaraciones directas del candidato verificables"
         },
         {
           "ok": true,
-          "texto": "Fuente de referencia nacional"
+          "texto": "Fuente de referencia nacional con trayectoria"
         },
         {
           "ok": true,
-          "texto": "Contexto de violencia real en la región"
+          "texto": "Contexto político relevante para el electorado"
         },
         {
           "ok": false,
-          "texto": "Sin análisis de expertos en seguridad o Fuerzas Militares"
+          "texto": "Solo recoge la versión de De la Espriella"
         },
         {
           "ok": false,
-          "texto": "Falta voz del Gobierno sobre la situación"
+          "texto": "Sin respuesta de la campaña de Valencia"
         }
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/desde-palmira-paloma-valencia-rechazo-ola-de-violencia-en-el-suroccidente-y-hablo-de-militarizar-la-via-cali-popayan-3550903",
-      "url_label": "El Tiempo - Valencia y militarización vía Cali-Popayán"
+      "url": "https://www.infobae.com/colombia/2026/04/26/abelardo-de-la-espriella-pidio-serenidad-mesura-y-respeto-entre-su-campana-y-la-de-paloma-valencia-ya-nos-encontraremos-el-1-de-junio/",
+      "url_label": "Infobae Colombia - De la Espriella pide serenidad con Valencia"
     },
     {
       "filter": "espriella",
-      "fuente": "Cambio Colombia",
+      "fuente": "Infobae Colombia",
       "fuente_color": "#e74c3c",
-      "fecha": "23 abr 2026",
+      "fecha": "21 abr 2026",
       "tag": "De la Espriella · Polémica",
-      "tag_color": "#e74c3c",
-      "tag_bg": "rgba(231,76,60,0.15)",
-      "titulo": "La conexión entre Abelardo de la Espriella y el narco 'Boliche': la imagen que sacude la campaña",
-      "resumen": "Cambio Colombia reveló una fotografía que muestra a Abelardo de la Espriella junto al narcotraficante conocido como alias 'Boliche'. El presidente Petro amplificó la polémica en redes sociales y De la Espriella respondió calificando las fotos de 'viejas'. Controversia que amenaza su campaña presidencial.",
-      "objetividad": 70,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Evidencia gráfica publicada"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente con trayectoria investigativa"
-        },
-        {
-          "ok": false,
-          "texto": "Contexto y fecha exacta de la foto no confirmados"
-        },
-        {
-          "ok": true,
-          "texto": "Interés público evidente"
-        },
-        {
-          "ok": false,
-          "texto": "Respuesta del candidato incluida solo parcialmente"
-        }
-      ],
-      "url": "https://cambiocolombia.com/elecciones-colombia-2026/articulo/2026/4/abelardo-de-la-espriella-y-alias-boliche-la-imagen-que-sacude-la-campana-presidencial/",
-      "url_label": "Cambio Colombia - De la Espriella y alias Boliche"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Tiempo",
-      "fuente_color": "#e67e22",
-      "fecha": "23 abr 2026",
-      "tag": "De la Espriella · Propuestas",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Abelardo de la Espriella publica oficialmente sus primeras 13 propuestas de campaña",
-      "resumen": "El candidato presidencial presentó su programa de gobierno con las primeras 13 propuestas oficiales en seguridad, economía y política social, buscando mostrar sustancia programática en medio de la controversia por la foto con alias 'Boliche'.",
-      "objetividad": 82,
+      "titulo": "Luis Gilberto Murillo tomó acciones radicales tras polémicas declaraciones de De la Espriella: 'Así es que quieren gobernar'",
+      "resumen": "El canciller Murillo reaccionó enérgicamente a las declaraciones del candidato De la Espriella con medidas formales, amplificando la controversia política. El enfrentamiento ilustra el tono agresivo de la campaña de De la Espriella y sus repercusiones en el entorno institucional y diplomático colombiano.",
+      "objetividad": 72,
       "criterios": [
         {
           "ok": true,
-          "texto": "Propuestas oficiales verificables"
+          "texto": "Fuente de referencia con trayectoria"
         },
         {
           "ok": true,
-          "texto": "Fuente de referencia nacional"
-        },
-        {
-          "ok": true,
-          "texto": "Lenguaje neutro"
-        },
-        {
-          "ok": true,
-          "texto": "Información de interés electoral"
+          "texto": "Hecho político verificable con actor institucional"
         },
         {
           "ok": false,
-          "texto": "Sin análisis de viabilidad de propuestas"
+          "texto": "Titular con carga política en la cita del canciller"
+        },
+        {
+          "ok": true,
+          "texto": "Interés público en el contexto de campaña electoral"
+        },
+        {
+          "ok": false,
+          "texto": "Sin precisión sobre cuáles declaraciones provocaron la reacción"
         }
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-publica-oficialmente-sus-primeras-13-propuestas-de-campana-3545691",
-      "url_label": "El Tiempo - De la Espriella 13 propuestas"
+      "url": "https://www.infobae.com/colombia/2026/04/21/luis-gilberto-murillo-tomo-acciones-radicales-tras-polemicas-declaraciones-de-abelardo-de-la-espriella-asi-es-que-quieren-gobernar/",
+      "url_label": "Infobae Colombia - Murillo vs De la Espriella"
     }
   ],
   "sentimiento": {
@@ -296,28 +296,28 @@
         "nombre": "De la Espriella",
         "color": "#e67e22",
         "positivo": 22,
-        "negativo": 60,
-        "neutro": 18,
+        "negativo": 58,
+        "neutro": 20,
         "tendencia": "down",
-        "tendencia_texto": "Foto con narco alias 'Boliche' domina la cobertura mediática. Petro amplificó la polémica en redes. De la Espriella responde con insultos pero sin pruebas que limpien su imagen. Publica 13 propuestas para reconducir la agenda. Semana muy negativa para la campaña."
+        "tendencia_texto": "Mantiene segundo lugar con 21,5% en Invamer, pero Valencia lo presiona de cerca con 19,8%, reduciendo su ventaja a solo 1,7 puntos. Sombra de la controversia con alias 'Boliche' persiste. Canciller Murillo tomó acciones radicales ante sus declaraciones. Pide serenidad entre campañas como señal de tensión creciente. Semana bajo fuerte presión desde la derecha."
       },
       {
         "nombre": "Valencia",
         "color": "#3498db",
-        "positivo": 49,
-        "negativo": 38,
-        "neutro": 13,
+        "positivo": 68,
+        "negativo": 17,
+        "neutro": 15,
         "tendencia": "up",
-        "tendencia_texto": "Propone a Uribe como ministro de Defensa en Antioquia, acaparando la agenda noticiosa. Plantea militarizar la vía Cali-Popayán ante ola de violencia en el suroccidente. Medida energiza su base uribista aunque polariza a votantes de centro. Primera vez arriba en Polymarket la semana pasada. Semana de muy alto perfil mediático."
+        "tendencia_texto": "Semana histórica: duplica intención de voto del 10% al 19,8% según Invamer (15-24 abr). Celebra el repunte y declara que puede ganarle a Cepeda en segunda vuelta, donde el margen cayó a solo 4,6 puntos (51,2% vs. 46,6%). Propuesta de Uribe como ministro de Defensa genera debate pero energiza su base. Victoria en la Gran Consulta de marzo sigue impulsando su ascenso."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 51,
-        "negativo": 30,
-        "neutro": 19,
+        "positivo": 58,
+        "negativo": 24,
+        "neutro": 18,
         "tendencia": "up",
-        "tendencia_texto": "Alianza Verde oficializa respaldo comprometiéndolo a no convocar Constituyente. Revive polémica del 'proyecto Júpiter' atacando a Valencia y Uribe. Sus condiciones para debates generan críticas de rivales. Lidera primera vuelta con ~37.8% según AtlasIntel."
+        "tendencia_texto": "Consolida liderazgo en primera vuelta con 44,3% en Invamer (15-24 abr), subiendo desde ~37,8% de la medición anterior. Alianza Verde lo respalda con condición explícita de no convocar Constituyente. Sin embargo, en segunda vuelta la brecha con Valencia se redujo a solo 4,6 puntos. Semana positiva en primera vuelta, con señales de alerta en segunda."
       },
       {
         "nombre": "Fajardo",
@@ -326,7 +326,7 @@
         "negativo": 22,
         "neutro": 26,
         "tendencia": "stable",
-        "tendencia_texto": "Estable. Sentimiento positivo pero bajo volumen de menciones."
+        "tendencia_texto": "Estable. Sentimiento positivo pero bajo volumen de menciones en medios nacionales."
       },
       {
         "nombre": "C. López",
@@ -335,32 +335,32 @@
         "negativo": 29,
         "neutro": 23,
         "tendencia": "up",
-        "tendencia_texto": "Retiró candidatura el 6 de abril y se sumó a campaña de Iván Cepeda."
+        "tendencia_texto": "Retiró candidatura el 6 de abril y se sumó a la campaña de Iván Cepeda."
       }
     ]
   },
   "encuestas": {
-    "cepeda": 37.8,
-    "valencia": 22.9,
-    "espriella": 27.2,
-    "fuente": "AtlasIntel para Semana, 6-9 abr 2026"
+    "cepeda": 44.3,
+    "valencia": 19.8,
+    "espriella": 21.5,
+    "fuente": "Invamer para Caracol/El Tiempo, 15-24 abr 2026"
   },
   "prediccion": {
     "primero": {
       "nombre": "Iván Cepeda",
       "partido": "Pacto Histórico",
       "color": "#27ae60",
-      "pct": 37.8,
-      "fuente_encuesta": "AtlasIntel (abr 2026)"
+      "pct": 44.3,
+      "fuente_encuesta": "Invamer (abr 2026)"
     },
     "segundo": {
       "nombre": "Abelardo De la Espriella",
       "partido": "Salvación Nacional",
       "color": "#e67e22",
-      "pct": 27.2,
-      "fuente_encuesta": "AtlasIntel (abr 2026)"
+      "pct": 21.5,
+      "fuente_encuesta": "Invamer (abr 2026)"
     },
-    "resumen_analisis": "Basado en el análisis de 8 noticias recientes, sentimiento en medios y encuesta AtlasIntel del 6-9 de abril de 2026 (n=3.617)."
+    "resumen_analisis": "Basado en 8 noticias de las últimas 48-72 horas y encuesta Invamer del 15-24 de abril de 2026 (n=3.800, 149 municipios). Valencia se duplica al 19,8% y entra de lleno a la disputa por el segundo cupo de la segunda vuelta."
   },
-  "ultimo_deploy": "2026-04-26T12:00:00Z"
+  "ultimo_deploy": "2026-04-27T12:00:00Z"
 }
