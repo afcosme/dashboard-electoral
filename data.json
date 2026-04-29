@@ -1,5 +1,5 @@
 {
-  "fecha": "28 de abril de 2026",
+  "fecha": "29 de abril de 2026",
   "noticias": [
     {
       "filter": "cepeda",
@@ -10,7 +10,7 @@
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
       "titulo": "'Alianza por la Vida': Iván Cepeda presentó coalición con la que busca la Presidencia",
-      "resumen": "El candidato del Pacto Histórico formalizó la 'Alianza por la Vida', su coalición electoral para las elecciones del 31 de mayo. El anuncio busca consolidar el apoyo progresista y de centro-izquierda en torno a su candidatura, que lidera las encuestas con 44,3% según Invamer.",
+      "resumen": "El candidato del Pacto Histórico formalizó la 'Alianza por la Vida', su coalición electoral para las elecciones del 31 de mayo. El anuncio busca consolidar el apoyo progresista y de centro-izquierda. Hoy 29 de abril, Alianza Verde anuncia su adhesión formal a la campaña, ampliando el frente que lidera las encuestas con 44,3% según Invamer.",
       "objetividad": 85,
       "criterios": [
         {
@@ -31,7 +31,7 @@
         },
         {
           "ok": false,
-          "texto": "Sin detalle de los partidos que integran la coalición"
+          "texto": "Sin detalle de todos los partidos que integran la coalición"
         }
       ],
       "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/alianza-por-la-vida-ivan-cepeda-presento-coalicion-con-la-que-busca-la-presidencia/",
@@ -41,37 +41,37 @@
       "filter": "cepeda",
       "fuente": "Infobae Colombia",
       "fuente_color": "#27ae60",
-      "fecha": "27 abr 2026",
-      "tag": "Cepeda · Encuesta",
+      "fecha": "28 abr 2026",
+      "tag": "Cepeda · Encuestas",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda se impone ante De la Espriella y Valencia en las presidenciales, según encuesta Invamer",
-      "resumen": "La nueva encuesta Invamer del 15-24 de abril (3.800 encuestados, 149 municipios) confirma a Cepeda como líder indiscutido con 44,3% de intención de voto a 33 días de las elecciones. De la Espriella sube al 21,5% y Valencia se duplica al 19,8%, reordenando la carrera por el segundo puesto.",
+      "titulo": "Diferencias en encuestas generan dudas sobre el verdadero respaldo a Iván Cepeda: experta explica por qué sucede esto",
+      "resumen": "Una experta en opinión pública analizó las diferencias entre firmas: Invamer ubica a Cepeda en 44,3%, GAD3 en 36% y Atlas Intel en 37,8%. La especialista señaló diferencias metodológicas —tipo de muestra, municipios cubiertos, universo encuestado— como la causa principal, advirtiendo que la realidad puede estar entre ambas mediciones a 32 días de la primera vuelta del 31 de mayo.",
       "objetividad": 88,
       "criterios": [
         {
           "ok": true,
-          "texto": "Encuesta de firma reconocida con metodología publicada"
+          "texto": "Análisis experto de diferencias metodológicas entre firmas"
         },
         {
           "ok": true,
-          "texto": "Muestra amplia: 3.800 encuestados, 149 municipios"
+          "texto": "Fuente de referencia con trayectoria internacional"
         },
         {
           "ok": true,
-          "texto": "Lenguaje neutro y datos verificables"
+          "texto": "Perspectiva analítica equilibrada sobre la discrepancia"
         },
         {
           "ok": true,
-          "texto": "Fuente con trayectoria periodística"
+          "texto": "Incluye voz de experta independiente"
         },
         {
           "ok": false,
-          "texto": "Sin margen de error explicitado en el titular"
+          "texto": "Sin nombre explícito de la experta en el titular"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/04/27/ivan-cepeda-se-impone-ante-abelardo-de-la-espriella-y-paloma-valencia-en-las-elecciones-presidenciales-segun-encuesta-invamer/",
-      "url_label": "Infobae Colombia - Cepeda lidera encuesta Invamer"
+      "url": "https://www.infobae.com/colombia/2026/04/28/diferencias-en-encuestas-generan-dudas-sobre-el-verdadero-respaldo-a-ivan-cepeda-en-las-elecciones-de-2026-experta-respondio-por-que-sucede-esto/",
+      "url_label": "Infobae Colombia - Diferencias en encuestas sobre Cepeda"
     },
     {
       "filter": "cepeda",
@@ -147,75 +147,75 @@
     },
     {
       "filter": "valencia",
-      "fuente": "Infobae Colombia",
+      "fuente": "El Tiempo",
       "fuente_color": "#3498db",
-      "fecha": "27 abr 2026",
-      "tag": "Valencia · Encuesta",
+      "fecha": "28 abr 2026",
+      "tag": "Valencia · Seguridad",
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Paloma Valencia celebra repunte en encuesta presidencial: 'Somos la campaña que le puede ganar a Cepeda en segunda vuelta'",
-      "resumen": "La candidata del Centro Democrático reaccionó eufórica ante el resultado de Invamer que la lleva del 10% al 19,8% en solo dos meses. Valencia argumenta que su crecimiento la convierte en la única opción capaz de derrotar a Cepeda en segunda vuelta, donde la brecha se redujo a 4,6 puntos (51,2% vs. 46,6%).",
-      "objetividad": 78,
+      "titulo": "Valencia envió fuerte mensaje tras alerta de atentado y advirtió a delincuentes: 'Conmigo se acaba la paz total'",
+      "resumen": "Tras conocerse la amenaza de las disidencias de las FARC, Paloma Valencia advirtió que si llega a la presidencia acabará con la 'paz total' de Petro y acusó al presidente de ser 'cómplice del narcoterrorismo'. La candidata llamó a no ceder ante la intimidación y reforzó su perfil como candidata de seguridad y orden público frente a la política de paz total.",
+      "objetividad": 79,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaraciones directas de la candidata verificables"
-        },
-        {
-          "ok": true,
-          "texto": "Datos de encuesta Invamer que respaldan el argumento"
-        },
-        {
-          "ok": false,
-          "texto": "Titular refleja la narrativa de campaña sin cuestionarla"
+          "texto": "Declaraciones directas y verificables de la candidata"
         },
         {
           "ok": true,
           "texto": "Fuente de referencia nacional con trayectoria"
         },
         {
+          "ok": true,
+          "texto": "Hecho político de alto impacto en campaña electoral"
+        },
+        {
           "ok": false,
-          "texto": "Sin voz de analistas independientes que contrasten"
+          "texto": "Titular con lenguaje de campaña sin contrapunto editorial"
+        },
+        {
+          "ok": false,
+          "texto": "Sin análisis de expertos en seguridad o política de paz"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/04/27/paloma-valencia-celebra-repunte-en-encuesta-presidencial-somos-la-campana-que-le-puede-ganar-a-cepeda-en-segunda-vuelta/",
-      "url_label": "Infobae Colombia - Valencia celebra repunte en Invamer"
+      "url": "https://www.eltiempo.com/amp/politica/elecciones-colombia-2026/candidata-paloma-valencia-envio-fuerte-mensaje-tras-alerta-de-atentado-en-su-contra-y-advirtio-a-delincuentes-conmigo-se-acaba-la-paz-total-3551408",
+      "url_label": "El Tiempo - Valencia: 'Conmigo se acaba la paz total'"
     },
     {
       "filter": "valencia",
-      "fuente": "El Tiempo",
+      "fuente": "Pulzo",
       "fuente_color": "#3498db",
-      "fecha": "25 abr 2026",
-      "tag": "Valencia · Propuesta",
+      "fecha": "29 abr 2026",
+      "tag": "Valencia · Alianzas",
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Candidata Paloma Valencia dice que quiere al expresidente Álvaro Uribe como uno de sus ministros si gana las presidenciales",
-      "resumen": "En recorrido por Antioquia junto a Álvaro Uribe, Valencia anunció su intención de nombrarlo ministro si llega a la Presidencia. La declaración energizó la base uribista pero generó críticas de sectores de centro que ven el anuncio como obstáculo para construir alianzas más amplias.",
-      "objetividad": 80,
+      "titulo": "Paloma Valencia tendrá nueva alianza con Partido Liberal para las elecciones 2026",
+      "resumen": "La candidata del Centro Democrático sumará el respaldo formal del Partido Liberal a su campaña presidencial, en un movimiento estratégico para ampliar su electorado hacia el centro político. La alianza complementa su espectacular repunte en encuestas —del 10% al 19,8% según Invamer— y refuerza la tesis de que puede disputar el segundo puesto en primera vuelta y ganarle a Cepeda en segunda.",
+      "objetividad": 79,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaración directa en video, verificable públicamente"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente de referencia nacional con trayectoria"
-        },
         {
           "ok": true,
           "texto": "Hecho político de alto impacto electoral"
         },
         {
-          "ok": false,
-          "texto": "Sin análisis de viabilidad constitucional del eventual nombramiento"
+          "ok": true,
+          "texto": "Fuente con cobertura electoral activa"
+        },
+        {
+          "ok": true,
+          "texto": "Información verificable sobre alianza formal"
         },
         {
           "ok": false,
-          "texto": "Falta reacción de sectores de centro y analistas"
+          "texto": "Sin declaraciones oficiales del Partido Liberal"
+        },
+        {
+          "ok": false,
+          "texto": "Sin análisis de implicaciones programáticas de la alianza"
         }
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/video-candidata-paloma-valencia-dice-que-quiere-tener-al-expresidente-alvaro-uribe-como-uno-de-sus-ministros-si-gana-las-presidenciales-3550904",
-      "url_label": "El Tiempo - Valencia propone a Uribe como ministro"
+      "url": "https://www.pulzo.com/elecciones-colombia-2026/paloma-valencia-tendra-nueva-alianza-con-partido-liberal-para-elecciones-2026-PP5159946",
+      "url_label": "Pulzo - Valencia tendrá alianza con Partido Liberal"
     },
     {
       "filter": "espriella",
@@ -255,39 +255,39 @@
     },
     {
       "filter": "espriella",
-      "fuente": "Infobae Colombia",
+      "fuente": "Cambio Colombia",
       "fuente_color": "#e74c3c",
-      "fecha": "26 abr 2026",
+      "fecha": "28 abr 2026",
       "tag": "De la Espriella · Campaña",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella pidió 'serenidad, mesura y respeto' entre su campaña y la de Paloma Valencia: 'Ya nos encontraremos el 1 de junio'",
-      "resumen": "El candidato de Salvación Nacional llamó a la calma en la creciente tensión con el equipo de Valencia y afirmó que 'los únicos enemigos son Petro, Cepeda y sus socios del crimen organizado', insinuando apertura a una alianza de segunda vuelta. La declaración llega mientras Valencia lo presiona con 19,8% frente a su 21,5%.",
-      "objetividad": 79,
+      "titulo": "La maquinaria invisible de Abelardo de la Espriella: así se coordinaron las marchas a favor del abogado",
+      "resumen": "Una investigación de Cambio Colombia reveló cómo se organizaron las marchas y caravanas en favor de De la Espriella en más de 80 ciudades. Detrás de la aparente movilización espontánea existe una estructura territorial que conecta líderes comunitarios, movimientos cívicos y operadores políticos regionales, evidenciando la solidez organizativa de Salvación Nacional a un mes de las elecciones.",
+      "objetividad": 84,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaraciones directas del candidato verificables"
+          "texto": "Investigación periodística de alto valor informativo"
         },
         {
           "ok": true,
-          "texto": "Fuente de referencia nacional con trayectoria"
+          "texto": "Fuente especializada en política colombiana"
         },
         {
           "ok": true,
-          "texto": "Contexto político relevante para el electorado"
+          "texto": "Detalle de estructura organizativa de campaña"
+        },
+        {
+          "ok": true,
+          "texto": "Información de alta relevancia electoral"
         },
         {
           "ok": false,
-          "texto": "Solo recoge la versión de De la Espriella"
-        },
-        {
-          "ok": false,
-          "texto": "Sin respuesta de la campaña de Valencia"
+          "texto": "Sin declaraciones del equipo de De la Espriella para contrastar"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/04/26/abelardo-de-la-espriella-pidio-serenidad-mesura-y-respeto-entre-su-campana-y-la-de-paloma-valencia-ya-nos-encontraremos-el-1-de-junio/",
-      "url_label": "Infobae Colombia - De la Espriella pide serenidad con Valencia"
+      "url": "https://cambiocolombia.com/elecciones-colombia-2026/articulo/2026/4/abelardo-espriella-caravanas-confrontacion-paloma-valencia-elecciones/",
+      "url_label": "Cambio Colombia - La maquinaria invisible de De la Espriella"
     }
   ],
   "sentimiento": {
@@ -299,7 +299,7 @@
         "negativo": 60,
         "neutro": 20,
         "tendencia": "down",
-        "tendencia_texto": "Mantiene segundo lugar con 21,5% en Invamer pero ve reducida su ventaja frente a Valencia a solo 1,7 puntos. Arremete contra las encuestadoras llamándolas 'muy desacertadas' y defiende a Atlas Intel, firma investigada por el CNE. Pide 'serenidad' en la tensión con Valencia. Semana con perfil defensivo y alta presión desde la derecha."
+        "tendencia_texto": "Descalificó a las firmas encuestadoras llamándolas 'muy desacertadas y con intención de manipular', defendiendo a Atlas Intel investigada por el CNE. Investigación reveló la maquinaria detrás de sus marchas en 80+ ciudades: coordinación territorial organizada. Mantiene 21,5% en Invamer y 21% en GAD3, pero Valencia lo presiona desde abajo con 19,8%, reduciendo su ventaja a solo 1,7 puntos. Semana con perfil defensivo y alta presión desde la derecha."
       },
       {
         "nombre": "Valencia",
@@ -308,16 +308,16 @@
         "negativo": 18,
         "neutro": 16,
         "tendencia": "up",
-        "tendencia_texto": "Semana histórica: se duplica del 10% al 19,8% según Invamer (15-24 abr). Revela amenaza de las FARC con $2.000 millones para atentar en su contra. Celebra repunte y declara que puede ganarle a Cepeda en segunda vuelta (brecha de solo 4,6 puntos: 51,2% vs. 46,6%). Propuesta de Uribe como ministro energiza su base. Candidata de mayor crecimiento de la campaña."
+        "tendencia_texto": "Semana histórica: se duplica del 10% al 19,8% según Invamer (15-24 abr). Revela amenaza de las FARC con $2.000 millones y advierte: 'Conmigo se acaba la paz total', acusando a Petro de ser 'cómplice del narcoterrorismo'. Formalizará alianza con el Partido Liberal (29 abr). La candidata de mayor crecimiento, con brecha de solo 4,6 puntos frente a Cepeda en segunda vuelta (51,2% vs. 46,6%)."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 56,
-        "negativo": 26,
+        "positivo": 54,
+        "negativo": 28,
         "neutro": 18,
         "tendencia": "up",
-        "tendencia_texto": "Lanzó la 'Alianza por la Vida', su coalición presidencial. Consolida liderazgo en primera vuelta con 44,3% en Invamer (15-24 abr). Sin embargo, en segunda vuelta la brecha con Valencia se redujo a solo 4,6 puntos (51,2% vs. 46,6%). Semana positiva en primera vuelta con señal de alerta en escenario de segunda vuelta."
+        "tendencia_texto": "Lanzó la 'Alianza por la Vida' (28 abr) y recibe hoy la adhesión formal de Alianza Verde. Consolida liderazgo en primera vuelta con 44,3% en Invamer, aunque GAD3 lo ubica en 36%, generando debate metodológico. Experta señala diferencias de muestra y cobertura como causa. En segunda vuelta, la brecha con Valencia se redujo a solo 4,6 puntos (51,2% vs. 46,6%). Semana positiva con señal de alerta en escenario de segunda vuelta."
       },
       {
         "nombre": "Fajardo",
@@ -360,7 +360,7 @@
       "pct": 21.5,
       "fuente_encuesta": "Invamer (abr 2026)"
     },
-    "resumen_analisis": "Basado en 8 noticias de las últimas 48-72 horas y encuesta Invamer del 15-24 de abril de 2026 (n=3.800, 149 municipios). Valencia se duplica al 19,8% y entra de lleno a la disputa por el segundo cupo. De la Espriella descalifica encuestas y defiende firma investigada por el CNE. Cepeda lanza Alianza por la Vida."
+    "resumen_analisis": "Basado en 8 noticias de las últimas 48h y encuesta Invamer del 15-24 de abril de 2026 (n=3.800, 149 municipios). Valencia formalizará alianza con el Partido Liberal y advierte: 'Conmigo se acaba la paz total'. De la Espriella descalifica encuestadoras y su maquinaria territorial queda al descubierto. Cepeda recibe adhesión de Alianza Verde hoy 29 de abril."
   },
-  "ultimo_deploy": "2026-04-28T12:00:00Z"
+  "ultimo_deploy": "2026-04-29T08:00:00Z"
 }
