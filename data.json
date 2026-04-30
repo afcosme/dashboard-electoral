@@ -1,5 +1,5 @@
 {
-  "fecha": "29 de abril de 2026",
+  "fecha": "30 de abril de 2026",
   "noticias": [
     {
       "filter": "cepeda",
@@ -10,7 +10,7 @@
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
       "titulo": "'Alianza por la Vida': Iván Cepeda presentó coalición con la que busca la Presidencia",
-      "resumen": "El candidato del Pacto Histórico formalizó la 'Alianza por la Vida', su coalición electoral para las elecciones del 31 de mayo. El anuncio busca consolidar el apoyo progresista y de centro-izquierda. Hoy 29 de abril, Alianza Verde anuncia su adhesión formal a la campaña, ampliando el frente que lidera las encuestas con 44,3% según Invamer.",
+      "resumen": "El candidato del Pacto Histórico formalizó la 'Alianza por la Vida', su coalición electoral para las elecciones del 31 de mayo. El anuncio busca consolidar el apoyo progresista y de centro-izquierda. Alianza Verde anunció su adhesión formal a la campaña, ampliando el frente que lidera las encuestas con 44,3% según Invamer.",
       "objetividad": 85,
       "criterios": [
         {
@@ -46,7 +46,7 @@
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
       "titulo": "Diferencias en encuestas generan dudas sobre el verdadero respaldo a Iván Cepeda: experta explica por qué sucede esto",
-      "resumen": "Una experta en opinión pública analizó las diferencias entre firmas: Invamer ubica a Cepeda en 44,3%, GAD3 en 36% y Atlas Intel en 37,8%. La especialista señaló diferencias metodológicas —tipo de muestra, municipios cubiertos, universo encuestado— como la causa principal, advirtiendo que la realidad puede estar entre ambas mediciones a 32 días de la primera vuelta del 31 de mayo.",
+      "resumen": "Una experta en opinión pública analizó las diferencias entre firmas: Invamer ubica a Cepeda en 44,3%, GAD3 en 36% y Atlas Intel en 37,8%. La especialista señaló diferencias metodológicas —tipo de muestra, municipios cubiertos, universo encuestado— como la causa principal, advirtiendo que la realidad puede estar entre ambas mediciones a 31 días de la primera vuelta del 31 de mayo.",
       "objetividad": 88,
       "criterios": [
         {
@@ -111,127 +111,55 @@
     },
     {
       "filter": "valencia",
-      "fuente": "El Espectador",
-      "fuente_color": "#3498db",
-      "fecha": "27 abr 2026",
-      "tag": "Valencia · Seguridad",
-      "tag_color": "#3498db",
-      "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Paloma Valencia revela amenaza de las disidencias de las FARC: ofrecieron $2.000 millones para atentar contra ella",
-      "resumen": "La candidata del Centro Democrático reveló que el Gobierno Nacional la informó sobre un plan de las disidencias de las FARC para atentar en su contra, con el grupo armado ofreciendo COP 2.000 millones por el ataque. La revelación pone sobre la mesa el debate sobre la seguridad de los candidatos presidenciales.",
-      "objetividad": 82,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Información de alto impacto con fuentes gubernamentales"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente de referencia nacional con trayectoria"
-        },
-        {
-          "ok": true,
-          "texto": "Hecho político relevante para la seguridad electoral"
-        },
-        {
-          "ok": false,
-          "texto": "Solo recoge la versión de la candidata Valencia"
-        },
-        {
-          "ok": false,
-          "texto": "Sin confirmación oficial escrita del Gobierno sobre el aviso"
-        }
-      ],
-      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/movida-electoral-paloma-valencia-revela-amenaza-claudia-lopez-critica-a-fajardo-y-cepeda-invita-a-marchas-noticias-hoy/",
-      "url_label": "El Espectador - Valencia revela amenaza de FARC"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "El Tiempo",
-      "fuente_color": "#3498db",
-      "fecha": "28 abr 2026",
-      "tag": "Valencia · Seguridad",
-      "tag_color": "#3498db",
-      "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Valencia envió fuerte mensaje tras alerta de atentado y advirtió a delincuentes: 'Conmigo se acaba la paz total'",
-      "resumen": "Tras conocerse la amenaza de las disidencias de las FARC, Paloma Valencia advirtió que si llega a la presidencia acabará con la 'paz total' de Petro y acusó al presidente de ser 'cómplice del narcoterrorismo'. La candidata llamó a no ceder ante la intimidación y reforzó su perfil como candidata de seguridad y orden público frente a la política de paz total.",
-      "objetividad": 79,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaraciones directas y verificables de la candidata"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente de referencia nacional con trayectoria"
-        },
-        {
-          "ok": true,
-          "texto": "Hecho político de alto impacto en campaña electoral"
-        },
-        {
-          "ok": false,
-          "texto": "Titular con lenguaje de campaña sin contrapunto editorial"
-        },
-        {
-          "ok": false,
-          "texto": "Sin análisis de expertos en seguridad o política de paz"
-        }
-      ],
-      "url": "https://www.eltiempo.com/amp/politica/elecciones-colombia-2026/candidata-paloma-valencia-envio-fuerte-mensaje-tras-alerta-de-atentado-en-su-contra-y-advirtio-a-delincuentes-conmigo-se-acaba-la-paz-total-3551408",
-      "url_label": "El Tiempo - Valencia: 'Conmigo se acaba la paz total'"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "Pulzo",
+      "fuente": "Infobae Colombia",
       "fuente_color": "#3498db",
       "fecha": "29 abr 2026",
       "tag": "Valencia · Alianzas",
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Paloma Valencia tendrá nueva alianza con Partido Liberal para las elecciones 2026",
-      "resumen": "La candidata del Centro Democrático sumará el respaldo formal del Partido Liberal a su campaña presidencial, en un movimiento estratégico para ampliar su electorado hacia el centro político. La alianza complementa su espectacular repunte en encuestas —del 10% al 19,8% según Invamer— y refuerza la tesis de que puede disputar el segundo puesto en primera vuelta y ganarle a Cepeda en segunda.",
-      "objetividad": 79,
+      "titulo": "Partido Liberal respaldará la candidatura presidencial de Paloma Valencia, tras decisión mayoritaria de las bancadas del Congreso",
+      "resumen": "Las bancadas del Partido Liberal en el Congreso decidieron por mayoría respaldar a Paloma Valencia en primera vuelta presidencial. El espaldarazo del histórico partido de centro-derecha es el mayor golpe de coalición de la campaña de Valencia, quien suma ahora Centro Democrático, Conservadores, Cambio Radical y Liberales en un frente amplio que la convierte en la opción con mayor apoyo multipartidista.",
+      "objetividad": 90,
       "criterios": [
         {
           "ok": true,
-          "texto": "Hecho político de alto impacto electoral"
+          "texto": "Hecho político de máximo impacto: adhesión del Partido Liberal"
         },
         {
           "ok": true,
-          "texto": "Fuente con cobertura electoral activa"
+          "texto": "Fuente de referencia internacional con trayectoria"
         },
         {
           "ok": true,
-          "texto": "Información verificable sobre alianza formal"
+          "texto": "Decisión tomada por mayoría de las bancadas del Congreso"
+        },
+        {
+          "ok": true,
+          "texto": "Cambio estructural en el mapa de coaliciones"
         },
         {
           "ok": false,
-          "texto": "Sin declaraciones oficiales del Partido Liberal"
-        },
-        {
-          "ok": false,
-          "texto": "Sin análisis de implicaciones programáticas de la alianza"
+          "texto": "Sin cifras de cuántos congresistas votaron a favor vs. en contra"
         }
       ],
-      "url": "https://www.pulzo.com/elecciones-colombia-2026/paloma-valencia-tendra-nueva-alianza-con-partido-liberal-para-elecciones-2026-PP5159946",
-      "url_label": "Pulzo - Valencia tendrá alianza con Partido Liberal"
+      "url": "https://www.infobae.com/colombia/2026/04/29/partido-liberal-respaldara-la-candidatura-presidencial-de-paloma-valencia-tras-decision-mayoritaria-de-las-bancadas-del-congreso/",
+      "url_label": "Infobae Colombia - Partido Liberal respalda a Valencia"
     },
     {
-      "filter": "espriella",
+      "filter": "valencia",
       "fuente": "El Tiempo",
-      "fuente_color": "#e74c3c",
-      "fecha": "27 abr 2026",
-      "tag": "De la Espriella · Polémica",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella descalifica las encuestas presidenciales y defiende a firma investigada por el CNE: 'Muy desacertadas'",
-      "resumen": "El candidato de Salvación Nacional arremetió contra las firmas encuestadoras, calificando sus mediciones de 'muy desacertadas y con la intención de manipular' la voluntad del electorado. Defendió a Atlas Intel —investigada por el CNE— como la única que ha reflejado la realidad, generando un nuevo frente de polémica en su campaña.",
-      "objetividad": 76,
+      "fuente_color": "#3498db",
+      "fecha": "29 abr 2026",
+      "tag": "Valencia · Verificación",
+      "tag_color": "#3498db",
+      "tag_bg": "rgba(52,152,219,0.15)",
+      "titulo": "#ElFiltro: Paloma Valencia no dijo que gobernaría con paramilitares; un video viral tergiversa sus palabras",
+      "resumen": "El equipo de verificación de El Tiempo desmintió un video viral que atribuía a Paloma Valencia la declaración de que gobernaría con paramilitares. La candidata del Centro Democrático afirmó que sus palabras fueron editadas y descontextualizadas. El hecho pone en evidencia la guerra de desinformación que rodea la campaña a 31 días de la primera vuelta.",
+      "objetividad": 91,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaraciones directas del candidato verificables"
+          "texto": "Verificación periodística rigurosa de video viral"
         },
         {
           "ok": true,
@@ -239,19 +167,91 @@
         },
         {
           "ok": true,
-          "texto": "Contexto institucional relevante (CNE)"
+          "texto": "Hecho de alto impacto: desinformación en campaña electoral"
+        },
+        {
+          "ok": true,
+          "texto": "Análisis de contexto original vs. versión editada"
         },
         {
           "ok": false,
-          "texto": "Solo recoge la versión de De la Espriella"
-        },
-        {
-          "ok": false,
-          "texto": "Sin respuesta de las firmas encuestadoras cuestionadas"
+          "texto": "Sin identificación de quién originó el video tergiversado"
         }
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-descalifica-las-encuestas-presidenciales-y-defiende-a-firma-investigada-por-el-cne-muy-desacertadas-3551220",
-      "url_label": "El Tiempo - De la Espriella descalifica encuestas"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-la-candidata-presidencial-paloma-valencia-no-dijo-que-gobernaria-con-paramilitares-un-video-viral-tergiversa-sus-palabras-3551978",
+      "url_label": "El Tiempo - #ElFiltro: Valencia y el video viral sobre paramilitares"
+    },
+    {
+      "filter": "valencia",
+      "fuente": "El Tiempo",
+      "fuente_color": "#3498db",
+      "fecha": "30 abr 2026",
+      "tag": "Valencia · Coalición",
+      "tag_color": "#3498db",
+      "tag_bg": "rgba(52,152,219,0.15)",
+      "titulo": "Valencia se lleva el apoyo de la mayoría de partidos, pero hay 'disidentes' que quieren llegar a otras campañas",
+      "resumen": "Aunque Paloma Valencia consolida el apoyo de la mayoría del establecimiento político —Centro Democrático, Conservadores, Cambio Radical, Partido Liberal—, surgen 'disidentes' al interior de esos partidos que preferirían sumarse a Cepeda o De la Espriella. El fenómeno muestra las fisuras internas de la gran coalición de derecha y centroderecha que lidera Valencia.",
+      "objetividad": 87,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Análisis equilibrado: muestra apoyo y sus fisuras"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente de referencia nacional con trayectoria"
+        },
+        {
+          "ok": true,
+          "texto": "Identifica fenómeno de disidentes dentro de los partidos"
+        },
+        {
+          "ok": true,
+          "texto": "Contextualiza el mapa político de alianzas"
+        },
+        {
+          "ok": false,
+          "texto": "Sin nombres concretos de los disidentes referenciados"
+        }
+      ],
+      "url": "https://www.eltiempo.com/amp/politica/elecciones-colombia-2026/paloma-valencia-se-lleva-el-apoyo-de-la-mayoria-de-partidos-pero-hay-disidentes-que-quieren-llegar-a-otras-campanas-quienes-son-3552052",
+      "url_label": "El Tiempo - Valencia y los 'disidentes' de su coalición"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#e74c3c",
+      "fecha": "29 abr 2026",
+      "tag": "De la Espriella · Polémica",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella vetó candidatos para debate presidencial: '¿Yo qué hago debatiendo con gente que no pasa el margen de error?'",
+      "resumen": "El candidato de Salvación Nacional se negó a debatir con candidatos que no superan el margen de error en las encuestas. La postura generó críticas de antidemocrática; sus seguidores la defienden como pragmatismo de quien ya está en segunda vuelta. De la Espriella suma así un nuevo foco de controversia tras el rechazo de la semana anterior a las firmas encuestadoras.",
+      "objetividad": 80,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Declaraciones directas y verificables del candidato"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente de referencia internacional con trayectoria"
+        },
+        {
+          "ok": true,
+          "texto": "Hecho político de alto impacto en la dinámica de campaña"
+        },
+        {
+          "ok": false,
+          "texto": "Sin reacción de los candidatos vetados"
+        },
+        {
+          "ok": false,
+          "texto": "Sin análisis de expertos en democracia o debates electorales"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/04/29/abelardo-de-la-espriella-defendio-su-veto-a-candidatos-para-debate-presidencial-yo-que-hago-debatiendo-con-gente-que-no-pasa-el-margen-de-error/",
+      "url_label": "Infobae - De la Espriella veta candidatos del debate"
     },
     {
       "filter": "espriella",
@@ -295,29 +295,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 20,
-        "negativo": 60,
-        "neutro": 20,
+        "positivo": 18,
+        "negativo": 65,
+        "neutro": 17,
         "tendencia": "down",
-        "tendencia_texto": "Descalificó a las firmas encuestadoras llamándolas 'muy desacertadas y con intención de manipular', defendiendo a Atlas Intel investigada por el CNE. Investigación reveló la maquinaria detrás de sus marchas en 80+ ciudades: coordinación territorial organizada. Mantiene 21,5% en Invamer y 21% en GAD3, pero Valencia lo presiona desde abajo con 19,8%, reduciendo su ventaja a solo 1,7 puntos. Semana con perfil defensivo y alta presión desde la derecha."
+        "tendencia_texto": "Veta candidatos del debate presidencial con frase polémica: '¿Yo qué hago debatiendo con gente que no pasa el margen de error?' (Infobae, 29 abr). Mantiene 21,5% en Invamer y 21% en GAD3, pero Valencia lo presiona con 19,8% y ahora suma el Partido Liberal. Investigación de Cambio Colombia expuso la maquinaria de sus marchas en 80+ ciudades. Semana con imagen defensiva, polémica con encuestadoras y desgaste acumulado."
       },
       {
         "nombre": "Valencia",
         "color": "#3498db",
-        "positivo": 66,
-        "negativo": 18,
-        "neutro": 16,
+        "positivo": 72,
+        "negativo": 14,
+        "neutro": 14,
         "tendencia": "up",
-        "tendencia_texto": "Semana histórica: se duplica del 10% al 19,8% según Invamer (15-24 abr). Revela amenaza de las FARC con $2.000 millones y advierte: 'Conmigo se acaba la paz total', acusando a Petro de ser 'cómplice del narcoterrorismo'. Formalizará alianza con el Partido Liberal (29 abr). La candidata de mayor crecimiento, con brecha de solo 4,6 puntos frente a Cepeda en segunda vuelta (51,2% vs. 46,6%)."
+        "tendencia_texto": "Semana histórica: Partido Liberal respalda oficialmente su candidatura (29 abr), sumando al Centro Democrático, Conservadores y Cambio Radical en el frente multipartidista más amplio de la campaña. Se duplica en encuestas del 10% al 19,8% (Invamer, abr). El Tiempo desmiente video viral que la relacionaba con paramilitares (#ElFiltro, 29 abr). Brecha de segunda vuelta vs. Cepeda: solo 4,6 puntos (51,2% vs. 46,6%). La candidata con mayor impulso y coalición más amplia."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 54,
-        "negativo": 28,
+        "positivo": 52,
+        "negativo": 30,
         "neutro": 18,
         "tendencia": "up",
-        "tendencia_texto": "Lanzó la 'Alianza por la Vida' (28 abr) y recibe hoy la adhesión formal de Alianza Verde. Consolida liderazgo en primera vuelta con 44,3% en Invamer, aunque GAD3 lo ubica en 36%, generando debate metodológico. Experta señala diferencias de muestra y cobertura como causa. En segunda vuelta, la brecha con Valencia se redujo a solo 4,6 puntos (51,2% vs. 46,6%). Semana positiva con señal de alerta en escenario de segunda vuelta."
+        "tendencia_texto": "Lanzó la 'Alianza por la Vida' (28 abr) y recibió la adhesión formal de Alianza Verde. Consolida liderazgo en primera vuelta con 44,3% (Invamer), aunque GAD3 lo ubica en 36%. El Partido Liberal eligió a Valencia, señal de que la consolidación del centro no va hacia el Pacto Histórico. En segunda vuelta, brecha con Valencia se redujo a solo 4,6 puntos (51,2% vs. 46,6%). Sigue siendo favorito pero con señales de alerta crecientes."
       },
       {
         "nombre": "Fajardo",
@@ -360,7 +360,7 @@
       "pct": 21.5,
       "fuente_encuesta": "Invamer (abr 2026)"
     },
-    "resumen_analisis": "Basado en 8 noticias de las últimas 48h y encuesta Invamer del 15-24 de abril de 2026 (n=3.800, 149 municipios). Valencia formalizará alianza con el Partido Liberal y advierte: 'Conmigo se acaba la paz total'. De la Espriella descalifica encuestadoras y su maquinaria territorial queda al descubierto. Cepeda recibe adhesión de Alianza Verde hoy 29 de abril."
+    "resumen_analisis": "Basado en 8 noticias de las últimas 48h y encuesta Invamer del 15-24 de abril de 2026 (n=3.800, 149 municipios). HITO DEL DÍA: Partido Liberal respalda oficialmente a Valencia (29 abr), consolidando el frente multipartidista más amplio de la derecha/centroderecha. De la Espriella veta candidatos del debate presidencial con frase polémica. El Tiempo desmiente video viral sobre Valencia y paramilitares. A 31 días de la primera vuelta del 31 de mayo."
   },
-  "ultimo_deploy": "2026-04-29T08:00:00Z"
+  "ultimo_deploy": "2026-04-30T08:00:00Z"
 }
