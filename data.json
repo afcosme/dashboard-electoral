@@ -1,77 +1,77 @@
 {
-  "fecha": "30 de abril de 2026",
+  "fecha": "1 de mayo de 2026",
   "noticias": [
-    {
-      "filter": "cepeda",
-      "fuente": "El Espectador",
-      "fuente_color": "#27ae60",
-      "fecha": "28 abr 2026",
-      "tag": "Cepeda · Coalición",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "'Alianza por la Vida': Iván Cepeda presentó coalición con la que busca la Presidencia",
-      "resumen": "El candidato del Pacto Histórico formalizó la 'Alianza por la Vida', su coalición electoral para las elecciones del 31 de mayo. El anuncio busca consolidar el apoyo progresista y de centro-izquierda. Alianza Verde anunció su adhesión formal a la campaña, ampliando el frente que lidera las encuestas con 44,3% según Invamer.",
-      "objetividad": 85,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Hecho político verificable y de alto impacto electoral"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente de referencia nacional con trayectoria"
-        },
-        {
-          "ok": true,
-          "texto": "Lenguaje neutro y descriptivo"
-        },
-        {
-          "ok": true,
-          "texto": "Información oficial de la campaña"
-        },
-        {
-          "ok": false,
-          "texto": "Sin detalle de todos los partidos que integran la coalición"
-        }
-      ],
-      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/alianza-por-la-vida-ivan-cepeda-presento-coalicion-con-la-que-busca-la-presidencia/",
-      "url_label": "El Espectador - Cepeda presenta Alianza por la Vida"
-    },
     {
       "filter": "cepeda",
       "fuente": "Infobae Colombia",
       "fuente_color": "#27ae60",
-      "fecha": "28 abr 2026",
-      "tag": "Cepeda · Encuestas",
+      "fecha": "30 abr 2026",
+      "tag": "Cepeda · Campaña",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Diferencias en encuestas generan dudas sobre el verdadero respaldo a Iván Cepeda: experta explica por qué sucede esto",
-      "resumen": "Una experta en opinión pública analizó las diferencias entre firmas: Invamer ubica a Cepeda en 44,3%, GAD3 en 36% y Atlas Intel en 37,8%. La especialista señaló diferencias metodológicas —tipo de muestra, municipios cubiertos, universo encuestado— como la causa principal, advirtiendo que la realidad puede estar entre ambas mediciones a 31 días de la primera vuelta del 31 de mayo.",
-      "objetividad": 88,
+      "titulo": "Iván Cepeda aseguró que ganará la Presidencia en primera vuelta: 'No me cabe la menor duda'",
+      "resumen": "Tras conocerse las últimas encuestas, Cepeda expresó en entrevista con Noticias Caracol su plena confianza en ganar el 31 de mayo sin necesidad de segunda vuelta. La afirmación llega pese a que la encuesta Guarumo lo ubica en 38% y analistas consideran incierto un triunfo en primera vuelta. El candidato del Pacto Histórico busca proyectar confianza a 30 días de los comicios.",
+      "objetividad": 83,
       "criterios": [
         {
           "ok": true,
-          "texto": "Análisis experto de diferencias metodológicas entre firmas"
+          "texto": "Declaración directa y verificable del candidato"
         },
         {
           "ok": true,
-          "texto": "Fuente de referencia con trayectoria internacional"
+          "texto": "Fuente de referencia internacional con trayectoria"
         },
         {
           "ok": true,
-          "texto": "Perspectiva analítica equilibrada sobre la discrepancia"
-        },
-        {
-          "ok": true,
-          "texto": "Incluye voz de experta independiente"
+          "texto": "Contexto de encuestas recientes para contrastar la afirmación"
         },
         {
           "ok": false,
-          "texto": "Sin nombre explícito de la experta en el titular"
+          "texto": "Declaración optimista sin contrastar con analistas independientes"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia de alta relevancia electoral a días de la primera vuelta"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/04/28/diferencias-en-encuestas-generan-dudas-sobre-el-verdadero-respaldo-a-ivan-cepeda-en-las-elecciones-de-2026-experta-respondio-por-que-sucede-esto/",
-      "url_label": "Infobae Colombia - Diferencias en encuestas sobre Cepeda"
+      "url": "https://www.infobae.com/colombia/2026/04/30/tras-revelacion-de-las-ultimas-encuestas-ivan-cepeda-aseguro-que-ganara-la-presidencia-en-primera-vuelta-no-me-cabe-la-menor-duda/",
+      "url_label": "Infobae Colombia - Cepeda asegura victoria en primera vuelta"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "LaFM",
+      "fuente_color": "#27ae60",
+      "fecha": "30 abr 2026",
+      "tag": "Cepeda · Análisis",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "¿Habrá segunda vuelta presidencial? Analista descarta victoria de Iván Cepeda en primera vuelta",
+      "resumen": "Un analista político entrevistado por LaFM consideró improbable que Cepeda alcance el 50%+1 requerido para ganar en primera vuelta el 31 de mayo, contradiciendo la afirmación del candidato. El experto señaló que la encuesta Guarumo (38%) y la fragmentación del voto hacen casi inevitable una segunda vuelta, donde el escenario es más incierto para el Pacto Histórico.",
+      "objetividad": 87,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Análisis experto con contexto electoral detallado"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente radial de referencia nacional"
+        },
+        {
+          "ok": true,
+          "texto": "Contrasta con declaraciones del propio Cepeda del 30 de abril"
+        },
+        {
+          "ok": true,
+          "texto": "Fundamentado en datos de encuestas recientes"
+        },
+        {
+          "ok": false,
+          "texto": "Sin identificación del analista entrevistado en el titular"
+        }
+      ],
+      "url": "https://www.lafm.com.co/politica/ivan-cepeda-segunda-vuelta-elecciones-presidenciales-colombia-encuentas-397585",
+      "url_label": "LaFM - Analista descarta primera vuelta para Cepeda"
     },
     {
       "filter": "cepeda",
@@ -118,7 +118,7 @@
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
       "titulo": "Partido Liberal respaldará la candidatura presidencial de Paloma Valencia, tras decisión mayoritaria de las bancadas del Congreso",
-      "resumen": "Las bancadas del Partido Liberal en el Congreso decidieron por mayoría respaldar a Paloma Valencia en primera vuelta presidencial. El espaldarazo del histórico partido de centro-derecha es el mayor golpe de coalición de la campaña de Valencia, quien suma ahora Centro Democrático, Conservadores, Cambio Radical y Liberales en un frente amplio que la convierte en la opción con mayor apoyo multipartidista.",
+      "resumen": "Las bancadas del Partido Liberal en el Congreso decidieron por mayoría respaldar a Paloma Valencia en primera vuelta presidencial. El espaldarazo del histórico partido de centro sella el frente más amplio de la campaña: Centro Democrático, Conservadores, Cambio Radical y ahora Liberales. Valencia se consolida como la candidata con mayor respaldo multipartidista de cara al 31 de mayo.",
       "objetividad": 90,
       "criterios": [
         {
@@ -154,7 +154,7 @@
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
       "titulo": "#ElFiltro: Paloma Valencia no dijo que gobernaría con paramilitares; un video viral tergiversa sus palabras",
-      "resumen": "El equipo de verificación de El Tiempo desmintió un video viral que atribuía a Paloma Valencia la declaración de que gobernaría con paramilitares. La candidata del Centro Democrático afirmó que sus palabras fueron editadas y descontextualizadas. El hecho pone en evidencia la guerra de desinformación que rodea la campaña a 31 días de la primera vuelta.",
+      "resumen": "El equipo de verificación de El Tiempo desmintió un video viral que atribuía a Paloma Valencia la declaración de que gobernaría con paramilitares. La candidata del Centro Democrático afirmó que sus palabras fueron editadas y descontextualizadas. El hecho evidencia la guerra de desinformación que rodea la campaña a 30 días de la primera vuelta.",
       "objetividad": 91,
       "criterios": [
         {
@@ -190,7 +190,7 @@
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
       "titulo": "Valencia se lleva el apoyo de la mayoría de partidos, pero hay 'disidentes' que quieren llegar a otras campañas",
-      "resumen": "Aunque Paloma Valencia consolida el apoyo de la mayoría del establecimiento político —Centro Democrático, Conservadores, Cambio Radical, Partido Liberal—, surgen 'disidentes' al interior de esos partidos que preferirían sumarse a Cepeda o De la Espriella. El fenómeno muestra las fisuras internas de la gran coalición de derecha y centroderecha que lidera Valencia.",
+      "resumen": "Aunque Paloma Valencia consolida el apoyo del establecimiento político —Centro Democrático, Conservadores, Cambio Radical, Partido Liberal—, surgen 'disidentes' al interior de esos partidos que preferirían sumarse a Cepeda o De la Espriella. El fenómeno muestra las fisuras internas de la gran coalición de derecha y centroderecha que lidera Valencia.",
       "objetividad": 87,
       "criterios": [
         {
@@ -219,75 +219,75 @@
     },
     {
       "filter": "espriella",
-      "fuente": "Infobae Colombia",
+      "fuente": "Vanguardia",
       "fuente_color": "#e74c3c",
-      "fecha": "29 abr 2026",
-      "tag": "De la Espriella · Polémica",
+      "fecha": "30 abr 2026",
+      "tag": "De la Espriella · Encuestas",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella vetó candidatos para debate presidencial: '¿Yo qué hago debatiendo con gente que no pasa el margen de error?'",
-      "resumen": "El candidato de Salvación Nacional se negó a debatir con candidatos que no superan el margen de error en las encuestas. La postura generó críticas de antidemocrática; sus seguidores la defienden como pragmatismo de quien ya está en segunda vuelta. De la Espriella suma así un nuevo foco de controversia tras el rechazo de la semana anterior a las firmas encuestadoras.",
-      "objetividad": 80,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaraciones directas y verificables del candidato"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente de referencia internacional con trayectoria"
-        },
-        {
-          "ok": true,
-          "texto": "Hecho político de alto impacto en la dinámica de campaña"
-        },
-        {
-          "ok": false,
-          "texto": "Sin reacción de los candidatos vetados"
-        },
-        {
-          "ok": false,
-          "texto": "Sin análisis de expertos en democracia o debates electorales"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/04/29/abelardo-de-la-espriella-defendio-su-veto-a-candidatos-para-debate-presidencial-yo-que-hago-debatiendo-con-gente-que-no-pasa-el-margen-de-error/",
-      "url_label": "Infobae - De la Espriella veta candidatos del debate"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Cambio Colombia",
-      "fuente_color": "#e74c3c",
-      "fecha": "28 abr 2026",
-      "tag": "De la Espriella · Campaña",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "La maquinaria invisible de Abelardo de la Espriella: así se coordinaron las marchas a favor del abogado",
-      "resumen": "Una investigación de Cambio Colombia reveló cómo se organizaron las marchas y caravanas en favor de De la Espriella en más de 80 ciudades. Detrás de la aparente movilización espontánea existe una estructura territorial que conecta líderes comunitarios, movimientos cívicos y operadores políticos regionales, evidenciando la solidez organizativa de Salvación Nacional a un mes de las elecciones.",
+      "titulo": "Encuesta presidencial muestra ascenso de Abelardo de la Espriella y complica a Iván Cepeda",
+      "resumen": "La más reciente medición muestra un ascenso significativo de De la Espriella, que consolida su posición de segunda vuelta con 23,9% en Guarumo y sondeos adicionales que lo sitúan incluso más alto. El ascenso del candidato de Salvación Nacional pone en cuestión la posibilidad de primera vuelta para Cepeda y abre el debate sobre quién acompañará al líder del Pacto Histórico en el eventual balotaje del 21 de junio.",
       "objetividad": 84,
       "criterios": [
         {
           "ok": true,
-          "texto": "Investigación periodística de alto valor informativo"
+          "texto": "Dato de encuesta reciente y verificable"
         },
         {
           "ok": true,
-          "texto": "Fuente especializada en política colombiana"
+          "texto": "Fuente regional con cobertura electoral relevante"
         },
         {
           "ok": true,
-          "texto": "Detalle de estructura organizativa de campaña"
+          "texto": "Impacto directo en la carrera presidencial"
         },
         {
           "ok": true,
-          "texto": "Información de alta relevancia electoral"
+          "texto": "Contextualiza el escenario de segunda vuelta"
         },
         {
           "ok": false,
-          "texto": "Sin declaraciones del equipo de De la Espriella para contrastar"
+          "texto": "Sin nombre explícito de la firma encuestadora en el titular"
         }
       ],
-      "url": "https://cambiocolombia.com/elecciones-colombia-2026/articulo/2026/4/abelardo-espriella-caravanas-confrontacion-paloma-valencia-elecciones/",
-      "url_label": "Cambio Colombia - La maquinaria invisible de De la Espriella"
+      "url": "https://www.vanguardia.com/colombia/2026/04/30/encuesta-presidencial-muestra-ascenso-de-abelardo-de-la-espriella-y-complica-a-ivan-cepeda/",
+      "url_label": "Vanguardia - Ascenso de De la Espriella complica a Cepeda"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Pulzo",
+      "fuente_color": "#e74c3c",
+      "fecha": "30 abr 2026",
+      "tag": "De la Espriella · Segunda vuelta",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella pasaría a segunda vuelta con Cepeda, según encuesta Guarumo; Paloma Valencia recorta distancia",
+      "resumen": "La encuesta Guarumo-EcoAnalítica de abril posiciona a De la Espriella (23,9%) por encima de Valencia (22,8%) en intención de voto para primera vuelta, configurando un escenario de segunda vuelta entre el abogado barranquillero y Cepeda. Sin embargo, la diferencia es de apenas 1,1 puntos, lo que mantiene la incertidumbre sobre quién pasará al balotaje del 21 de junio.",
+      "objetividad": 86,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Datos de encuesta verificables con firma reconocida"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente digital de alto tráfico con cobertura electoral"
+        },
+        {
+          "ok": true,
+          "texto": "Escenario de segunda vuelta bien fundamentado"
+        },
+        {
+          "ok": true,
+          "texto": "Señala la estrecha diferencia de 1,1 pts entre De la Espriella y Valencia"
+        },
+        {
+          "ok": false,
+          "texto": "Sin metodología detallada de la encuesta Guarumo"
+        }
+      ],
+      "url": "https://www.pulzo.com/elecciones-colombia-2026/espriella-pasaria-segunda-vuelta-con-cepeda-encuesta-guarumo-PP5163454",
+      "url_label": "Pulzo - De la Espriella a segunda vuelta con Cepeda, según Guarumo"
     }
   ],
   "sentimiento": {
@@ -295,29 +295,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 18,
-        "negativo": 65,
-        "neutro": 17,
-        "tendencia": "down",
-        "tendencia_texto": "Veta candidatos del debate presidencial con frase polémica: '¿Yo qué hago debatiendo con gente que no pasa el margen de error?' (Infobae, 29 abr). Mantiene 21,5% en Invamer y 21% en GAD3, pero Valencia lo presiona con 19,8% y ahora suma el Partido Liberal. Investigación de Cambio Colombia expuso la maquinaria de sus marchas en 80+ ciudades. Semana con imagen defensiva, polémica con encuestadoras y desgaste acumulado."
+        "positivo": 24,
+        "negativo": 57,
+        "neutro": 19,
+        "tendencia": "up",
+        "tendencia_texto": "Nuevo repunte en encuestas: Guarumo lo sitúa en 23,9%, por encima de Valencia (22,8%), y otros sondeos lo ubican aún más alto (Vanguardia, 30 abr). Configura escenario de segunda vuelta frente a Cepeda. Semana ambivalente: su ascenso electoral contrasta con la polémica por vetar candidatos del debate ('¿Yo qué hago debatiendo con gente que no pasa el margen de error?', 29 abr) y sus críticas a encuestadoras como 'desacertadas y manipuladas' (27 abr)."
       },
       {
         "nombre": "Valencia",
         "color": "#3498db",
-        "positivo": 72,
-        "negativo": 14,
+        "positivo": 74,
+        "negativo": 12,
         "neutro": 14,
         "tendencia": "up",
-        "tendencia_texto": "Semana histórica: Partido Liberal respalda oficialmente su candidatura (29 abr), sumando al Centro Democrático, Conservadores y Cambio Radical en el frente multipartidista más amplio de la campaña. Se duplica en encuestas del 10% al 19,8% (Invamer, abr). El Tiempo desmiente video viral que la relacionaba con paramilitares (#ElFiltro, 29 abr). Brecha de segunda vuelta vs. Cepeda: solo 4,6 puntos (51,2% vs. 46,6%). La candidata con mayor impulso y coalición más amplia."
+        "tendencia_texto": "Semana histórica: Partido Liberal respalda oficialmente su candidatura (29 abr), consolidando el frente multipartidista más amplio: Centro Democrático, Conservadores, Cambio Radical y Partido Liberal. Encuesta Guarumo la ubica en 22,8%, Invamer en 19,8%. En segunda vuelta derrotaría a Cepeda con 44,6% vs. 40,1% (Guarumo). El Tiempo desmintió video viral sobre paramilitares. Candidata con mayor impulso y coalición más amplia."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 52,
-        "negativo": 30,
-        "neutro": 18,
-        "tendencia": "up",
-        "tendencia_texto": "Lanzó la 'Alianza por la Vida' (28 abr) y recibió la adhesión formal de Alianza Verde. Consolida liderazgo en primera vuelta con 44,3% (Invamer), aunque GAD3 lo ubica en 36%. El Partido Liberal eligió a Valencia, señal de que la consolidación del centro no va hacia el Pacto Histórico. En segunda vuelta, brecha con Valencia se redujo a solo 4,6 puntos (51,2% vs. 46,6%). Sigue siendo favorito pero con señales de alerta crecientes."
+        "positivo": 48,
+        "negativo": 33,
+        "neutro": 19,
+        "tendencia": "stable",
+        "tendencia_texto": "Sigue liderando con 38% (Guarumo) y 44,3% (Invamer), pero analistas descartan triunfo en primera vuelta pese a la confianza expresada por el propio Cepeda el 30 de abril ('No me cabe la menor duda que ganaremos'). La brecha de segunda vuelta frente a Valencia se redujo a 4,6 puntos (51,2% vs. 46,6%). El Partido Liberal eligió apoyar a Valencia, señal de que el centro no va al Pacto Histórico."
       },
       {
         "nombre": "Fajardo",
@@ -340,27 +340,27 @@
     ]
   },
   "encuestas": {
-    "cepeda": 44.3,
-    "valencia": 19.8,
-    "espriella": 21.5,
-    "fuente": "Invamer para Caracol/El Tiempo, 15-24 abr 2026"
+    "cepeda": 38.0,
+    "valencia": 22.8,
+    "espriella": 23.9,
+    "fuente": "Guarumo-EcoAnalítica para El Tiempo, abr 2026"
   },
   "prediccion": {
     "primero": {
       "nombre": "Iván Cepeda",
       "partido": "Pacto Histórico",
       "color": "#27ae60",
-      "pct": 44.3,
-      "fuente_encuesta": "Invamer (abr 2026)"
+      "pct": 38.0,
+      "fuente_encuesta": "Guarumo (abr 2026)"
     },
     "segundo": {
       "nombre": "Abelardo De la Espriella",
       "partido": "Salvación Nacional",
       "color": "#e67e22",
-      "pct": 21.5,
-      "fuente_encuesta": "Invamer (abr 2026)"
+      "pct": 23.9,
+      "fuente_encuesta": "Guarumo (abr 2026)"
     },
-    "resumen_analisis": "Basado en 8 noticias de las últimas 48h y encuesta Invamer del 15-24 de abril de 2026 (n=3.800, 149 municipios). HITO DEL DÍA: Partido Liberal respalda oficialmente a Valencia (29 abr), consolidando el frente multipartidista más amplio de la derecha/centroderecha. De la Espriella veta candidatos del debate presidencial con frase polémica. El Tiempo desmiente video viral sobre Valencia y paramilitares. A 31 días de la primera vuelta del 31 de mayo."
+    "resumen_analisis": "Basado en 8 noticias de las últimas 48h y encuesta Guarumo-EcoAnalítica de abril 2026. HITO DEL DÍA: Cepeda asegura ganar en primera vuelta ('no me cabe la menor duda'), pero analistas de LaFM lo descartan. De la Espriella asciende en encuestas y complica la carrera (Vanguardia, 30 abr). Partido Liberal respalda oficialmente a Valencia (29 abr). En segunda vuelta Valencia derrotaría a Cepeda (44,6% vs. 40,1%). A 30 días del 31 de mayo."
   },
-  "ultimo_deploy": "2026-04-30T08:00:00Z"
+  "ultimo_deploy": "2026-05-01T08:00:00Z"
 }
