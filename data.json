@@ -1,16 +1,52 @@
 {
-  "fecha": "2 de mayo de 2026",
+  "fecha": "3 de mayo de 2026",
   "noticias": [
+    {
+      "filter": "cepeda",
+      "fuente": "El Espectador",
+      "fuente_color": "#27ae60",
+      "fecha": "2 may 2026",
+      "tag": "Cepeda · Coalición",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "'Alianza por la Vida': Iván Cepeda presentó la coalición con la que busca la Presidencia",
+      "resumen": "Iván Cepeda formalizó la presentación de la 'Alianza por la Vida', la coalición ampliada con la que competirá en la primera vuelta del 31 de mayo. La alianza agrupa al Pacto Histórico junto con movimientos sociales, partidos menores y organizaciones populares. La presentación llega 28 días antes de los comicios como señal de cohesión del bloque oficialista.",
+      "objetividad": 86,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Hecho político verificable: presentación formal de coalición"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente de referencia nacional con trayectoria"
+        },
+        {
+          "ok": true,
+          "texto": "Relevancia electoral alta: amplía la base del candidato"
+        },
+        {
+          "ok": false,
+          "texto": "Sin detalle de partidos específicos que componen la alianza"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia de alta relevancia a 28 días de la primera vuelta"
+        }
+      ],
+      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/alianza-por-la-vida-ivan-cepeda-presento-coalicion-con-la-que-busca-la-presidencia/",
+      "url_label": "El Espectador - Cepeda presenta 'Alianza por la Vida'"
+    },
     {
       "filter": "cepeda",
       "fuente": "Semana",
       "fuente_color": "#27ae60",
       "fecha": "1 may 2026",
-      "tag": "Cepeda · Alianzas",
+      "tag": "Cepeda · Sindicatos",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
       "titulo": "Elecciones 2026: Iván Cepeda recibe el respaldo de las centrales de trabajadores",
-      "resumen": "Las principales centrales de trabajadores de Colombia anunciaron su respaldo oficial a la candidatura de Iván Cepeda de cara a la primera vuelta del 31 de mayo. El apoyo sindical organizado llega en la recta final de la campaña y busca movilizar el voto de millones de afiliados hacia el candidato del Pacto Histórico, reforzando su base electoral en sectores obreros y populares a 29 días de los comicios.",
+      "resumen": "Las principales centrales de trabajadores de Colombia anunciaron su respaldo oficial a la candidatura de Iván Cepeda de cara a la primera vuelta del 31 de mayo. El apoyo sindical llega en la recta final y busca movilizar el voto de millones de afiliados, reforzando la base electoral de Cepeda en sectores obreros y populares a 28 días de los comicios.",
       "objetividad": 85,
       "criterios": [
         {
@@ -23,7 +59,7 @@
         },
         {
           "ok": true,
-          "texto": "Relevancia electoral alta a 29 días de la primera vuelta"
+          "texto": "Relevancia electoral alta a 28 días de la primera vuelta"
         },
         {
           "ok": false,
@@ -42,83 +78,11 @@
       "fuente": "El Tiempo",
       "fuente_color": "#27ae60",
       "fecha": "1 may 2026",
-      "tag": "Cepeda · Sindicatos",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Iván Cepeda recibe el apoyo de las centrales obreras de cara a la primera vuelta presidencial",
-      "resumen": "El candidato del Pacto Histórico formalizó el respaldo de las centrales obreras colombianas a 29 días de la primera vuelta del 31 de mayo. La adhesión del sindicalismo organizado refuerza la base electoral de Cepeda entre los sectores laborales e impulsa la movilización de votantes en zonas industriales y municipios con alta densidad de trabajadores sindicalizados.",
-      "objetividad": 86,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Hecho político de alto impacto: apoyo sindical masivo"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente de referencia nacional con trayectoria"
-        },
-        {
-          "ok": true,
-          "texto": "Relevancia electoral alta en la recta final de campaña"
-        },
-        {
-          "ok": true,
-          "texto": "Complementa el respaldo de Semana del mismo día"
-        },
-        {
-          "ok": false,
-          "texto": "Sin detalle de cuántos afiliados representa el apoyo sindical"
-        }
-      ],
-      "url": "https://www.eltiempo.com/amp/politica/elecciones-colombia-2026/el-candidato-ivan-cepeda-recibe-el-apoyo-de-las-centrales-obreras-de-cara-a-la-primera-vuelta-presidencial-3552410",
-      "url_label": "El Tiempo - Cepeda recibe apoyo de las centrales obreras"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "La Nación (Paraguay)",
-      "fuente_color": "#27ae60",
-      "fecha": "1 may 2026",
-      "tag": "Cepeda · Encuestas",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Colombia: el presidenciable oficialista Iván Cepeda encabeza nueva encuesta",
-      "resumen": "La prensa internacional destaca que el candidato del Pacto Histórico encabeza la más reciente encuesta de intención de voto de cara a la primera vuelta del 31 de mayo. El seguimiento internacional refleja el alto impacto de las elecciones colombianas en la región, con Cepeda posicionado como favorito pero con incertidumbre sobre una posible segunda vuelta.",
-      "objetividad": 82,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Cobertura internacional del proceso electoral colombiano"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente periodística de Paraguay con trayectoria regional"
-        },
-        {
-          "ok": false,
-          "texto": "Sin detalle de la firma encuestadora específica en el titular"
-        },
-        {
-          "ok": true,
-          "texto": "Confirma liderazgo de Cepeda en encuestas recientes"
-        },
-        {
-          "ok": false,
-          "texto": "Perspectiva externa sin análisis local profundo"
-        }
-      ],
-      "url": "https://www.lanacion.com.py/mundo/2026/05/01/colombia-el-presidenciable-oficialista-ivan-cepeda-encabeza-nueva-encuesta/",
-      "url_label": "La Nación Paraguay - Cepeda encabeza nueva encuesta"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "El Tiempo",
-      "fuente_color": "#27ae60",
-      "fecha": "1 may 2026",
       "tag": "Cepeda · Análisis",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "¿Por qué Cepeda sigue liderando en primera vuelta pero en segunda Paloma lo derrota y De la Espriella lo empata?",
-      "resumen": "Análisis de El Tiempo explora la paradoja electoral: Cepeda lidera en primera vuelta con 38% (Guarumo) pero perdería ante Valencia en segunda (40,1% vs. 44,6%) y empataría con De la Espriella (40,6% vs. 40,4%). Expertos señalan que el candidato del Pacto Histórico tiene un voto consolidado pero enfrenta un techo de crecimiento limitado por la coalición anti-izquierda que se consolida con el apoyo del Partido Liberal a Valencia.",
+      "titulo": "¿Por qué Cepeda lidera en primera vuelta pero en segunda Paloma lo derrota y De la Espriella lo empata?",
+      "resumen": "Análisis de El Tiempo explora la paradoja electoral: Cepeda lidera en primera vuelta con 38% (Guarumo) pero perdería ante Valencia en segunda (40,1% vs. 44,6%) y empataría con De la Espriella (40,6% vs. 40,4%). Expertos señalan que el candidato del Pacto Histórico enfrenta un techo de crecimiento limitado por la coalición anti-izquierda que se consolida con el Partido Liberal.",
       "objetividad": 88,
       "criterios": [
         {
@@ -149,17 +113,17 @@
       "filter": "valencia",
       "fuente": "Infobae Colombia",
       "fuente_color": "#3498db",
-      "fecha": "1 may 2026",
-      "tag": "Valencia · Seguridad",
+      "fecha": "29 abr 2026",
+      "tag": "Valencia · Alianzas",
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Paloma Valencia: 'En mi gobierno no habrá secuestros; estamos en cifras récord de acciones terroristas en 15 años'",
-      "resumen": "Paloma Valencia lanzó una de sus promesas de campaña más contundentes: erradicar el secuestro en Colombia. La candidata del Centro Democrático denunció que el gobierno Petro ha alcanzado cifras récord de acciones terroristas en 15 años y planteó el desmantelamiento de estructuras armadas como eje central de su propuesta de seguridad, diferenciándose de Cepeda y De la Espriella en el tema más sensible para los colombianos.",
-      "objetividad": 84,
+      "titulo": "Partido Liberal respaldará la candidatura presidencial de Paloma Valencia",
+      "resumen": "El Partido Liberal, tras decisión mayoritaria de sus bancadas del Congreso, anunció su respaldo a Paloma Valencia. Con el liberalismo, Valencia suma apoyo de los cuatro grandes partidos tradicionales: Centro Democrático, Conservadores, Cambio Radical y Liberales, consolidando la coalición opositora más amplia de la contienda a un mes de la primera vuelta.",
+      "objetividad": 88,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaración directa y verificable de la candidata"
+          "texto": "Hecho político de primer orden: adhesión del Partido Liberal"
         },
         {
           "ok": true,
@@ -167,19 +131,19 @@
         },
         {
           "ok": true,
-          "texto": "Tema de máxima relevancia electoral: seguridad pública"
-        },
-        {
-          "ok": false,
-          "texto": "Promesa de campaña sin plan de implementación detallado"
+          "texto": "Relevancia electoral máxima: consolida la coalición más amplia"
         },
         {
           "ok": true,
-          "texto": "Contrasta con indicadores de seguridad del gobierno actual"
+          "texto": "Noticia del 29 de abril 2026"
+        },
+        {
+          "ok": false,
+          "texto": "Sin análisis del impacto en votos concretos"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/05/01/paloma-valencia-aseguro-que-en-su-gobierno-no-habran-secuestros-estamos-en-cifras-record-de-los-ultimos-15-anos-en-acciones-terroristas/",
-      "url_label": "Infobae - Valencia: en su gobierno no habrá secuestros"
+      "url": "https://www.infobae.com/colombia/2026/04/29/partido-liberal-respaldara-la-candidatura-presidencial-de-paloma-valencia-tras-decision-mayoritaria-de-las-bancadas-del-congreso/",
+      "url_label": "Infobae - Partido Liberal respalda a Paloma Valencia"
     },
     {
       "filter": "valencia",
@@ -190,7 +154,7 @@
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
       "titulo": "Multitudinario recibimiento a Paloma Valencia en Meta causa sorpresa, a un mes de las elecciones",
-      "resumen": "Paloma Valencia recibió un masivo respaldo popular en el departamento del Meta que sorprendió a analistas y rivales a un mes de la primera vuelta del 31 de mayo. La movilización ciudadana en una región históricamente disputada revela el alcance territorial de su campaña y refuerza la narrativa de crecimiento sostenido que ya muestran las encuestas de segunda vuelta.",
+      "resumen": "Paloma Valencia recibió un masivo respaldo popular en el departamento del Meta a un mes de la primera vuelta del 31 de mayo. La movilización ciudadana en una región históricamente disputada revela el alcance territorial de su campaña y refuerza la narrativa de crecimiento sostenido que ya muestran las encuestas de segunda vuelta.",
       "objetividad": 83,
       "criterios": [
         {
@@ -218,15 +182,87 @@
       "url_label": "Pulzo - Multitudinario recibimiento a Valencia en Meta"
     },
     {
+      "filter": "valencia",
+      "fuente": "El Espectador",
+      "fuente_color": "#3498db",
+      "fecha": "2 may 2026",
+      "tag": "Valencia · Seguridad",
+      "tag_color": "#3498db",
+      "tag_bg": "rgba(52,152,219,0.15)",
+      "titulo": "Paloma Valencia lanza su propuesta de seguridad: asistieron excancilleres y excomandantes",
+      "resumen": "Paloma Valencia presentó su propuesta de seguridad nacional en un acto que contó con excancilleres y excomandantes de las Fuerzas Militares, reforzando su credencial de mano dura. La iniciativa la diferencia de Cepeda y De la Espriella en el tema de mayor preocupación ciudadana y consolida una narrativa de experiencia institucional.",
+      "objetividad": 85,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Presentación formal de propuesta verificable"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente de referencia nacional con trayectoria"
+        },
+        {
+          "ok": true,
+          "texto": "Respaldo de figuras con credencial institucional"
+        },
+        {
+          "ok": false,
+          "texto": "Sin análisis crítico de viabilidad de las propuestas"
+        },
+        {
+          "ok": true,
+          "texto": "Seguridad: tema prioritario para el electorado colombiano"
+        }
+      ],
+      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/paloma-valencia-lanza-su-propuesta-de-seguridad-asistieron-excancilleres-y-excomandantes/",
+      "url_label": "El Espectador - Valencia lanza propuesta de seguridad"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#e74c3c",
+      "fecha": "2 may 2026",
+      "tag": "De la Espriella · Jurídico",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "CNE analiza solicitud para revocar la inscripción de Abelardo De la Espriella como candidato presidencial",
+      "resumen": "El Consejo Nacional Electoral estudia una solicitud formal para revocar la inscripción de Abelardo de la Espriella como candidato presidencial. Según el denunciante, habría presentado firmas de respaldo falsas o no autógrafas para su inscripción ante el CNE. Si prospera, la decisión podría sacudir la carrera presidencial a 29 días de la primera vuelta del 31 de mayo.",
+      "objetividad": 87,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Hecho institucional verificable: solicitud formal ante el CNE"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente de referencia internacional con trayectoria"
+        },
+        {
+          "ok": true,
+          "texto": "Alto impacto potencial: podría eliminar al candidato de la contienda"
+        },
+        {
+          "ok": false,
+          "texto": "Aún no hay resolución del CNE sobre la solicitud"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia del 2 de mayo 2026 — la más reciente de la jornada"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/05/02/cne-analiza-solicitud-para-revocar-la-inscripcion-de-abelardo-de-la-espriella-como-candidato-presidencial/",
+      "url_label": "Infobae - CNE analiza revocar inscripción de De la Espriella"
+    },
+    {
       "filter": "espriella",
       "fuente": "El Tiempo",
-      "fuente_color": "#e74c3c",
+      "fuente_color": "#e67e22",
       "fecha": "1 may 2026",
       "tag": "De la Espriella · Alianzas",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella recibe el respaldo de Faustino Asprilla: '¿Quién más se pone la diez para ganar el 31 de mayo con la selección del Tigre?'",
-      "resumen": "La leyenda del fútbol colombiano Faustino 'El Tino' Asprilla anunció públicamente su apoyo a la candidatura de Abelardo de la Espriella. Con su característico lenguaje futbolero, Asprilla comparó la campaña con una selección que necesita quien se 'ponga la diez', refiriéndose a De la Espriella como el candidato capaz de ganar el 31 de mayo. El respaldo del popular exdelantero refuerza la imagen popular del candidato barranquillero en la recta final.",
+      "titulo": "De la Espriella recibe el respaldo de Faustino Asprilla: '¿Quién más se pone la diez para ganar el 31 de mayo?'",
+      "resumen": "La leyenda del fútbol colombiano Faustino 'El Tino' Asprilla anunció su apoyo a la candidatura de Abelardo de la Espriella. Con su característico lenguaje futbolero, Asprilla comparó la campaña con una selección que necesita quien se 'ponga la diez', refiriéndose al candidato barranquillero como el indicado para ganar el 31 de mayo.",
       "objetividad": 80,
       "criterios": [
         {
@@ -252,42 +288,6 @@
       ],
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-recibe-el-respaldo-de-faustino-asprilla-quien-mas-se-pone-la-diez-para-ganar-el-31-de-mayo-con-la-seleccion-del-tigre-3552429",
       "url_label": "El Tiempo - De la Espriella recibe apoyo de Faustino Asprilla"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#e74c3c",
-      "fecha": "27 abr 2026",
-      "tag": "De la Espriella · Encuestas",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella arremetió contra las encuestas: 'Desacertadas y con la intención de manipular; la única que acertó fue Atlas Intel'",
-      "resumen": "Abelardo de la Espriella cuestionó públicamente las encuestas que lo ubican detrás de Cepeda, calificándolas de 'desacertadas y con la intención de manipular'. El candidato defendió exclusivamente los resultados de Atlas Intel, firma investigada por el CNE. Su cuestionamiento a las encuestadoras es parte de la estrategia de movilizar el voto de quienes desconfían del establecimiento mediático.",
-      "objetividad": 78,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaración directa y verificable del candidato"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente de referencia internacional con trayectoria"
-        },
-        {
-          "ok": false,
-          "texto": "Acusación sin presentar evidencia concreta de manipulación"
-        },
-        {
-          "ok": true,
-          "texto": "Contexto: CNE investiga la firma que él defiende (Atlas Intel)"
-        },
-        {
-          "ok": false,
-          "texto": "Señala conflicto de interés del candidato frente a las encuestadoras"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/04/27/abelardo-de-la-espriella-afirmo-que-algunas-encuestas-son-desacertadas-y-manipuladas-politicamente-la-unica-que-acerto-fue-atlas-intel/",
-      "url_label": "Infobae - De la Espriella: encuestas 'desacertadas y manipuladas'"
     }
   ],
   "sentimiento": {
@@ -295,29 +295,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 27,
-        "negativo": 55,
-        "neutro": 18,
-        "tendencia": "up",
-        "tendencia_texto": "Respaldo de Faustino Asprilla (1 may) suma un apoyo mediático de alto impacto popular. En encuestas: Guarumo lo ubica en 23,9%, apenas 1,1 pts sobre Valencia (22,8%). Continúa criticando las encuestadoras como 'desacertadas y manipuladas' (27 abr). Atlas Intel lo sitúa más alto y proyecta que empataría con Cepeda en segunda vuelta (40,4% vs. 40,6%). Candidato en ascenso pero con cobertura predominantemente negativa por sus polémicas históricas."
+        "positivo": 20,
+        "negativo": 64,
+        "neutro": 16,
+        "tendencia": "down",
+        "tendencia_texto": "CNE analiza el 2 de mayo solicitud para revocar su inscripción presidencial por presuntas firmas falsas (Infobae, Pulzo) — mayor amenaza jurídica de la campaña. Pese al respaldo de Faustino Asprilla (El Tiempo, 1 may), la nube jurídica dispara la cobertura negativa. Encuestas: Guarumo 23,9% primera vuelta; empataría a Cepeda en segunda (40,4% vs. 40,6%). Candidatura en riesgo institucional a 28 días del 31 de mayo."
       },
       {
         "nombre": "Valencia",
         "color": "#3498db",
-        "positivo": 74,
-        "negativo": 12,
+        "positivo": 76,
+        "negativo": 10,
         "neutro": 14,
         "tendencia": "up",
-        "tendencia_texto": "Jornada de alto impacto el 1 de mayo: recibimiento multitudinario en Meta (Pulzo) y promesa de seguridad sin secuestros (Infobae). Encuesta Guarumo: 22,8% en primera vuelta. Partido Liberal la respaldó el 29 abr completando la coalición más amplia (Centro Democrático, Conservadores, Cambio Radical, Liberales). Derrotaría a Cepeda en segunda vuelta con 44,6% vs. 40,1% (Guarumo). Candidata con mayor impulso positivo en medios esta semana."
+        "tendencia_texto": "Partido Liberal se suma a la coalición el 29 de abril, uniendo Centro Democrático, Conservadores, Cambio Radical y Liberales: la coalición opositora más amplia de la contienda. Recibimiento multitudinario en Meta (Pulzo, 1 may). Propuesta de seguridad con excancilleres y excomandantes (El Espectador). Encuesta Guarumo: 22,8% primera vuelta; derrotaría a Cepeda en segunda 44,6% vs. 40,1%."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 50,
-        "negativo": 30,
+        "positivo": 52,
+        "negativo": 28,
         "neutro": 20,
         "tendencia": "up",
-        "tendencia_texto": "Nuevo impulso el 1 de mayo: respaldo masivo de centrales de trabajadores y obreras (Semana y El Tiempo). Sigue liderando en primera vuelta con 38% (Guarumo) y 44,3% (Invamer). La prensa internacional también lo destaca como favorito (La Nación, Paraguay, 1 may). Sin embargo, análisis de El Tiempo explica el techo de segunda vuelta: perdería ante Valencia (40,1% vs. 44,6%) y empataría con De la Espriella (40,6% vs. 40,4%)."
+        "tendencia_texto": "Presenta 'Alianza por la Vida' (El Espectador) consolidando la coalición de izquierda. Respaldo masivo de centrales de trabajadores el 1 de mayo (Semana, El Tiempo). Lidera en primera vuelta: 38% (Guarumo) y 44,3% (Invamer, 27 abr). Techo en segunda vuelta: perdería ante Valencia (40,1% vs. 44,6%) y empataría con De la Espriella. 28 días para el 31 de mayo."
       },
       {
         "nombre": "Fajardo",
@@ -360,7 +360,7 @@
       "pct": 23.9,
       "fuente_encuesta": "Guarumo (abr 2026)"
     },
-    "resumen_analisis": "Basado en 8 noticias del 1–2 de mayo 2026 y encuesta Guarumo-EcoAnalítica de abril. HITOS DEL DÍA: Cepeda recibe apoyo masivo de centrales de trabajadores y obreras (Semana y El Tiempo, 1 may). Valencia suma recibimiento multitudinario en Meta y promete erradicar secuestros (1 may). De la Espriella obtiene el respaldo mediático de Faustino Asprilla (1 may). Encuestas: Cepeda 38% (1.ª vuelta), De la Espriella 23,9%, Valencia 22,8%; en 2.ª vuelta Valencia derrotaría a Cepeda y De la Espriella lo empataría. 29 días para el 31 de mayo."
+    "resumen_analisis": "Basado en 8 noticias del 29 abr–2 may 2026 y encuesta Guarumo-EcoAnalítica de abril. HITO DEL DÍA: CNE analiza revocar inscripción de De la Espriella por firmas presuntamente falsas (Infobae, 2 may) — mayor riesgo jurídico de la campaña a 28 días del 31 de mayo. Partido Liberal se sumó a Valencia el 29 abr, consolidando la coalición opositora más amplia. Cepeda presentó 'Alianza por la Vida' y recibió respaldo de centrales sindicales. Encuestas: Cepeda 38% (1.ª vuelta), De la Espriella 23,9%, Valencia 22,8%; en 2.ª vuelta Valencia derrotaría a Cepeda (44,6% vs. 40,1%)."
   },
-  "ultimo_deploy": "2026-05-02T08:00:00Z"
+  "ultimo_deploy": "2026-05-03T08:00:00Z"
 }
