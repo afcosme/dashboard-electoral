@@ -1,21 +1,21 @@
 {
-  "fecha": "5 de mayo de 2026",
+  "fecha": "6 de mayo de 2026",
   "noticias": [
     {
       "filter": "cepeda",
-      "fuente": "El Espectador",
+      "fuente": "El Tiempo",
       "fuente_color": "#27ae60",
       "fecha": "5 may 2026",
-      "tag": "Cepeda · CNE",
+      "tag": "Cepeda · Coalición",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "CNE abre indagaciones al Pacto Histórico y a Defensores de la Patria; se reaviva el choque institucional",
-      "resumen": "El Consejo Nacional Electoral avocó conocimiento de investigaciones administrativas contra las colectividades de Iván Cepeda (Pacto Histórico) y Abelardo De la Espriella (Defensores de la Patria). La decisión, adoptada a 26 días de la primera vuelta del 31 de mayo, reavivó el enfrentamiento entre el poder electoral y los dos candidatos que lideran todas las encuestas.",
-      "objetividad": 91,
+      "titulo": "Campaña de Cepeda alista evento para sumar liberales disidentes pese a directriz del partido de apoyar a Valencia",
+      "resumen": "La campaña de Iván Cepeda prepara para el 12 de mayo un acto político en el que militantes del Partido Liberal se sumarían oficialmente a su coalición, pese a que la dirección del partido respaldó formalmente a Paloma Valencia. La movida busca fracturar el voto liberal y ampliar la base del Pacto Histórico a 26 días de la primera vuelta del 31 de mayo.",
+      "objetividad": 88,
       "criterios": [
         {
           "ok": true,
-          "texto": "Hecho institucional verificable: apertura oficial de indagaciones del CNE"
+          "texto": "Hecho verificable: evento anunciado para el 12 de mayo"
         },
         {
           "ok": true,
@@ -23,71 +23,71 @@
         },
         {
           "ok": true,
-          "texto": "Noticia del 5 de mayo — la más reciente disponible"
+          "texto": "Noticia del 5 de mayo — última jornada disponible"
         },
         {
           "ok": true,
-          "texto": "Alto impacto: afecta simultáneamente a los dos candidatos más votados"
+          "texto": "Impacto político real: divide al Partido Liberal"
         },
         {
           "ok": false,
-          "texto": "Causas específicas de las indagaciones no completamente desglosadas"
+          "texto": "No confirma número de liberales que asistirán"
         }
       ],
-      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/ivan-cepeda-y-abelardo-de-la-espriella-les-abren-a-indagaciones-de-cne-y-esto-revivio-choque-institucional-noticias-hoy/",
-      "url_label": "El Espectador - CNE abre indagaciones a Cepeda y De la Espriella"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/campana-de-ivan-cepeda-alista-evento-para-que-liberales-se-sumen-a-su-coalicion-pese-a-directriz-del-partido-de-apoyar-a-paloma-valencia-3553218",
+      "url_label": "El Tiempo - Cepeda alista evento para sumar liberales disidentes"
     },
     {
       "filter": "cepeda",
-      "fuente": "La FM",
+      "fuente": "El Tiempo",
       "fuente_color": "#27ae60",
       "fecha": "5 may 2026",
-      "tag": "Cepeda · Segunda vuelta",
+      "tag": "Cepeda · Adhesión",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "¿Habrá segunda vuelta presidencial? Analista descarta victoria de Iván Cepeda en primera vuelta",
-      "resumen": "Analistas descartan que Cepeda pueda alcanzar el 50%+1 el 31 de mayo. Pese a liderar todas las encuestas (CAMBIO-CNC: 37,2%; Guarumo: 38%; Invamer: 44,3%), la fragmentación del voto opositor y la creciente coalición detrás de Valencia consolidan la segunda vuelta del 21 de junio como escenario casi inevitable.",
-      "objetividad": 86,
+      "titulo": "Luis Gilberto Murillo renuncia a su candidatura presidencial y se adhiere oficialmente a Cepeda",
+      "resumen": "El ex canciller Luis Gilberto Murillo desistió de su candidatura y formalizó su adhesión a la campaña de Iván Cepeda. La suma amplía la coalición del candidato del Pacto Histórico con un perfil técnico y de centroizquierda que refuerza la narrativa ambiental y de gestión territorial a 26 días de la primera vuelta.",
+      "objetividad": 90,
       "criterios": [
         {
           "ok": true,
-          "texto": "Análisis sustentado en encuestas verificables (CNC, Guarumo, Invamer)"
+          "texto": "Hecho verificable: renuncia y adhesión oficiales anunciadas"
         },
         {
           "ok": true,
-          "texto": "Fuente radial de referencia nacional"
+          "texto": "Fuente de referencia nacional de primer orden"
         },
         {
           "ok": true,
-          "texto": "Consenso analítico: todos los estudios apuntan a segunda vuelta"
+          "texto": "Impacto estratégico: suma candidato con perfil diferenciado"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia del 5 de mayo — muy reciente"
         },
         {
           "ok": false,
-          "texto": "No especifica el umbral exacto que necesitaría Cepeda para ganar en primera"
-        },
-        {
-          "ok": true,
-          "texto": "Alta relevancia a 26 días de la primera vuelta"
+          "texto": "No cuantifica el aporte en votos esperado"
         }
       ],
-      "url": "https://www.lafm.com.co/politica/ivan-cepeda-segunda-vuelta-elecciones-presidenciales-colombia-encuentas-397585",
-      "url_label": "La FM - Analista descarta victoria de Cepeda en primera vuelta"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-busca-la-campana-de-ivan-cepeda-con-la-renuncia-luis-gilberto-murillo-a-la-candidatura-presidencial-y-su-adhesion-oficial-3553424",
+      "url_label": "El Tiempo - Murillo renuncia y se adhiere a campaña de Cepeda"
     },
     {
       "filter": "cepeda",
       "fuente": "Cambio Colombia",
       "fuente_color": "#27ae60",
       "fecha": "5 may 2026",
-      "tag": "Cepeda · Encuesta",
+      "tag": "Cepeda · Segunda vuelta",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Nueva encuesta CAMBIO–CNC: Cepeda se mantiene arriba, Abelardo crece y Paloma cae",
-      "resumen": "La encuesta CAMBIO-CNC (2.157 personas, 56 municipios, margen ±3%, confianza 95%) ratifica a Cepeda en el primer lugar con 37,2%. De la Espriella sube al 20,4% y desplaza a Paloma Valencia (15,6%). En segunda vuelta, Cepeda vencería a De la Espriella (46,4% vs 37,9%), mientras el escenario contra Valencia es más competido.",
-      "objetividad": 93,
+      "titulo": "Cepeda amplía ventaja frente a Valencia en segunda vuelta y analistas estudian reconfiguración de bloques",
+      "resumen": "Según la encuesta CNC publicada por Cambio, Cepeda amplía su ventaja sobre Valencia en el escenario de segunda vuelta. Analistas estudian cómo se redistribuirían los votos de De la Espriella si el abogado no pasa al balotaje, con bloques que podrían inclinar la balanza para el candidato del Pacto Histórico o para la senadora del Centro Democrático.",
+      "objetividad": 87,
       "criterios": [
         {
           "ok": true,
-          "texto": "Encuesta del CNC con metodología y margen de error publicados"
+          "texto": "Basado en encuesta CNC con metodología publicada"
         },
         {
           "ok": true,
@@ -95,143 +95,35 @@
         },
         {
           "ok": true,
-          "texto": "Muestra representativa: 2.157 personas en 56 municipios"
-        },
-        {
-          "ok": true,
-          "texto": "Datos verificables: confianza 95%, margen ±3%"
+          "texto": "Análisis de escenarios prospectivos con datos reales"
         },
         {
           "ok": false,
-          "texto": "No detalla distribución del voto en blanco ni indecisos"
+          "texto": "Proyecciones de traslado de voto son parcialmente especulativas"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia del 5 de mayo — muy reciente"
         }
       ],
-      "url": "https://cambiocolombia.com/elecciones-colombia-2026/articulo/2026/5/encuesta-de-cambio-y-el-cnc-paloma-pierde-impulso-abelardo-remonta-y-cepeda-los-mira-desde-arriba/",
-      "url_label": "Cambio Colombia - Nueva encuesta CAMBIO-CNC: Cepeda arriba, Abelardo crece"
+      "url": "https://cambiocolombia.com/elecciones-colombia-2026/articulo/2026/5/ivan-cepeda-amplia-ventaja-frente-a-paloma-valencia-en-segunda-vuelta-como-se-reconfigurarian-los-bloques/",
+      "url_label": "Cambio Colombia - Cepeda amplía ventaja en segunda vuelta"
     },
     {
       "filter": "valencia",
-      "fuente": "Infobae Colombia",
+      "fuente": "El Espectador",
       "fuente_color": "#3498db",
-      "fecha": "4 may 2026",
-      "tag": "Valencia · Segunda vuelta",
+      "fecha": "5 may 2026",
+      "tag": "Valencia · Debate",
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Paloma Valencia tendría más posibilidad de vencer a Iván Cepeda en segunda vuelta, según encuesta del CNC",
-      "resumen": "El CNC proyecta que Valencia derrotaría a Cepeda en segunda vuelta con mayor holgura que De la Espriella. Guarumo coincide: Valencia le ganaría a Cepeda 44,6% vs 40,1% en el balotaje. Pese a quedar tercera en primera vuelta (15,6%), la senadora es la candidata de la derecha con mejor pronóstico para el 21 de junio.",
-      "objetividad": 90,
+      "titulo": "Valencia le envía carta a De la Espriella para debatir sin Cepeda: \"No esperemos más\"",
+      "resumen": "Paloma Valencia envió formalmente una carta a Abelardo De la Espriella proponiendo un debate a dos —sin Iván Cepeda— para que los colombianos puedan comparar las propuestas de la oposición antes del 31 de mayo. La iniciativa busca posicionarla como la alternativa más sólida frente al candidato del Pacto Histórico.",
+      "objetividad": 91,
       "criterios": [
         {
           "ok": true,
-          "texto": "Basado en encuesta CNC reconocida con metodología publicada"
-        },
-        {
-          "ok": true,
-          "texto": "Guarumo refuerza el mismo escenario de segunda vuelta"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente internacional de referencia con cobertura Colombia"
-        },
-        {
-          "ok": true,
-          "texto": "Escenario de segunda vuelta respaldado por dos firmas distintas"
-        },
-        {
-          "ok": false,
-          "texto": "El escenario Valencia-Cepeda en segunda es hipotético si Valencia queda 3.ª"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/05/04/paloma-valencia-tendria-mas-posibilidad-de-vencer-a-ivan-cepeda-en-una-segunda-vuelta-presidencial-segun-encuesta-del-cnc/",
-      "url_label": "Infobae - Valencia tendría más posibilidad de vencer a Cepeda en segunda vuelta"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#3498db",
-      "fecha": "29 abr 2026",
-      "tag": "Valencia · Coalición",
-      "tag_color": "#3498db",
-      "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Partido Liberal respaldará la candidatura presidencial de Paloma Valencia",
-      "resumen": "El Partido Liberal formalizó el respaldo a Paloma Valencia mediante decisión mayoritaria de sus bancadas del Congreso. El acuerdo programático incluye el compromiso explícito de no promover una Asamblea Nacional Constituyente. Valencia reúne ahora a Centro Democrático, Conservadores, Cambio Radical y Liberales en la coalición opositora más amplia de la contienda.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Hecho político verificable: decisión formal de bancadas"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente internacional de referencia con cobertura Colombia"
-        },
-        {
-          "ok": true,
-          "texto": "Relevancia electoral máxima: une 4 grandes partidos"
-        },
-        {
-          "ok": true,
-          "texto": "Acuerdo programático concreto publicado"
-        },
-        {
-          "ok": false,
-          "texto": "Sin análisis del impacto cuantitativo en votos"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/04/29/partido-liberal-respaldara-la-candidatura-presidencial-de-paloma-valencia-tras-decision-mayoritaria-de-las-bancadas-del-congreso/",
-      "url_label": "Infobae - Partido Liberal respalda a Paloma Valencia"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#e67e22",
-      "fecha": "4 may 2026",
-      "tag": "De la Espriella · Campaña",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella intensificó choque con el uribismo: \"La Paloma no alcanza lo que el tigre puede conseguir\"",
-      "resumen": "Tras la encuesta CNC que lo ubica en segundo lugar (20,4%), Abelardo De la Espriella recrudeció su ofensiva contra Paloma Valencia y el uribismo. El abogado busca capitalizar el crecimiento consolidando el voto de derecha anti-establecimiento, diferenciándose de la candidata del Centro Democrático con argumentos de impacto y electabilidad en segunda vuelta.",
-      "objetividad": 85,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaraciones directas del candidato verificables"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente internacional de referencia con cobertura Colombia"
-        },
-        {
-          "ok": true,
-          "texto": "Contextualiza el enfrentamiento en el marco de la encuesta CNC"
-        },
-        {
-          "ok": false,
-          "texto": "Análisis del impacto en intención de voto no incluido"
-        },
-        {
-          "ok": true,
-          "texto": "Noticia del 4 may — muy reciente, 27 días antes del 31 de mayo"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/05/04/abelardo-de-la-espriella-siguio-su-enfrentamiento-con-el-uribismo-tras-los-resultados-de-las-ultimas-encuestas-la-paloma-no-alcanza-lo-que-el-tigre-puede-conseguir/",
-      "url_label": "Infobae - De la Espriella: 'La Paloma no alcanza lo que el tigre puede conseguir'"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Tiempo",
-      "fuente_color": "#e67e22",
-      "fecha": "4 may 2026",
-      "tag": "De la Espriella · Jurídico",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Los detalles del proceso en el CNE que estudia el pedido de revocatoria de la inscripción de De la Espriella",
-      "resumen": "El Tiempo reveló los detalles del proceso que adelanta el CNE a solicitud de terceros que alegan irregularidades en las firmas presentadas para registrar la candidatura de De la Espriella. El organismo solicitó práctica de pruebas; la resolución podría llegar en los próximos días, antes del 31 de mayo.",
-      "objetividad": 89,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Hecho institucional verificable: proceso formal ante el CNE"
+          "texto": "Hecho verificable: carta formal enviada y publicada"
         },
         {
           "ok": true,
@@ -239,55 +131,163 @@
         },
         {
           "ok": true,
-          "texto": "Detalla el mecanismo procesal y los próximos pasos"
+          "texto": "Noticia del 5 de mayo — más reciente disponible"
         },
         {
           "ok": true,
-          "texto": "Alto impacto potencial: podría cancelar la candidatura antes del 31 de mayo"
+          "texto": "Alto impacto: define disputa por el segundo cupo en segunda vuelta"
         },
         {
           "ok": false,
-          "texto": "Resolución final del CNE aún pendiente"
+          "texto": "Respuesta de De la Espriella llegó en paralelo, cambiando el contexto"
         }
       ],
-      "url": "https://www.eltiempo.com/amp/politica/elecciones-colombia-2026/los-detalles-del-proceso-en-el-cne-que-estudia-pedido-de-revocatoria-de-la-inscripcion-de-abelardo-de-la-espriella-como-candidato-presidencial-3552735",
-      "url_label": "El Tiempo - Detalles del proceso en el CNE contra De la Espriella"
+      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/paloma-valencia-le-envio-carta-a-de-la-espriella-planteando-debate-sin-cepeda-no-esperemos-mas/",
+      "url_label": "El Espectador - Valencia propone debate sin Cepeda a De la Espriella"
+    },
+    {
+      "filter": "valencia",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#3498db",
+      "fecha": "5 may 2026",
+      "tag": "Valencia · Polémica",
+      "tag_color": "#3498db",
+      "tag_bg": "rgba(52,152,219,0.15)",
+      "titulo": "Valencia a De la Espriella tras rechazo al debate: \"El de las jugarretas eres tú\"",
+      "resumen": "Paloma Valencia respondió con dureza al rechazo de Abelardo De la Espriella a su propuesta de debate. La candidata lo acusó de evadir el contraste de ideas y afirmó que su rival es quien practica las jugarretas políticas, en referencia a la estrategia de De la Espriella de mantener a Cepeda en el debate para no ser exhibido frente al voto de derecha.",
+      "objetividad": 83,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Declaraciones directas verificadas de Valencia"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente internacional de referencia con cobertura Colombia"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia del 5 de mayo — muy reciente"
+        },
+        {
+          "ok": false,
+          "texto": "Tono confrontacional puede sesgar la presentación del hecho"
+        },
+        {
+          "ok": true,
+          "texto": "Relevante: revela la estrategia de ambos candidatos"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/05/05/paloma-valencia-se-despacho-contra-abelardo-de-la-espriella-por-su-respuesta-ante-propuesta-de-debatir-el-de-las-jugarretas-eres-tu/",
+      "url_label": "Infobae - Valencia: 'El de las jugarretas eres tú'"
+    },
+    {
+      "filter": "valencia",
+      "fuente": "Pulzo",
+      "fuente_color": "#3498db",
+      "fecha": "5 may 2026",
+      "tag": "Valencia · Campaña",
+      "tag_color": "#3498db",
+      "tag_bg": "rgba(52,152,219,0.15)",
+      "titulo": "Multitudinario recibimiento a Paloma Valencia en el Meta a un mes de las elecciones",
+      "resumen": "Paloma Valencia recibió una masiva bienvenida en el departamento del Meta en uno de sus actos de campaña más concurridos. La movilización sorprendió por su magnitud, a un mes de la primera vuelta del 31 de mayo, en un departamento históricamente conservador donde la candidata busca consolidar su base electoral.",
+      "objetividad": 85,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Hecho verificable: acto de campaña documentado con imágenes"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente de medios digital de referencia"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia del 5 de mayo — muy reciente"
+        },
+        {
+          "ok": false,
+          "texto": "'Multitudinario' es adjetivo valorativo sin cifras de asistencia"
+        },
+        {
+          "ok": true,
+          "texto": "Relevante para medir la movilización territorial de Valencia"
+        }
+      ],
+      "url": "https://www.pulzo.com/elecciones-colombia-2026/multitudinario-recibimiento-paloma-valencia-meta-cerca-elecciones-PP5165004",
+      "url_label": "Pulzo - Multitudinario recibimiento a Valencia en el Meta"
     },
     {
       "filter": "espriella",
       "fuente": "Infobae Colombia",
       "fuente_color": "#e67e22",
-      "fecha": "3 may 2026",
-      "tag": "De la Espriella · Encuesta",
+      "fecha": "5 may 2026",
+      "tag": "De la Espriella · Debate",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella le toma ventaja a Paloma Valencia y disputaría segunda vuelta contra Cepeda, según CNC",
-      "resumen": "La encuesta del CNC posiciona a De la Espriella en segundo lugar con 20,4%, superando a Paloma Valencia (15,6%) y acercándose a Cepeda (37,2%). En segunda vuelta, De la Espriella obtendría 37,9% frente al 46,4% de Cepeda. El salto redefine la disputa por el segundo cupo en el balotaje del 21 de junio.",
-      "objetividad": 91,
+      "titulo": "De la Espriella rechaza debate sin Cepeda propuesto por Valencia: \"No es para jugarreticas\"",
+      "resumen": "Abelardo De la Espriella rechazó la propuesta de Paloma Valencia de debatir a dos sin Iván Cepeda, calificándola de jugarretica. El candidato argumentó que el debate debe incluir a todos los contendientes relevantes y contrapropuso llevar a Valencia a un debate que incluya al candidato del Pacto Histórico.",
+      "objetividad": 88,
       "criterios": [
         {
           "ok": true,
-          "texto": "Datos directamente de encuesta CNC reconocida"
+          "texto": "Declaraciones directas verificadas de De la Espriella"
         },
         {
           "ok": true,
-          "texto": "Fuente internacional con cobertura electoral Colombia"
+          "texto": "Fuente internacional de referencia con cobertura Colombia"
         },
         {
           "ok": true,
-          "texto": "Cambio significativo: De la Espriella supera a Valencia"
+          "texto": "Noticia del 5 de mayo — la más reciente disponible"
         },
         {
           "ok": true,
-          "texto": "Proyecta escenario de segunda vuelta con cifras concretas"
+          "texto": "Cierra el ciclo informativo del cruce de propuestas de debate"
         },
         {
           "ok": false,
-          "texto": "No menciona margen de error de la encuesta"
+          "texto": "No aclara si rechaza todos los formatos de debate o solo ese"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/05/03/abelardo-de-la-espriella-le-toma-ventaja-a-paloma-valencia-y-disputaria-una-segunda-vuelta-contra-ivan-cepeda-segun-encuesta-del-centro-nacional-de-consultoria/",
-      "url_label": "Infobae - De la Espriella supera a Valencia según CNC"
+      "url": "https://www.infobae.com/colombia/2026/05/05/abelardo-de-la-espriella-no-acepto-la-propuesta-de-paloma-valencia-para-tener-un-debate-entre-ellos-no-es-para-jugarreticas/",
+      "url_label": "Infobae - De la Espriella rechaza debate sin Cepeda"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#e67e22",
+      "fecha": "5 may 2026",
+      "tag": "De la Espriella · Plebiscito",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella: se retiraría de la carrera si Valencia prueba que votó 'Sí' en el plebiscito de 2016",
+      "resumen": "En una jugada política de alto riesgo, Abelardo De la Espriella afirmó que abandonaría la contienda presidencial si Paloma Valencia logra demostrar que él votó 'Sí' en el plebiscito por la paz de 2016. El candidato negó haber apoyado el acuerdo y retó a Valencia a presentar la evidencia, en lo que se configura como uno de los cruces más tensos de la campaña.",
+      "objetividad": 87,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Declaraciones directas verificadas del candidato"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente internacional de referencia con cobertura Colombia"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia del 5 de mayo — muy reciente"
+        },
+        {
+          "ok": true,
+          "texto": "Apuesta política de alto impacto: involucra posible retiro de candidatura"
+        },
+        {
+          "ok": false,
+          "texto": "No aclara si Valencia ya tiene o no la evidencia solicitada"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/05/05/de-la-espriella-aseguro-que-se-apartara-de-las-elecciones-si-paloma-valencia-demuestra-que-voto-si-en-el-plebiscito-si-ocurre-lo-contrario/",
+      "url_label": "Infobae - De la Espriella: se retira si Valencia prueba voto en plebiscito"
     }
   ],
   "sentimiento": {
@@ -295,29 +295,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 20,
-        "negativo": 64,
+        "positivo": 18,
+        "negativo": 66,
         "neutro": 16,
         "tendencia": "down",
-        "tendencia_texto": "Doble frente institucional: el CNE abrió indagaciones a Defensores de la Patria junto al Pacto Histórico (El Espectador, 5 may), y el proceso de revocatoria de su inscripción avanza con solicitud de pruebas (El Tiempo, 4 may). Su respuesta combativa —\"La Paloma no alcanza lo que el tigre puede conseguir\" (Infobae, 4 may)— genera cobertura dividida. CAMBIO-CNC lo ratifica en 2.° lugar con 20,4%, pero la amenaza jurídica domina la narrativa mediática a 26 días del 31 de mayo."
+        "tendencia_texto": "Jornada turbulenta: rechazó el debate propuesto por Valencia (Infobae, 5 may), afirmó que se retiraría si ella prueba su voto en el plebiscito de 2016 (Infobae, 5 may), y el CNE continúa analizando la revocatoria de su inscripción (Infobae, 2 may). Cobertura predominantemente negativa. En encuestas mantiene el segundo lugar con 20,4% (CAMBIO-CNC)."
       },
       {
         "nombre": "Valencia",
         "color": "#3498db",
-        "positivo": 68,
-        "negativo": 16,
+        "positivo": 60,
+        "negativo": 24,
         "neutro": 16,
         "tendencia": "stable",
-        "tendencia_texto": "Señales mixtas: el CNC y Guarumo la proyectan como la más opcionada para derrotar a Cepeda en segunda vuelta (Infobae, 4 may), pero cae al 15,6% en primera vuelta según CAMBIO-CNC. La coalición CD + Conservadores + Cambio Radical + Liberales es la más amplia de la contienda (Infobae, 29 abr). El debate se centra en si puede pasar a segunda vuelta desde el tercer lugar."
+        "tendencia_texto": "Día activo en medios: propuso debate a De la Espriella (El Espectador, 5 may), lo calificó de practicar 'jugarretas' tras su rechazo (Infobae, 5 may), y recibió masiva bienvenida en el Meta (Pulzo, 5 may). Cobertura mixta pero mayoritariamente favorable. Encuestas CNC la sitúan en 15,6% en primera vuelta, aunque lidera el escenario de segunda vuelta contra Cepeda."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 46,
-        "negativo": 34,
+        "positivo": 48,
+        "negativo": 32,
         "neutro": 20,
-        "tendencia": "stable",
-        "tendencia_texto": "Lidera todas las encuestas: CAMBIO-CNC 37,2%; Guarumo 38%; Invamer 44,3%. El 5 de mayo el CNE abrió indagaciones al Pacto Histórico (El Espectador), añadiendo cobertura negativa. Analistas y medios coinciden en que no ganará en primera vuelta (La FM, 5 may). La segunda vuelta del 21 de junio es el escenario dominante: CNC lo proyecta venciendo a De la Espriella (46,4% vs 37,9%)."
+        "tendencia": "up",
+        "tendencia_texto": "Consolidación de coalición: Murillo renuncia a su candidatura y se adhiere formalmente a Cepeda (El Tiempo, 5 may), y la campaña alista evento para sumar liberales disidentes el 12 de mayo (El Tiempo, 5 may). Encuestas lo mantienen líder: CNC 37,2%, Guarumo 38%, Invamer 44,3%. Segunda vuelta el 21 de junio es escenario casi inevitable."
       },
       {
         "nombre": "Fajardo",
@@ -360,7 +360,7 @@
       "pct": 20.4,
       "fuente_encuesta": "CAMBIO-CNC (5 may 2026)"
     },
-    "resumen_analisis": "Basado en 8 noticias del 3–5 may 2026 y encuesta CAMBIO-CNC del 5 de mayo. HITO DEL DÍA: El CNE abrió indagaciones contra el Pacto Histórico (Cepeda) y Defensores de la Patria (De la Espriella), reavivando el choque institucional a 26 días del 31 de mayo. Encuesta CAMBIO-CNC confirma: Cepeda 37,2% / De la Espriella 20,4% / Valencia 15,6%. La segunda vuelta es escenario casi inevitable; Valencia es la más opcionada para derrotar a Cepeda en balotaje según CNC y Guarumo, pese a quedar 3.ª en primera vuelta."
+    "resumen_analisis": "Basado en 8 noticias del 5 may 2026 y encuesta CAMBIO-CNC del 5 de mayo. HITO DEL DÍA: La batalla por el segundo cupo en segunda vuelta dominó la agenda — Valencia propuso debate sin Cepeda (El Espectador), De la Espriella lo rechazó (Infobae) y apostó su candidatura a que ella no puede probar su voto en el plebiscito de 2016 (Infobae). Mientras tanto Cepeda suma apoyos: Murillo se adhiere a su campaña (El Tiempo) y prepara evento con liberales disidentes para el 12 de mayo. Encuesta CAMBIO-CNC ratifica: Cepeda 37,2% / De la Espriella 20,4% / Valencia 15,6%. Primera vuelta: 31 de mayo. Segunda vuelta: 21 de junio."
   },
-  "ultimo_deploy": "2026-05-05T12:00:00Z"
+  "ultimo_deploy": "2026-05-06T12:00:00Z"
 }
