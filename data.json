@@ -1,173 +1,293 @@
 {
-  "fecha": "9 de mayo de 2026",
+  "fecha": "10 de mayo de 2026",
   "noticias": [
     {
       "filter": "cepeda",
       "fuente": "El Espectador",
       "fuente_color": "#27ae60",
-      "fecha": "7 may 2026",
-      "tag": "Cepeda · Finanzas de campaña",
+      "fecha": "8 may 2026",
+      "tag": "Cepeda · Campaña",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda, el único candidato principal que no presentó gastos de campaña ante el CNE",
-      "resumen": "El 7 de mayo, Valencia, López, Fajardo, Barreras y De la Espriella presentaron sus informes de ingresos y gastos de campaña ante el Consejo Nacional Electoral. Iván Cepeda fue el único candidato de los tres punteros en ausentarse del reporte, lo que generó preguntas sobre la transparencia de su financiación a 23 días de la primera vuelta.",
-      "objetividad": 88,
+      "titulo": "Cepeda, De la Espriella, Valencia, López y Fajardo sacuden sus agendas a 23 días de la primera vuelta",
+      "resumen": "Con 23 días para la primera vuelta del 31 de mayo, los cinco candidatos con mayor intención de voto intensificaron sus agendas simultáneamente. Cepeda concentró su campaña en zonas urbanas; De la Espriella visitó la Costa Caribe tras el respaldo del clan Char; Valencia reforzó apariciones mediáticas. El cierre de campaña marca la última etapa de una contienda que, según todas las encuestas, terminará en segunda vuelta.",
+      "objetividad": 90,
       "criterios": [
-        {"ok": true, "texto": "Hecho verificable: CNE publicó lista de quienes reportaron"},
-        {"ok": true, "texto": "Fuente de referencia nacional de primer orden"},
-        {"ok": true, "texto": "Noticia del 7 de mayo — más reciente disponible"},
-        {"ok": true, "texto": "Impacto político real: cuestiona transparencia del líder de encuestas"},
-        {"ok": false, "texto": "No se informó si Cepeda aún está en plazo para presentar"}
+        {
+          "ok": true,
+          "texto": "Hecho verificable: agendas públicas de todos los candidatos"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente de referencia nacional de primer orden"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia del 8 de mayo — 48 horas recientes"
+        },
+        {
+          "ok": true,
+          "texto": "Cubre el panorama completo de la campaña"
+        },
+        {
+          "ok": false,
+          "texto": "No detalla los eventos específicos de cada candidato"
+        }
       ],
-      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/valencia-lopez-fajardo-barreras-y-de-la-espriella-presentaron-sus-gastos-de-campana-ante-cne-falta-cepeda-noticias-hoy/",
-      "url_label": "El Espectador - Candidatos reportan gastos; falta Cepeda"
+      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/cepeda-de-la-espriella-valencia-lopez-y-fajardo-sacuden-sus-agendas-a-23-dias-de-la-primera-vuelta-en-colombia-noticias-hoy/",
+      "url_label": "El Espectador - Candidatos sacuden agendas a 23 días del 31 de mayo"
     },
     {
       "filter": "cepeda",
-      "fuente": "El Tiempo",
+      "fuente": "Yahoo Noticias",
       "fuente_color": "#27ae60",
-      "fecha": "6 may 2026",
-      "tag": "Cepeda · Seguridad electoral",
+      "fecha": "9 may 2026",
+      "tag": "Cepeda · Desinformación",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda denuncia presiones de grupos armados en elecciones y abre disputa con Valencia",
-      "resumen": "Iván Cepeda alertó sobre presiones de grupos armados sobre el proceso electoral, denuncia que generó un cruce abierto con Paloma Valencia. La candidata del Centro Democrático cuestionó la veracidad de los señalamientos, en lo que se convirtió en uno de los debates más tensos a 25 días de la primera vuelta del 31 de mayo.",
-      "objetividad": 87,
-      "criterios": [
-        {"ok": true, "texto": "Denuncia pública verificable del candidato"},
-        {"ok": true, "texto": "Fuente de referencia nacional de primer orden"},
-        {"ok": true, "texto": "Noticia del 6 de mayo — jornada anterior confirmada"},
-        {"ok": true, "texto": "Impacto político real: abre debate sobre seguridad electoral"},
-        {"ok": false, "texto": "No especifica qué grupos ni en qué regiones exactas"}
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/denuncia-de-ivan-cepeda-sobre-presiones-de-grupos-armados-para-las-elecciones-abrio-disputa-con-paloma-valencia-por-que-3553625",
-      "url_label": "El Tiempo - Cepeda denuncia presiones de grupos armados"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#27ae60",
-      "fecha": "7 may 2026",
-      "tag": "Cepeda · Mercados de predicción",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Polymarket refleja empate técnico entre Cepeda y De la Espriella en la primera vuelta",
-      "resumen": "La plataforma internacional de predicciones Polymarket mostró el 7 de mayo un empate técnico entre Iván Cepeda (39%) y Abelardo De la Espriella (38%) en las apuestas sobre la primera vuelta del 31 de mayo. El dato contrasta con las encuestas tradicionales que aún le dan a Cepeda una ventaja de entre 17 y 23 puntos porcentuales.",
-      "objetividad": 82,
-      "criterios": [
-        {"ok": true, "texto": "Dato verificable: cifras públicas de Polymarket al 7 de mayo"},
-        {"ok": true, "texto": "Fuente internacional de referencia con cobertura Colombia"},
-        {"ok": true, "texto": "Noticia del 7 de mayo — reciente con alto impacto mediático"},
-        {"ok": false, "texto": "Polymarket es mercado de apuestas, no encuesta estadística representativa"},
-        {"ok": false, "texto": "No explica por qué diverge de las encuestas tradicionales"}
-      ],
-      "url": "https://www.infobae.com/colombia/2026/05/07/polymarket-refleja-un-empate-tecnico-entre-ivan-cepeda-y-abelardo-de-la-espriella-en-la-contienda-presidencial/",
-      "url_label": "Infobae - Polymarket: empate técnico Cepeda vs De la Espriella"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "Pulzo",
-      "fuente_color": "#3498db",
-      "fecha": "7 may 2026",
-      "tag": "Valencia · Controversia",
-      "tag_color": "#3498db",
-      "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Disputa por tierras en Vichada enciende la campaña: Valencia responde a Cepeda",
-      "resumen": "Una nueva controversia entre Iván Cepeda y Paloma Valencia estalló alrededor de la situación de tierras en La Primavera, Vichada. Valencia respondió con dureza a las afirmaciones de Cepeda, abriendo un nuevo frente de debate sobre jurisdicción agraria y seguridad jurídica rural a 23 días de las elecciones presidenciales.",
+      "titulo": "Sondeo que daba a Cepeda ganador en primera vuelta fue elaborado con inteligencia artificial",
+      "resumen": "Un sondeo viral que circuló en redes sociales afirmando que Iván Cepeda ganaría en primera vuelta fue desacreditado al confirmarse que fue elaborado con inteligencia artificial. La revelación reavivó el debate sobre desinformación en la campaña. Las encuestas reales (Invamer: 44,3%; CAMBIO-CNC: 37,2%) lo mantienen como líder pero sin alcanzar el 50% necesario para evitar segunda vuelta.",
       "objetividad": 85,
       "criterios": [
-        {"ok": true, "texto": "Hecho verificable: declaraciones directas de ambos candidatos"},
-        {"ok": true, "texto": "Fuente digital de referencia nacional"},
-        {"ok": true, "texto": "Noticia del 7 de mayo — más reciente disponible"},
-        {"ok": true, "texto": "Nuevo frente de campaña con impacto en agenda rural"},
-        {"ok": false, "texto": "No se expone la posición de De la Espriella sobre el tema"}
+        {
+          "ok": true,
+          "texto": "Hecho verificable: sondeo fue identificado como generado por IA"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente con amplia distribución nacional e internacional"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia del 9 de mayo — reciente con impacto en redes"
+        },
+        {
+          "ok": true,
+          "texto": "Alto impacto: debate sobre desinformación en campaña electoral"
+        },
+        {
+          "ok": false,
+          "texto": "No especifica quién elaboró el sondeo con IA ni con qué herramienta"
+        }
       ],
-      "url": "https://www.pulzo.com/nacion/polemica-por-tierras-en-la-primavera-paloma-valencia-responde-a-cepeda-y-aviva-debate-sobre-jurisdiccion-agraria-PP5170628A",
-      "url_label": "Pulzo - Valencia responde a Cepeda por tierras en Vichada"
+      "url": "https://es-us.noticias.yahoo.com/sondeo-iv%C3%A1n-cepeda-ganar%C3%ADa-vuelta-205900195.html",
+      "url_label": "Yahoo Noticias - Sondeo de Cepeda ganando en primera vuelta fue hecho con IA"
     },
     {
       "filter": "valencia",
       "fuente": "Infobae Colombia",
       "fuente_color": "#3498db",
-      "fecha": "6 may 2026",
-      "tag": "Valencia · Fórmula vicepresidencial",
+      "fecha": "10 may 2026",
+      "tag": "Valencia · Polémica",
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Valencia aclaró si se arrepiente de escoger a Oviedo como su fórmula: 'He sufrido'",
-      "resumen": "Paloma Valencia respondió a las preguntas sobre su relación con Juan Daniel Oviedo, su fórmula vicepresidencial, declarando 'he sufrido' pero descartando arrepentimiento formal. La declaración revela tensiones internas en la campaña del Centro Democrático, que enfrenta cuestionamientos sobre la cohesión de su binomio a menos de un mes de la primera vuelta.",
+      "titulo": "Valencia respondió a Margarita Rosa por criticar el apoyo de Álvaro Uribe: 'Es un reflejo machista'",
+      "resumen": "Paloma Valencia salió al paso este domingo 10 de mayo de las críticas de la actriz y columnista Margarita Rosa de Francisco, quien cuestionó su cercanía con el expresidente Álvaro Uribe. Valencia calificó las críticas como 'un reflejo machista' y defendió el respaldo de Uribe como un activo legítimo de su campaña. El cruce generó amplia repercusión en redes sociales y medios nacionales a 21 días de la primera vuelta.",
       "objetividad": 86,
       "criterios": [
-        {"ok": true, "texto": "Declaración directa y verificable de la candidata"},
-        {"ok": true, "texto": "Fuente internacional de referencia con cobertura Colombia"},
-        {"ok": true, "texto": "Noticia del 6 de mayo — reciente con alta relevancia interna"},
-        {"ok": true, "texto": "Revela tensión real dentro de la campaña"},
-        {"ok": false, "texto": "No se explica el origen específico de las fricciones con Oviedo"}
+        {
+          "ok": true,
+          "texto": "Declaración directa y verificable de la candidata — hoy 10 may"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente internacional de referencia con cobertura Colombia"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia de hoy 10 de mayo — la más reciente disponible"
+        },
+        {
+          "ok": true,
+          "texto": "Alto impacto: enfrenta la narrativa de dependencia del uribismo"
+        },
+        {
+          "ok": false,
+          "texto": "No reproduce la crítica exacta de Margarita Rosa ni el contexto completo"
+        }
       ],
-      "url": "https://www.infobae.com/colombia/2026/05/06/paloma-valencia-aclaro-si-se-arrepiente-de-escoger-a-juan-daniel-oviedo-como-su-formula-vicepresidencial-he-sufrido/",
-      "url_label": "Infobae - Valencia: 'He sufrido' con Oviedo como fórmula vicepresidencial"
+      "url": "https://www.infobae.com/colombia/2026/05/10/paloma-valencia-se-despacho-contra-margarita-rosa-por-criticar-el-apoyo-que-recibe-de-alvaro-uribe-es-un-reflejo-machista/",
+      "url_label": "Infobae - Valencia responde a Margarita Rosa: 'Es un reflejo machista'"
     },
     {
       "filter": "valencia",
       "fuente": "Semana",
       "fuente_color": "#3498db",
-      "fecha": "8 may 2026",
-      "tag": "Valencia · Debate",
+      "fecha": "9 may 2026",
+      "tag": "Valencia · Mercados de predicción",
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Proponen compromisarios de las tres campañas para organizar un debate presidencial neutral",
-      "resumen": "Tras el episodio del debate con IA y los cruces entre Valencia y De la Espriella, se propuso que los compromisarios de las campañas de Cepeda, De la Espriella y Valencia acuerden las condiciones para un debate neutral antes del 31 de mayo. La propuesta busca destrabar las tensiones generadas alrededor del formato y la convocatoria.",
-      "objetividad": 89,
+      "titulo": "Valencia se desploma en Polymarket al 16% mientras De la Espriella se dispara al 40%",
+      "resumen": "La plataforma de predicciones Polymarket registró un desplome de Paloma Valencia del 24,8% al 16% en cuestión de días, mientras Abelardo De la Espriella se disparó hasta el 40%. El movimiento contrasta con las encuestas formales (CAMBIO-CNC: Valencia 15,6%, De la Espriella 20,4%) y refleja una percepción creciente de que De la Espriella sería el rival de Cepeda en segunda vuelta.",
+      "objetividad": 83,
       "criterios": [
-        {"ok": true, "texto": "Información verificable: propuesta pública de las tres campañas"},
-        {"ok": true, "texto": "Fuente de referencia nacional de primer orden"},
-        {"ok": true, "texto": "Noticia del 8 de mayo — ayer"},
-        {"ok": true, "texto": "Alta relevancia: define si habrá debate antes de la primera vuelta"},
-        {"ok": false, "texto": "No confirma si las tres campañas aceptaron formalmente"}
+        {
+          "ok": true,
+          "texto": "Datos verificables: cifras públicas de Polymarket"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente de referencia nacional de primer orden"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia del 9 de mayo — 24 horas"
+        },
+        {
+          "ok": true,
+          "texto": "Cubre el movimiento de ambos candidatos de centro-derecha"
+        },
+        {
+          "ok": false,
+          "texto": "Polymarket es mercado de apuestas, no encuesta estadística representativa"
+        }
       ],
-      "url": "https://www.semana.com/amp/confidenciales/articulo/proponen-compromisarios-de-las-campanas-de-cepeda-de-la-espriella-y-valencia-para-organizar-un-debate/202632/",
-      "url_label": "Semana - Proponen compromisarios para debate neutral"
+      "url": "https://www.semana.com/confidenciales/articulo/elecciones-2026-paloma-valencia-se-desploma-en-polymarket-y-llega-a-16-mientras-abelardo-de-la-espriella-se-dispara-y-registra-40/202618/",
+      "url_label": "Semana - Valencia cae a 16% en Polymarket; De la Espriella sube al 40%"
+    },
+    {
+      "filter": "valencia",
+      "fuente": "Semana",
+      "fuente_color": "#3498db",
+      "fecha": "9 may 2026",
+      "tag": "Valencia · Seguridad",
+      "tag_color": "#3498db",
+      "tag_bg": "rgba(52,152,219,0.15)",
+      "titulo": "Valencia acusa al Gobierno de liberar 29 criminales del clan del Golfo antes de las elecciones",
+      "resumen": "Paloma Valencia acusó al gobierno Petro de liberar a 29 miembros del clan del Golfo ad portas de las elecciones del 31 de mayo, señalando que responde a una estrategia política para influir en zonas de influencia del grupo armado. La denuncia busca posicionar la seguridad como eje central en los últimos días de campaña y capitalizar el voto anticrimen.",
+      "objetividad": 78,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Declaración pública y verificable de la candidata"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente de referencia nacional de primer orden"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia del 9 de mayo — 24 horas"
+        },
+        {
+          "ok": false,
+          "texto": "La acusación de motivo político es una interpretación de la candidata, no un hecho probado"
+        },
+        {
+          "ok": false,
+          "texto": "No se incluye la respuesta del Gobierno Petro a las acusaciones"
+        }
+      ],
+      "url": "https://www.semana.com/politica/articulo/paloma-valencia-tiene-claro-para-que-el-gobierno-libera-a-29-criminales-del-clan-del-golfo-ad-portas-de-elecciones-presidenciales/202635/",
+      "url_label": "Semana - Valencia acusa al Gobierno de liberar criminales del Golfo antes de elecciones"
     },
     {
       "filter": "espriella",
-      "fuente": "MSN Colombia",
+      "fuente": "Infobae Colombia",
       "fuente_color": "#e67e22",
       "fecha": "9 may 2026",
-      "tag": "De la Espriella · Adhesión clave",
+      "tag": "De la Espriella · Seguridad",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Clan Char formaliza hoy en Barranquilla su respaldo a De la Espriella",
-      "resumen": "El clan Char, encabezado por Fuad Char y sus aliados de Cambio Radical, celebran hoy 9 de mayo en Barranquilla el acto formal de adhesión a la campaña presidencial de Abelardo De la Espriella. El evento consolida una de las maquinarias políticas más poderosas de la Costa Caribe en torno al candidato que Polymarket ubica técnicamente empatado con Cepeda.",
-      "objetividad": 90,
+      "titulo": "De la Espriella denuncia presunto plan para asesinarlo con francotirador e involucra a la DNI: 'Esto es serio'",
+      "resumen": "Abelardo De la Espriella divulgó el 9 de mayo un video denunciando que fuentes de inteligencia le informaron sobre un plan para asesinarlo con francotirador durante la campaña, señalando a personal de la Dirección Nacional de Inteligencia (DNI). Con ciudadanía estadounidense, apeló a la embajada de EE.UU. por garantías de seguridad para él y su familia. El Gobierno no ha confirmado la información. La denuncia sacudió la recta final de la campaña.",
+      "objetividad": 80,
       "criterios": [
-        {"ok": true, "texto": "Hecho verificable: evento público convocado y confirmado"},
-        {"ok": true, "texto": "Fuente de referencia nacional y regional"},
-        {"ok": true, "texto": "Noticia de hoy 9 de mayo — la más reciente del día"},
-        {"ok": true, "texto": "Alto impacto: maquinaria Char es decisiva en la Costa Caribe"},
-        {"ok": false, "texto": "Aún no se reportan declaraciones oficiales post-evento"}
+        {
+          "ok": true,
+          "texto": "Denuncia pública verificable del candidato en video"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente internacional de referencia con cobertura Colombia"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia del 9 de mayo — 24 horas, la de mayor impacto del día"
+        },
+        {
+          "ok": false,
+          "texto": "La implicación de la DNI no ha sido corroborada por ningún ente oficial"
+        },
+        {
+          "ok": false,
+          "texto": "No hay respuesta oficial de la DNI ni del Gobierno Petro"
+        }
       ],
-      "url": "https://www.msn.com/es-co/noticias/other/el-clan-char-respaldar%C3%A1-a-abelardo-de-la-espriella-el-camino-a-las-elecciones-presidenciales-de-colombia-2026-en-vivo/ar-AA22x0SR",
-      "url_label": "MSN - Clan Char formaliza adhesión a De la Espriella en Barranquilla"
+      "url": "https://www.infobae.com/colombia/2026/05/09/abelardo-de-la-espriella-denuncio-presunto-plan-para-asesinarlo-y-salpico-a-la-direccion-nacional-de-inteligencia-esto-es-serio/",
+      "url_label": "Infobae - De la Espriella denuncia plan de asesinato con francotirador"
     },
     {
       "filter": "espriella",
-      "fuente": "El Espectador",
+      "fuente": "Vanguardia",
       "fuente_color": "#e67e22",
-      "fecha": "7 may 2026",
-      "tag": "De la Espriella · Finanzas",
+      "fecha": "9 may 2026",
+      "tag": "De la Espriella · Garantías",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella reportó los mayores ingresos de campaña: 32 mil millones de pesos ante el CNE",
-      "resumen": "Abelardo De la Espriella presentó sus informes de campaña ante el Consejo Nacional Electoral el 7 de mayo, reportando los mayores ingresos entre todos los candidatos con 32 mil millones de pesos y gastos de 14.067 millones. El dato contrasta con la ausencia del reporte de Cepeda y posiciona a De la Espriella como la campaña con mayor músculo financiero de la contienda.",
-      "objetividad": 90,
+      "titulo": "'Mi vida está en peligro': De la Espriella pide garantías al Gobierno y a EE.UU.",
+      "resumen": "Tras su denuncia del presunto plan de asesinato con francotirador, Abelardo De la Espriella amplió sus declaraciones afirmando que 'mi vida está en peligro' y pidió formalmente al gobierno colombiano y a la embajada de Estados Unidos garantías de seguridad para él y su familia. La solicitud de respaldo a Washington generó debate sobre la internacionalización de la campaña electoral colombiana.",
+      "objetividad": 81,
       "criterios": [
-        {"ok": true, "texto": "Datos verificables del CNE publicados oficialmente"},
-        {"ok": true, "texto": "Fuente de referencia nacional de primer orden"},
-        {"ok": true, "texto": "Noticia del 7 de mayo — reciente con dato concreto"},
-        {"ok": true, "texto": "Alto impacto: refuerza percepción de fortaleza financiera"},
-        {"ok": false, "texto": "No desglosa el origen de los 32 mil millones reportados"}
+        {
+          "ok": true,
+          "texto": "Declaración directa del candidato, verificable en múltiples medios"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente regional de referencia confirmando la declaración"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia del 9 de mayo — 24 horas"
+        },
+        {
+          "ok": false,
+          "texto": "No hay confirmación oficial de las amenazas denunciadas"
+        },
+        {
+          "ok": false,
+          "texto": "No se conoce respuesta de la embajada de EE.UU."
+        }
       ],
-      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/valencia-lopez-fajardo-barreras-y-de-la-espriella-presentaron-sus-gastos-de-campana-ante-cne-falta-cepeda-noticias-hoy/",
-      "url_label": "El Espectador - De la Espriella lidera ingresos de campaña"
+      "url": "https://www.vanguardia.com/colombia/2026/05/09/de-la-espriella-aseguro-que-lo-quieren-asesinar-con-un-francotirador/",
+      "url_label": "Vanguardia - 'Mi vida está en peligro': De la Espriella pide garantías"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#e67e22",
+      "fecha": "8 may 2026",
+      "tag": "De la Espriella · Propuestas",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella prometió extraditar a Petro si llega a la presidencia: 'El daño a Colombia no puede quedar impune'",
+      "resumen": "Abelardo De la Espriella lanzó uno de sus mensajes de campaña más contundentes el 8 de mayo al prometer que extraditaría al presidente Gustavo Petro si llegara a la presidencia, acusándolo de haber causado daño irreparable al país. La promesa de extradición —cuya viabilidad jurídica está en cuestión— busca capitalizar el descontento con el gobierno y anclar el voto antiPetro en De la Espriella.",
+      "objetividad": 82,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Declaración directa y verificable del candidato"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente internacional de referencia con cobertura Colombia"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia del 8 de mayo — 48 horas"
+        },
+        {
+          "ok": false,
+          "texto": "La promesa de extradición no tiene sustento jurídico claro explicado"
+        },
+        {
+          "ok": false,
+          "texto": "No se incluye la reacción del Gobierno Petro"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/05/08/abelardo-de-la-espriella-prometio-extraditar-a-petro-si-llega-a-la-presidencia-todo-el-dano-que-le-han-hecho-a-colombia-no-puede-quedar-impune/",
+      "url_label": "Infobae - De la Espriella: extraditar a Petro si llega a la presidencia"
     }
   ],
   "sentimiento": {
@@ -175,29 +295,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 36,
-        "negativo": 44,
-        "neutro": 20,
+        "positivo": 38,
+        "negativo": 40,
+        "neutro": 22,
         "tendencia": "up",
-        "tendencia_texto": "Semana de impulso: clan Char formaliza hoy adhesión en Barranquilla (9 may); Polymarket lo ubica técnicamente empatado con Cepeda (38% vs 39%, Infobae 7 may); lideró ingresos de campaña ante el CNE con 32 mil millones de pesos (El Espectador, 7 may). Encuesta CAMBIO-CNC: 20,4%."
+        "tendencia_texto": "Semana de alta intensidad: denuncia plan de asesinato con francotirador e involucra a la DNI (Infobae, 9 may); Polymarket lo ubica en 40%, superando a Cepeda (Semana, 9 may); prometió extraditar a Petro (Infobae, 8 may). Encuesta CAMBIO-CNC (5 may): 20,4%. El ruido generado impulsa visibilidad aunque la cobertura mezcla seguridad y propuestas de campaña."
       },
       {
         "nombre": "Valencia",
         "color": "#3498db",
-        "positivo": 38,
-        "negativo": 44,
+        "positivo": 34,
+        "negativo": 48,
         "neutro": 18,
         "tendencia": "down",
-        "tendencia_texto": "Semana de desgaste: admitió tensiones con su fórmula Oviedo ('he sufrido', Infobae 6 may); debate con IA generó críticas (6 may); nueva disputa con Cepeda por tierras en Vichada (Pulzo 7 may); Partido Liberal la respalda desde el 29 abr. Sigue siendo la mejor rival de Cepeda en segunda vuelta. CAMBIO-CNC: 15,6%."
+        "tendencia_texto": "Semana de desgaste: se desplomó en Polymarket al 16% (Semana, 9 may); respondió a Margarita Rosa sobre el apoyo de Uribe con 'Es un reflejo machista' (Infobae, 10 may); acusó al Gobierno de liberar 29 criminales del Golfo antes de elecciones (Semana, 9 may). Encuesta CAMBIO-CNC (5 may): 15,6%. Partido Liberal la respalda desde el 29 abr. Sigue siendo la mejor rival de Cepeda en segunda vuelta según encuestas formales."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 48,
+        "positivo": 47,
         "negativo": 33,
-        "neutro": 19,
+        "neutro": 20,
         "tendencia": "stable",
-        "tendencia_texto": "Sigue líder en encuestas formales (CAMBIO-CNC: 37,2%; Invamer 27 abr: 44,3%) pero Polymarket muestra empate técnico con De la Espriella (39% vs 38%). Único candidato principal que no reportó gastos al CNE al 7 de mayo (El Espectador). Coalición sólida: Murillo, Alianza Verde y Claudia López lo respaldan."
+        "tendencia_texto": "Mantiene liderazgo en encuestas formales (CAMBIO-CNC 37,2%; Invamer 27 abr: 44,3%) pero circuló sondeo falso con IA que lo daba ganador en primera vuelta, luego desacreditado (Yahoo Noticias, 9 may). Intensificó agenda de campaña con actos simultáneos en varias ciudades (El Espectador, 8 may). Polymarket lo sitúa en 39%, técnicamente igualado con De la Espriella (40%). Coalición sólida con Murillo, Alianza Verde y Claudia López."
       },
       {
         "nombre": "Fajardo",
@@ -240,7 +360,7 @@
       "pct": 20.4,
       "fuente_encuesta": "CAMBIO-CNC (5 may 2026)"
     },
-    "resumen_analisis": "Basado en 8 noticias del 6-9 may 2026 y encuesta CAMBIO-CNC del 5 de mayo. HITO DEL DÍA: El clan Char (Fuad Char y Cambio Radical) formaliza hoy en Barranquilla su adhesión a De la Espriella, una de las maquinarias más poderosas de la Costa Caribe. Polymarket muestra empate técnico Cepeda (39%) vs De la Espriella (38%), aunque las encuestas formales aún le dan amplia ventaja al líder del Pacto Histórico. Valencia admitió tensiones con su fórmula Oviedo ('he sufrido', Infobae 6 may). Cepeda es el único candidato principal que no reportó gastos al CNE al 7 de mayo. Encuestas: CAMBIO-CNC (5 may): Cepeda 37,2% / De la Espriella 20,4% / Valencia 15,6%. Invamer (27 abr): Cepeda 44,3% / De la Espriella 21,5% / Valencia 19,8%. Primera vuelta: 31 de mayo."
+    "resumen_analisis": "Basado en 8 noticias del 8-10 may 2026 y encuesta CAMBIO-CNC del 5 de mayo. HITO DEL DÍA: De la Espriella denuncia presunto plan para asesinarlo con francotirador e involucra a la DNI — la noticia de mayor impacto de la jornada (Infobae, 9 may). Polymarket: De la Espriella sube al 40% y Valencia cae al 16% (Semana, 9 may), mientras Cepeda se ubica en 39%. Un sondeo con IA que daba a Cepeda ganador en primera vuelta fue desacreditado (Yahoo Noticias, 9 may). Valencia respondió hoy a Margarita Rosa sobre las críticas al apoyo de Uribe: 'Es un reflejo machista' (Infobae, 10 may). Encuestas formales: CAMBIO-CNC (5 may): Cepeda 37,2% / De la Espriella 20,4% / Valencia 15,6%. Invamer (27 abr): Cepeda 44,3% / De la Espriella 21,5% / Valencia 19%. Primera vuelta: 31 de mayo."
   },
-  "ultimo_deploy": "2026-05-09T10:00:00Z"
+  "ultimo_deploy": "2026-05-10T10:00:00Z"
 }
