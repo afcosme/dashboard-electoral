@@ -1,21 +1,57 @@
 {
-  "fecha": "10 de mayo de 2026",
+  "fecha": "11 de mayo de 2026",
   "noticias": [
     {
-      "filter": "cepeda",
-      "fuente": "El Espectador",
-      "fuente_color": "#27ae60",
-      "fecha": "8 may 2026",
-      "tag": "Cepeda · Campaña",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda, De la Espriella, Valencia, López y Fajardo sacuden sus agendas a 23 días de la primera vuelta",
-      "resumen": "Con 23 días para la primera vuelta del 31 de mayo, los cinco candidatos con mayor intención de voto intensificaron sus agendas simultáneamente. Cepeda concentró su campaña en zonas urbanas; De la Espriella visitó la Costa Caribe tras el respaldo del clan Char; Valencia reforzó apariciones mediáticas. El cierre de campaña marca la última etapa de una contienda que, según todas las encuestas, terminará en segunda vuelta.",
-      "objetividad": 90,
+      "filter": "espriella",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#e67e22",
+      "fecha": "11 may 2026",
+      "tag": "De la Espriella · Campaña",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella confirmó cierre de campaña: 23 mayo en Barranquilla y 24 en Medellín",
+      "resumen": "Abelardo De la Espriella confirmó este 11 de mayo las sedes y fechas de su cierre de campaña: el 23 de mayo en Barranquilla y el 24 de mayo en Medellín, a ocho días de la primera vuelta del 31 de mayo. 'Quiero ver a toda la manada del Tigre reunida', declaró el candidato en un mensaje a sus seguidores. Los actos marcan la recta final de la campaña más sorpresiva de la contienda, en medio de su ascenso en los mercados de predicción.",
+      "objetividad": 93,
       "criterios": [
         {
           "ok": true,
-          "texto": "Hecho verificable: agendas públicas de todos los candidatos"
+          "texto": "Hecho verificable: fechas y sedes confirmadas por el propio candidato"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente internacional de referencia con cobertura Colombia"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia de hoy 11 de mayo — la más reciente disponible"
+        },
+        {
+          "ok": true,
+          "texto": "Alto impacto: marca la recta final de una campaña de alto perfil"
+        },
+        {
+          "ok": false,
+          "texto": "No detalla el formato ni la logística de los cierres de campaña"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/05/11/abelardo-de-la-espriella-confirmo-fechas-y-sedes-para-su-cierre-de-campana-quiero-ver-a-toda-la-manada-del-tigre-reunida/",
+      "url_label": "Infobae - De la Espriella confirma cierres: Barranquilla (23 may) y Medellín (24 may)"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Semana",
+      "fuente_color": "#e67e22",
+      "fecha": "11 may 2026",
+      "tag": "De la Espriella · Predicción",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "Abelardo de la Espriella (43%) supera a Iván Cepeda (41%) en Polymarket por primera vez",
+      "resumen": "La plataforma de predicciones Polymarket registra a Abelardo De la Espriella con 43% de probabilidad de ganar la primera vuelta, superando por primera vez a Iván Cepeda, que cae al 41%. Paloma Valencia se sitúa en 16%. El dato de Polymarket contrasta con las encuestas formales —que mantienen a Cepeda como líder con 38% según AtlasIntel— pero refleja una percepción creciente de empate técnico a 20 días del 31 de mayo.",
+      "objetividad": 84,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Datos verificables: cifras públicas de Polymarket en tiempo real"
         },
         {
           "ok": true,
@@ -23,55 +59,55 @@
         },
         {
           "ok": true,
-          "texto": "Noticia del 8 de mayo — 48 horas recientes"
+          "texto": "Noticia de hoy 11 de mayo — hito histórico en la contienda"
         },
         {
           "ok": true,
-          "texto": "Cubre el panorama completo de la campaña"
+          "texto": "Alto impacto: primera vez que De la Espriella supera a Cepeda en Polymarket"
         },
         {
           "ok": false,
-          "texto": "No detalla los eventos específicos de cada candidato"
+          "texto": "Polymarket es mercado de apuestas, no encuesta estadística representativa"
         }
       ],
-      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/cepeda-de-la-espriella-valencia-lopez-y-fajardo-sacuden-sus-agendas-a-23-dias-de-la-primera-vuelta-en-colombia-noticias-hoy/",
-      "url_label": "El Espectador - Candidatos sacuden agendas a 23 días del 31 de mayo"
+      "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-43-supera-a-ivan-cepeda-41-en-la-carrera-por-la-presidencia-segun-polymarket/202655/",
+      "url_label": "Semana - Polymarket: De la Espriella 43% supera a Cepeda 41% por primera vez"
     },
     {
       "filter": "cepeda",
-      "fuente": "Yahoo Noticias",
+      "fuente": "El Espectador",
       "fuente_color": "#27ae60",
-      "fecha": "9 may 2026",
-      "tag": "Cepeda · Desinformación",
+      "fecha": "11 may 2026",
+      "tag": "Campaña · Financiación",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Sondeo que daba a Cepeda ganador en primera vuelta fue elaborado con inteligencia artificial",
-      "resumen": "Un sondeo viral que circuló en redes sociales afirmando que Iván Cepeda ganaría en primera vuelta fue desacreditado al confirmarse que fue elaborado con inteligencia artificial. La revelación reavivó el debate sobre desinformación en la campaña. Las encuestas reales (Invamer: 44,3%; CAMBIO-CNC: 37,2%) lo mantienen como líder pero sin alcanzar el 50% necesario para evitar segunda vuelta.",
-      "objetividad": 85,
+      "titulo": "MOE advierte problemas en la financiación de las campañas de Cepeda, Valencia y De la Espriella",
+      "resumen": "La Misión de Observación Electoral (MOE) encendió alertas este 11 de mayo sobre problemas detectados en la financiación de las campañas presidenciales de Iván Cepeda, Paloma Valencia y Abelardo De la Espriella. El organismo advirtió sobre posibles vacíos en los reportes de ingresos y gastos presentados ante el CNE, a 20 días de la primera vuelta del 31 de mayo. La alerta añade una nueva variable de riesgo a la recta final de la campaña.",
+      "objetividad": 89,
       "criterios": [
         {
           "ok": true,
-          "texto": "Hecho verificable: sondeo fue identificado como generado por IA"
+          "texto": "Advertencia oficial de organismo de observación electoral independiente"
         },
         {
           "ok": true,
-          "texto": "Fuente con amplia distribución nacional e internacional"
+          "texto": "Fuente de referencia nacional de primer orden"
         },
         {
           "ok": true,
-          "texto": "Noticia del 9 de mayo — reciente con impacto en redes"
+          "texto": "Noticia de hoy 11 de mayo — afecta a los tres candidatos principales"
         },
         {
           "ok": true,
-          "texto": "Alto impacto: debate sobre desinformación en campaña electoral"
+          "texto": "Cubre simultáneamente a los tres líderes de intención de voto"
         },
         {
           "ok": false,
-          "texto": "No especifica quién elaboró el sondeo con IA ni con qué herramienta"
+          "texto": "No detalla las irregularidades específicas por campaña"
         }
       ],
-      "url": "https://es-us.noticias.yahoo.com/sondeo-iv%C3%A1n-cepeda-ganar%C3%ADa-vuelta-205900195.html",
-      "url_label": "Yahoo Noticias - Sondeo de Cepeda ganando en primera vuelta fue hecho con IA"
+      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/moe-advierte-problemas-para-la-financiacion-de-las-campanas-presidenciales-ivan-cepeda-paloma-valencia-de-la-espriella-noticias-hoy/",
+      "url_label": "El Espectador - MOE alerta sobre financiación de campañas de los tres candidatos"
     },
     {
       "filter": "valencia",
@@ -87,7 +123,7 @@
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaración directa y verificable de la candidata — hoy 10 may"
+          "texto": "Declaración directa y verificable de la candidata — 10 may"
         },
         {
           "ok": true,
@@ -95,7 +131,7 @@
         },
         {
           "ok": true,
-          "texto": "Noticia de hoy 10 de mayo — la más reciente disponible"
+          "texto": "Noticia del 10 de mayo — reciente con amplia repercusión en redes"
         },
         {
           "ok": true,
@@ -131,7 +167,7 @@
         },
         {
           "ok": true,
-          "texto": "Noticia del 9 de mayo — 24 horas"
+          "texto": "Noticia del 9 de mayo — 48 horas"
         },
         {
           "ok": true,
@@ -144,42 +180,6 @@
       ],
       "url": "https://www.semana.com/confidenciales/articulo/elecciones-2026-paloma-valencia-se-desploma-en-polymarket-y-llega-a-16-mientras-abelardo-de-la-espriella-se-dispara-y-registra-40/202618/",
       "url_label": "Semana - Valencia cae a 16% en Polymarket; De la Espriella sube al 40%"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "Semana",
-      "fuente_color": "#3498db",
-      "fecha": "9 may 2026",
-      "tag": "Valencia · Seguridad",
-      "tag_color": "#3498db",
-      "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Valencia acusa al Gobierno de liberar 29 criminales del clan del Golfo antes de las elecciones",
-      "resumen": "Paloma Valencia acusó al gobierno Petro de liberar a 29 miembros del clan del Golfo ad portas de las elecciones del 31 de mayo, señalando que responde a una estrategia política para influir en zonas de influencia del grupo armado. La denuncia busca posicionar la seguridad como eje central en los últimos días de campaña y capitalizar el voto anticrimen.",
-      "objetividad": 78,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaración pública y verificable de la candidata"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente de referencia nacional de primer orden"
-        },
-        {
-          "ok": true,
-          "texto": "Noticia del 9 de mayo — 24 horas"
-        },
-        {
-          "ok": false,
-          "texto": "La acusación de motivo político es una interpretación de la candidata, no un hecho probado"
-        },
-        {
-          "ok": false,
-          "texto": "No se incluye la respuesta del Gobierno Petro a las acusaciones"
-        }
-      ],
-      "url": "https://www.semana.com/politica/articulo/paloma-valencia-tiene-claro-para-que-el-gobierno-libera-a-29-criminales-del-clan-del-golfo-ad-portas-de-elecciones-presidenciales/202635/",
-      "url_label": "Semana - Valencia acusa al Gobierno de liberar criminales del Golfo antes de elecciones"
     },
     {
       "filter": "espriella",
@@ -203,7 +203,7 @@
         },
         {
           "ok": true,
-          "texto": "Noticia del 9 de mayo — 24 horas, la de mayor impacto del día"
+          "texto": "Noticia del 9 de mayo — la de mayor impacto del día"
         },
         {
           "ok": false,
@@ -218,76 +218,76 @@
       "url_label": "Infobae - De la Espriella denuncia plan de asesinato con francotirador"
     },
     {
-      "filter": "espriella",
-      "fuente": "Vanguardia",
-      "fuente_color": "#e67e22",
+      "filter": "cepeda",
+      "fuente": "Yahoo Noticias",
+      "fuente_color": "#27ae60",
       "fecha": "9 may 2026",
-      "tag": "De la Espriella · Garantías",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "'Mi vida está en peligro': De la Espriella pide garantías al Gobierno y a EE.UU.",
-      "resumen": "Tras su denuncia del presunto plan de asesinato con francotirador, Abelardo De la Espriella amplió sus declaraciones afirmando que 'mi vida está en peligro' y pidió formalmente al gobierno colombiano y a la embajada de Estados Unidos garantías de seguridad para él y su familia. La solicitud de respaldo a Washington generó debate sobre la internacionalización de la campaña electoral colombiana.",
-      "objetividad": 81,
+      "tag": "Cepeda · Desinformación",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Sondeo que daba a Cepeda ganador en primera vuelta fue elaborado con inteligencia artificial",
+      "resumen": "Un sondeo viral que circuló en redes sociales afirmando que Iván Cepeda ganaría en primera vuelta fue desacreditado al confirmarse que fue elaborado con inteligencia artificial. La revelación reavivó el debate sobre desinformación en la campaña. Las encuestas reales (Invamer 27 abr: 44,3%; AtlasIntel 9-10 may: 38%) lo mantienen como líder pero sin alcanzar el 50% necesario para evitar segunda vuelta.",
+      "objetividad": 85,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaración directa del candidato, verificable en múltiples medios"
+          "texto": "Hecho verificable: sondeo fue identificado como generado por IA"
         },
         {
           "ok": true,
-          "texto": "Fuente regional de referencia confirmando la declaración"
+          "texto": "Fuente con amplia distribución nacional e internacional"
         },
         {
           "ok": true,
-          "texto": "Noticia del 9 de mayo — 24 horas"
+          "texto": "Noticia del 9 de mayo — reciente con impacto en redes"
+        },
+        {
+          "ok": true,
+          "texto": "Alto impacto: debate sobre desinformación en campaña electoral"
         },
         {
           "ok": false,
-          "texto": "No hay confirmación oficial de las amenazas denunciadas"
-        },
-        {
-          "ok": false,
-          "texto": "No se conoce respuesta de la embajada de EE.UU."
+          "texto": "No especifica quién elaboró el sondeo con IA ni con qué herramienta"
         }
       ],
-      "url": "https://www.vanguardia.com/colombia/2026/05/09/de-la-espriella-aseguro-que-lo-quieren-asesinar-con-un-francotirador/",
-      "url_label": "Vanguardia - 'Mi vida está en peligro': De la Espriella pide garantías"
+      "url": "https://es-us.noticias.yahoo.com/sondeo-iv%C3%A1n-cepeda-ganar%C3%ADa-vuelta-205900195.html",
+      "url_label": "Yahoo Noticias - Sondeo de Cepeda ganando en primera vuelta fue hecho con IA"
     },
     {
-      "filter": "espriella",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#e67e22",
-      "fecha": "8 may 2026",
-      "tag": "De la Espriella · Propuestas",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella prometió extraditar a Petro si llega a la presidencia: 'El daño a Colombia no puede quedar impune'",
-      "resumen": "Abelardo De la Espriella lanzó uno de sus mensajes de campaña más contundentes el 8 de mayo al prometer que extraditaría al presidente Gustavo Petro si llegara a la presidencia, acusándolo de haber causado daño irreparable al país. La promesa de extradición —cuya viabilidad jurídica está en cuestión— busca capitalizar el descontento con el gobierno y anclar el voto antiPetro en De la Espriella.",
+      "filter": "cepeda",
+      "fuente": "Semana",
+      "fuente_color": "#27ae60",
+      "fecha": "9 may 2026",
+      "tag": "Cepeda · Campaña",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Iván Cepeda se aferra a un agüero para ganar en primera vuelta: 'Existe la leyenda'",
+      "resumen": "Iván Cepeda reveló que existe una leyenda o superstición que lo acompaña en su campaña y que interpreta como señal favorable para ganar la presidencia en primera vuelta el 31 de mayo. La declaración, hecha en tono distendido, generó reacciones en redes sociales a 22 días de las elecciones. Las encuestas lo mantienen como favorito (AtlasIntel: 38%; Invamer 27 abr: 44,3%) pero sin los votos suficientes para evitar segunda vuelta.",
       "objetividad": 82,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaración directa y verificable del candidato"
+          "texto": "Declaración directa del candidato en medio de referencia"
         },
         {
           "ok": true,
-          "texto": "Fuente internacional de referencia con cobertura Colombia"
+          "texto": "Fuente de referencia nacional de primer orden"
         },
         {
           "ok": true,
-          "texto": "Noticia del 8 de mayo — 48 horas"
+          "texto": "Noticia del 9 de mayo — 48 horas"
+        },
+        {
+          "ok": true,
+          "texto": "Revela faceta humana del candidato en recta final de campaña"
         },
         {
           "ok": false,
-          "texto": "La promesa de extradición no tiene sustento jurídico claro explicado"
-        },
-        {
-          "ok": false,
-          "texto": "No se incluye la reacción del Gobierno Petro"
+          "texto": "No detalla la naturaleza exacta del agüero o leyenda mencionado"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/05/08/abelardo-de-la-espriella-prometio-extraditar-a-petro-si-llega-a-la-presidencia-todo-el-dano-que-le-han-hecho-a-colombia-no-puede-quedar-impune/",
-      "url_label": "Infobae - De la Espriella: extraditar a Petro si llega a la presidencia"
+      "url": "https://www.semana.com/confidenciales/articulo/ivan-cepeda-se-aferra-a-una-cabala-para-ganar-en-primera-vuelta-las-elecciones-existe-la-leyenda/202636/",
+      "url_label": "Semana - Cepeda se aferra a una cabala para ganar en primera vuelta: 'Existe la leyenda'"
     }
   ],
   "sentimiento": {
@@ -295,29 +295,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 38,
-        "negativo": 40,
-        "neutro": 22,
+        "positivo": 42,
+        "negativo": 38,
+        "neutro": 20,
         "tendencia": "up",
-        "tendencia_texto": "Semana de alta intensidad: denuncia plan de asesinato con francotirador e involucra a la DNI (Infobae, 9 may); Polymarket lo ubica en 40%, superando a Cepeda (Semana, 9 may); prometió extraditar a Petro (Infobae, 8 may). Encuesta CAMBIO-CNC (5 may): 20,4%. El ruido generado impulsa visibilidad aunque la cobertura mezcla seguridad y propuestas de campaña."
+        "tendencia_texto": "Semana de máxima intensidad: Polymarket lo ubica por primera vez en 43%, superando a Cepeda (Semana, 11 may); confirmó cierre de campaña el 23 en Barranquilla y 24 en Medellín (Infobae, 11 may); denuncia plan de asesinato con francotirador involucra a la DNI (Infobae, 9 may). AtlasIntel: 29,9%. CAMBIO-CNC (5 may): 20,4%. CNE analiza solicitud de revocación de su inscripción (Infobae, 2 may)."
       },
       {
         "nombre": "Valencia",
         "color": "#3498db",
-        "positivo": 34,
-        "negativo": 48,
+        "positivo": 30,
+        "negativo": 52,
         "neutro": 18,
         "tendencia": "down",
-        "tendencia_texto": "Semana de desgaste: se desplomó en Polymarket al 16% (Semana, 9 may); respondió a Margarita Rosa sobre el apoyo de Uribe con 'Es un reflejo machista' (Infobae, 10 may); acusó al Gobierno de liberar 29 criminales del Golfo antes de elecciones (Semana, 9 may). Encuesta CAMBIO-CNC (5 may): 15,6%. Partido Liberal la respalda desde el 29 abr. Sigue siendo la mejor rival de Cepeda en segunda vuelta según encuestas formales."
+        "tendencia_texto": "Semana de desgaste sostenido: desplomó en Polymarket al 16% mientras De la Espriella sube al 43% (Semana, 9-11 may); respondió a Margarita Rosa sobre apoyo de Uribe: 'Es un reflejo machista' (Infobae, 10 may); debate presidencial con IA sin los otros candidatos recibió críticas (Infobae, 6 may). AtlasIntel: 21,2%. CAMBIO-CNC (5 may): 15,6%. Encuestas formales la mantienen como mejor rival de Cepeda en segunda vuelta."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 47,
-        "negativo": 33,
-        "neutro": 20,
+        "positivo": 46,
+        "negativo": 32,
+        "neutro": 22,
         "tendencia": "stable",
-        "tendencia_texto": "Mantiene liderazgo en encuestas formales (CAMBIO-CNC 37,2%; Invamer 27 abr: 44,3%) pero circuló sondeo falso con IA que lo daba ganador en primera vuelta, luego desacreditado (Yahoo Noticias, 9 may). Intensificó agenda de campaña con actos simultáneos en varias ciudades (El Espectador, 8 may). Polymarket lo sitúa en 39%, técnicamente igualado con De la Espriella (40%). Coalición sólida con Murillo, Alianza Verde y Claudia López."
+        "tendencia_texto": "Lidera todas las encuestas formales: AtlasIntel (9-10 may): 38%; CAMBIO-CNC (5 may): 37,2%; Invamer (27 abr): 44,3%. MOE advierte problemas de financiación de su campaña (El Espectador, 11 may). Sondeo con IA que lo daba ganador en primera vuelta fue desacreditado (Yahoo Noticias, 9 may). Polymarket lo sitúa en 41%, levemente por debajo de De la Espriella (43%). 20 días para la primera vuelta del 31 de mayo."
       },
       {
         "nombre": "Fajardo",
@@ -340,27 +340,27 @@
     ]
   },
   "encuestas": {
-    "cepeda": 37.2,
-    "valencia": 15.6,
-    "espriella": 20.4,
-    "fuente": "CAMBIO–CNC (Centro Nacional de Consultoría), 5 may 2026"
+    "cepeda": 38.0,
+    "valencia": 21.2,
+    "espriella": 29.9,
+    "fuente": "AtlasIntel, 9-10 may 2026"
   },
   "prediccion": {
     "primero": {
       "nombre": "Iván Cepeda",
       "partido": "Pacto Histórico",
       "color": "#27ae60",
-      "pct": 37.2,
-      "fuente_encuesta": "CAMBIO-CNC (5 may 2026)"
+      "pct": 38.0,
+      "fuente_encuesta": "AtlasIntel (9-10 may 2026)"
     },
     "segundo": {
       "nombre": "Abelardo De la Espriella",
       "partido": "Salvación Nacional",
       "color": "#e67e22",
-      "pct": 20.4,
-      "fuente_encuesta": "CAMBIO-CNC (5 may 2026)"
+      "pct": 29.9,
+      "fuente_encuesta": "AtlasIntel (9-10 may 2026)"
     },
-    "resumen_analisis": "Basado en 8 noticias del 8-10 may 2026 y encuesta CAMBIO-CNC del 5 de mayo. HITO DEL DÍA: De la Espriella denuncia presunto plan para asesinarlo con francotirador e involucra a la DNI — la noticia de mayor impacto de la jornada (Infobae, 9 may). Polymarket: De la Espriella sube al 40% y Valencia cae al 16% (Semana, 9 may), mientras Cepeda se ubica en 39%. Un sondeo con IA que daba a Cepeda ganador en primera vuelta fue desacreditado (Yahoo Noticias, 9 may). Valencia respondió hoy a Margarita Rosa sobre las críticas al apoyo de Uribe: 'Es un reflejo machista' (Infobae, 10 may). Encuestas formales: CAMBIO-CNC (5 may): Cepeda 37,2% / De la Espriella 20,4% / Valencia 15,6%. Invamer (27 abr): Cepeda 44,3% / De la Espriella 21,5% / Valencia 19%. Primera vuelta: 31 de mayo."
+    "resumen_analisis": "Basado en 8 noticias del 9-11 may 2026 y encuesta AtlasIntel (9-10 may). HITO DEL DÍA: Por primera vez Polymarket sitúa a De la Espriella (43%) por encima de Cepeda (41%), mientras Valencia cae al 16% (Semana, 11 may). De la Espriella confirmó su cierre de campaña: 23 mayo en Barranquilla y 24 mayo en Medellín (Infobae, 11 may). MOE alerta sobre financiación irregular en las tres campañas principales (El Espectador, 11 may). Encuestas formales más recientes: AtlasIntel (9-10 may): Cepeda 38% / De la Espriella 29,9% / Valencia 21,2%. En segunda vuelta, De la Espriella ganaría a Cepeda con 47,8% vs 42% (AtlasIntel). Primera vuelta: 31 de mayo — quedan 20 días."
   },
-  "ultimo_deploy": "2026-05-10T10:00:00Z"
+  "ultimo_deploy": "2026-05-11T10:00:00Z"
 }
