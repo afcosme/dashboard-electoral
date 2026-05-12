@@ -1,5 +1,5 @@
 {
-  "fecha": "11 de mayo de 2026",
+  "fecha": "12 de mayo de 2026",
   "noticias": [
     {
       "filter": "espriella",
@@ -10,7 +10,7 @@
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
       "titulo": "De la Espriella confirmó cierre de campaña: 23 mayo en Barranquilla y 24 en Medellín",
-      "resumen": "Abelardo De la Espriella confirmó este 11 de mayo las sedes y fechas de su cierre de campaña: el 23 de mayo en Barranquilla y el 24 de mayo en Medellín, a ocho días de la primera vuelta del 31 de mayo. 'Quiero ver a toda la manada del Tigre reunida', declaró el candidato en un mensaje a sus seguidores. Los actos marcan la recta final de la campaña más sorpresiva de la contienda, en medio de su ascenso en los mercados de predicción.",
+      "resumen": "Abelardo De la Espriella confirmó este 11 de mayo las sedes y fechas de su cierre de campaña: el 23 de mayo en Barranquilla y el 24 de mayo en Medellín, a ocho días de la primera vuelta del 31 de mayo. 'Quiero ver a toda la manada del Tigre reunida', declaró el candidato. Los actos marcan la recta final de la campaña más sorpresiva de la contienda, en medio de su ascenso en los mercados de predicción.",
       "objetividad": 93,
       "criterios": [
         {
@@ -46,7 +46,7 @@
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
       "titulo": "Abelardo de la Espriella (43%) supera a Iván Cepeda (41%) en Polymarket por primera vez",
-      "resumen": "La plataforma de predicciones Polymarket registra a Abelardo De la Espriella con 43% de probabilidad de ganar la primera vuelta, superando por primera vez a Iván Cepeda, que cae al 41%. Paloma Valencia se sitúa en 16%. El dato de Polymarket contrasta con las encuestas formales —que mantienen a Cepeda como líder con 38% según AtlasIntel— pero refleja una percepción creciente de empate técnico a 20 días del 31 de mayo.",
+      "resumen": "La plataforma de predicciones Polymarket registra a Abelardo De la Espriella con 43% de probabilidad de ganar la primera vuelta, superando por primera vez a Iván Cepeda, que cae al 41%. Paloma Valencia se sitúa en 16%. El dato contrasta con las encuestas formales —que mantienen a Cepeda como líder con 38% según AtlasIntel— pero refleja una percepción creciente de empate técnico a 19 días del 31 de mayo.",
       "objetividad": 84,
       "criterios": [
         {
@@ -70,7 +70,7 @@
           "texto": "Polymarket es mercado de apuestas, no encuesta estadística representativa"
         }
       ],
-      "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-43-supera-a-ivan-cepeda-41-en-la-carrera-por-la-presidencia-segun-polymarket/202655/",
+      "url": "https://www.semana.com/confidenciales/articulo/elecciones-2026-paloma-valencia-se-desploma-en-polymarket-y-llega-a-16-mientras-abelardo-de-la-espriella-se-dispara-y-registra-40/202618/",
       "url_label": "Semana - Polymarket: De la Espriella 43% supera a Cepeda 41% por primera vez"
     },
     {
@@ -78,16 +78,16 @@
       "fuente": "El Espectador",
       "fuente_color": "#27ae60",
       "fecha": "11 may 2026",
-      "tag": "Campaña · Financiación",
+      "tag": "Cepeda · Alianzas",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "MOE advierte problemas en la financiación de las campañas de Cepeda, Valencia y De la Espriella",
-      "resumen": "La Misión de Observación Electoral (MOE) encendió alertas este 11 de mayo sobre problemas detectados en la financiación de las campañas presidenciales de Iván Cepeda, Paloma Valencia y Abelardo De la Espriella. El organismo advirtió sobre posibles vacíos en los reportes de ingresos y gastos presentados ante el CNE, a 20 días de la primera vuelta del 31 de mayo. La alerta añade una nueva variable de riesgo a la recta final de la campaña.",
-      "objetividad": 89,
+      "titulo": "Cepeda suma sectores liberales; Tarazona se va con Valencia y De la Espriella sigue disputa con la DNI",
+      "resumen": "A tres semanas de las elecciones del 31 de mayo, el tablero de alianzas se mueve: Iván Cepeda sumó el respaldo de sectores del Partido Liberal. En el centro-derecha, María Claudia Tarazona anunció su apoyo a Paloma Valencia. Mientras tanto, Abelardo De la Espriella mantiene la controversia con la Dirección Nacional de Inteligencia (DNI) tras su denuncia de un presunto plan de asesinato.",
+      "objetividad": 90,
       "criterios": [
         {
           "ok": true,
-          "texto": "Advertencia oficial de organismo de observación electoral independiente"
+          "texto": "Hecho verificable: alianzas confirmadas públicamente por los actores"
         },
         {
           "ok": true,
@@ -95,19 +95,19 @@
         },
         {
           "ok": true,
-          "texto": "Noticia de hoy 11 de mayo — afecta a los tres candidatos principales"
+          "texto": "Noticia del 11 de mayo — cubre los tres candidatos principales"
         },
         {
           "ok": true,
-          "texto": "Cubre simultáneamente a los tres líderes de intención de voto"
+          "texto": "Alto impacto: define el mapa de apoyos en la recta final"
         },
         {
           "ok": false,
-          "texto": "No detalla las irregularidades específicas por campaña"
+          "texto": "No detalla el número de votos que aportan los sectores liberales"
         }
       ],
-      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/moe-advierte-problemas-para-la-financiacion-de-las-campanas-presidenciales-ivan-cepeda-paloma-valencia-de-la-espriella-noticias-hoy/",
-      "url_label": "El Espectador - MOE alerta sobre financiación de campañas de los tres candidatos"
+      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/cepeda-suma-sectores-liberales-tarazona-se-va-con-valencia-y-de-la-espriella-sigue-disputa-con-el-dni-noticias-hoy/",
+      "url_label": "El Espectador - Cepeda suma liberales; Tarazona apoya a Valencia; De la Espriella vs. DNI"
     },
     {
       "filter": "valencia",
@@ -118,7 +118,7 @@
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
       "titulo": "Valencia respondió a Margarita Rosa por criticar el apoyo de Álvaro Uribe: 'Es un reflejo machista'",
-      "resumen": "Paloma Valencia salió al paso este domingo 10 de mayo de las críticas de la actriz y columnista Margarita Rosa de Francisco, quien cuestionó su cercanía con el expresidente Álvaro Uribe. Valencia calificó las críticas como 'un reflejo machista' y defendió el respaldo de Uribe como un activo legítimo de su campaña. El cruce generó amplia repercusión en redes sociales y medios nacionales a 21 días de la primera vuelta.",
+      "resumen": "Paloma Valencia salió al paso el 10 de mayo de las críticas de la actriz Margarita Rosa de Francisco, quien cuestionó su cercanía con el expresidente Álvaro Uribe. Valencia calificó las críticas como 'un reflejo machista' y defendió el respaldo de Uribe como un activo legítimo de su campaña. El cruce generó amplia repercusión en redes sociales y medios nacionales a 21 días de la primera vuelta.",
       "objetividad": 86,
       "criterios": [
         {
@@ -147,39 +147,39 @@
     },
     {
       "filter": "valencia",
-      "fuente": "Semana",
+      "fuente": "El País",
       "fuente_color": "#3498db",
-      "fecha": "9 may 2026",
-      "tag": "Valencia · Mercados de predicción",
+      "fecha": "11 may 2026",
+      "tag": "Valencia · Alianzas",
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Valencia se desploma en Polymarket al 16% mientras De la Espriella se dispara al 40%",
-      "resumen": "La plataforma de predicciones Polymarket registró un desplome de Paloma Valencia del 24,8% al 16% en cuestión de días, mientras Abelardo De la Espriella se disparó hasta el 40%. El movimiento contrasta con las encuestas formales (CAMBIO-CNC: Valencia 15,6%, De la Espriella 20,4%) y refleja una percepción creciente de que De la Espriella sería el rival de Cepeda en segunda vuelta.",
-      "objetividad": 83,
+      "titulo": "María Claudia Tarazona anuncia apoyo a Paloma Valencia: 'Es la única que puede ganar en segunda vuelta'",
+      "resumen": "María Claudia Tarazona anunció formalmente su respaldo a Paloma Valencia para las elecciones del 31 de mayo. 'Tengo plena certeza de que Paloma es la única que puede ganar en una segunda vuelta', declaró. El respaldo llega en momento crítico para Valencia, quien enfrenta la presión de De la Espriella por el segundo lugar, mientras las encuestas formales (AtlasIntel: 21,2%) la mantienen como posible rival de Cepeda en segunda vuelta.",
+      "objetividad": 88,
       "criterios": [
         {
           "ok": true,
-          "texto": "Datos verificables: cifras públicas de Polymarket"
+          "texto": "Declaración directa y verificable de Tarazona"
         },
         {
           "ok": true,
-          "texto": "Fuente de referencia nacional de primer orden"
+          "texto": "Fuente regional de referencia con cobertura política"
         },
         {
           "ok": true,
-          "texto": "Noticia del 9 de mayo — 48 horas"
+          "texto": "Noticia del 11 de mayo — refuerza el bloque centro-derecha"
         },
         {
           "ok": true,
-          "texto": "Cubre el movimiento de ambos candidatos de centro-derecha"
+          "texto": "Alto impacto: suma votos potenciales a Valencia en la recta final"
         },
         {
           "ok": false,
-          "texto": "Polymarket es mercado de apuestas, no encuesta estadística representativa"
+          "texto": "No precisa el caudal electoral que aportaría el respaldo de Tarazona"
         }
       ],
-      "url": "https://www.semana.com/confidenciales/articulo/elecciones-2026-paloma-valencia-se-desploma-en-polymarket-y-llega-a-16-mientras-abelardo-de-la-espriella-se-dispara-y-registra-40/202618/",
-      "url_label": "Semana - Valencia cae a 16% en Polymarket; De la Espriella sube al 40%"
+      "url": "https://www.elpais.com.co/politica/maria-claudia-tarazona-revela-a-que-candidato-apoyara-en-las-presidenciales-de-2026-esa-fue-la-voluntad-de-miguel-1122.html",
+      "url_label": "El País - Tarazona anuncia apoyo a Valencia: 'Es la única que puede ganar en segunda vuelta'"
     },
     {
       "filter": "espriella",
@@ -190,7 +190,7 @@
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
       "titulo": "De la Espriella denuncia presunto plan para asesinarlo con francotirador e involucra a la DNI: 'Esto es serio'",
-      "resumen": "Abelardo De la Espriella divulgó el 9 de mayo un video denunciando que fuentes de inteligencia le informaron sobre un plan para asesinarlo con francotirador durante la campaña, señalando a personal de la Dirección Nacional de Inteligencia (DNI). Con ciudadanía estadounidense, apeló a la embajada de EE.UU. por garantías de seguridad para él y su familia. El Gobierno no ha confirmado la información. La denuncia sacudió la recta final de la campaña.",
+      "resumen": "Abelardo De la Espriella divulgó el 9 de mayo un video denunciando que fuentes de inteligencia le informaron sobre un plan para asesinarlo con francotirador, señalando a personal de la Dirección Nacional de Inteligencia (DNI). Con ciudadanía estadounidense, apeló a la embajada de EE.UU. por garantías de seguridad. El Gobierno no ha confirmado la información. La denuncia sacudió la recta final de la campaña.",
       "objetividad": 80,
       "criterios": [
         {
@@ -219,55 +219,19 @@
     },
     {
       "filter": "cepeda",
-      "fuente": "Yahoo Noticias",
+      "fuente": "El Tiempo",
       "fuente_color": "#27ae60",
-      "fecha": "9 may 2026",
+      "fecha": "11 may 2026",
       "tag": "Cepeda · Desinformación",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Sondeo que daba a Cepeda ganador en primera vuelta fue elaborado con inteligencia artificial",
-      "resumen": "Un sondeo viral que circuló en redes sociales afirmando que Iván Cepeda ganaría en primera vuelta fue desacreditado al confirmarse que fue elaborado con inteligencia artificial. La revelación reavivó el debate sobre desinformación en la campaña. Las encuestas reales (Invamer 27 abr: 44,3%; AtlasIntel 9-10 may: 38%) lo mantienen como líder pero sin alcanzar el 50% necesario para evitar segunda vuelta.",
-      "objetividad": 85,
+      "titulo": "#ElFiltro: sondeo que daba a Cepeda ganador en primera vuelta fue hecho con inteligencia artificial",
+      "resumen": "El equipo #ElFiltro de El Tiempo reveló que un sondeo viral que circulaba en redes afirmando que Iván Cepeda ganaría la presidencia en primera vuelta fue elaborado con inteligencia artificial. La revelación reavivó el debate sobre desinformación en plena recta final. Las encuestas reales lo mantienen como favorito (AtlasIntel 9-10 may: 38%; Invamer 27 abr: 44,3%) pero sin el 50% necesario para evitar segunda vuelta.",
+      "objetividad": 90,
       "criterios": [
         {
           "ok": true,
-          "texto": "Hecho verificable: sondeo fue identificado como generado por IA"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente con amplia distribución nacional e internacional"
-        },
-        {
-          "ok": true,
-          "texto": "Noticia del 9 de mayo — reciente con impacto en redes"
-        },
-        {
-          "ok": true,
-          "texto": "Alto impacto: debate sobre desinformación en campaña electoral"
-        },
-        {
-          "ok": false,
-          "texto": "No especifica quién elaboró el sondeo con IA ni con qué herramienta"
-        }
-      ],
-      "url": "https://es-us.noticias.yahoo.com/sondeo-iv%C3%A1n-cepeda-ganar%C3%ADa-vuelta-205900195.html",
-      "url_label": "Yahoo Noticias - Sondeo de Cepeda ganando en primera vuelta fue hecho con IA"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Semana",
-      "fuente_color": "#27ae60",
-      "fecha": "9 may 2026",
-      "tag": "Cepeda · Campaña",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Iván Cepeda se aferra a un agüero para ganar en primera vuelta: 'Existe la leyenda'",
-      "resumen": "Iván Cepeda reveló que existe una leyenda o superstición que lo acompaña en su campaña y que interpreta como señal favorable para ganar la presidencia en primera vuelta el 31 de mayo. La declaración, hecha en tono distendido, generó reacciones en redes sociales a 22 días de las elecciones. Las encuestas lo mantienen como favorito (AtlasIntel: 38%; Invamer 27 abr: 44,3%) pero sin los votos suficientes para evitar segunda vuelta.",
-      "objetividad": 82,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaración directa del candidato en medio de referencia"
+          "texto": "Verificación periodística por equipo de fact-checking de El Tiempo"
         },
         {
           "ok": true,
@@ -275,19 +239,55 @@
         },
         {
           "ok": true,
-          "texto": "Noticia del 9 de mayo — 48 horas"
+          "texto": "Noticia del 11 de mayo — alerta sobre desinformación en campaña"
         },
         {
           "ok": true,
-          "texto": "Revela faceta humana del candidato en recta final de campaña"
+          "texto": "Alto impacto: debate sobre IA y fake news en elecciones"
         },
         {
           "ok": false,
-          "texto": "No detalla la naturaleza exacta del agüero o leyenda mencionado"
+          "texto": "No especifica quién elaboró el sondeo ni con qué herramienta de IA"
         }
       ],
-      "url": "https://www.semana.com/confidenciales/articulo/ivan-cepeda-se-aferra-a-una-cabala-para-ganar-en-primera-vuelta-las-elecciones-existe-la-leyenda/202636/",
-      "url_label": "Semana - Cepeda se aferra a una cabala para ganar en primera vuelta: 'Existe la leyenda'"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-sondeo-en-el-que-ivan-cepeda-ganaria-en-primera-vuelta-la-presidencia-de-colombia-fue-hecho-con-ia-3554932",
+      "url_label": "El Tiempo #ElFiltro - Sondeo de Cepeda ganando en primera vuelta fue hecho con IA"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#27ae60",
+      "fecha": "11 may 2026",
+      "tag": "Cepeda · Campaña",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Iván Cepeda se aferra al 'palo de mango' para ganar en primera vuelta: 'Pasamos de lejos'",
+      "resumen": "Iván Cepeda invocó la leyenda del palo de mango de la Plaza Alfonso López: quien llena esa plaza y supera el nivel del árbol emblemático tiene altas chances de ser presidente. 'Pasamos de lejos', declaró con optimismo, convencido de que el 31 de mayo ganará en primera vuelta. Las encuestas lo mantienen como favorito (AtlasIntel: 38%) pero sin el 50% necesario para evitar segunda vuelta.",
+      "objetividad": 85,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Declaración directa y verificable del candidato"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente internacional de referencia con cobertura Colombia"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia del 11 de mayo — refleja el estado de ánimo de la campaña"
+        },
+        {
+          "ok": true,
+          "texto": "Humaniza al candidato en la recta final de campaña"
+        },
+        {
+          "ok": false,
+          "texto": "No detalla el acto de campaña en el que se realizó el evento"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/05/11/ivan-cepeda-se-aferra-a-un-palo-de-mango-para-ganar-la-presidencia-de-colombia-en-primera-vuelta-pasamos-de-lejos/",
+      "url_label": "Infobae - Cepeda y el 'palo de mango': 'Pasamos de lejos'"
     }
   ],
   "sentimiento": {
@@ -295,29 +295,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 42,
-        "negativo": 38,
+        "positivo": 44,
+        "negativo": 36,
         "neutro": 20,
         "tendencia": "up",
-        "tendencia_texto": "Semana de máxima intensidad: Polymarket lo ubica por primera vez en 43%, superando a Cepeda (Semana, 11 may); confirmó cierre de campaña el 23 en Barranquilla y 24 en Medellín (Infobae, 11 may); denuncia plan de asesinato con francotirador involucra a la DNI (Infobae, 9 may). AtlasIntel: 29,9%. CAMBIO-CNC (5 may): 20,4%. CNE analiza solicitud de revocación de su inscripción (Infobae, 2 may)."
+        "tendencia_texto": "Semana decisiva: Polymarket lo ubica por primera vez en 43%, superando a Cepeda (41%) — Semana, 11 may. Confirmó cierres de campaña el 23 (Barranquilla) y 24 (Medellín) de mayo — Infobae, 11 may. Lidera en gastos de campaña presidencial con COP 32 mil millones — El Espectador. Disputa con la DNI por denuncia de plan de asesinato sigue abierta. AtlasIntel (9-10 may): 29,9%. CAMBIO-CNC (5 may): 20,4%. A 19 días del 31 de mayo."
       },
       {
         "nombre": "Valencia",
         "color": "#3498db",
-        "positivo": 30,
-        "negativo": 52,
-        "neutro": 18,
-        "tendencia": "down",
-        "tendencia_texto": "Semana de desgaste sostenido: desplomó en Polymarket al 16% mientras De la Espriella sube al 43% (Semana, 9-11 may); respondió a Margarita Rosa sobre apoyo de Uribe: 'Es un reflejo machista' (Infobae, 10 may); debate presidencial con IA sin los otros candidatos recibió críticas (Infobae, 6 may). AtlasIntel: 21,2%. CAMBIO-CNC (5 may): 15,6%. Encuestas formales la mantienen como mejor rival de Cepeda en segunda vuelta."
+        "positivo": 32,
+        "negativo": 48,
+        "neutro": 20,
+        "tendencia": "stable",
+        "tendencia_texto": "Semana mixta: recibió el apoyo de María Claudia Tarazona ('Es la única que puede ganar en segunda vuelta') — El País, 11 may. Se desplomó en Polymarket al 16% mientras De la Espriella subía al 43% — Semana, 9-11 may. Respondió a Margarita Rosa sobre apoyo de Uribe: 'Es un reflejo machista' — Infobae, 10 may. AtlasIntel (9-10 may): 21,2%. CAMBIO-CNC (5 may): 15,6%. Las encuestas formales la mantienen como posible rival de Cepeda en segunda vuelta."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 46,
-        "negativo": 32,
+        "positivo": 47,
+        "negativo": 31,
         "neutro": 22,
         "tendencia": "stable",
-        "tendencia_texto": "Lidera todas las encuestas formales: AtlasIntel (9-10 may): 38%; CAMBIO-CNC (5 may): 37,2%; Invamer (27 abr): 44,3%. MOE advierte problemas de financiación de su campaña (El Espectador, 11 may). Sondeo con IA que lo daba ganador en primera vuelta fue desacreditado (Yahoo Noticias, 9 may). Polymarket lo sitúa en 41%, levemente por debajo de De la Espriella (43%). 20 días para la primera vuelta del 31 de mayo."
+        "tendencia_texto": "Lidera todas las encuestas formales: AtlasIntel (9-10 may): 38%; CAMBIO-CNC (5 may): 37,2%; Invamer (27 abr): 44,3%. Sumó sectores del Partido Liberal a su coalición — El Espectador, 11 may. El Tiempo desacreditó un sondeo IA que lo daba ganador en primera vuelta (#ElFiltro, 11 may). Invocó la leyenda del 'palo de mango': 'Pasamos de lejos' — Infobae, 11 may. Polymarket lo sitúa en 41%, levemente por debajo de De la Espriella (43%). Primera vuelta: 31 de mayo — quedan 19 días."
       },
       {
         "nombre": "Fajardo",
@@ -360,7 +360,7 @@
       "pct": 29.9,
       "fuente_encuesta": "AtlasIntel (9-10 may 2026)"
     },
-    "resumen_analisis": "Basado en 8 noticias del 9-11 may 2026 y encuesta AtlasIntel (9-10 may). HITO DEL DÍA: Por primera vez Polymarket sitúa a De la Espriella (43%) por encima de Cepeda (41%), mientras Valencia cae al 16% (Semana, 11 may). De la Espriella confirmó su cierre de campaña: 23 mayo en Barranquilla y 24 mayo en Medellín (Infobae, 11 may). MOE alerta sobre financiación irregular en las tres campañas principales (El Espectador, 11 may). Encuestas formales más recientes: AtlasIntel (9-10 may): Cepeda 38% / De la Espriella 29,9% / Valencia 21,2%. En segunda vuelta, De la Espriella ganaría a Cepeda con 47,8% vs 42% (AtlasIntel). Primera vuelta: 31 de mayo — quedan 20 días."
+    "resumen_analisis": "Actualización 12 may 2026 — basada en 8 noticias del 9-11 may y encuesta AtlasIntel (9-10 may). HITO: Polymarket sitúa a De la Espriella (43%) por encima de Cepeda (41%) por primera vez — Semana, 11 may. Cepeda sumó sectores del Partido Liberal e invocó la leyenda del 'palo de mango' con optimismo — Infobae, 11 may. El Tiempo desacreditó un sondeo IA que lo daba ganador en primera vuelta (#ElFiltro, 11 may). Valencia sumó el apoyo de Tarazona — El País, 11 may. Encuestas formales: AtlasIntel (9-10 may): Cepeda 38% / De la Espriella 29,9% / Valencia 21,2%. CAMBIO-CNC (5 may): Cepeda 37,2% / Espriella 20,4% / Valencia 15,6%. En segunda vuelta, De la Espriella ganaría a Cepeda 47,8% vs 42% (AtlasIntel). Primera vuelta: 31 de mayo — quedan 19 días."
   },
-  "ultimo_deploy": "2026-05-11T10:00:00Z"
+  "ultimo_deploy": "2026-05-12T10:00:00Z"
 }
