@@ -183,111 +183,111 @@
     },
     {
       "filter": "espriella",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#e67e22",
-      "fecha": "9 may 2026",
-      "tag": "De la Espriella · Seguridad",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella denuncia presunto plan para asesinarlo con francotirador e involucra a la DNI: 'Esto es serio'",
-      "resumen": "Abelardo De la Espriella divulgó el 9 de mayo un video denunciando que fuentes de inteligencia le informaron sobre un plan para asesinarlo con francotirador, señalando a personal de la Dirección Nacional de Inteligencia (DNI). Con ciudadanía estadounidense, apeló a la embajada de EE.UU. por garantías de seguridad. El Gobierno no ha confirmado la información. La denuncia sacudió la recta final de la campaña.",
-      "objetividad": 80,
+      "fuente": "El Colombiano",
+      "fuente_color": "#e74c3c",
+      "fecha": "12 may 2026",
+      "tag": "De la Espriella · Escándalo",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella agredió verbalmente a periodista de Caracol: 'La ignorancia es atrevida'",
+      "resumen": "En entrevista en vivo en Noticias Caracol, Abelardo de la Espriella le dijo a la periodista María Lucía 'Malú' Fernández que 'la ignorancia es atrevida' y que su pregunta 'venía con veneno'. Para desviar la atención sacó a relucir escándalos de acoso sexual dentro del canal. El episodio agrava la percepción negativa del candidato en medios y redes a solo 19 días de la primera vuelta del 31 de mayo.",
+      "objetividad": 82,
       "criterios": [
         {
           "ok": true,
-          "texto": "Denuncia pública verificable del candidato en video"
+          "texto": "Hecho verificable en transmisión en vivo de Caracol"
         },
         {
           "ok": true,
-          "texto": "Fuente internacional de referencia con cobertura Colombia"
+          "texto": "Fuente regional con cobertura política activa"
         },
         {
           "ok": true,
-          "texto": "Noticia del 9 de mayo — la de mayor impacto del día"
+          "texto": "Declaraciones textuales del candidato documentadas"
         },
         {
           "ok": false,
-          "texto": "La implicación de la DNI no ha sido corroborada por ningún ente oficial"
+          "texto": "Sin declaración formal de Caracol o de la periodista afectada"
         },
         {
-          "ok": false,
-          "texto": "No hay respuesta oficial de la DNI ni del Gobierno Petro"
+          "ok": true,
+          "texto": "Alto impacto electoral por proximidad a primera vuelta"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/05/09/abelardo-de-la-espriella-denuncio-presunto-plan-para-asesinarlo-y-salpico-a-la-direccion-nacional-de-inteligencia-esto-es-serio/",
-      "url_label": "Infobae - De la Espriella denuncia plan de asesinato con francotirador"
+      "url": "https://www.elcolombiano.com/colombia/politica/abelardo-de-la-espriella-agrede-verbalmente-a-periodista-de-caracol-la-ignorancia-es-atrevida-ME27000000",
+      "url_label": "El Colombiano – De la Espriella vs. periodista Malú de Caracol"
     },
     {
-      "filter": "cepeda",
-      "fuente": "El Tiempo",
-      "fuente_color": "#27ae60",
-      "fecha": "11 may 2026",
-      "tag": "Cepeda · Desinformación",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "#ElFiltro: sondeo que daba a Cepeda ganador en primera vuelta fue hecho con inteligencia artificial",
-      "resumen": "El equipo #ElFiltro de El Tiempo reveló que un sondeo viral que circulaba en redes afirmando que Iván Cepeda ganaría la presidencia en primera vuelta fue elaborado con inteligencia artificial. La revelación reavivó el debate sobre desinformación en plena recta final. Las encuestas reales lo mantienen como favorito (AtlasIntel 9-10 may: 38%; Invamer 27 abr: 44,3%) pero sin el 50% necesario para evitar segunda vuelta.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Verificación periodística por equipo de fact-checking de El Tiempo"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente de referencia nacional de primer orden"
-        },
-        {
-          "ok": true,
-          "texto": "Noticia del 11 de mayo — alerta sobre desinformación en campaña"
-        },
-        {
-          "ok": true,
-          "texto": "Alto impacto: debate sobre IA y fake news en elecciones"
-        },
-        {
-          "ok": false,
-          "texto": "No especifica quién elaboró el sondeo ni con qué herramienta de IA"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-sondeo-en-el-que-ivan-cepeda-ganaria-en-primera-vuelta-la-presidencia-de-colombia-fue-hecho-con-ia-3554932",
-      "url_label": "El Tiempo #ElFiltro - Sondeo de Cepeda ganando en primera vuelta fue hecho con IA"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#27ae60",
-      "fecha": "11 may 2026",
-      "tag": "Cepeda · Campaña",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Iván Cepeda se aferra al 'palo de mango' para ganar en primera vuelta: 'Pasamos de lejos'",
-      "resumen": "Iván Cepeda invocó la leyenda del palo de mango de la Plaza Alfonso López: quien llena esa plaza y supera el nivel del árbol emblemático tiene altas chances de ser presidente. 'Pasamos de lejos', declaró con optimismo, convencido de que el 31 de mayo ganará en primera vuelta. Las encuestas lo mantienen como favorito (AtlasIntel: 38%) pero sin el 50% necesario para evitar segunda vuelta.",
+      "filter": "espriella",
+      "fuente": "La Silla Vacía",
+      "fuente_color": "#e74c3c",
+      "fecha": "12 may 2026",
+      "tag": "De la Espriella · IA y prensa",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "Campaña de De la Espriella usó imagen de IA de Juanita León de La Silla Vacía sin su consentimiento",
+      "resumen": "La campaña de De la Espriella publicó un video de inteligencia artificial en el que aparece Juanita León, directora de La Silla Vacía, caracterizada como parte de 'los de siempre'. La Silla Vacía rechazó el uso indebido de la imagen de su directora en una pieza de campaña política sin autorización. El episodio se suma a la agresión verbal a la periodista Malú de Caracol el mismo día.",
       "objetividad": 85,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaración directa y verificable del candidato"
+          "texto": "Hecho verificable: video publicado por la campaña"
         },
         {
           "ok": true,
-          "texto": "Fuente internacional de referencia con cobertura Colombia"
+          "texto": "Fuente directamente afectada, dando su propia versión"
         },
         {
           "ok": true,
-          "texto": "Noticia del 11 de mayo — refleja el estado de ánimo de la campaña"
+          "texto": "Impacto en libertad de prensa y ética del uso de IA en campaña"
         },
         {
           "ok": true,
-          "texto": "Humaniza al candidato en la recta final de campaña"
+          "texto": "Contexto institucional claro (La Silla Vacía)"
         },
         {
           "ok": false,
-          "texto": "No detalla el acto de campaña en el que se realizó el evento"
+          "texto": "Sin respuesta oficial de la campaña de De la Espriella"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/05/11/ivan-cepeda-se-aferra-a-un-palo-de-mango-para-ganar-la-presidencia-de-colombia-en-primera-vuelta-pasamos-de-lejos/",
-      "url_label": "Infobae - Cepeda y el 'palo de mango': 'Pasamos de lejos'"
+      "url": "https://lasillavacia.com/silla-nacional/de-la-espriella-uso-una-imagen-de-ia-de-juanita-leon-en-un-video-de-campana/",
+      "url_label": "La Silla Vacía – De la Espriella usó imagen de IA de Juanita León"
+    },
+    {
+      "filter": "valencia",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#3498db",
+      "fecha": "6 may 2026",
+      "tag": "Valencia · Polémica IA",
+      "tag_color": "#8e44ad",
+      "tag_bg": "rgba(142,68,173,0.15)",
+      "titulo": "Valencia hizo un 'autodebate' con avatares de IA de Cepeda y De la Espriella sin su autorización",
+      "resumen": "El 5 de mayo, la campaña de Paloma Valencia transmitió un debate en el que ella respondía preguntas a avatares generados por inteligencia artificial de Cepeda y De la Espriella, sin el consentimiento de ninguno de los dos. La iniciativa desató críticas de expertos en ética de IA y de las campañas afectadas, que la calificaron de manipuladora y peligrosa para el debate democrático.",
+      "objetividad": 80,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Hecho verificable: transmisión pública de la campaña"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente internacional con cobertura electoral activa"
+        },
+        {
+          "ok": true,
+          "texto": "Perspectiva crítica de expertos en ética de IA incluida"
+        },
+        {
+          "ok": false,
+          "texto": "Sin declaración de la campaña de Valencia en respuesta formal"
+        },
+        {
+          "ok": false,
+          "texto": "Sin análisis del marco legal colombiano sobre IA en campaña"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/05/06/paloma-valencia-hizo-debate-con-avatares-ia-de-candidatos-sin-su-autorizacion/",
+      "url_label": "Infobae Colombia – Valencia: debate con avatares de IA sin autorización"
     }
   ],
   "sentimiento": {
@@ -295,29 +295,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 44,
-        "negativo": 36,
+        "positivo": 30,
+        "negativo": 55,
         "neutro": 20,
-        "tendencia": "up",
-        "tendencia_texto": "Semana decisiva: Polymarket lo ubica por primera vez en 43%, superando a Cepeda (41%) — Semana, 11 may. Confirmó cierres de campaña el 23 (Barranquilla) y 24 (Medellín) de mayo — Infobae, 11 may. Lidera en gastos de campaña presidencial con COP 32 mil millones — El Espectador. Disputa con la DNI por denuncia de plan de asesinato sigue abierta. AtlasIntel (9-10 may): 29,9%. CAMBIO-CNC (5 may): 20,4%. A 19 días del 31 de mayo."
+        "tendencia": "down",
+        "tendencia_texto": "12 may: Doble escándalo en un solo día — agredió verbalmente a la periodista Malú Fernández de Caracol (\"la ignorancia es atrevida\") y su campaña publicó video de IA con imagen no autorizada de la directora de La Silla Vacía. El ponderador de La Silla Vacía lo ubica en 25%, por debajo de los 29,9% que AtlasIntel marcó el 9-10 may. La acumulación de controversias genera el peor momento de imagen de su campaña a 19 días del 31 de mayo."
       },
       {
         "nombre": "Valencia",
         "color": "#3498db",
-        "positivo": 32,
-        "negativo": 48,
+        "positivo": 28,
+        "negativo": 56,
         "neutro": 20,
-        "tendencia": "stable",
-        "tendencia_texto": "Semana mixta: recibió el apoyo de María Claudia Tarazona ('Es la única que puede ganar en segunda vuelta') — El País, 11 may. Se desplomó en Polymarket al 16% mientras De la Espriella subía al 43% — Semana, 9-11 may. Respondió a Margarita Rosa sobre apoyo de Uribe: 'Es un reflejo machista' — Infobae, 10 may. AtlasIntel (9-10 may): 21,2%. CAMBIO-CNC (5 may): 15,6%. Las encuestas formales la mantienen como posible rival de Cepeda en segunda vuelta."
+        "tendencia": "down",
+        "tendencia_texto": "Semana de doble golpe: el 5 de mayo hizo un \"autodebate\" con avatares de IA de Cepeda y De la Espriella sin su consentimiento, generando crítica ética generalizada. Se desplomó en Polymarket al 16% mientras De la Espriella subió al 43%. El ponderador de La Silla Vacía la ubica en 20,5%. La tendencia negativa se consolida a 19 días de la primera vuelta."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 47,
-        "negativo": 31,
+        "positivo": 50,
+        "negativo": 28,
         "neutro": 22,
         "tendencia": "stable",
-        "tendencia_texto": "Lidera todas las encuestas formales: AtlasIntel (9-10 may): 38%; CAMBIO-CNC (5 may): 37,2%; Invamer (27 abr): 44,3%. Sumó sectores del Partido Liberal a su coalición — El Espectador, 11 may. El Tiempo desacreditó un sondeo IA que lo daba ganador en primera vuelta (#ElFiltro, 11 may). Invocó la leyenda del 'palo de mango': 'Pasamos de lejos' — Infobae, 11 may. Polymarket lo sitúa en 41%, levemente por debajo de De la Espriella (43%). Primera vuelta: 31 de mayo — quedan 19 días."
+        "tendencia_texto": "Mantiene liderazgo en encuestas formales: ponderador La Silla Vacía 37,5%; AtlasIntel (9-10 may) 38%; CAMBIO-CNC (5 may) 37,2%; Invamer (27 abr) 44,3%. Semana sin controversias propias, beneficiado por los escándalos de De la Espriella (agresión a periodista + video IA) y Valencia (autodebate IA sin autorización). Se consolida como el candidato más estable a 19 días del 31 de mayo."
       },
       {
         "nombre": "Fajardo",
@@ -340,27 +340,27 @@
     ]
   },
   "encuestas": {
-    "cepeda": 38.0,
-    "valencia": 21.2,
-    "espriella": 29.9,
-    "fuente": "AtlasIntel, 9-10 may 2026"
+    "cepeda": 37.5,
+    "valencia": 20.5,
+    "espriella": 25.0,
+    "fuente": "La Silla Vacía – Ponderador de encuestas, 12 may 2026"
   },
   "prediccion": {
     "primero": {
       "nombre": "Iván Cepeda",
       "partido": "Pacto Histórico",
       "color": "#27ae60",
-      "pct": 38.0,
-      "fuente_encuesta": "AtlasIntel (9-10 may 2026)"
+      "pct": 37.5,
+      "fuente_encuesta": "La Silla Vacía ponderador (12 may 2026)"
     },
     "segundo": {
       "nombre": "Abelardo De la Espriella",
       "partido": "Salvación Nacional",
       "color": "#e67e22",
-      "pct": 29.9,
-      "fuente_encuesta": "AtlasIntel (9-10 may 2026)"
+      "pct": 25.0,
+      "fuente_encuesta": "La Silla Vacía ponderador (12 may 2026)"
     },
-    "resumen_analisis": "Actualización 12 may 2026 — basada en 8 noticias del 9-11 may y encuesta AtlasIntel (9-10 may). HITO: Polymarket sitúa a De la Espriella (43%) por encima de Cepeda (41%) por primera vez — Semana, 11 may. Cepeda sumó sectores del Partido Liberal e invocó la leyenda del 'palo de mango' con optimismo — Infobae, 11 may. El Tiempo desacreditó un sondeo IA que lo daba ganador en primera vuelta (#ElFiltro, 11 may). Valencia sumó el apoyo de Tarazona — El País, 11 may. Encuestas formales: AtlasIntel (9-10 may): Cepeda 38% / De la Espriella 29,9% / Valencia 21,2%. CAMBIO-CNC (5 may): Cepeda 37,2% / Espriella 20,4% / Valencia 15,6%. En segunda vuelta, De la Espriella ganaría a Cepeda 47,8% vs 42% (AtlasIntel). Primera vuelta: 31 de mayo — quedan 19 días."
+    "resumen_analisis": "Actualización 12 may 2026 — ponderador La Silla Vacía + 8 noticias del 6-12 may. ESCÁNDALOS DEL DÍA (12 may): De la Espriella agredió verbalmente a periodista Malú de Caracol y su campaña publicó video de IA de Juanita León sin consentimiento. HITO DE SEMANA (5-6 may): Valencia realizó autodebate con avatares de IA de Cepeda y De la Espriella sin su autorización. Ponderador: Cepeda 37,5%, De la Espriella 25%, Valencia 20,5%. Primera vuelta: 31 de mayo de 2026."
   },
-  "ultimo_deploy": "2026-05-12T10:00:00Z"
+  "ultimo_deploy": "2026-05-12T18:00:00Z"
 }
