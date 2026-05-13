@@ -1,41 +1,89 @@
 {
-  "fecha": "12 de mayo de 2026",
+  "fecha": "13 de mayo de 2026",
   "noticias": [
     {
       "filter": "espriella",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#e67e22",
-      "fecha": "11 may 2026",
-      "tag": "De la Espriella · Campaña",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella confirmó cierre de campaña: 23 mayo en Barranquilla y 24 en Medellín",
-      "resumen": "Abelardo De la Espriella confirmó este 11 de mayo las sedes y fechas de su cierre de campaña: el 23 de mayo en Barranquilla y el 24 de mayo en Medellín, a ocho días de la primera vuelta del 31 de mayo. 'Quiero ver a toda la manada del Tigre reunida', declaró el candidato. Los actos marcan la recta final de la campaña más sorpresiva de la contienda, en medio de su ascenso en los mercados de predicción.",
-      "objetividad": 93,
+      "fuente": "El Colombiano",
+      "fuente_color": "#e74c3c",
+      "fecha": "12 may 2026",
+      "tag": "De la Espriella · Escándalo",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella agredió verbalmente a periodista de Caracol: 'La ignorancia es atrevida'",
+      "resumen": "En entrevista en vivo en Noticias Caracol, Abelardo de la Espriella le dijo a la periodista María Lucía 'Malú' Fernández que 'la ignorancia es atrevida' y que su pregunta 'venía con veneno'. Para desviar la atención sacó a relucir escándalos de acoso sexual dentro del canal. El episodio agrava la percepción negativa del candidato en medios y redes a solo 18 días de la primera vuelta del 31 de mayo.",
+      "objetividad": 82,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Hecho verificable: fechas y sedes confirmadas por el propio candidato"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente internacional de referencia con cobertura Colombia"
-        },
-        {
-          "ok": true,
-          "texto": "Noticia de hoy 11 de mayo — la más reciente disponible"
-        },
-        {
-          "ok": true,
-          "texto": "Alto impacto: marca la recta final de una campaña de alto perfil"
-        },
-        {
-          "ok": false,
-          "texto": "No detalla el formato ni la logística de los cierres de campaña"
-        }
+        { "ok": true, "texto": "Hecho verificable en transmisión en vivo de Caracol" },
+        { "ok": true, "texto": "Fuente regional con cobertura política activa" },
+        { "ok": true, "texto": "Declaraciones textuales del candidato documentadas" },
+        { "ok": false, "texto": "Sin declaración formal de Caracol o de la periodista afectada" },
+        { "ok": true, "texto": "Alto impacto electoral por proximidad a primera vuelta" }
       ],
-      "url": "https://www.infobae.com/colombia/2026/05/11/abelardo-de-la-espriella-confirmo-fechas-y-sedes-para-su-cierre-de-campana-quiero-ver-a-toda-la-manada-del-tigre-reunida/",
-      "url_label": "Infobae - De la Espriella confirma cierres: Barranquilla (23 may) y Medellín (24 may)"
+      "url": "https://www.elcolombiano.com/especiales/elecciones-2026/abelardo-de-la-espriella-agrede-verbalmente-a-periodista-de-caracol-la-ignorancia-es-atrevida-ME27000000",
+      "url_label": "El Colombiano – De la Espriella vs. periodista Malú de Caracol"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "La Silla Vacía",
+      "fuente_color": "#e74c3c",
+      "fecha": "12 may 2026",
+      "tag": "De la Espriella · IA y prensa",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "Campaña de De la Espriella usó imagen de IA de Juanita León de La Silla Vacía sin su consentimiento",
+      "resumen": "La campaña de De la Espriella publicó un video de inteligencia artificial en el que aparece Juanita León, directora de La Silla Vacía, caracterizada como parte de 'los de siempre'. La Silla Vacía rechazó el uso indebido de la imagen de su directora en una pieza de campaña política sin autorización. El episodio se suma a la agresión verbal a la periodista Malú de Caracol el mismo día 12 de mayo.",
+      "objetividad": 85,
+      "criterios": [
+        { "ok": true, "texto": "Hecho verificable: video publicado por la campaña" },
+        { "ok": true, "texto": "Fuente directamente afectada, dando su propia versión" },
+        { "ok": true, "texto": "Impacto en libertad de prensa y ética del uso de IA en campaña" },
+        { "ok": true, "texto": "Contexto institucional claro (La Silla Vacía)" },
+        { "ok": false, "texto": "Sin respuesta oficial de la campaña de De la Espriella" }
+      ],
+      "url": "https://lasillavacia.com/silla-nacional/de-la-espriella-uso-una-imagen-de-ia-de-juanita-leon-en-un-video-de-campana/",
+      "url_label": "La Silla Vacía – De la Espriella usó imagen de IA de Juanita León"
+    },
+    {
+      "filter": "general",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#7f8c8d",
+      "fecha": "12 may 2026",
+      "tag": "Electoral · Financiación",
+      "tag_color": "#7f8c8d",
+      "tag_bg": "rgba(127,140,141,0.15)",
+      "titulo": "MOE alerta: seis campañas presidenciales aún no han recibido anticipos del CNE a 19 días de la primera vuelta",
+      "resumen": "La Misión de Observación Electoral (MOE) alertó el 12 de mayo que el Consejo Nacional Electoral (CNE) no ha entregado los anticipos legales a al menos seis candidaturas presidenciales, a 19 días de la primera vuelta del 31 de mayo. El gasto total de campaña ya supera los 25.000 millones de pesos. La demora en la entrega de recursos afecta la equidad del proceso electoral y contraviene la ley colombiana.",
+      "objetividad": 90,
+      "criterios": [
+        { "ok": true, "texto": "Denuncia formal de la MOE, organismo de observación independiente" },
+        { "ok": true, "texto": "Datos verificables: monto total de gastos confirmado" },
+        { "ok": true, "texto": "Impacto directo en equidad electoral" },
+        { "ok": false, "texto": "Sin respuesta oficial del CNE al cierre de la nota" },
+        { "ok": true, "texto": "Publicada el 12 de mayo, alta oportunidad informativa" }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/05/12/elecciones-presidenciales-2026-moe-alerto-que-seis-campanas-siguen-sin-recibir-anticipos-solicitados-ante-el-consejo-nacional-electoral/",
+      "url_label": "Infobae Colombia – MOE: seis campañas sin recibir anticipos del CNE"
+    },
+    {
+      "filter": "encuestas",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#8e44ad",
+      "fecha": "11 may 2026",
+      "tag": "Encuestas · CNE",
+      "tag_color": "#8e44ad",
+      "tag_bg": "rgba(142,68,173,0.15)",
+      "titulo": "CNE analiza suspender a AtlasIntel por irregularidades: en duda la encuesta que daba ganador a De la Espriella en segunda vuelta",
+      "resumen": "Dos informes de auditoría enviados al Consejo Nacional Electoral (CNE) advirtieron sobre graves irregularidades en la metodología de AtlasIntel. La recomendación de suspender el registro de la firma pone en duda el sondeo que situaba a Abelardo De la Espriella ganando la segunda vuelta con 47% frente a Cepeda (42%). El caso marca un giro relevante en el panorama de las encuestadoras a tres semanas del 31 de mayo.",
+      "objetividad": 87,
+      "criterios": [
+        { "ok": true, "texto": "Informes de auditoría como fuente primaria documentada" },
+        { "ok": true, "texto": "Fuente de referencia internacional con cobertura Colombia" },
+        { "ok": true, "texto": "Impacto directo en interpretación del escenario electoral" },
+        { "ok": true, "texto": "Encuesta cuestionada tenía amplio impacto mediático" },
+        { "ok": false, "texto": "Sin respuesta formal de AtlasIntel a las acusaciones" }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/05/11/estudio-de-atlas-intel-que-dio-como-ganador-a-abelardo-de-la-espriella-en-segunda-vuelta-no-es-una-encuesta-auditoria-habria-detectado-irregularidades-en-el-sondeo/",
+      "url_label": "Infobae Colombia – CNE analiza suspender AtlasIntel por irregularidades"
     },
     {
       "filter": "espriella",
@@ -46,32 +94,38 @@
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
       "titulo": "Abelardo de la Espriella (43%) supera a Iván Cepeda (41%) en Polymarket por primera vez",
-      "resumen": "La plataforma de predicciones Polymarket registra a Abelardo De la Espriella con 43% de probabilidad de ganar la primera vuelta, superando por primera vez a Iván Cepeda, que cae al 41%. Paloma Valencia se sitúa en 16%. El dato contrasta con las encuestas formales —que mantienen a Cepeda como líder con 38% según AtlasIntel— pero refleja una percepción creciente de empate técnico a 19 días del 31 de mayo.",
+      "resumen": "La plataforma de predicciones Polymarket registra a Abelardo De la Espriella con 43% de probabilidad de ganar la primera vuelta, superando por primera vez a Iván Cepeda, que cae al 41%. Paloma Valencia se sitúa en 16%. El dato contrasta con las encuestas formales —ponderador La Silla Vacía mantiene a Cepeda con 37,5%— pero refleja una percepción creciente de empate técnico a 18 días del 31 de mayo.",
       "objetividad": 84,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Datos verificables: cifras públicas de Polymarket en tiempo real"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente de referencia nacional de primer orden"
-        },
-        {
-          "ok": true,
-          "texto": "Noticia de hoy 11 de mayo — hito histórico en la contienda"
-        },
-        {
-          "ok": true,
-          "texto": "Alto impacto: primera vez que De la Espriella supera a Cepeda en Polymarket"
-        },
-        {
-          "ok": false,
-          "texto": "Polymarket es mercado de apuestas, no encuesta estadística representativa"
-        }
+        { "ok": true, "texto": "Datos verificables: cifras públicas de Polymarket en tiempo real" },
+        { "ok": true, "texto": "Fuente de referencia nacional de primer orden" },
+        { "ok": true, "texto": "Hito histórico: primera vez que De la Espriella supera a Cepeda en Polymarket" },
+        { "ok": true, "texto": "Alto impacto en narrativa mediática de la contienda" },
+        { "ok": false, "texto": "Polymarket es mercado de apuestas, no encuesta estadística representativa" }
       ],
       "url": "https://www.semana.com/confidenciales/articulo/elecciones-2026-paloma-valencia-se-desploma-en-polymarket-y-llega-a-16-mientras-abelardo-de-la-espriella-se-dispara-y-registra-40/202618/",
       "url_label": "Semana - Polymarket: De la Espriella 43% supera a Cepeda 41% por primera vez"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#e67e22",
+      "fecha": "11 may 2026",
+      "tag": "De la Espriella · Campaña",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella confirmó cierre de campaña: 23 mayo en Barranquilla y 24 en Medellín",
+      "resumen": "Abelardo De la Espriella confirmó este 11 de mayo las sedes y fechas de su cierre de campaña: el 23 de mayo en Barranquilla y el 24 de mayo en Medellín, a ocho días de la primera vuelta del 31 de mayo. 'Quiero ver a toda la manada del Tigre reunida', declaró el candidato. Los actos marcan la recta final de la campaña más sorpresiva de la contienda.",
+      "objetividad": 93,
+      "criterios": [
+        { "ok": true, "texto": "Hecho verificable: fechas y sedes confirmadas por el propio candidato" },
+        { "ok": true, "texto": "Fuente internacional de referencia con cobertura Colombia" },
+        { "ok": true, "texto": "Noticia del 11 de mayo, alta oportunidad informativa" },
+        { "ok": true, "texto": "Alto impacto: marca la recta final de la campaña" },
+        { "ok": false, "texto": "No detalla el formato ni la logística de los cierres de campaña" }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/05/11/abelardo-de-la-espriella-confirmo-fechas-y-sedes-para-su-cierre-de-campana-quiero-ver-a-toda-la-manada-del-tigre-reunida/",
+      "url_label": "Infobae - De la Espriella confirma cierres: Barranquilla (23 may) y Medellín (24 may)"
     },
     {
       "filter": "cepeda",
@@ -85,209 +139,35 @@
       "resumen": "A tres semanas de las elecciones del 31 de mayo, el tablero de alianzas se mueve: Iván Cepeda sumó el respaldo de sectores del Partido Liberal. En el centro-derecha, María Claudia Tarazona anunció su apoyo a Paloma Valencia. Mientras tanto, Abelardo De la Espriella mantiene la controversia con la Dirección Nacional de Inteligencia (DNI) tras su denuncia de un presunto plan de asesinato.",
       "objetividad": 90,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Hecho verificable: alianzas confirmadas públicamente por los actores"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente de referencia nacional de primer orden"
-        },
-        {
-          "ok": true,
-          "texto": "Noticia del 11 de mayo — cubre los tres candidatos principales"
-        },
-        {
-          "ok": true,
-          "texto": "Alto impacto: define el mapa de apoyos en la recta final"
-        },
-        {
-          "ok": false,
-          "texto": "No detalla el número de votos que aportan los sectores liberales"
-        }
+        { "ok": true, "texto": "Hecho verificable: alianzas confirmadas públicamente por los actores" },
+        { "ok": true, "texto": "Fuente de referencia nacional de primer orden" },
+        { "ok": true, "texto": "Noticia del 11 de mayo — cubre los tres candidatos principales" },
+        { "ok": true, "texto": "Alto impacto: define el mapa de apoyos en la recta final" },
+        { "ok": false, "texto": "No detalla el número de votos que aportan los sectores liberales" }
       ],
       "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/cepeda-suma-sectores-liberales-tarazona-se-va-con-valencia-y-de-la-espriella-sigue-disputa-con-el-dni-noticias-hoy/",
-      "url_label": "El Espectador - Cepeda suma liberales; Tarazona apoya a Valencia; De la Espriella vs. DNI"
+      "url_label": "El Espectador - Cepeda suma liberales; Tarazona apoya Valencia; De la Espriella vs. DNI"
     },
     {
       "filter": "valencia",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#3498db",
-      "fecha": "10 may 2026",
-      "tag": "Valencia · Polémica",
-      "tag_color": "#3498db",
-      "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Valencia respondió a Margarita Rosa por criticar el apoyo de Álvaro Uribe: 'Es un reflejo machista'",
-      "resumen": "Paloma Valencia salió al paso el 10 de mayo de las críticas de la actriz Margarita Rosa de Francisco, quien cuestionó su cercanía con el expresidente Álvaro Uribe. Valencia calificó las críticas como 'un reflejo machista' y defendió el respaldo de Uribe como un activo legítimo de su campaña. El cruce generó amplia repercusión en redes sociales y medios nacionales a 21 días de la primera vuelta.",
-      "objetividad": 86,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaración directa y verificable de la candidata — 10 may"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente internacional de referencia con cobertura Colombia"
-        },
-        {
-          "ok": true,
-          "texto": "Noticia del 10 de mayo — reciente con amplia repercusión en redes"
-        },
-        {
-          "ok": true,
-          "texto": "Alto impacto: enfrenta la narrativa de dependencia del uribismo"
-        },
-        {
-          "ok": false,
-          "texto": "No reproduce la crítica exacta de Margarita Rosa ni el contexto completo"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/05/10/paloma-valencia-se-despacho-contra-margarita-rosa-por-criticar-el-apoyo-que-recibe-de-alvaro-uribe-es-un-reflejo-machista/",
-      "url_label": "Infobae - Valencia responde a Margarita Rosa: 'Es un reflejo machista'"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "El País",
+      "fuente": "La Opinión",
       "fuente_color": "#3498db",
       "fecha": "11 may 2026",
       "tag": "Valencia · Alianzas",
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "María Claudia Tarazona anuncia apoyo a Paloma Valencia: 'Es la única que puede ganar en segunda vuelta'",
-      "resumen": "María Claudia Tarazona anunció formalmente su respaldo a Paloma Valencia para las elecciones del 31 de mayo. 'Tengo plena certeza de que Paloma es la única que puede ganar en una segunda vuelta', declaró. El respaldo llega en momento crítico para Valencia, quien enfrenta la presión de De la Espriella por el segundo lugar, mientras las encuestas formales (AtlasIntel: 21,2%) la mantienen como posible rival de Cepeda en segunda vuelta.",
+      "titulo": "María Claudia Tarazona oficializa su apoyo presidencial a Paloma Valencia",
+      "resumen": "María Claudia Tarazona anunció formalmente su respaldo a Paloma Valencia para las elecciones del 31 de mayo. 'Tengo plena certeza de que Paloma es la única que puede ganar en una segunda vuelta', declaró. El respaldo llega en momento crítico para Valencia, quien enfrenta la presión de De la Espriella por el segundo lugar, con el ponderador La Silla Vacía ubicándola en 20,5% frente a 25% de De la Espriella.",
       "objetividad": 88,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaración directa y verificable de Tarazona"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente regional de referencia con cobertura política"
-        },
-        {
-          "ok": true,
-          "texto": "Noticia del 11 de mayo — refuerza el bloque centro-derecha"
-        },
-        {
-          "ok": true,
-          "texto": "Alto impacto: suma votos potenciales a Valencia en la recta final"
-        },
-        {
-          "ok": false,
-          "texto": "No precisa el caudal electoral que aportaría el respaldo de Tarazona"
-        }
+        { "ok": true, "texto": "Declaración directa y verificable de Tarazona" },
+        { "ok": true, "texto": "Fuente regional de referencia con cobertura política" },
+        { "ok": true, "texto": "Noticia del 11 de mayo — refuerza el bloque centro-derecha" },
+        { "ok": true, "texto": "Alto impacto: suma votos potenciales a Valencia en la recta final" },
+        { "ok": false, "texto": "No precisa el caudal electoral que aportaría el respaldo de Tarazona" }
       ],
-      "url": "https://www.elpais.com.co/politica/maria-claudia-tarazona-revela-a-que-candidato-apoyara-en-las-presidenciales-de-2026-esa-fue-la-voluntad-de-miguel-1122.html",
-      "url_label": "El País - Tarazona anuncia apoyo a Valencia: 'Es la única que puede ganar en segunda vuelta'"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Colombiano",
-      "fuente_color": "#e74c3c",
-      "fecha": "12 may 2026",
-      "tag": "De la Espriella · Escándalo",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella agredió verbalmente a periodista de Caracol: 'La ignorancia es atrevida'",
-      "resumen": "En entrevista en vivo en Noticias Caracol, Abelardo de la Espriella le dijo a la periodista María Lucía 'Malú' Fernández que 'la ignorancia es atrevida' y que su pregunta 'venía con veneno'. Para desviar la atención sacó a relucir escándalos de acoso sexual dentro del canal. El episodio agrava la percepción negativa del candidato en medios y redes a solo 19 días de la primera vuelta del 31 de mayo.",
-      "objetividad": 82,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Hecho verificable en transmisión en vivo de Caracol"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente regional con cobertura política activa"
-        },
-        {
-          "ok": true,
-          "texto": "Declaraciones textuales del candidato documentadas"
-        },
-        {
-          "ok": false,
-          "texto": "Sin declaración formal de Caracol o de la periodista afectada"
-        },
-        {
-          "ok": true,
-          "texto": "Alto impacto electoral por proximidad a primera vuelta"
-        }
-      ],
-      "url": "https://www.elcolombiano.com/colombia/politica/abelardo-de-la-espriella-agrede-verbalmente-a-periodista-de-caracol-la-ignorancia-es-atrevida-ME27000000",
-      "url_label": "El Colombiano – De la Espriella vs. periodista Malú de Caracol"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "La Silla Vacía",
-      "fuente_color": "#e74c3c",
-      "fecha": "12 may 2026",
-      "tag": "De la Espriella · IA y prensa",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "Campaña de De la Espriella usó imagen de IA de Juanita León de La Silla Vacía sin su consentimiento",
-      "resumen": "La campaña de De la Espriella publicó un video de inteligencia artificial en el que aparece Juanita León, directora de La Silla Vacía, caracterizada como parte de 'los de siempre'. La Silla Vacía rechazó el uso indebido de la imagen de su directora en una pieza de campaña política sin autorización. El episodio se suma a la agresión verbal a la periodista Malú de Caracol el mismo día.",
-      "objetividad": 85,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Hecho verificable: video publicado por la campaña"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente directamente afectada, dando su propia versión"
-        },
-        {
-          "ok": true,
-          "texto": "Impacto en libertad de prensa y ética del uso de IA en campaña"
-        },
-        {
-          "ok": true,
-          "texto": "Contexto institucional claro (La Silla Vacía)"
-        },
-        {
-          "ok": false,
-          "texto": "Sin respuesta oficial de la campaña de De la Espriella"
-        }
-      ],
-      "url": "https://lasillavacia.com/silla-nacional/de-la-espriella-uso-una-imagen-de-ia-de-juanita-leon-en-un-video-de-campana/",
-      "url_label": "La Silla Vacía – De la Espriella usó imagen de IA de Juanita León"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#3498db",
-      "fecha": "6 may 2026",
-      "tag": "Valencia · Polémica IA",
-      "tag_color": "#8e44ad",
-      "tag_bg": "rgba(142,68,173,0.15)",
-      "titulo": "Valencia hizo un 'autodebate' con avatares de IA de Cepeda y De la Espriella sin su autorización",
-      "resumen": "El 5 de mayo, la campaña de Paloma Valencia transmitió un debate en el que ella respondía preguntas a avatares generados por inteligencia artificial de Cepeda y De la Espriella, sin el consentimiento de ninguno de los dos. La iniciativa desató críticas de expertos en ética de IA y de las campañas afectadas, que la calificaron de manipuladora y peligrosa para el debate democrático.",
-      "objetividad": 80,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Hecho verificable: transmisión pública de la campaña"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente internacional con cobertura electoral activa"
-        },
-        {
-          "ok": true,
-          "texto": "Perspectiva crítica de expertos en ética de IA incluida"
-        },
-        {
-          "ok": false,
-          "texto": "Sin declaración de la campaña de Valencia en respuesta formal"
-        },
-        {
-          "ok": false,
-          "texto": "Sin análisis del marco legal colombiano sobre IA en campaña"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/05/06/paloma-valencia-hizo-debate-con-avatares-ia-de-candidatos-sin-su-autorizacion/",
-      "url_label": "Infobae Colombia – Valencia: debate con avatares de IA sin autorización"
+      "url": "https://www.laopinion.co/elecciones-2026/maria-claudia-tarazona-oficializa-su-apoyo-presidencial-paloma-valencia",
+      "url_label": "La Opinión - Tarazona anuncia apoyo oficial a Paloma Valencia"
     }
   ],
   "sentimiento": {
@@ -295,29 +175,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 30,
-        "negativo": 55,
-        "neutro": 20,
+        "positivo": 22,
+        "negativo": 63,
+        "neutro": 15,
         "tendencia": "down",
-        "tendencia_texto": "12 may: Doble escándalo en un solo día — agredió verbalmente a la periodista Malú Fernández de Caracol (\"la ignorancia es atrevida\") y su campaña publicó video de IA con imagen no autorizada de la directora de La Silla Vacía. El ponderador de La Silla Vacía lo ubica en 25%, por debajo de los 29,9% que AtlasIntel marcó el 9-10 may. La acumulación de controversias genera el peor momento de imagen de su campaña a 19 días del 31 de mayo."
+        "tendencia_texto": "13 may: Peor semana de imagen de la campaña. Doble escándalo del 12 may — agredió verbalmente a la periodista Malú Fernández de Caracol ('la ignorancia es atrevida') y su campaña publicó video de IA con imagen no autorizada de Juanita León (La Silla Vacía). Además, el CNE analiza suspender a AtlasIntel por irregularidades, lo que pone en duda el sondeo que lo daba ganador en segunda vuelta (47% vs 42% Cepeda). Ponderador La Silla Vacía: 25%. La acumulación de controversias en la recta final genera fuerte presión a 18 días del 31 de mayo."
       },
       {
         "nombre": "Valencia",
         "color": "#3498db",
         "positivo": 28,
-        "negativo": 56,
-        "neutro": 20,
+        "negativo": 54,
+        "neutro": 18,
         "tendencia": "down",
-        "tendencia_texto": "Semana de doble golpe: el 5 de mayo hizo un \"autodebate\" con avatares de IA de Cepeda y De la Espriella sin su consentimiento, generando crítica ética generalizada. Se desplomó en Polymarket al 16% mientras De la Espriella subió al 43%. El ponderador de La Silla Vacía la ubica en 20,5%. La tendencia negativa se consolida a 19 días de la primera vuelta."
+        "tendencia_texto": "Semana de consolidación en tercer lugar. Suma el respaldo de Tarazona (11 may), pero sigue cayendo en Polymarket (16%). Ponderador La Silla Vacía: 20,5%. La narrativa de 'voto útil' la favorece de cara a una eventual segunda vuelta contra Cepeda. La controversia del autodebate con avatares IA sin consentimiento (5 may) sigue generando cobertura negativa."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 50,
-        "negativo": 28,
+        "positivo": 53,
+        "negativo": 25,
         "neutro": 22,
         "tendencia": "stable",
-        "tendencia_texto": "Mantiene liderazgo en encuestas formales: ponderador La Silla Vacía 37,5%; AtlasIntel (9-10 may) 38%; CAMBIO-CNC (5 may) 37,2%; Invamer (27 abr) 44,3%. Semana sin controversias propias, beneficiado por los escándalos de De la Espriella (agresión a periodista + video IA) y Valencia (autodebate IA sin autorización). Se consolida como el candidato más estable a 19 días del 31 de mayo."
+        "tendencia_texto": "Estable y favorecido por los errores de sus rivales. Lidera todas las encuestas formales: ponderador La Silla Vacía 37,5% (12 may); Invamer 44,3% (27 abr); CNC 37,2% (5 may). Sin controversias propias esta semana. Suma sectores del Partido Liberal (11 may). La duda sobre AtlasIntel beneficia su imagen frente a la narrativa de segunda vuelta. El candidato mejor posicionado mediáticamente a 18 días del 31 de mayo."
       },
       {
         "nombre": "Fajardo",
@@ -360,7 +240,7 @@
       "pct": 25.0,
       "fuente_encuesta": "La Silla Vacía ponderador (12 may 2026)"
     },
-    "resumen_analisis": "Actualización 12 may 2026 — ponderador La Silla Vacía + 8 noticias del 6-12 may. ESCÁNDALOS DEL DÍA (12 may): De la Espriella agredió verbalmente a periodista Malú de Caracol y su campaña publicó video de IA de Juanita León sin consentimiento. HITO DE SEMANA (5-6 may): Valencia realizó autodebate con avatares de IA de Cepeda y De la Espriella sin su autorización. Ponderador: Cepeda 37,5%, De la Espriella 25%, Valencia 20,5%. Primera vuelta: 31 de mayo de 2026."
+    "resumen_analisis": "Actualización 13 may 2026 — 8 noticias del 11-12 may. NUEVAS HISTORIAS DEL DÍA: MOE alerta que 6 campañas siguen sin anticipos del CNE a 18 días de la primera vuelta; CNE analiza suspender a AtlasIntel por irregularidades (pone en duda la encuesta que daba ganador a De la Espriella en segunda vuelta con 47%). ESCÁNDALOS 12 MAY: De la Espriella agredió verbalmente a periodista Malú de Caracol y su campaña usó imagen IA de Juanita León sin consentimiento. Ponderador La Silla Vacía: Cepeda 37,5%, De la Espriella 25%, Valencia 20,5%. Primera vuelta: 31 de mayo de 2026."
   },
-  "ultimo_deploy": "2026-05-12T18:00:00Z"
+  "ultimo_deploy": "2026-05-13T12:00:00Z"
 }
