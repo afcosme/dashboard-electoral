@@ -1,173 +1,173 @@
 {
-  "fecha": "13 de mayo de 2026",
+  "fecha": "14 de mayo de 2026",
   "noticias": [
     {
-      "filter": "espriella",
-      "fuente": "El Colombiano",
-      "fuente_color": "#e74c3c",
-      "fecha": "12 may 2026",
-      "tag": "De la Espriella · Escándalo",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella agredió verbalmente a periodista de Caracol: 'La ignorancia es atrevida'",
-      "resumen": "En entrevista en vivo en Noticias Caracol, Abelardo de la Espriella le dijo a la periodista María Lucía 'Malú' Fernández que 'la ignorancia es atrevida' y que su pregunta 'venía con veneno'. Para desviar la atención sacó a relucir escándalos de acoso sexual dentro del canal. El episodio agrava la percepción negativa del candidato en medios y redes a solo 18 días de la primera vuelta del 31 de mayo.",
-      "objetividad": 82,
+      "filter": "cepeda",
+      "fuente": "Publimetro",
+      "fuente_color": "#27ae60",
+      "fecha": "14 may 2026",
+      "tag": "Cepeda · Escándalo diplomático",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Procuraduría suspende a embajadora en Haití por decir que Cepeda es 'un candidato magnífico'",
+      "resumen": "La Procuraduría General suspendió provisionalmente a Vilma Rocío Velásquez, embajadora de Colombia en Haití, tras viralizarse una entrevista radial en la que afirmó: 'Tenemos un candidato magnífico que es Iván Cepeda'. La conducta viola el régimen de inhabilidades para servidores públicos. Cepeda tomó distancia y pidió la investigación disciplinaria, pero el episodio reaviva el debate sobre uso electoral del aparato estatal a 17 días del 31 de mayo.",
+      "objetividad": 88,
       "criterios": [
-        { "ok": true, "texto": "Hecho verificable en transmisión en vivo de Caracol" },
-        { "ok": true, "texto": "Fuente regional con cobertura política activa" },
-        { "ok": true, "texto": "Declaraciones textuales del candidato documentadas" },
-        { "ok": false, "texto": "Sin declaración formal de Caracol o de la periodista afectada" },
-        { "ok": true, "texto": "Alto impacto electoral por proximidad a primera vuelta" }
+        { "ok": true,  "texto": "Acto administrativo de suspensión verificable de la Procuraduría" },
+        { "ok": true,  "texto": "Video y audio de la entrevista radial circulan públicamente" },
+        { "ok": true,  "texto": "Cepeda emitió declaración oficial distanciándose del hecho" },
+        { "ok": true,  "texto": "Impacto electoral directo en plena recta final de campaña" },
+        { "ok": false, "texto": "Sin declaración de la embajadora suspendida" }
       ],
-      "url": "https://www.elcolombiano.com/especiales/elecciones-2026/abelardo-de-la-espriella-agrede-verbalmente-a-periodista-de-caracol-la-ignorancia-es-atrevida-ME27000000",
-      "url_label": "El Colombiano – De la Espriella vs. periodista Malú de Caracol"
+      "url": "https://www.publimetro.co/noticias/2026/05/14/suspenden-a-embajadora-en-haiti-por-presunta-participacion-en-politica-dijo-que-ivan-cepeda-era-un-candidato-magnifico/",
+      "url_label": "Publimetro – Suspenden embajadora en Haití por campaña a favor de Cepeda"
     },
     {
-      "filter": "espriella",
-      "fuente": "La Silla Vacía",
-      "fuente_color": "#e74c3c",
-      "fecha": "12 may 2026",
-      "tag": "De la Espriella · IA y prensa",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "Campaña de De la Espriella usó imagen de IA de Juanita León de La Silla Vacía sin su consentimiento",
-      "resumen": "La campaña de De la Espriella publicó un video de inteligencia artificial en el que aparece Juanita León, directora de La Silla Vacía, caracterizada como parte de 'los de siempre'. La Silla Vacía rechazó el uso indebido de la imagen de su directora en una pieza de campaña política sin autorización. El episodio se suma a la agresión verbal a la periodista Malú de Caracol el mismo día 12 de mayo.",
-      "objetividad": 85,
-      "criterios": [
-        { "ok": true, "texto": "Hecho verificable: video publicado por la campaña" },
-        { "ok": true, "texto": "Fuente directamente afectada, dando su propia versión" },
-        { "ok": true, "texto": "Impacto en libertad de prensa y ética del uso de IA en campaña" },
-        { "ok": true, "texto": "Contexto institucional claro (La Silla Vacía)" },
-        { "ok": false, "texto": "Sin respuesta oficial de la campaña de De la Espriella" }
-      ],
-      "url": "https://lasillavacia.com/silla-nacional/de-la-espriella-uso-una-imagen-de-ia-de-juanita-leon-en-un-video-de-campana/",
-      "url_label": "La Silla Vacía – De la Espriella usó imagen de IA de Juanita León"
-    },
-    {
-      "filter": "general",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#7f8c8d",
-      "fecha": "12 may 2026",
-      "tag": "Electoral · Financiación",
-      "tag_color": "#7f8c8d",
-      "tag_bg": "rgba(127,140,141,0.15)",
-      "titulo": "MOE alerta: seis campañas presidenciales aún no han recibido anticipos del CNE a 19 días de la primera vuelta",
-      "resumen": "La Misión de Observación Electoral (MOE) alertó el 12 de mayo que el Consejo Nacional Electoral (CNE) no ha entregado los anticipos legales a al menos seis candidaturas presidenciales, a 19 días de la primera vuelta del 31 de mayo. El gasto total de campaña ya supera los 25.000 millones de pesos. La demora en la entrega de recursos afecta la equidad del proceso electoral y contraviene la ley colombiana.",
+      "filter": "cepeda",
+      "fuente": "El Tiempo",
+      "fuente_color": "#27ae60",
+      "fecha": "13 may 2026",
+      "tag": "Cepeda · Proselitismo",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Iván Cepeda pide investigación disciplinaria contra embajadora señalada de hacer campaña en Haití",
+      "resumen": "El candidato presidencial Iván Cepeda solicitó a las autoridades disciplinarias investigar a la embajadora Vilma Velásquez por promover su candidatura en medios extranjeros, una conducta prohibida por la Constitución. 'Ningún funcionario puede hacer proselitismo en favor de ningún candidato', declaró Cepeda, quien buscó deslindar su campaña del hecho. La Procuraduría abrió indagación preliminar en horas.",
       "objetividad": 90,
       "criterios": [
-        { "ok": true, "texto": "Denuncia formal de la MOE, organismo de observación independiente" },
-        { "ok": true, "texto": "Datos verificables: monto total de gastos confirmado" },
-        { "ok": true, "texto": "Impacto directo en equidad electoral" },
-        { "ok": false, "texto": "Sin respuesta oficial del CNE al cierre de la nota" },
-        { "ok": true, "texto": "Publicada el 12 de mayo, alta oportunidad informativa" }
+        { "ok": true,  "texto": "Declaración oficial del candidato verificable" },
+        { "ok": true,  "texto": "Fuente de referencia nacional de primer nivel" },
+        { "ok": true,  "texto": "Apertura de indagación por la Procuraduría confirmada" },
+        { "ok": true,  "texto": "Marco legal claro: norma constitucional citada" },
+        { "ok": false, "texto": "No detalla el mecanismo disciplinario específico invocado" }
       ],
-      "url": "https://www.infobae.com/colombia/2026/05/12/elecciones-presidenciales-2026-moe-alerto-que-seis-campanas-siguen-sin-recibir-anticipos-solicitados-ante-el-consejo-nacional-electoral/",
-      "url_label": "Infobae Colombia – MOE: seis campañas sin recibir anticipos del CNE"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/en-entrevista-embajadora-de-colombia-en-haiti-hizo-proselitismo-a-favor-de-ivan-cepeda-candidato-pidio-investigacion-disciplinaria-3555381",
+      "url_label": "El Tiempo – Cepeda pide investigación disciplinaria a embajadora en Haití"
     },
     {
-      "filter": "encuestas",
+      "filter": "valencia",
       "fuente": "Infobae Colombia",
-      "fuente_color": "#8e44ad",
-      "fecha": "11 may 2026",
-      "tag": "Encuestas · CNE",
-      "tag_color": "#8e44ad",
-      "tag_bg": "rgba(142,68,173,0.15)",
-      "titulo": "CNE analiza suspender a AtlasIntel por irregularidades: en duda la encuesta que daba ganador a De la Espriella en segunda vuelta",
-      "resumen": "Dos informes de auditoría enviados al Consejo Nacional Electoral (CNE) advirtieron sobre graves irregularidades en la metodología de AtlasIntel. La recomendación de suspender el registro de la firma pone en duda el sondeo que situaba a Abelardo De la Espriella ganando la segunda vuelta con 47% frente a Cepeda (42%). El caso marca un giro relevante en el panorama de las encuestadoras a tres semanas del 31 de mayo.",
-      "objetividad": 87,
+      "fuente_color": "#3498db",
+      "fecha": "13 may 2026",
+      "tag": "Valencia · Garantías",
+      "tag_color": "#3498db",
+      "tag_bg": "rgba(52,152,219,0.15)",
+      "titulo": "Valencia y Claudia López denuncian presiones armadas y falta de garantías a 18 días del 31 de mayo",
+      "resumen": "Las candidatas Paloma Valencia y Claudia López denunciaron en el foro Diálogo Nación-Territorio de Asocapitales la presencia de grupos armados que intimidan comunidades para votar por Iván Cepeda, especialmente en Argelia, El Tambo y el Pacífico caucano. Exigieron al Gobierno garantías efectivas de seguridad electoral. El episodio le da a Valencia mayor visibilidad en la agenda de seguridad en la recta final.",
+      "objetividad": 82,
       "criterios": [
-        { "ok": true, "texto": "Informes de auditoría como fuente primaria documentada" },
-        { "ok": true, "texto": "Fuente de referencia internacional con cobertura Colombia" },
-        { "ok": true, "texto": "Impacto directo en interpretación del escenario electoral" },
-        { "ok": true, "texto": "Encuesta cuestionada tenía amplio impacto mediático" },
-        { "ok": false, "texto": "Sin respuesta formal de AtlasIntel a las acusaciones" }
+        { "ok": true,  "texto": "Denuncia realizada en foro institucional de Asocapitales" },
+        { "ok": true,  "texto": "Fuente internacional de referencia con cobertura Colombia" },
+        { "ok": true,  "texto": "Municipios específicos mencionados: Argelia, El Tambo" },
+        { "ok": false, "texto": "No hay pruebas documentales adjuntas a la denuncia" },
+        { "ok": false, "texto": "Sin respuesta del Gobierno al cierre de la nota" }
       ],
-      "url": "https://www.infobae.com/colombia/2026/05/11/estudio-de-atlas-intel-que-dio-como-ganador-a-abelardo-de-la-espriella-en-segunda-vuelta-no-es-una-encuesta-auditoria-habria-detectado-irregularidades-en-el-sondeo/",
-      "url_label": "Infobae Colombia – CNE analiza suspender AtlasIntel por irregularidades"
+      "url": "https://www.infobae.com/colombia/2026/05/13/claudia-lopez-y-paloma-valencia-denunciaron-falta-de-garantias-para-las-elecciones-del-31-de-mayo-en-el-pais/",
+      "url_label": "Infobae Colombia – Valencia y Claudia López denuncian falta de garantías electorales"
+    },
+    {
+      "filter": "valencia",
+      "fuente": "El País Cali",
+      "fuente_color": "#3498db",
+      "fecha": "13 may 2026",
+      "tag": "Valencia · Presiones armadas",
+      "tag_color": "#3498db",
+      "tag_bg": "rgba(52,152,219,0.15)",
+      "titulo": "Paloma Valencia acusa a grupos armados de presionar el voto por Cepeda en el Cauca",
+      "resumen": "Paloma Valencia denunció ante autoridades electorales que grupos armados irregulares en zonas del Cauca estarían intimidando a la población para votar por Iván Cepeda el 31 de mayo. 'Vamos a ver qué pasa', advirtió la candidata del Centro Democrático. La Defensoría del Pueblo abrió seguimiento a las denuncias de presión electoral en los territorios señalados: Argelia, El Tambo y otros sectores del Pacífico.",
+      "objetividad": 78,
+      "criterios": [
+        { "ok": true,  "texto": "Denuncia ante autoridades formales competentes" },
+        { "ok": true,  "texto": "Fuente regional de alta relevancia en el suroccidente colombiano" },
+        { "ok": false, "texto": "Acusaciones graves sin evidencia documental publicada" },
+        { "ok": false, "texto": "Sin respuesta de los grupos armados señalados ni de Cepeda" },
+        { "ok": true,  "texto": "Defensoría del Pueblo con seguimiento activo al caso" }
+      ],
+      "url": "https://www.elpais.com.co/politica/paloma-valencia-denuncio-presuntas-presiones-de-grupos-armados-para-votar-por-ivan-cepeda-vamos-a-ver-que-pasa-1354.html",
+      "url_label": "El País Cali – Valencia denuncia presiones armadas para votar por Cepeda en Cauca"
     },
     {
       "filter": "espriella",
       "fuente": "Semana",
       "fuente_color": "#e67e22",
-      "fecha": "11 may 2026",
-      "tag": "De la Espriella · Predicción",
+      "fecha": "13 may 2026",
+      "tag": "De la Espriella · Digital",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Abelardo de la Espriella (43%) supera a Iván Cepeda (41%) en Polymarket por primera vez",
-      "resumen": "La plataforma de predicciones Polymarket registra a Abelardo De la Espriella con 43% de probabilidad de ganar la primera vuelta, superando por primera vez a Iván Cepeda, que cae al 41%. Paloma Valencia se sitúa en 16%. El dato contrasta con las encuestas formales —ponderador La Silla Vacía mantiene a Cepeda con 37,5%— pero refleja una percepción creciente de empate técnico a 18 días del 31 de mayo.",
-      "objetividad": 84,
+      "titulo": "De la Espriella lidera Google Trends por primera vez: desplaza a Cepeda en búsquedas nacionales",
+      "resumen": "El 12 de mayo, Abelardo De la Espriella alcanzó el índice máximo de 100 en Google Trends a nivel nacional, superando por primera vez a Iván Cepeda en interés digital. El fenómeno coincide con la viralización de los escándalos con las periodistas Malú Fernández (Caracol) y Juanita León (La Silla Vacía), lo que —paradójicamente— impulsa su visibilidad. Las boletas del cierre de campaña en Medellín (24 may) se agotaron en 12 horas.",
+      "objetividad": 86,
       "criterios": [
-        { "ok": true, "texto": "Datos verificables: cifras públicas de Polymarket en tiempo real" },
-        { "ok": true, "texto": "Fuente de referencia nacional de primer orden" },
-        { "ok": true, "texto": "Hito histórico: primera vez que De la Espriella supera a Cepeda en Polymarket" },
-        { "ok": true, "texto": "Alto impacto en narrativa mediática de la contienda" },
-        { "ok": false, "texto": "Polymarket es mercado de apuestas, no encuesta estadística representativa" }
+        { "ok": true,  "texto": "Datos verificables de Google Trends en tiempo real" },
+        { "ok": true,  "texto": "Fuente de referencia nacional de primer orden" },
+        { "ok": true,  "texto": "Hito histórico: primera vez que supera a Cepeda en Google Trends" },
+        { "ok": true,  "texto": "Correlación verificable con los escándalos virales de la semana" },
+        { "ok": false, "texto": "Tendencias digitales no equivalen a intención de voto" }
       ],
-      "url": "https://www.semana.com/confidenciales/articulo/elecciones-2026-paloma-valencia-se-desploma-en-polymarket-y-llega-a-16-mientras-abelardo-de-la-espriella-se-dispara-y-registra-40/202618/",
-      "url_label": "Semana - Polymarket: De la Espriella 43% supera a Cepeda 41% por primera vez"
+      "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-por-primera-vez-desbanco-del-primer-lugar-a-ivan-cepeda-en-google-trends-el-tigre-lidera-en-las-busquedas/202643/",
+      "url_label": "Semana – De la Espriella supera a Cepeda en Google Trends por primera vez"
     },
     {
       "filter": "espriella",
       "fuente": "Infobae Colombia",
       "fuente_color": "#e67e22",
-      "fecha": "11 may 2026",
-      "tag": "De la Espriella · Campaña",
+      "fecha": "13 may 2026",
+      "tag": "De la Espriella · Seguridad",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella confirmó cierre de campaña: 23 mayo en Barranquilla y 24 en Medellín",
-      "resumen": "Abelardo De la Espriella confirmó este 11 de mayo las sedes y fechas de su cierre de campaña: el 23 de mayo en Barranquilla y el 24 de mayo en Medellín, a ocho días de la primera vuelta del 31 de mayo. 'Quiero ver a toda la manada del Tigre reunida', declaró el candidato. Los actos marcan la recta final de la campaña más sorpresiva de la contienda.",
-      "objetividad": 93,
+      "titulo": "Frustran posible atentado contra De la Espriella: detectan falso escolta armado en su comitiva",
+      "resumen": "El equipo de seguridad de Abelardo De la Espriella detectó un individuo no autorizado y armado que intentó infiltrarse como escolta en su comitiva. El candidato lo calificó como 'grave situación irregular' y solicitó investigación a las autoridades. El episodio se produce a 17 días de la primera vuelta y reaviva sus denuncias previas de un presunto plan de asesinato en su contra. La Fiscalía abrió indagación preliminar.",
+      "objetividad": 84,
       "criterios": [
-        { "ok": true, "texto": "Hecho verificable: fechas y sedes confirmadas por el propio candidato" },
-        { "ok": true, "texto": "Fuente internacional de referencia con cobertura Colombia" },
-        { "ok": true, "texto": "Noticia del 11 de mayo, alta oportunidad informativa" },
-        { "ok": true, "texto": "Alto impacto: marca la recta final de la campaña" },
-        { "ok": false, "texto": "No detalla el formato ni la logística de los cierres de campaña" }
+        { "ok": true,  "texto": "Hecho verificable: individuo detectado por el esquema de seguridad" },
+        { "ok": true,  "texto": "Fuente internacional de referencia con cobertura Colombia" },
+        { "ok": true,  "texto": "Declaración oficial del candidato sobre el episodio" },
+        { "ok": false, "texto": "No se confirmó si el individuo tenía orden real de atentar" },
+        { "ok": true,  "texto": "Fiscalía con indagación preliminar abierta" }
       ],
-      "url": "https://www.infobae.com/colombia/2026/05/11/abelardo-de-la-espriella-confirmo-fechas-y-sedes-para-su-cierre-de-campana-quiero-ver-a-toda-la-manada-del-tigre-reunida/",
-      "url_label": "Infobae - De la Espriella confirma cierres: Barranquilla (23 may) y Medellín (24 may)"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "El Espectador",
-      "fuente_color": "#27ae60",
-      "fecha": "11 may 2026",
-      "tag": "Cepeda · Alianzas",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda suma sectores liberales; Tarazona se va con Valencia y De la Espriella sigue disputa con la DNI",
-      "resumen": "A tres semanas de las elecciones del 31 de mayo, el tablero de alianzas se mueve: Iván Cepeda sumó el respaldo de sectores del Partido Liberal. En el centro-derecha, María Claudia Tarazona anunció su apoyo a Paloma Valencia. Mientras tanto, Abelardo De la Espriella mantiene la controversia con la Dirección Nacional de Inteligencia (DNI) tras su denuncia de un presunto plan de asesinato.",
-      "objetividad": 90,
-      "criterios": [
-        { "ok": true, "texto": "Hecho verificable: alianzas confirmadas públicamente por los actores" },
-        { "ok": true, "texto": "Fuente de referencia nacional de primer orden" },
-        { "ok": true, "texto": "Noticia del 11 de mayo — cubre los tres candidatos principales" },
-        { "ok": true, "texto": "Alto impacto: define el mapa de apoyos en la recta final" },
-        { "ok": false, "texto": "No detalla el número de votos que aportan los sectores liberales" }
-      ],
-      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/cepeda-suma-sectores-liberales-tarazona-se-va-con-valencia-y-de-la-espriella-sigue-disputa-con-el-dni-noticias-hoy/",
-      "url_label": "El Espectador - Cepeda suma liberales; Tarazona apoya Valencia; De la Espriella vs. DNI"
+      "url": "https://www.infobae.com/colombia/2026/05/13/frustran-posible-atentado-contra-abelardo-de-la-espriella-detectaron-un-falso-escolta-armado-grave-situacion-irregular/",
+      "url_label": "Infobae Colombia – Frustran posible atentado: falso escolta armado en comitiva De la Espriella"
     },
     {
       "filter": "valencia",
-      "fuente": "La Opinión",
+      "fuente": "Semana",
       "fuente_color": "#3498db",
-      "fecha": "11 may 2026",
-      "tag": "Valencia · Alianzas",
+      "fecha": "13 may 2026",
+      "tag": "Valencia · Video viral",
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "María Claudia Tarazona oficializa su apoyo presidencial a Paloma Valencia",
-      "resumen": "María Claudia Tarazona anunció formalmente su respaldo a Paloma Valencia para las elecciones del 31 de mayo. 'Tengo plena certeza de que Paloma es la única que puede ganar en una segunda vuelta', declaró. El respaldo llega en momento crítico para Valencia, quien enfrenta la presión de De la Espriella por el segundo lugar, con el ponderador La Silla Vacía ubicándola en 20,5% frente a 25% de De la Espriella.",
-      "objetividad": 88,
+      "titulo": "Video viral: graban conversación privada de Paloma Valencia y Claudia López en Asocapitales",
+      "resumen": "Un video que circula en redes muestra a Paloma Valencia y Claudia López en una conversación privada durante el encuentro de Asocapitales. Cuando una persona intenta grabarlas, se escucha: 'No grabe'. El video provocó reacción en redes y fue interpretado como señal de coordinación entre las dos candidatas, lo que refuerza la narrativa del bloque opositor de cara a una eventual segunda vuelta contra Cepeda.",
+      "objetividad": 80,
       "criterios": [
-        { "ok": true, "texto": "Declaración directa y verificable de Tarazona" },
-        { "ok": true, "texto": "Fuente regional de referencia con cobertura política" },
-        { "ok": true, "texto": "Noticia del 11 de mayo — refuerza el bloque centro-derecha" },
-        { "ok": true, "texto": "Alto impacto: suma votos potenciales a Valencia en la recta final" },
-        { "ok": false, "texto": "No precisa el caudal electoral que aportaría el respaldo de Tarazona" }
+        { "ok": true,  "texto": "Video verificable circulando en múltiples redes sociales" },
+        { "ok": true,  "texto": "Fuente de referencia nacional de primer orden" },
+        { "ok": false, "texto": "No se conoce el contenido real de la conversación privada" },
+        { "ok": false, "texto": "Interpretaciones políticas del video son especulativas" },
+        { "ok": true,  "texto": "Alto impacto en redes y cobertura mediática inmediata" }
       ],
-      "url": "https://www.laopinion.co/elecciones-2026/maria-claudia-tarazona-oficializa-su-apoyo-presidencial-paloma-valencia",
-      "url_label": "La Opinión - Tarazona anuncia apoyo oficial a Paloma Valencia"
+      "url": "https://www.semana.com/politica/articulo/paloma-valencia-y-claudia-lopez-se-reunieron-en-medio-del-encuentro-de-asocapitales-no-grabe/202635/",
+      "url_label": "Semana – Video viral: Valencia y Claudia López en conversación privada en Asocapitales"
+    },
+    {
+      "filter": "general",
+      "fuente": "Cambio Colombia",
+      "fuente_color": "#7f8c8d",
+      "fecha": "13 may 2026",
+      "tag": "Electoral · Paz",
+      "tag_color": "#7f8c8d",
+      "tag_bg": "rgba(127,140,141,0.15)",
+      "titulo": "Defensoría alerta: Valencia y De la Espriella siguen sin firmar acuerdo de paz electoral",
+      "resumen": "La Defensoría del Pueblo alertó que Paloma Valencia y Abelardo De la Espriella continúan sin suscribir el acuerdo por un proceso electoral libre y en paz, con un incumplimiento del 42% del pacto. El organismo advirtió sobre discursos que incitan a la violencia y presiones armadas en varias regiones. Los candidatos que sí firmaron exigieron al CNE tomar medidas correctivas antes del 31 de mayo.",
+      "objetividad": 89,
+      "criterios": [
+        { "ok": true,  "texto": "Alerta oficial de la Defensoría del Pueblo, organismo constitucional" },
+        { "ok": true,  "texto": "Datos precisos: 42% de incumplimiento del pacto electoral" },
+        { "ok": true,  "texto": "Fuente periodística de análisis político de referencia" },
+        { "ok": true,  "texto": "Alto impacto: señala irregularidades en la recta final electoral" },
+        { "ok": false, "texto": "Sin declaración de las campañas señaladas de incumplimiento" }
+      ],
+      "url": "https://cambiocolombia.com/elecciones-colombia-2026/articulo/2026/5/defensoria-alerta-discursos-violentos-paloma-abelardo-acuerdo-paz-electoral/",
+      "url_label": "Cambio Colombia – Defensoría: Valencia y De la Espriella sin firmar acuerdo de paz electoral"
     }
   ],
   "sentimiento": {
@@ -175,29 +175,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 22,
-        "negativo": 63,
-        "neutro": 15,
-        "tendencia": "down",
-        "tendencia_texto": "13 may: Peor semana de imagen de la campaña. Doble escándalo del 12 may — agredió verbalmente a la periodista Malú Fernández de Caracol ('la ignorancia es atrevida') y su campaña publicó video de IA con imagen no autorizada de Juanita León (La Silla Vacía). Además, el CNE analiza suspender a AtlasIntel por irregularidades, lo que pone en duda el sondeo que lo daba ganador en segunda vuelta (47% vs 42% Cepeda). Ponderador La Silla Vacía: 25%. La acumulación de controversias en la recta final genera fuerte presión a 18 días del 31 de mayo."
+        "positivo": 25,
+        "negativo": 59,
+        "neutro": 16,
+        "tendencia": "stable",
+        "tendencia_texto": "14 may: Semana de señales mixtas. Lidera Google Trends por primera vez (13 may), sus cierres en Barranquilla y Medellín agotan boletas en horas, y se frustra posible atentado. Sin embargo, el doble escándalo del 12 may (agresión verbal a periodista Malú de Caracol; imagen IA no autorizada de Juanita León de La Silla Vacía) y la no-firma del acuerdo de paz electoral siguen pesando. Ponderador La Silla Vacía: 25%. Polymarket: 43%. Imagen negativa en medios, pero la narrativa de candidato antisistema 'perseguido' gana tracción."
       },
       {
         "nombre": "Valencia",
         "color": "#3498db",
-        "positivo": 28,
-        "negativo": 54,
-        "neutro": 18,
-        "tendencia": "down",
-        "tendencia_texto": "Semana de consolidación en tercer lugar. Suma el respaldo de Tarazona (11 may), pero sigue cayendo en Polymarket (16%). Ponderador La Silla Vacía: 20,5%. La narrativa de 'voto útil' la favorece de cara a una eventual segunda vuelta contra Cepeda. La controversia del autodebate con avatares IA sin consentimiento (5 may) sigue generando cobertura negativa."
+        "positivo": 32,
+        "negativo": 48,
+        "neutro": 20,
+        "tendencia": "up",
+        "tendencia_texto": "14 may: Semana de mayor protagonismo. Junto con Claudia López denuncia en Asocapitales presiones de grupos armados en Cauca para votar por Cepeda (13 may). Video viral de conversación privada con López refuerza narrativa de bloque opositor. Suma respaldo de Tarazona (11 may). No ha firmado acuerdo de paz electoral. Ponderador La Silla Vacía: 20,5%. La narrativa de 'voto útil opositor' gana tracción de cara a segunda vuelta."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 53,
-        "negativo": 25,
+        "positivo": 48,
+        "negativo": 30,
         "neutro": 22,
         "tendencia": "stable",
-        "tendencia_texto": "Estable y favorecido por los errores de sus rivales. Lidera todas las encuestas formales: ponderador La Silla Vacía 37,5% (12 may); Invamer 44,3% (27 abr); CNC 37,2% (5 may). Sin controversias propias esta semana. Suma sectores del Partido Liberal (11 may). La duda sobre AtlasIntel beneficia su imagen frente a la narrativa de segunda vuelta. El candidato mejor posicionado mediáticamente a 18 días del 31 de mayo."
+        "tendencia_texto": "14 may: Semana con turbulencia inesperada. La Procuraduría suspendió a la embajadora en Haití Vilma Velásquez por hacer proselitismo a su favor (14 may); Cepeda pidió la investigación disciplinaria para deslindar su campaña. El episodio reaviva el debate sobre uso electoral del aparato estatal. Sigue liderando todas las encuestas formales: ponderador La Silla Vacía 37,5%; Invamer 44,3% (24 abr). Candidato más estable mediáticamente a 17 días del 31 de mayo."
       },
       {
         "nombre": "Fajardo",
@@ -215,7 +215,7 @@
         "negativo": 29,
         "neutro": 23,
         "tendencia": "up",
-        "tendencia_texto": "Retiró candidatura el 6 de abril y se sumó a la campaña de Iván Cepeda."
+        "tendencia_texto": "Retiró candidatura el 6 de abril y se sumó a la campaña de Iván Cepeda. Activa nuevamente esta semana con denuncias electorales conjuntas junto a Paloma Valencia en Asocapitales (13 may)."
       }
     ]
   },
@@ -240,7 +240,7 @@
       "pct": 25.0,
       "fuente_encuesta": "La Silla Vacía ponderador (12 may 2026)"
     },
-    "resumen_analisis": "Actualización 13 may 2026 — 8 noticias del 11-12 may. NUEVAS HISTORIAS DEL DÍA: MOE alerta que 6 campañas siguen sin anticipos del CNE a 18 días de la primera vuelta; CNE analiza suspender a AtlasIntel por irregularidades (pone en duda la encuesta que daba ganador a De la Espriella en segunda vuelta con 47%). ESCÁNDALOS 12 MAY: De la Espriella agredió verbalmente a periodista Malú de Caracol y su campaña usó imagen IA de Juanita León sin consentimiento. Ponderador La Silla Vacía: Cepeda 37,5%, De la Espriella 25%, Valencia 20,5%. Primera vuelta: 31 de mayo de 2026."
+    "resumen_analisis": "Actualización 14 may 2026 — 8 noticias del 13-14 may. BREAKING 14 MAY: Procuraduría suspende a embajadora en Haití por hacer proselitismo a favor de Cepeda; candidato pide investigación disciplinaria. NOTICIAS CLAVE 13 MAY: Valencia y Claudia López denuncian presiones de grupos armados en Cauca para votar por Cepeda (foro Asocapitales); De la Espriella lidera Google Trends por primera vez superando a Cepeda; frustran posible atentado contra De la Espriella (falso escolta armado detectado); Defensoría alerta que Valencia y De la Espriella no han firmado acuerdo de paz electoral (42% incumplimiento). Ponderador La Silla Vacía (12 may): Cepeda 37,5%, De la Espriella 25%, Valencia 20,5%. Primera vuelta: 31 de mayo de 2026."
   },
-  "ultimo_deploy": "2026-05-13T12:00:00Z"
+  "ultimo_deploy": "2026-05-14T12:00:00Z"
 }
