@@ -1,6 +1,48 @@
 {
-  "fecha": "14 de mayo de 2026",
+  "fecha": "15 de mayo de 2026",
   "noticias": [
+    {
+      "filter": "general",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#7f8c8d",
+      "fecha": "14 may 2026",
+      "tag": "Encuesta · Génesis Crea",
+      "tag_color": "#7f8c8d",
+      "tag_bg": "rgba(127,140,141,0.15)",
+      "titulo": "Nueva encuesta Génesis Crea: Cepeda gana en primera vuelta; Valencia (25,4%) supera a De la Espriella (21,6%) por segunda plaza",
+      "resumen": "La Fundación Génesis Crea publicó el 14 de mayo su encuesta presidencial (campo 4-11 may): Iván Cepeda lidera con 35,1%, seguido de Paloma Valencia con 25,4% y Abelardo De la Espriella con 21,6%. Es la primera encuesta reciente que ubica a Valencia segunda, invirtiendo el orden del ponderador La Silla Vacía. En segunda vuelta proyecta a Valencia ganando 48,3% vs 45,6% de Cepeda. A 16 días del 31 de mayo, el puesto de finalista sigue en disputa.",
+      "objetividad": 87,
+      "criterios": [
+        { "ok": true,  "texto": "Encuesta publicada por organismo reconocido con ficha técnica disponible" },
+        { "ok": true,  "texto": "Campo 4-11 mayo: semana más reciente publicada antes del 31 mayo" },
+        { "ok": true,  "texto": "Tres escenarios de segunda vuelta detallados en el informe" },
+        { "ok": true,  "texto": "Datos publicados por Infobae Colombia con enlace a informe original" },
+        { "ok": false, "texto": "Tamaño de muestra y error muestral no detallados en nota de prensa" }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/05/14/ivan-cepeda-lidera-primera-vuelta-presidencial-y-paloma-valencia-se-impondria-en-un-escenario-de-segunda-vuelta-segun-encuesta-fundacion-genesis-crea/",
+      "url_label": "Infobae Colombia – Encuesta Génesis Crea: Cepeda primero, Valencia segunda, De la Espriella tercero"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#27ae60",
+      "fecha": "14 may 2026",
+      "tag": "Cepeda · Grupos armados",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda vuelve a rechazar que grupos armados actúen a su favor: 'Todo el rigor de la ley'",
+      "resumen": "Ante nuevas denuncias de Paloma Valencia y Claudia López sobre presiones armadas en zonas del Cauca para votar por él, Iván Cepeda reiteró su rechazo categórico y exigió que las autoridades apliquen 'todo el rigor de la ley' a quienes usen la violencia para influir en el proceso electoral. El candidato del Pacto Histórico buscó deslindar su campaña de cualquier nexo con grupos ilegales, mientras la MOE y la Defensoría monitorean activamente las regiones señaladas.",
+      "objetividad": 88,
+      "criterios": [
+        { "ok": true,  "texto": "Declaración oficial y verificable del candidato presidencial" },
+        { "ok": true,  "texto": "Fuente de referencia internacional con cobertura Colombia" },
+        { "ok": true,  "texto": "Contexto electoral claro: a 16 días del 31 de mayo" },
+        { "ok": true,  "texto": "MOE y Defensoría con seguimiento activo confirmado" },
+        { "ok": false, "texto": "Sin pruebas documentales de los vínculos denunciados por Valencia" }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/05/14/ivan-cepeda-volvio-a-rechazar-estrategias-de-grupos-armados-para-influir-a-su-favor-en-las-elecciones-presidenciales-todo-el-rigor-de-la-ley/",
+      "url_label": "Infobae Colombia – Cepeda rechaza estrategias de grupos armados: 'Todo el rigor de la ley'"
+    },
     {
       "filter": "cepeda",
       "fuente": "Publimetro",
@@ -10,7 +52,7 @@
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
       "titulo": "Procuraduría suspende a embajadora en Haití por decir que Cepeda es 'un candidato magnífico'",
-      "resumen": "La Procuraduría General suspendió provisionalmente a Vilma Rocío Velásquez, embajadora de Colombia en Haití, tras viralizarse una entrevista radial en la que afirmó: 'Tenemos un candidato magnífico que es Iván Cepeda'. La conducta viola el régimen de inhabilidades para servidores públicos. Cepeda tomó distancia y pidió la investigación disciplinaria, pero el episodio reaviva el debate sobre uso electoral del aparato estatal a 17 días del 31 de mayo.",
+      "resumen": "La Procuraduría General suspendió provisionalmente a Vilma Rocío Velásquez, embajadora de Colombia en Haití, tras viralizarse una entrevista radial en la que afirmó: 'Tenemos un candidato magnífico que es Iván Cepeda'. La conducta viola el régimen de inhabilidades para servidores públicos. Cepeda tomó distancia y pidió la investigación disciplinaria, pero el episodio reaviva el debate sobre uso electoral del aparato estatal a 16 días del 31 de mayo.",
       "objetividad": 88,
       "criterios": [
         { "ok": true,  "texto": "Acto administrativo de suspensión verificable de la Procuraduría" },
@@ -21,27 +63,6 @@
       ],
       "url": "https://www.publimetro.co/noticias/2026/05/14/suspenden-a-embajadora-en-haiti-por-presunta-participacion-en-politica-dijo-que-ivan-cepeda-era-un-candidato-magnifico/",
       "url_label": "Publimetro – Suspenden embajadora en Haití por campaña a favor de Cepeda"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "El Tiempo",
-      "fuente_color": "#27ae60",
-      "fecha": "13 may 2026",
-      "tag": "Cepeda · Proselitismo",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Iván Cepeda pide investigación disciplinaria contra embajadora señalada de hacer campaña en Haití",
-      "resumen": "El candidato presidencial Iván Cepeda solicitó a las autoridades disciplinarias investigar a la embajadora Vilma Velásquez por promover su candidatura en medios extranjeros, una conducta prohibida por la Constitución. 'Ningún funcionario puede hacer proselitismo en favor de ningún candidato', declaró Cepeda, quien buscó deslindar su campaña del hecho. La Procuraduría abrió indagación preliminar en horas.",
-      "objetividad": 90,
-      "criterios": [
-        { "ok": true,  "texto": "Declaración oficial del candidato verificable" },
-        { "ok": true,  "texto": "Fuente de referencia nacional de primer nivel" },
-        { "ok": true,  "texto": "Apertura de indagación por la Procuraduría confirmada" },
-        { "ok": true,  "texto": "Marco legal claro: norma constitucional citada" },
-        { "ok": false, "texto": "No detalla el mecanismo disciplinario específico invocado" }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/en-entrevista-embajadora-de-colombia-en-haiti-hizo-proselitismo-a-favor-de-ivan-cepeda-candidato-pidio-investigacion-disciplinaria-3555381",
-      "url_label": "El Tiempo – Cepeda pide investigación disciplinaria a embajadora en Haití"
     },
     {
       "filter": "valencia",
@@ -66,24 +87,45 @@
     },
     {
       "filter": "valencia",
-      "fuente": "El País Cali",
+      "fuente": "Semana",
       "fuente_color": "#3498db",
       "fecha": "13 may 2026",
-      "tag": "Valencia · Presiones armadas",
+      "tag": "Valencia · Video viral",
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Paloma Valencia acusa a grupos armados de presionar el voto por Cepeda en el Cauca",
-      "resumen": "Paloma Valencia denunció ante autoridades electorales que grupos armados irregulares en zonas del Cauca estarían intimidando a la población para votar por Iván Cepeda el 31 de mayo. 'Vamos a ver qué pasa', advirtió la candidata del Centro Democrático. La Defensoría del Pueblo abrió seguimiento a las denuncias de presión electoral en los territorios señalados: Argelia, El Tambo y otros sectores del Pacífico.",
-      "objetividad": 78,
+      "titulo": "Video viral: graban conversación privada de Paloma Valencia y Claudia López en Asocapitales",
+      "resumen": "Un video que circula en redes muestra a Paloma Valencia y Claudia López en una conversación privada durante el encuentro de Asocapitales. Cuando una persona intenta grabarlas, se escucha: 'No grabe'. El video provocó reacción en redes y fue interpretado como señal de coordinación entre las dos candidatas, lo que refuerza la narrativa del bloque opositor de cara a una eventual segunda vuelta contra Cepeda.",
+      "objetividad": 80,
       "criterios": [
-        { "ok": true,  "texto": "Denuncia ante autoridades formales competentes" },
-        { "ok": true,  "texto": "Fuente regional de alta relevancia en el suroccidente colombiano" },
-        { "ok": false, "texto": "Acusaciones graves sin evidencia documental publicada" },
-        { "ok": false, "texto": "Sin respuesta de los grupos armados señalados ni de Cepeda" },
-        { "ok": true,  "texto": "Defensoría del Pueblo con seguimiento activo al caso" }
+        { "ok": true,  "texto": "Video verificable circulando en múltiples redes sociales" },
+        { "ok": true,  "texto": "Fuente de referencia nacional de primer orden" },
+        { "ok": false, "texto": "No se conoce el contenido real de la conversación privada" },
+        { "ok": false, "texto": "Interpretaciones políticas del video son especulativas" },
+        { "ok": true,  "texto": "Alto impacto en redes y cobertura mediática inmediata" }
       ],
-      "url": "https://www.elpais.com.co/politica/paloma-valencia-denuncio-presuntas-presiones-de-grupos-armados-para-votar-por-ivan-cepeda-vamos-a-ver-que-pasa-1354.html",
-      "url_label": "El País Cali – Valencia denuncia presiones armadas para votar por Cepeda en Cauca"
+      "url": "https://www.semana.com/politica/articulo/paloma-valencia-y-claudia-lopez-se-reunieron-en-medio-del-encuentro-de-asocapitales-no-grabe/202635/",
+      "url_label": "Semana – Video viral: Valencia y Claudia López en conversación privada en Asocapitales"
+    },
+    {
+      "filter": "general",
+      "fuente": "Semana",
+      "fuente_color": "#7f8c8d",
+      "fecha": "14 may 2026",
+      "tag": "Electoral · Polymarket",
+      "tag_color": "#7f8c8d",
+      "tag_bg": "rgba(127,140,141,0.15)",
+      "titulo": "Polymarket: De la Espriella se dispara al 40% y Paloma Valencia se desploma al 16%",
+      "resumen": "En el mercado de predicción Polymarket, Abelardo De la Espriella registra el 40% de probabilidad de ganar la presidencia, mientras Paloma Valencia cae al 16%. Iván Cepeda mantiene el liderazgo en las casas de apuestas aunque con presión. El fenómeno contrasta con las encuestas formales, que ubican a Valencia segunda con 25,4% (Génesis Crea, 14 may). Los analistas advierten que los mercados de predicción reflejan el impulso del voto de castigo al establecimiento que motoriza la candidatura del 'Tigre'.",
+      "objetividad": 83,
+      "criterios": [
+        { "ok": true,  "texto": "Datos verificables en tiempo real en plataforma pública Polymarket" },
+        { "ok": true,  "texto": "Fuente de referencia nacional de primer orden" },
+        { "ok": true,  "texto": "Contraste explícito con encuestas formales en la nota" },
+        { "ok": false, "texto": "Polymarket no es indicador de intención de voto real" },
+        { "ok": true,  "texto": "Contexto: divergencia entre mercados y encuestas documentada" }
+      ],
+      "url": "https://www.semana.com/confidenciales/articulo/elecciones-2026-paloma-valencia-se-desploma-en-polymarket-y-llega-a-16-mientras-abelardo-de-la-espriella-se-dispara-y-registra-40/202618/",
+      "url_label": "Semana – Polymarket: De la Espriella 40%, Paloma Valencia se desploma al 16%"
     },
     {
       "filter": "espriella",
@@ -126,48 +168,6 @@
       ],
       "url": "https://www.infobae.com/colombia/2026/05/13/frustran-posible-atentado-contra-abelardo-de-la-espriella-detectaron-un-falso-escolta-armado-grave-situacion-irregular/",
       "url_label": "Infobae Colombia – Frustran posible atentado: falso escolta armado en comitiva De la Espriella"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "Semana",
-      "fuente_color": "#3498db",
-      "fecha": "13 may 2026",
-      "tag": "Valencia · Video viral",
-      "tag_color": "#3498db",
-      "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Video viral: graban conversación privada de Paloma Valencia y Claudia López en Asocapitales",
-      "resumen": "Un video que circula en redes muestra a Paloma Valencia y Claudia López en una conversación privada durante el encuentro de Asocapitales. Cuando una persona intenta grabarlas, se escucha: 'No grabe'. El video provocó reacción en redes y fue interpretado como señal de coordinación entre las dos candidatas, lo que refuerza la narrativa del bloque opositor de cara a una eventual segunda vuelta contra Cepeda.",
-      "objetividad": 80,
-      "criterios": [
-        { "ok": true,  "texto": "Video verificable circulando en múltiples redes sociales" },
-        { "ok": true,  "texto": "Fuente de referencia nacional de primer orden" },
-        { "ok": false, "texto": "No se conoce el contenido real de la conversación privada" },
-        { "ok": false, "texto": "Interpretaciones políticas del video son especulativas" },
-        { "ok": true,  "texto": "Alto impacto en redes y cobertura mediática inmediata" }
-      ],
-      "url": "https://www.semana.com/politica/articulo/paloma-valencia-y-claudia-lopez-se-reunieron-en-medio-del-encuentro-de-asocapitales-no-grabe/202635/",
-      "url_label": "Semana – Video viral: Valencia y Claudia López en conversación privada en Asocapitales"
-    },
-    {
-      "filter": "general",
-      "fuente": "Cambio Colombia",
-      "fuente_color": "#7f8c8d",
-      "fecha": "13 may 2026",
-      "tag": "Electoral · Paz",
-      "tag_color": "#7f8c8d",
-      "tag_bg": "rgba(127,140,141,0.15)",
-      "titulo": "Defensoría alerta: Valencia y De la Espriella siguen sin firmar acuerdo de paz electoral",
-      "resumen": "La Defensoría del Pueblo alertó que Paloma Valencia y Abelardo De la Espriella continúan sin suscribir el acuerdo por un proceso electoral libre y en paz, con un incumplimiento del 42% del pacto. El organismo advirtió sobre discursos que incitan a la violencia y presiones armadas en varias regiones. Los candidatos que sí firmaron exigieron al CNE tomar medidas correctivas antes del 31 de mayo.",
-      "objetividad": 89,
-      "criterios": [
-        { "ok": true,  "texto": "Alerta oficial de la Defensoría del Pueblo, organismo constitucional" },
-        { "ok": true,  "texto": "Datos precisos: 42% de incumplimiento del pacto electoral" },
-        { "ok": true,  "texto": "Fuente periodística de análisis político de referencia" },
-        { "ok": true,  "texto": "Alto impacto: señala irregularidades en la recta final electoral" },
-        { "ok": false, "texto": "Sin declaración de las campañas señaladas de incumplimiento" }
-      ],
-      "url": "https://cambiocolombia.com/elecciones-colombia-2026/articulo/2026/5/defensoria-alerta-discursos-violentos-paloma-abelardo-acuerdo-paz-electoral/",
-      "url_label": "Cambio Colombia – Defensoría: Valencia y De la Espriella sin firmar acuerdo de paz electoral"
     }
   ],
   "sentimiento": {
@@ -175,29 +175,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 25,
-        "negativo": 59,
+        "positivo": 28,
+        "negativo": 56,
         "neutro": 16,
-        "tendencia": "stable",
-        "tendencia_texto": "14 may: Semana de señales mixtas. Lidera Google Trends por primera vez (13 may), sus cierres en Barranquilla y Medellín agotan boletas en horas, y se frustra posible atentado. Sin embargo, el doble escándalo del 12 may (agresión verbal a periodista Malú de Caracol; imagen IA no autorizada de Juanita León de La Silla Vacía) y la no-firma del acuerdo de paz electoral siguen pesando. Ponderador La Silla Vacía: 25%. Polymarket: 43%. Imagen negativa en medios, pero la narrativa de candidato antisistema 'perseguido' gana tracción."
+        "tendencia": "up",
+        "tendencia_texto": "15 may: Semana de impulso en mercados y redes. Polymarket lo sitúa en 40% de probabilidad de victoria (14 may), cierres de campaña en Barranquilla (23 may) y Medellín (24 may) con boletas agotadas, y lidera Google Trends por primera vez superando a Cepeda (12 may). Sin embargo, encuesta Génesis Crea (14 may) lo ubica tercero con 21,6%, detrás de Valencia (25,4%). Imagen negativa en medios formales persiste por escándalos con periodistas y la no-firma del acuerdo de paz electoral. Narrativa antisistema 'perseguido' gana tracción en redes."
       },
       {
         "nombre": "Valencia",
         "color": "#3498db",
-        "positivo": 32,
-        "negativo": 48,
+        "positivo": 35,
+        "negativo": 45,
         "neutro": 20,
         "tendencia": "up",
-        "tendencia_texto": "14 may: Semana de mayor protagonismo. Junto con Claudia López denuncia en Asocapitales presiones de grupos armados en Cauca para votar por Cepeda (13 may). Video viral de conversación privada con López refuerza narrativa de bloque opositor. Suma respaldo de Tarazona (11 may). No ha firmado acuerdo de paz electoral. Ponderador La Silla Vacía: 20,5%. La narrativa de 'voto útil opositor' gana tracción de cara a segunda vuelta."
+        "tendencia_texto": "15 may: Semana de mejora en encuestas formales. Génesis Crea (14 may) la ubica segunda con 25,4%, por encima de De la Espriella (21,6%), invirtiendo el ponderador La Silla Vacía. En segunda vuelta, Génesis Crea la da ganadora con 48,3% vs 45,6% de Cepeda. Sin embargo, Polymarket la desploma al 16%. Junto con Claudia López protagoniza denuncias de garantías electorales (13 may) y video viral de Asocapitales. Suma respaldo del Partido Liberal (29 abr). La narrativa del 'voto útil opositor' en segunda vuelta gana fuerza."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 48,
-        "negativo": 30,
+        "positivo": 46,
+        "negativo": 32,
         "neutro": 22,
         "tendencia": "stable",
-        "tendencia_texto": "14 may: Semana con turbulencia inesperada. La Procuraduría suspendió a la embajadora en Haití Vilma Velásquez por hacer proselitismo a su favor (14 may); Cepeda pidió la investigación disciplinaria para deslindar su campaña. El episodio reaviva el debate sobre uso electoral del aparato estatal. Sigue liderando todas las encuestas formales: ponderador La Silla Vacía 37,5%; Invamer 44,3% (24 abr). Candidato más estable mediáticamente a 17 días del 31 de mayo."
+        "tendencia_texto": "15 may: Semana con turbulencia diplomática y nueva encuesta. Génesis Crea (14 may) lo mantiene primero con 35,1% en primera vuelta. La Procuraduría suspendió a la embajadora en Haití Vilma Velásquez por proselitismo a su favor (14 may); Cepeda pidió investigación disciplinaria para deslindar su campaña. También rechazó por segunda vez en días que grupos armados actúen a su favor (14 may). Sigue liderando encuestas formales (Invamer 44,3%; ponderador La Silla Vacía 37,5%). Cierre de campaña en Plaza de Bolívar el 22 de mayo."
       },
       {
         "nombre": "Fajardo",
@@ -215,32 +215,32 @@
         "negativo": 29,
         "neutro": 23,
         "tendencia": "up",
-        "tendencia_texto": "Retiró candidatura el 6 de abril y se sumó a la campaña de Iván Cepeda. Activa nuevamente esta semana con denuncias electorales conjuntas junto a Paloma Valencia en Asocapitales (13 may)."
+        "tendencia_texto": "Retiró candidatura el 6 de abril y se sumó a la campaña de Iván Cepeda. Activa nuevamente esta semana con denuncias electorales conjuntas junto a Paloma Valencia en Asocapitales (13 may). Video viral de conversación privada con Valencia genera especulación en redes."
       }
     ]
   },
   "encuestas": {
-    "cepeda": 37.5,
-    "valencia": 20.5,
-    "espriella": 25.0,
-    "fuente": "La Silla Vacía – Ponderador de encuestas, 12 may 2026"
+    "cepeda": 35.1,
+    "valencia": 25.4,
+    "espriella": 21.6,
+    "fuente": "Fundación Génesis Crea, 14 may 2026"
   },
   "prediccion": {
     "primero": {
       "nombre": "Iván Cepeda",
       "partido": "Pacto Histórico",
       "color": "#27ae60",
-      "pct": 37.5,
-      "fuente_encuesta": "La Silla Vacía ponderador (12 may 2026)"
+      "pct": 35.1,
+      "fuente_encuesta": "Fundación Génesis Crea (14 may 2026)"
     },
     "segundo": {
-      "nombre": "Abelardo De la Espriella",
-      "partido": "Salvación Nacional",
-      "color": "#e67e22",
-      "pct": 25.0,
-      "fuente_encuesta": "La Silla Vacía ponderador (12 may 2026)"
+      "nombre": "Paloma Valencia",
+      "partido": "Centro Democrático",
+      "color": "#3498db",
+      "pct": 25.4,
+      "fuente_encuesta": "Fundación Génesis Crea (14 may 2026)"
     },
-    "resumen_analisis": "Actualización 14 may 2026 — 8 noticias del 13-14 may. BREAKING 14 MAY: Procuraduría suspende a embajadora en Haití por hacer proselitismo a favor de Cepeda; candidato pide investigación disciplinaria. NOTICIAS CLAVE 13 MAY: Valencia y Claudia López denuncian presiones de grupos armados en Cauca para votar por Cepeda (foro Asocapitales); De la Espriella lidera Google Trends por primera vez superando a Cepeda; frustran posible atentado contra De la Espriella (falso escolta armado detectado); Defensoría alerta que Valencia y De la Espriella no han firmado acuerdo de paz electoral (42% incumplimiento). Ponderador La Silla Vacía (12 may): Cepeda 37,5%, De la Espriella 25%, Valencia 20,5%. Primera vuelta: 31 de mayo de 2026."
+    "resumen_analisis": "Actualización 15 may 2026 — 8 noticias del 13-15 may. NUEVA ENCUESTA 14 MAY: Fundación Génesis Crea ubica a Cepeda primero (35,1%), Valencia segunda (25,4%) y De la Espriella tercero (21,6%); en segunda vuelta Valencia ganaría 48,3% vs 45,6% de Cepeda. NOTICIAS CLAVE 14 MAY: Cepeda rechaza por segunda vez estrategias de grupos armados ('todo el rigor de la ley'); Polymarket: De la Espriella sube al 40%, Valencia cae al 16%. 13 MAY: Valencia y López denuncian garantías en Asocapitales; De la Espriella lidera Google Trends por primera vez; frustran posible atentado contra De la Espriella (falso escolta armado). Primera vuelta: 31 de mayo de 2026."
   },
-  "ultimo_deploy": "2026-05-14T12:00:00Z"
+  "ultimo_deploy": "2026-05-15T10:00:00Z"
 }
