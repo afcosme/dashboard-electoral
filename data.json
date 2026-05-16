@@ -1,173 +1,293 @@
 {
-  "fecha": "15 de mayo de 2026",
+  "fecha": "16 de mayo de 2026",
   "noticias": [
     {
       "filter": "general",
-      "fuente": "Infobae Colombia",
+      "fuente": "La Silla Vacía / AtlasIntel",
       "fuente_color": "#7f8c8d",
-      "fecha": "14 may 2026",
-      "tag": "Encuesta · Génesis Crea",
+      "fecha": "15 may 2026",
+      "tag": "Encuesta · AtlasIntel",
       "tag_color": "#7f8c8d",
       "tag_bg": "rgba(127,140,141,0.15)",
-      "titulo": "Nueva encuesta Génesis Crea: Cepeda gana en primera vuelta; Valencia (25,4%) supera a De la Espriella (21,6%) por segunda plaza",
-      "resumen": "La Fundación Génesis Crea publicó el 14 de mayo su encuesta presidencial (campo 4-11 may): Iván Cepeda lidera con 35,1%, seguido de Paloma Valencia con 25,4% y Abelardo De la Espriella con 21,6%. Es la primera encuesta reciente que ubica a Valencia segunda, invirtiendo el orden del ponderador La Silla Vacía. En segunda vuelta proyecta a Valencia ganando 48,3% vs 45,6% de Cepeda. A 16 días del 31 de mayo, el puesto de finalista sigue en disputa.",
-      "objetividad": 87,
+      "titulo": "AtlasIntel (campo 9-14 may): Cepeda 37%, De la Espriella 29%, Valencia 20%; 'Tigre' consolida segunda plaza",
+      "resumen": "La encuesta AtlasIntel publicada el 15 de mayo (campo 9-14 may, 5.039 encuestados, ±1 pp) reordena la carrera: Iván Cepeda lidera con 37%, Abelardo De la Espriella sube a 29% y se consolida como el segundo finalista, mientras Paloma Valencia cae a 20%. En segunda vuelta, De la Espriella ganaría a Cepeda 47,8% vs 42%, y Valencia a Cepeda 49% vs 40,6%. Es la primera encuesta robusta que sitúa al 'Tigre' con claridad sobre Valencia a 15 días del 31 de mayo.",
+      "objetividad": 91,
       "criterios": [
-        { "ok": true,  "texto": "Encuesta publicada por organismo reconocido con ficha técnica disponible" },
-        { "ok": true,  "texto": "Campo 4-11 mayo: semana más reciente publicada antes del 31 mayo" },
-        { "ok": true,  "texto": "Tres escenarios de segunda vuelta detallados en el informe" },
-        { "ok": true,  "texto": "Datos publicados por Infobae Colombia con enlace a informe original" },
-        { "ok": false, "texto": "Tamaño de muestra y error muestral no detallados en nota de prensa" }
+        {
+          "ok": true,
+          "texto": "Encuesta AtlasIntel con metodología presencial asistida (CAPI) y ficha técnica pública"
+        },
+        {
+          "ok": true,
+          "texto": "Muestra de 5.039 entrevistas, mayor de la semana; margen ±1 pp al 95%"
+        },
+        {
+          "ok": true,
+          "texto": "Publicada en La Silla Vacía y CNE; campo 9-14 mayo"
+        },
+        {
+          "ok": true,
+          "texto": "Tres escenarios de segunda vuelta detallados"
+        },
+        {
+          "ok": false,
+          "texto": "Divergencia significativa con Génesis Crea (14 may): Valencia 25,4% vs 20% aquí"
+        }
       ],
-      "url": "https://www.infobae.com/colombia/2026/05/14/ivan-cepeda-lidera-primera-vuelta-presidencial-y-paloma-valencia-se-impondria-en-un-escenario-de-segunda-vuelta-segun-encuesta-fundacion-genesis-crea/",
-      "url_label": "Infobae Colombia – Encuesta Génesis Crea: Cepeda primero, Valencia segunda, De la Espriella tercero"
+      "url": "https://www.lasillavacia.com/en-vivo/encuesta-atlas-intel-cepeda-37-abelardo-29-y-paloma-20/",
+      "url_label": "La Silla Vacía – Encuesta AtlasIntel: Cepeda 37%, Abelardo 29%, Paloma 20%"
     },
     {
       "filter": "cepeda",
-      "fuente": "Infobae Colombia",
+      "fuente": "Semana",
       "fuente_color": "#27ae60",
-      "fecha": "14 may 2026",
-      "tag": "Cepeda · Grupos armados",
+      "fecha": "16 may 2026",
+      "tag": "Cepeda · Minga indígena",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda vuelve a rechazar que grupos armados actúen a su favor: 'Todo el rigor de la ley'",
-      "resumen": "Ante nuevas denuncias de Paloma Valencia y Claudia López sobre presiones armadas en zonas del Cauca para votar por él, Iván Cepeda reiteró su rechazo categórico y exigió que las autoridades apliquen 'todo el rigor de la ley' a quienes usen la violencia para influir en el proceso electoral. El candidato del Pacto Histórico buscó deslindar su campaña de cualquier nexo con grupos ilegales, mientras la MOE y la Defensoría monitorean activamente las regiones señaladas.",
-      "objetividad": 88,
+      "titulo": "La 'chiva' de Aida Quilcué: la minga indígena recorre 15 departamentos y promete un millón de votos para Cepeda",
+      "resumen": "La candidata a vicepresidenta Aida Quilcué viaja en bus tradicional por 15 departamentos con la minga indígena. Fuentes del Pacto Histórico aseguran que la caravana tiene comprometidos al menos un millón de votos. Además del bus principal con 96 ciudadanos, ocho 'chivas' paralelas recorren el país de forma independiente y confluirán en Bogotá la próxima semana para el cierre de campaña del 22 de mayo en la Plaza de Bolívar. La estrategia busca movilizar el voto étnico y rural en la recta final.",
+      "objetividad": 83,
       "criterios": [
-        { "ok": true,  "texto": "Declaración oficial y verificable del candidato presidencial" },
-        { "ok": true,  "texto": "Fuente de referencia internacional con cobertura Colombia" },
-        { "ok": true,  "texto": "Contexto electoral claro: a 16 días del 31 de mayo" },
-        { "ok": true,  "texto": "MOE y Defensoría con seguimiento activo confirmado" },
-        { "ok": false, "texto": "Sin pruebas documentales de los vínculos denunciados por Valencia" }
+        {
+          "ok": true,
+          "texto": "Fuente de referencia nacional de primer orden"
+        },
+        {
+          "ok": true,
+          "texto": "Hecho verificable: caravana documentada en múltiples departamentos"
+        },
+        {
+          "ok": true,
+          "texto": "Cierre de campaña confirmado para Plaza de Bolívar, 22 mayo"
+        },
+        {
+          "ok": false,
+          "texto": "Cifra del '1 millón de votos' proviene de fuentes de campaña, no verificadas"
+        },
+        {
+          "ok": true,
+          "texto": "Estrategia con impacto claro en el voto étnico y rural a 15 días del 31 may"
+        }
       ],
-      "url": "https://www.infobae.com/colombia/2026/05/14/ivan-cepeda-volvio-a-rechazar-estrategias-de-grupos-armados-para-influir-a-su-favor-en-las-elecciones-presidenciales-todo-el-rigor-de-la-ley/",
-      "url_label": "Infobae Colombia – Cepeda rechaza estrategias de grupos armados: 'Todo el rigor de la ley'"
+      "url": "https://www.semana.com/confidenciales/articulo/la-chiva-de-aida-quilcue/202634/",
+      "url_label": "Semana – La 'chiva' de Aida Quilcué: minga recorre 15 departamentos por Cepeda"
     },
     {
       "filter": "cepeda",
-      "fuente": "Publimetro",
+      "fuente": "El Colombiano",
       "fuente_color": "#27ae60",
-      "fecha": "14 may 2026",
-      "tag": "Cepeda · Escándalo diplomático",
+      "fecha": "15 may 2026",
+      "tag": "Cepeda · Presiones armadas",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Procuraduría suspende a embajadora en Haití por decir que Cepeda es 'un candidato magnífico'",
-      "resumen": "La Procuraduría General suspendió provisionalmente a Vilma Rocío Velásquez, embajadora de Colombia en Haití, tras viralizarse una entrevista radial en la que afirmó: 'Tenemos un candidato magnífico que es Iván Cepeda'. La conducta viola el régimen de inhabilidades para servidores públicos. Cepeda tomó distancia y pidió la investigación disciplinaria, pero el episodio reaviva el debate sobre uso electoral del aparato estatal a 16 días del 31 de mayo.",
-      "objetividad": 88,
+      "titulo": "Disidente Rogelio Benavidas: 'Ojalá gane el compañero Cepeda, porque ahí sí los vamos a apretar otros 4 años'",
+      "resumen": "El Colombiano publicó audio del disidente de las FARC Rogelio Benavidas apoyando abiertamente a Iván Cepeda, reavivando el debate sobre grupos armados que ejercen presión electoral a su favor. Cepeda ya rechazó públicamente este tipo de respaldo el 14 de mayo, pidiendo que se aplique 'todo el rigor de la ley'. El episodio es aprovechado por los candidatos de derecha para reforzar la narrativa de nexos entre el Pacto Histórico y grupos ilegales. La MOE monitorea activamente la región.",
+      "objetividad": 85,
       "criterios": [
-        { "ok": true,  "texto": "Acto administrativo de suspensión verificable de la Procuraduría" },
-        { "ok": true,  "texto": "Video y audio de la entrevista radial circulan públicamente" },
-        { "ok": true,  "texto": "Cepeda emitió declaración oficial distanciándose del hecho" },
-        { "ok": true,  "texto": "Impacto electoral directo en plena recta final de campaña" },
-        { "ok": false, "texto": "Sin declaración de la embajadora suspendida" }
+        {
+          "ok": true,
+          "texto": "Audio publicado y verificable con la declaración del disidente"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente regional de referencia con cobertura electoral activa"
+        },
+        {
+          "ok": true,
+          "texto": "Candidato Cepeda ya rechazó previamente este tipo de apoyo el 14 mayo"
+        },
+        {
+          "ok": false,
+          "texto": "No implica vínculo directo ni instrucción de la campaña"
+        },
+        {
+          "ok": true,
+          "texto": "MOE y Defensoría con seguimiento activo de la región confirmado"
+        }
       ],
-      "url": "https://www.publimetro.co/noticias/2026/05/14/suspenden-a-embajadora-en-haiti-por-presunta-participacion-en-politica-dijo-que-ivan-cepeda-era-un-candidato-magnifico/",
-      "url_label": "Publimetro – Suspenden embajadora en Haití por campaña a favor de Cepeda"
+      "url": "https://www.elcolombiano.com/colombia/disidencias-calarca-elecciones-ivan-cepeda-presiones-denuncias-votaciones-2026-OC36528464",
+      "url_label": "El Colombiano – Disidente apoya a Cepeda: 'ahí sí los vamos a apretar otros 4 años'"
     },
     {
       "filter": "valencia",
       "fuente": "Infobae Colombia",
       "fuente_color": "#3498db",
-      "fecha": "13 may 2026",
-      "tag": "Valencia · Garantías",
+      "fecha": "16 may 2026",
+      "tag": "Valencia · Montaje IA",
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Valencia y Claudia López denuncian presiones armadas y falta de garantías a 18 días del 31 de mayo",
-      "resumen": "Las candidatas Paloma Valencia y Claudia López denunciaron en el foro Diálogo Nación-Territorio de Asocapitales la presencia de grupos armados que intimidan comunidades para votar por Iván Cepeda, especialmente en Argelia, El Tambo y el Pacífico caucano. Exigieron al Gobierno garantías efectivas de seguridad electoral. El episodio le da a Valencia mayor visibilidad en la agenda de seguridad en la recta final.",
-      "objetividad": 82,
+      "titulo": "Valencia y Claudia López rechazan montaje de IA que inventa lazos entre ellas: 'Con mi hija no se metan'",
+      "resumen": "Un usuario afín a De la Espriella publicó un montaje generado con IA que afirmaba que Angélica Lozano, esposa de Claudia López, es madrina de la hija de Paloma Valencia. Ambas candidatas rechazaron el bulo y exigieron no usar menores en disputas políticas. La disputa digital escala en las últimas semanas de campaña, donde el bloque opositor teme que rumores de alianza Valencia-López alejen votos anticepedistas que necesitan para una eventual segunda vuelta.",
+      "objetividad": 86,
       "criterios": [
-        { "ok": true,  "texto": "Denuncia realizada en foro institucional de Asocapitales" },
-        { "ok": true,  "texto": "Fuente internacional de referencia con cobertura Colombia" },
-        { "ok": true,  "texto": "Municipios específicos mencionados: Argelia, El Tambo" },
-        { "ok": false, "texto": "No hay pruebas documentales adjuntas a la denuncia" },
-        { "ok": false, "texto": "Sin respuesta del Gobierno al cierre de la nota" }
+        {
+          "ok": true,
+          "texto": "Declaración oficial y verificable de ambas candidatas"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente internacional de referencia con cobertura Colombia"
+        },
+        {
+          "ok": true,
+          "texto": "Montaje circula públicamente en redes sociales para verificación"
+        },
+        {
+          "ok": true,
+          "texto": "Alto impacto en la narrativa de alianza oposición en recta final"
+        },
+        {
+          "ok": false,
+          "texto": "La relación real entre las candidatas no se aclara por completo"
+        }
       ],
-      "url": "https://www.infobae.com/colombia/2026/05/13/claudia-lopez-y-paloma-valencia-denunciaron-falta-de-garantias-para-las-elecciones-del-31-de-mayo-en-el-pais/",
-      "url_label": "Infobae Colombia – Valencia y Claudia López denuncian falta de garantías electorales"
+      "url": "https://www.infobae.com/colombia/2026/05/16/paloma-valencia-y-claudia-lopez-rechazaron-montaje-que-les-hicieron-con-ia-y-falsos-senalamientos-con-mi-hija-no-se-metan/",
+      "url_label": "Infobae Colombia – Valencia y López rechazan montaje IA: 'Con mi hija no se metan'"
     },
     {
       "filter": "valencia",
       "fuente": "Semana",
       "fuente_color": "#3498db",
-      "fecha": "13 may 2026",
-      "tag": "Valencia · Video viral",
+      "fecha": "16 may 2026",
+      "tag": "Valencia · Escándalo financiación",
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Video viral: graban conversación privada de Paloma Valencia y Claudia López en Asocapitales",
-      "resumen": "Un video que circula en redes muestra a Paloma Valencia y Claudia López en una conversación privada durante el encuentro de Asocapitales. Cuando una persona intenta grabarlas, se escucha: 'No grabe'. El video provocó reacción en redes y fue interpretado como señal de coordinación entre las dos candidatas, lo que refuerza la narrativa del bloque opositor de cara a una eventual segunda vuelta contra Cepeda.",
-      "objetividad": 80,
+      "titulo": "Semana revela que evento de Valencia en Cúcuta habría sido financiado por condenado por corrupción",
+      "resumen": "Una investigación de Semana señala que un evento de la campaña de Paloma Valencia en Cúcuta habría recibido financiación de Wilmer Carrillo, un empresario condenado por corrupción. La campaña de Valencia no respondió las preguntas de Semana al cierre de la nota. El escándalo llega en el peor momento para la candidata del Centro Democrático, que ya enfrenta caídas en AtlasIntel, fractura interna y la pelea por el segundo puesto con De la Espriella.",
+      "objetividad": 81,
       "criterios": [
-        { "ok": true,  "texto": "Video verificable circulando en múltiples redes sociales" },
-        { "ok": true,  "texto": "Fuente de referencia nacional de primer orden" },
-        { "ok": false, "texto": "No se conoce el contenido real de la conversación privada" },
-        { "ok": false, "texto": "Interpretaciones políticas del video son especulativas" },
-        { "ok": true,  "texto": "Alto impacto en redes y cobertura mediática inmediata" }
+        {
+          "ok": true,
+          "texto": "Investigación publicada por medio de referencia nacional"
+        },
+        {
+          "ok": true,
+          "texto": "Condena de Wilmer Carrillo es un hecho judicial verificable"
+        },
+        {
+          "ok": false,
+          "texto": "La campaña no confirmó ni desmintió la financiación al cierre"
+        },
+        {
+          "ok": false,
+          "texto": "Uso del condicional 'habría': no hay prueba documental definitiva publicada"
+        },
+        {
+          "ok": true,
+          "texto": "Alto impacto político en la recta final de campaña"
+        }
       ],
-      "url": "https://www.semana.com/politica/articulo/paloma-valencia-y-claudia-lopez-se-reunieron-en-medio-del-encuentro-de-asocapitales-no-grabe/202635/",
-      "url_label": "Semana – Video viral: Valencia y Claudia López en conversación privada en Asocapitales"
+      "url": "https://www.semana.com/politica/articulo/un-evento-de-la-campana-de-paloma-valencia-en-cucuta-habria-sido-financiado-por-wilmer-carrillo-condenado-por-corrupcion/202656/",
+      "url_label": "Semana – Evento de Valencia en Cúcuta habría sido financiado por condenado por corrupción"
     },
     {
       "filter": "general",
-      "fuente": "Semana",
+      "fuente": "El Espectador",
       "fuente_color": "#7f8c8d",
-      "fecha": "14 may 2026",
-      "tag": "Electoral · Polymarket",
+      "fecha": "15 may 2026",
+      "tag": "Electoral · Pelea 2do puesto",
       "tag_color": "#7f8c8d",
       "tag_bg": "rgba(127,140,141,0.15)",
-      "titulo": "Polymarket: De la Espriella se dispara al 40% y Paloma Valencia se desploma al 16%",
-      "resumen": "En el mercado de predicción Polymarket, Abelardo De la Espriella registra el 40% de probabilidad de ganar la presidencia, mientras Paloma Valencia cae al 16%. Iván Cepeda mantiene el liderazgo en las casas de apuestas aunque con presión. El fenómeno contrasta con las encuestas formales, que ubican a Valencia segunda con 25,4% (Génesis Crea, 14 may). Los analistas advierten que los mercados de predicción reflejan el impulso del voto de castigo al establecimiento que motoriza la candidatura del 'Tigre'.",
-      "objetividad": 83,
+      "titulo": "Valencia y De la Espriella endurecen la pelea: cruces de acusaciones en la recta final por el segundo puesto",
+      "resumen": "Con 15 días para el 31 de mayo, Paloma Valencia y Abelardo De la Espriella intensificaron su disputa por el segundo lugar. La campaña de De la Espriella acusa a Valencia de acercamientos a Claudia López; Valencia contraataca denunciando el uso de 'bodegas' por parte del 'Tigre' y la financiación de corruptos. Mientras tanto, la encuesta AtlasIntel (15 may) muestra a De la Espriella con 9 puntos de ventaja sobre Valencia. El ganador de esta disputa enfrentará a Cepeda en segunda vuelta.",
+      "objetividad": 88,
       "criterios": [
-        { "ok": true,  "texto": "Datos verificables en tiempo real en plataforma pública Polymarket" },
-        { "ok": true,  "texto": "Fuente de referencia nacional de primer orden" },
-        { "ok": true,  "texto": "Contraste explícito con encuestas formales en la nota" },
-        { "ok": false, "texto": "Polymarket no es indicador de intención de voto real" },
-        { "ok": true,  "texto": "Contexto: divergencia entre mercados y encuestas documentada" }
+        {
+          "ok": true,
+          "texto": "Hechos verificables: declaraciones cruzadas de ambas campañas"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente de referencia nacional de primer orden"
+        },
+        {
+          "ok": true,
+          "texto": "Encuesta AtlasIntel (15 may) respalda el contexto de la disputa"
+        },
+        {
+          "ok": true,
+          "texto": "Impacto directo en la definición de finalistas para segunda vuelta"
+        },
+        {
+          "ok": false,
+          "texto": "Algunas acusaciones cruzadas sin pruebas documentales"
+        }
       ],
-      "url": "https://www.semana.com/confidenciales/articulo/elecciones-2026-paloma-valencia-se-desploma-en-polymarket-y-llega-a-16-mientras-abelardo-de-la-espriella-se-dispara-y-registra-40/202618/",
-      "url_label": "Semana – Polymarket: De la Espriella 40%, Paloma Valencia se desploma al 16%"
+      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/paloma-valencia-y-abelardo-de-la-espriella-endurecieron-su-pelea-por-los-votos-antes-de-las-elecciones-noticias-hoy/",
+      "url_label": "El Espectador – Valencia y De la Espriella endurecen pelea por el segundo puesto"
     },
     {
       "filter": "espriella",
-      "fuente": "Semana",
+      "fuente": "El País (Cali)",
       "fuente_color": "#e67e22",
-      "fecha": "13 may 2026",
-      "tag": "De la Espriella · Digital",
+      "fecha": "15 may 2026",
+      "tag": "De la Espriella · Cierre Cali",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella lidera Google Trends por primera vez: desplaza a Cepeda en búsquedas nacionales",
-      "resumen": "El 12 de mayo, Abelardo De la Espriella alcanzó el índice máximo de 100 en Google Trends a nivel nacional, superando por primera vez a Iván Cepeda en interés digital. El fenómeno coincide con la viralización de los escándalos con las periodistas Malú Fernández (Caracol) y Juanita León (La Silla Vacía), lo que —paradójicamente— impulsa su visibilidad. Las boletas del cierre de campaña en Medellín (24 may) se agotaron en 12 horas.",
-      "objetividad": 86,
+      "titulo": "De la Espriella cierra campaña en Cali: 'Vamos a derrotar a los de siempre'; critica al alcalde y al gobernador",
+      "resumen": "Abelardo De la Espriella realizó su cierre de campaña en Cali la tarde del 15 de mayo con masivo acto en el sur de la ciudad. Cuestionó al alcalde de Cali y al gobernador del Valle, prometiendo 'derrotar en las urnas a los de siempre'. El cierre forma parte de un circuito que incluye Barranquilla (23 may) y Medellín (24 may), con boletas agotadas. La narrativa antisistema sigue siendo el eje central de su campaña.",
+      "objetividad": 87,
       "criterios": [
-        { "ok": true,  "texto": "Datos verificables de Google Trends en tiempo real" },
-        { "ok": true,  "texto": "Fuente de referencia nacional de primer orden" },
-        { "ok": true,  "texto": "Hito histórico: primera vez que supera a Cepeda en Google Trends" },
-        { "ok": true,  "texto": "Correlación verificable con los escándalos virales de la semana" },
-        { "ok": false, "texto": "Tendencias digitales no equivalen a intención de voto" }
+        {
+          "ok": true,
+          "texto": "Declaraciones verificables del candidato en acto público"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente regional de referencia del suroccidente colombiano"
+        },
+        {
+          "ok": true,
+          "texto": "Fechas de cierres de campaña confirmadas por la propia campaña"
+        },
+        {
+          "ok": true,
+          "texto": "Boletas de Medellín (24 may) agotadas en 12 horas, verificable"
+        },
+        {
+          "ok": false,
+          "texto": "Sin datos de asistencia al cierre de Cali"
+        }
       ],
-      "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-por-primera-vez-desbanco-del-primer-lugar-a-ivan-cepeda-en-google-trends-el-tigre-lidera-en-las-busquedas/202643/",
-      "url_label": "Semana – De la Espriella supera a Cepeda en Google Trends por primera vez"
+      "url": "https://www.elpais.com.co/politica/abelardo-de-la-espriella-cerro-su-campana-en-cali-cuestionando-a-los-lideres-locales-y-regionales-vamos-a-derrotar-a-los-de-siempre-1553.html",
+      "url_label": "El País Cali – De la Espriella cierra campaña en Cali: 'Vamos a derrotar a los de siempre'"
     },
     {
       "filter": "espriella",
       "fuente": "Infobae Colombia",
       "fuente_color": "#e67e22",
-      "fecha": "13 may 2026",
-      "tag": "De la Espriella · Seguridad",
+      "fecha": "15 may 2026",
+      "tag": "De la Espriella · Uribe",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Frustran posible atentado contra De la Espriella: detectan falso escolta armado en su comitiva",
-      "resumen": "El equipo de seguridad de Abelardo De la Espriella detectó un individuo no autorizado y armado que intentó infiltrarse como escolta en su comitiva. El candidato lo calificó como 'grave situación irregular' y solicitó investigación a las autoridades. El episodio se produce a 17 días de la primera vuelta y reaviva sus denuncias previas de un presunto plan de asesinato en su contra. La Fiscalía abrió indagación preliminar.",
-      "objetividad": 84,
+      "titulo": "Uribe revela que De la Espriella intentó ingresar al Centro Democrático: 'Ya no se podía'",
+      "resumen": "El expresidente Álvaro Uribe declaró el 15 de mayo que Abelardo De la Espriella intentó vincularse al Centro Democrático para las elecciones de 2026, pero que no fue posible ('ya no se podía'). De la Espriella negó haber querido ingresar al partido. El cruce de versiones entre Uribe y De la Espriella tiene un impacto ambiguo: refuerza la narrativa outsider del 'Tigre' pero deja dudas sobre su coherencia ideológica. Uribe ratificó su apoyo exclusivo a Paloma Valencia.",
+      "objetividad": 88,
       "criterios": [
-        { "ok": true,  "texto": "Hecho verificable: individuo detectado por el esquema de seguridad" },
-        { "ok": true,  "texto": "Fuente internacional de referencia con cobertura Colombia" },
-        { "ok": true,  "texto": "Declaración oficial del candidato sobre el episodio" },
-        { "ok": false, "texto": "No se confirmó si el individuo tenía orden real de atentar" },
-        { "ok": true,  "texto": "Fiscalía con indagación preliminar abierta" }
+        {
+          "ok": true,
+          "texto": "Declaración verificable y pública del expresidente Uribe"
+        },
+        {
+          "ok": true,
+          "texto": "De la Espriella respondió también de forma pública"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente internacional de referencia con cobertura Colombia"
+        },
+        {
+          "ok": true,
+          "texto": "Relevancia política alta: involucra al expresidente más influyente del país"
+        },
+        {
+          "ok": false,
+          "texto": "Versiones contradictorias sin documentos que resuelvan la disputa"
+        }
       ],
-      "url": "https://www.infobae.com/colombia/2026/05/13/frustran-posible-atentado-contra-abelardo-de-la-espriella-detectaron-un-falso-escolta-armado-grave-situacion-irregular/",
-      "url_label": "Infobae Colombia – Frustran posible atentado: falso escolta armado en comitiva De la Espriella"
+      "url": "https://www.infobae.com/colombia/2026/05/15/alvaro-uribe-aseguro-que-abelardo-de-la-espriella-intento-ingresar-al-centro-democratico-a-pesar-de-que-luego-lo-nego-ya-no-se-podia/",
+      "url_label": "Infobae Colombia – Uribe: De la Espriella intentó ingresar al Centro Democrático"
     }
   ],
   "sentimiento": {
@@ -175,29 +295,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 28,
-        "negativo": 56,
-        "neutro": 16,
+        "positivo": 29,
+        "negativo": 54,
+        "neutro": 17,
         "tendencia": "up",
-        "tendencia_texto": "15 may: Semana de impulso en mercados y redes. Polymarket lo sitúa en 40% de probabilidad de victoria (14 may), cierres de campaña en Barranquilla (23 may) y Medellín (24 may) con boletas agotadas, y lidera Google Trends por primera vez superando a Cepeda (12 may). Sin embargo, encuesta Génesis Crea (14 may) lo ubica tercero con 21,6%, detrás de Valencia (25,4%). Imagen negativa en medios formales persiste por escándalos con periodistas y la no-firma del acuerdo de paz electoral. Narrativa antisistema 'perseguido' gana tracción en redes."
+        "tendencia_texto": "16 may: AtlasIntel (15 may) lo consolida segundo con 29%, a 8 puntos de Cepeda y 9 sobre Valencia. Cierre masivo en Cali (15 may), Barranquilla (23 may) y Medellín (24 may) con boletas agotadas. Cruce con Uribe (15 may) refuerza narrativa outsider. Polymarket lo mantiene en 40%. Imagen negativa en medios formales persiste, pero la tracción antisistema sigue siendo el motor de su ascenso."
       },
       {
         "nombre": "Valencia",
         "color": "#3498db",
-        "positivo": 35,
-        "negativo": 45,
-        "neutro": 20,
-        "tendencia": "up",
-        "tendencia_texto": "15 may: Semana de mejora en encuestas formales. Génesis Crea (14 may) la ubica segunda con 25,4%, por encima de De la Espriella (21,6%), invirtiendo el ponderador La Silla Vacía. En segunda vuelta, Génesis Crea la da ganadora con 48,3% vs 45,6% de Cepeda. Sin embargo, Polymarket la desploma al 16%. Junto con Claudia López protagoniza denuncias de garantías electorales (13 may) y video viral de Asocapitales. Suma respaldo del Partido Liberal (29 abr). La narrativa del 'voto útil opositor' en segunda vuelta gana fuerza."
+        "positivo": 27,
+        "negativo": 57,
+        "neutro": 16,
+        "tendencia": "down",
+        "tendencia_texto": "16 may: Semana de golpes simultáneos. AtlasIntel (15 may) la desploma al 20%, tercer lugar. Escándalo Cúcuta: evento financiado por condenado por corrupción (Semana, 16 may). Montaje IA viral que inventa lazos con López (Infobae, 16 may). Fractura interna por ausencia de Cabal y Holguín. Polymarket al 16%. Solo la encuesta Génesis Crea (14 may) la mantiene segunda con 25,4%. Tensión máxima por el segundo puesto."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 46,
-        "negativo": 32,
+        "positivo": 45,
+        "negativo": 33,
         "neutro": 22,
         "tendencia": "stable",
-        "tendencia_texto": "15 may: Semana con turbulencia diplomática y nueva encuesta. Génesis Crea (14 may) lo mantiene primero con 35,1% en primera vuelta. La Procuraduría suspendió a la embajadora en Haití Vilma Velásquez por proselitismo a su favor (14 may); Cepeda pidió investigación disciplinaria para deslindar su campaña. También rechazó por segunda vez en días que grupos armados actúen a su favor (14 may). Sigue liderando encuestas formales (Invamer 44,3%; ponderador La Silla Vacía 37,5%). Cierre de campaña en Plaza de Bolívar el 22 de mayo."
+        "tendencia_texto": "16 may: Lidera todas las encuestas: AtlasIntel 37% (15 may), Génesis Crea 35,1% (14 may). Minga indígena de Aida Quilcué en 15 departamentos (16 may) refuerza voto étnico y rural. Cierre de campaña confirmado en Plaza de Bolívar el 22 mayo. Daño por audio del disidente Benavidas que lo apoya ('los vamos a apretar otros 4 años'), aprovechado por la oposición. Sigue siendo el favorito claro para la primera vuelta del 31 de mayo."
       },
       {
         "nombre": "Fajardo",
@@ -211,36 +331,36 @@
       {
         "nombre": "C. López",
         "color": "#16a085",
-        "positivo": 48,
-        "negativo": 29,
-        "neutro": 23,
-        "tendencia": "up",
-        "tendencia_texto": "Retiró candidatura el 6 de abril y se sumó a la campaña de Iván Cepeda. Activa nuevamente esta semana con denuncias electorales conjuntas junto a Paloma Valencia en Asocapitales (13 may). Video viral de conversación privada con Valencia genera especulación en redes."
+        "positivo": 46,
+        "negativo": 30,
+        "neutro": 24,
+        "tendencia": "stable",
+        "tendencia_texto": "Retiró candidatura el 6 de abril y se sumó a la campaña de Iván Cepeda. Protagoniza junto a Valencia el rechazo del montaje IA viral del 16 may. Su nombre sigue siendo parte de la narrativa de la campaña."
       }
     ]
   },
   "encuestas": {
-    "cepeda": 35.1,
-    "valencia": 25.4,
-    "espriella": 21.6,
-    "fuente": "Fundación Génesis Crea, 14 may 2026"
+    "cepeda": 37.0,
+    "valencia": 20.0,
+    "espriella": 29.0,
+    "fuente": "AtlasIntel para Semana, 15 may 2026 (campo 9-14 may, n=5.039)"
   },
   "prediccion": {
     "primero": {
       "nombre": "Iván Cepeda",
       "partido": "Pacto Histórico",
       "color": "#27ae60",
-      "pct": 35.1,
-      "fuente_encuesta": "Fundación Génesis Crea (14 may 2026)"
+      "pct": 37.0,
+      "fuente_encuesta": "AtlasIntel para Semana (15 may 2026)"
     },
     "segundo": {
-      "nombre": "Paloma Valencia",
-      "partido": "Centro Democrático",
-      "color": "#3498db",
-      "pct": 25.4,
-      "fuente_encuesta": "Fundación Génesis Crea (14 may 2026)"
+      "nombre": "Abelardo De la Espriella",
+      "partido": "Defensores de la Patria",
+      "color": "#e67e22",
+      "pct": 29.0,
+      "fuente_encuesta": "AtlasIntel para Semana (15 may 2026)"
     },
-    "resumen_analisis": "Actualización 15 may 2026 — 8 noticias del 13-15 may. NUEVA ENCUESTA 14 MAY: Fundación Génesis Crea ubica a Cepeda primero (35,1%), Valencia segunda (25,4%) y De la Espriella tercero (21,6%); en segunda vuelta Valencia ganaría 48,3% vs 45,6% de Cepeda. NOTICIAS CLAVE 14 MAY: Cepeda rechaza por segunda vez estrategias de grupos armados ('todo el rigor de la ley'); Polymarket: De la Espriella sube al 40%, Valencia cae al 16%. 13 MAY: Valencia y López denuncian garantías en Asocapitales; De la Espriella lidera Google Trends por primera vez; frustran posible atentado contra De la Espriella (falso escolta armado). Primera vuelta: 31 de mayo de 2026."
+    "resumen_analisis": "Actualización 16 may 2026 — 8 noticias del 15-16 may. NUEVA ENCUESTA 15 MAY: AtlasIntel (campo 9-14 may, n=5.039, ±1pp): Cepeda 37%, De la Espriella 29%, Valencia 20%. Por primera vez De la Espriella supera con claridad a Valencia en encuesta robusta. En segunda vuelta, De la Espriella ganaría a Cepeda 47,8%-42%; Valencia a Cepeda 49%-40,6%. NOTICIAS 16 MAY: Valencia y López rechazan montaje IA 'con mi hija no se metan'; Semana revela evento Valencia en Cúcuta financiado por condenado corrupción. 15 MAY: De la Espriella cierra campaña en Cali; Uribe revela que De la Espriella intentó ingresar al CD; Minga indígena de Quilcué en 15 departamentos. Primera vuelta: 31 de mayo de 2026."
   },
-  "ultimo_deploy": "2026-05-15T10:00:00Z"
+  "ultimo_deploy": "2026-05-16T08:00:00Z"
 }
