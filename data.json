@@ -1,41 +1,41 @@
 {
-  "fecha": "16 de mayo de 2026",
+  "fecha": "17 de mayo de 2026",
   "noticias": [
     {
       "filter": "general",
-      "fuente": "La Silla Vacía / AtlasIntel",
+      "fuente": "El Espectador",
       "fuente_color": "#7f8c8d",
-      "fecha": "15 may 2026",
-      "tag": "Encuesta · AtlasIntel",
+      "fecha": "17 may 2026",
+      "tag": "Electoral · Cierres de campaña",
       "tag_color": "#7f8c8d",
       "tag_bg": "rgba(127,140,141,0.15)",
-      "titulo": "AtlasIntel (campo 9-14 may): Cepeda 37%, De la Espriella 29%, Valencia 20%; 'Tigre' consolida segunda plaza",
-      "resumen": "La encuesta AtlasIntel publicada el 15 de mayo (campo 9-14 may, 5.039 encuestados, ±1 pp) reordena la carrera: Iván Cepeda lidera con 37%, Abelardo De la Espriella sube a 29% y se consolida como el segundo finalista, mientras Paloma Valencia cae a 20%. En segunda vuelta, De la Espriella ganaría a Cepeda 47,8% vs 42%, y Valencia a Cepeda 49% vs 40,6%. Es la primera encuesta robusta que sitúa al 'Tigre' con claridad sobre Valencia a 15 días del 31 de mayo.",
-      "objetividad": 91,
+      "titulo": "A 14 días del 31 de mayo: los cuatro candidatos ultiman sus cierres de campaña en Bogotá, Medellín y Barranquilla",
+      "resumen": "A dos semanas de las elecciones presidenciales, los cuatro candidatos principales afinan sus actos finales: Iván Cepeda cerrará en la Plaza de Bolívar de Bogotá el 22 de mayo; Abelardo De la Espriella tiene confirmados Barranquilla (23 may) y Medellín (24 may) con boletas agotadas; Paloma Valencia y Sergio Fajardo ultiman también sus actos de cierre. La movilización de bases será clave en una contienda donde AtlasIntel (15 may) sitúa la diferencia entre De la Espriella y Valencia en cerca de 13 puntos.",
+      "objetividad": 90,
       "criterios": [
         {
           "ok": true,
-          "texto": "Encuesta AtlasIntel con metodología presencial asistida (CAPI) y ficha técnica pública"
+          "texto": "Fuente de referencia nacional de primer orden"
         },
         {
           "ok": true,
-          "texto": "Muestra de 5.039 entrevistas, mayor de la semana; margen ±1 pp al 95%"
+          "texto": "Fechas y sedes confirmadas por las propias campañas"
         },
         {
           "ok": true,
-          "texto": "Publicada en La Silla Vacía y CNE; campo 9-14 mayo"
+          "texto": "Boletas de De la Espriella en Medellín (24 may) agotadas en 12 horas"
         },
         {
           "ok": true,
-          "texto": "Tres escenarios de segunda vuelta detallados"
+          "texto": "Cepeda: Plaza de Bolívar el 22 mayo confirmada"
         },
         {
           "ok": false,
-          "texto": "Divergencia significativa con Génesis Crea (14 may): Valencia 25,4% vs 20% aquí"
+          "texto": "No se especifican aforos esperados para todos los actos"
         }
       ],
-      "url": "https://www.lasillavacia.com/en-vivo/encuesta-atlas-intel-cepeda-37-abelardo-29-y-paloma-20/",
-      "url_label": "La Silla Vacía – Encuesta AtlasIntel: Cepeda 37%, Abelardo 29%, Paloma 20%"
+      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/cepeda-de-la-espriella-valencia-y-fajardo-ultiman-detalles-para-los-cierres-de-campana-asi-serian-los-eventos-noticias-hoy/",
+      "url_label": "El Espectador – Los cuatro candidatos ultiman sus cierres de campaña"
     },
     {
       "filter": "cepeda",
@@ -67,7 +67,7 @@
         },
         {
           "ok": true,
-          "texto": "Estrategia con impacto claro en el voto étnico y rural a 15 días del 31 may"
+          "texto": "Estrategia con impacto claro en el voto étnico y rural a 14 días del 31 may"
         }
       ],
       "url": "https://www.semana.com/confidenciales/articulo/la-chiva-de-aida-quilcue/202634/",
@@ -82,7 +82,7 @@
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
       "titulo": "Disidente Rogelio Benavidas: 'Ojalá gane el compañero Cepeda, porque ahí sí los vamos a apretar otros 4 años'",
-      "resumen": "El Colombiano publicó audio del disidente de las FARC Rogelio Benavidas apoyando abiertamente a Iván Cepeda, reavivando el debate sobre grupos armados que ejercen presión electoral a su favor. Cepeda ya rechazó públicamente este tipo de respaldo el 14 de mayo, pidiendo que se aplique 'todo el rigor de la ley'. El episodio es aprovechado por los candidatos de derecha para reforzar la narrativa de nexos entre el Pacto Histórico y grupos ilegales. La MOE monitorea activamente la región.",
+      "resumen": "El Colombiano publicó audio del disidente de las FARC Rogelio Benavidas apoyando abiertamente a Iván Cepeda, reavivando el debate sobre grupos armados que ejercen presión electoral. Cepeda ya rechazó públicamente este tipo de respaldo el 14 de mayo, pidiendo que se aplique 'todo el rigor de la ley'. El episodio es aprovechado por los candidatos de derecha para reforzar la narrativa de nexos entre el Pacto Histórico y grupos ilegales. La MOE monitorea activamente la región.",
       "objetividad": 85,
       "criterios": [
         {
@@ -95,7 +95,7 @@
         },
         {
           "ok": true,
-          "texto": "Candidato Cepeda ya rechazó previamente este tipo de apoyo el 14 mayo"
+          "texto": "Candidato Cepeda rechazó previamente este tipo de apoyo el 14 mayo"
         },
         {
           "ok": false,
@@ -190,7 +190,7 @@
       "tag_color": "#7f8c8d",
       "tag_bg": "rgba(127,140,141,0.15)",
       "titulo": "Valencia y De la Espriella endurecen la pelea: cruces de acusaciones en la recta final por el segundo puesto",
-      "resumen": "Con 15 días para el 31 de mayo, Paloma Valencia y Abelardo De la Espriella intensificaron su disputa por el segundo lugar. La campaña de De la Espriella acusa a Valencia de acercamientos a Claudia López; Valencia contraataca denunciando el uso de 'bodegas' por parte del 'Tigre' y la financiación de corruptos. Mientras tanto, la encuesta AtlasIntel (15 may) muestra a De la Espriella con 9 puntos de ventaja sobre Valencia. El ganador de esta disputa enfrentará a Cepeda en segunda vuelta.",
+      "resumen": "Con 15 días para el 31 de mayo, Paloma Valencia y Abelardo De la Espriella intensificaron su disputa por el segundo lugar. La campaña de De la Espriella acusa a Valencia de acercamientos a Claudia López; Valencia contraataca denunciando el uso de 'bodegas' por parte del 'Tigre' y la financiación de corruptos. Mientras tanto, la encuesta AtlasIntel (15 may) muestra a De la Espriella con ~13 puntos de ventaja sobre Valencia. El ganador de esta disputa enfrentará a Cepeda en segunda vuelta.",
       "objetividad": 88,
       "criterios": [
         {
@@ -295,20 +295,20 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 29,
-        "negativo": 54,
-        "neutro": 17,
+        "positivo": 30,
+        "negativo": 52,
+        "neutro": 18,
         "tendencia": "up",
-        "tendencia_texto": "16 may: AtlasIntel (15 may) lo consolida segundo con 29%, a 8 puntos de Cepeda y 9 sobre Valencia. Cierre masivo en Cali (15 may), Barranquilla (23 may) y Medellín (24 may) con boletas agotadas. Cruce con Uribe (15 may) refuerza narrativa outsider. Polymarket lo mantiene en 40%. Imagen negativa en medios formales persiste, pero la tracción antisistema sigue siendo el motor de su ascenso."
+        "tendencia_texto": "17 may: AtlasIntel (15 may) lo consolida segundo con 32,9%, a apenas 4,7 puntos de Cepeda (37,6%) y con 12,9 pts sobre Valencia. Polymarket al 40%, máximo histórico de la campaña. Cierres de campaña en Barranquilla (23 may) y Medellín (24 may) con boletas agotadas. Uribe revela que intentó ingresar al CD (15 may), cruce que refuerza su narrativa outsider. A 14 días del 31 de mayo, el 'Tigre' es el candidato con mayor momentum."
       },
       {
         "nombre": "Valencia",
         "color": "#3498db",
-        "positivo": 27,
-        "negativo": 57,
+        "positivo": 26,
+        "negativo": 58,
         "neutro": 16,
         "tendencia": "down",
-        "tendencia_texto": "16 may: Semana de golpes simultáneos. AtlasIntel (15 may) la desploma al 20%, tercer lugar. Escándalo Cúcuta: evento financiado por condenado por corrupción (Semana, 16 may). Montaje IA viral que inventa lazos con López (Infobae, 16 may). Fractura interna por ausencia de Cabal y Holguín. Polymarket al 16%. Solo la encuesta Génesis Crea (14 may) la mantiene segunda con 25,4%. Tensión máxima por el segundo puesto."
+        "tendencia_texto": "17 may: Semana de golpes acumulados. AtlasIntel (15 may) la sitúa tercera con ~20%, a 12,9 pts de De la Espriella. Polymarket desplomada al 16%. Escándalo Cúcuta: evento financiado por condenado por corrupción (Semana, 16 may). Montaje IA viral rechazado junto a López (16 may). Solo Génesis Crea (14 may) la mantiene segunda con 25,4%. La disputa por el segundo puesto con De la Espriella se inclina claramente a su favor en AtlasIntel."
       },
       {
         "nombre": "Cepeda",
@@ -317,7 +317,7 @@
         "negativo": 33,
         "neutro": 22,
         "tendencia": "stable",
-        "tendencia_texto": "16 may: Lidera todas las encuestas: AtlasIntel 37% (15 may), Génesis Crea 35,1% (14 may). Minga indígena de Aida Quilcué en 15 departamentos (16 may) refuerza voto étnico y rural. Cierre de campaña confirmado en Plaza de Bolívar el 22 mayo. Daño por audio del disidente Benavidas que lo apoya ('los vamos a apretar otros 4 años'), aprovechado por la oposición. Sigue siendo el favorito claro para la primera vuelta del 31 de mayo."
+        "tendencia_texto": "17 may: Lidera todas las encuestas: AtlasIntel 37,6% (15 may), Génesis Crea 35,1% (14 may). Cierre de campaña en Plaza de Bolívar el 22 mayo. Minga indígena de Quilcué recorre 15 departamentos. Audio del disidente Benavidas sigue siendo utilizado por la oposición. Pierde en segunda vuelta contra ambos rivales según AtlasIntel. A 14 días del 31 de mayo, favorito sólido para pasar a segunda vuelta pero sin mayoría propia."
       },
       {
         "nombre": "Fajardo",
@@ -326,7 +326,7 @@
         "negativo": 22,
         "neutro": 26,
         "tendencia": "stable",
-        "tendencia_texto": "Estable. Sentimiento positivo pero bajo volumen de menciones en medios nacionales."
+        "tendencia_texto": "Estable. Sentimiento positivo pero bajo volumen de menciones en medios nacionales. Cierre de campaña en preparación."
       },
       {
         "nombre": "C. López",
@@ -340,27 +340,27 @@
     ]
   },
   "encuestas": {
-    "cepeda": 37.0,
+    "cepeda": 37.6,
     "valencia": 20.0,
-    "espriella": 29.0,
-    "fuente": "AtlasIntel para Semana, 15 may 2026 (campo 9-14 may, n=5.039)"
+    "espriella": 32.9,
+    "fuente": "AtlasIntel para Infobae, 15 may 2026 (campo 9-14 may, n=5.039)"
   },
   "prediccion": {
     "primero": {
       "nombre": "Iván Cepeda",
       "partido": "Pacto Histórico",
       "color": "#27ae60",
-      "pct": 37.0,
-      "fuente_encuesta": "AtlasIntel para Semana (15 may 2026)"
+      "pct": 37.6,
+      "fuente_encuesta": "AtlasIntel para Infobae (15 may 2026)"
     },
     "segundo": {
       "nombre": "Abelardo De la Espriella",
       "partido": "Defensores de la Patria",
       "color": "#e67e22",
-      "pct": 29.0,
-      "fuente_encuesta": "AtlasIntel para Semana (15 may 2026)"
+      "pct": 32.9,
+      "fuente_encuesta": "AtlasIntel para Infobae (15 may 2026)"
     },
-    "resumen_analisis": "Actualización 16 may 2026 — 8 noticias del 15-16 may. NUEVA ENCUESTA 15 MAY: AtlasIntel (campo 9-14 may, n=5.039, ±1pp): Cepeda 37%, De la Espriella 29%, Valencia 20%. Por primera vez De la Espriella supera con claridad a Valencia en encuesta robusta. En segunda vuelta, De la Espriella ganaría a Cepeda 47,8%-42%; Valencia a Cepeda 49%-40,6%. NOTICIAS 16 MAY: Valencia y López rechazan montaje IA 'con mi hija no se metan'; Semana revela evento Valencia en Cúcuta financiado por condenado corrupción. 15 MAY: De la Espriella cierra campaña en Cali; Uribe revela que De la Espriella intentó ingresar al CD; Minga indígena de Quilcué en 15 departamentos. Primera vuelta: 31 de mayo de 2026."
+    "resumen_analisis": "Actualización 17 may 2026 — A 14 días del 31 de mayo. ENCUESTA LÍDER: AtlasIntel (campo 9-14 may, n=5.039, ±1pp, pub. 15 may): Cepeda 37,6%, De la Espriella 32,9%, Valencia ~20%. De la Espriella consolida el segundo puesto con 12,9 pts sobre Valencia. En segunda vuelta, De la Espriella derrotaría a Cepeda 47,8%-42%; Valencia a Cepeda 49%-40,6%. GÉNESIS CREA (campo 4-11 may, pub. 14 may): Cepeda 35,1%, Valencia 25,4%, De la Espriella 21,6% (escenario divergente). CIERRES CAMPAÑA: Cepeda (Plaza de Bolívar, 22 may), De la Espriella (Barranquilla 23, Medellín 24 — boletas agotadas). Primera vuelta: 31 de mayo de 2026."
   },
-  "ultimo_deploy": "2026-05-16T08:00:00Z"
+  "ultimo_deploy": "2026-05-17T08:00:00Z"
 }
