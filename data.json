@@ -1,173 +1,293 @@
 {
-  "fecha": "21 de mayo de 2026",
+  "fecha": "22 de mayo de 2026",
   "noticias": [
     {
+      "filter": "valencia",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#3498db",
+      "fecha": "22 may 2026",
+      "tag": "Valencia · Violencia Política · BREAKING",
+      "tag_color": "#e74c3c",
+      "tag_bg": "rgba(231,76,60,0.15)",
+      "titulo": "Valencia acusa a María José Pizarro de instigar vandalismo contra su sede: \"Promueven el odio\"",
+      "resumen": "Horas después del ataque vandálico del 21 de mayo a su sede en Chapinero (Bogotá), Paloma Valencia señaló directamente a la senadora María José Pizarro —jefa de debate de Iván Cepeda— de haber cultivado un clima de odio político que desembocó en el ataque. Pizarro negó cualquier responsabilidad. El alcalde de Bogotá, Carlos Fernando Galán, responsabilizó al presidente Gustavo Petro de 'instigar ataques' a días de las elecciones. El ministro del Interior Benedetti condenó el vandalismo. El episodio escala la tensión política a 9 días del 31 de mayo y pone el foco en el clima electoral violento.",
+      "objetividad": 88,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Acusación directa de Valencia verificable vía Infobae 22 may"
+        },
+        {
+          "ok": true,
+          "texto": "Vandalismo a sede confirmado por múltiples medios (El Tiempo, Vanguardia, La Patria)"
+        },
+        {
+          "ok": true,
+          "texto": "Reacción del alcalde Galán verificable vía Infobae 22 may"
+        },
+        {
+          "ok": true,
+          "texto": "Benedetti condenó el acto (El Tiempo)"
+        },
+        {
+          "ok": false,
+          "texto": "No se identificaron autores materiales del vandalismo"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/05/22/paloma-valencia-senalo-a-maria-jose-pizarro-jefa-de-debate-de-ivan-cepeda-de-instigar-el-vandalismo-contra-su-sede-promueven-el-odio/",
+      "url_label": "Infobae – Valencia acusa a Pizarro de instigar vandalismo"
+    },
+    {
+      "filter": "general",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#7f8c8d",
+      "fecha": "22 may 2026",
+      "tag": "Electoral · Violencia · Bogotá",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "Galán acusa a Petro de instigar ataques contra sede de Valencia y MIRA a 9 días de la primera vuelta",
+      "resumen": "El alcalde de Bogotá, Carlos Fernando Galán, responsabilizó al presidente Gustavo Petro de instigar los ataques vandálicos contra la sede de campaña de Paloma Valencia y el partido MIRA en Chapinero. 'Actúe con responsabilidad', le exigió Galán a Petro. La sede fue atacada por encapuchados durante manifestaciones el 21 de mayo. El incidente pone en evidencia la tensión política máxima en la recta final hacia las elecciones del 31 de mayo y alimenta el debate sobre la seguridad del proceso electoral.",
+      "objetividad": 86,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Declaración de Galán verificable (Infobae, Pulzo, 22 may)"
+        },
+        {
+          "ok": true,
+          "texto": "Vandalismo físico documentado en múltiples medios y en fotos"
+        },
+        {
+          "ok": true,
+          "texto": "Contexto de manifestaciones del 21 may verificado"
+        },
+        {
+          "ok": false,
+          "texto": "Petro no había respondido públicamente al cierre de la nota"
+        },
+        {
+          "ok": false,
+          "texto": "Vínculo directo entre declaraciones de Petro y atacantes no probado"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/05/22/carlos-fernando-galan-acuso-a-petro-de-instigar-ataques-contra-la-sede-de-paloma-valencia-y-el-partido-mira-en-bogota-actue-con-responsabilidad/",
+      "url_label": "Infobae – Galán acusa a Petro de instigar ataques contra Valencia y MIRA"
+    },
+    {
       "filter": "espriella",
-      "fuente": "El Espectador / El Tiempo",
+      "fuente": "El Tiempo / El Espectador / Infobae",
       "fuente_color": "#e67e22",
       "fecha": "21 may 2026",
-      "tag": "De la Espriella · CNE · BREAKING",
+      "tag": "De la Espriella · CNE · FIRME",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "CNE NIEGA revocatoria de candidatura de De la Espriella: sigue en carrera a 10 días del 31 de mayo",
-      "resumen": "El Consejo Nacional Electoral comunicó hoy (21 mayo) su decisión de NEGAR la solicitud de revocatoria de la inscripción del candidato Abelardo Gabriel De la Espriella Otero para las elecciones presidenciales del 31 de mayo. El proceso había sido abierto tras la denuncia de presuntas irregularidades en la validación de firmas de su movimiento ciudadano 'Defensores de la Patria'. De la Espriella reaccionó: \"Calma, que no panda el cúnico: estoy firme. Cumplimos todos los requisitos\". La decisión cierra el principal riesgo legal de su candidatura a 10 días de la primera vuelta.",
-      "objetividad": 91,
+      "titulo": "CNE niega revocatoria de candidatura de De la Espriella: candidatura en firme a 9 días del 31 de mayo",
+      "resumen": "La Sala Plena del Consejo Nacional Electoral (CNE) negó por unanimidad la solicitud de revocatoria de la inscripción de Abelardo Gabriel de la Espriella el 21 de mayo, al concluir que el peticionario 'no aportó material probatorio que sustentara sus afirmaciones'. El proceso fue iniciado por presuntas irregularidades en la validación de firmas del movimiento Defensores de la Patria. De la Espriella celebró: 'Estamos firmes'. La decisión cierra el principal riesgo legal de su candidatura y despeja el camino para la primera vuelta del 31 de mayo.",
+      "objetividad": 93,
       "criterios": [
-        { "ok": true, "texto": "Decisión del CNE comunicada hoy 21 de mayo" },
-        { "ok": true, "texto": "Hecho verificable: CNE documentó negativa de revocatoria" },
-        { "ok": true, "texto": "Reacción directa del candidato citada" },
-        { "ok": true, "texto": "Impacto claro: candidatura asegurada a 10 días de la primera vuelta" },
-        { "ok": false, "texto": "Proceso de firmas (3.1M invalidadas de 4.8M) aún puede derivar en otras acciones" }
+        {
+          "ok": true,
+          "texto": "Decisión del CNE confirmada por múltiples medios el 21 may"
+        },
+        {
+          "ok": true,
+          "texto": "Resolución adoptada por unanimidad en audiencia pública"
+        },
+        {
+          "ok": true,
+          "texto": "Razón oficial citada: falta de material probatorio"
+        },
+        {
+          "ok": true,
+          "texto": "Reacción del candidato citada"
+        },
+        {
+          "ok": true,
+          "texto": "Cobertura convergente: El Tiempo, El Espectador, Infobae, El Heraldo, Publimetro"
+        }
       ],
-      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/revocatoria-a-abelardo-de-la-espriella-futuro-de-atlas-intel-y-otros-casos-que-ocuparon-la-agenda-del-cne-noticias-hoy/",
-      "url_label": "El Espectador – CNE niega revocatoria De la Espriella y analiza AtlasIntel"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sala-plena-del-cne-cerro-investigacion-que-pedi-anular-la-candidatura-de-abelardo-de-la-espriella-aspiracion-quedo-en-firme-3557335",
+      "url_label": "El Tiempo – CNE cierra investigación; candidatura De la Espriella en firme"
     },
     {
       "filter": "general",
-      "fuente": "El Colombiano / El Tiempo",
+      "fuente": "El Tiempo / El Espectador / El Colombiano",
       "fuente_color": "#7f8c8d",
-      "fecha": "19-20 may 2026",
-      "tag": "Electoral · AtlasIntel · CNE",
-      "tag_color": "#7f8c8d",
-      "tag_bg": "rgba(127,140,141,0.15)",
-      "titulo": "CNE suspende a AtlasIntel — y la levanta en 24 horas: la encuestadora favorita de De la Espriella vuelve a poder publicar",
-      "resumen": "El 19 de mayo el CNE ordenó como medida cautelar la suspensión de publicaciones de AtlasIntel por presuntas irregularidades metodológicas (uso de metodología de sondeo prohibida según la ley 2494 de 2025). Revista Semana, que publicaba sus encuestas, también fue notificada. Sin embargo, el 20 de mayo la medida quedó sin efecto tras un recurso de reconsideración presentado por Semana: AtlasIntel puede volver a publicar para la primera vuelta. El episodio es crítico porque AtlasIntel había dado a De la Espriella segundo con 32,9% —escenario radicalmente distinto al sondeo Maldonado (20,4%) que lo pone tercero.",
-      "objetividad": 89,
+      "fecha": "21 may 2026",
+      "tag": "Encuesta · Guarumo · Ecoanalítica",
+      "tag_color": "#9b59b6",
+      "tag_bg": "rgba(155,89,182,0.15)",
+      "titulo": "Encuesta Guarumo: Cepeda 37,1%, De la Espriella 27,5%, Valencia 21,7% — por primera vez Abelardo aparece segundo en Guarumo",
+      "resumen": "La encuesta Guarumo/Ecoanalítica (campo 11-19 may, n=3.787, 85 municipios) confirma a Cepeda como líder con 37,1%, pero marca un hito: por primera vez De la Espriella aparece en segundo lugar con 27,5%, superando a Valencia (21,7%). En segunda vuelta, De la Espriella ganaría a Cepeda 43,6%-40% y Valencia ganaría a Cepeda 44,8%-39,9%. Fajardo cae a 3,2%. La encuesta refuerza la narrativa de que Cepeda ganaría primera vuelta pero perdería el balotaje. La divergencia con la encuesta Tempo (Valencia segunda con 27,1%) mantiene viva la incertidumbre sobre quién accede al balotaje.",
+      "objetividad": 92,
       "criterios": [
-        { "ok": true, "texto": "Suspensión confirmada por múltiples medios nacionales el 19 mayo" },
-        { "ok": true, "texto": "Levantamiento de medida confirmado por CNE el 20 mayo" },
-        { "ok": true, "texto": "Impacto directo: define qué encuestas guiarán las últimas semanas" },
-        { "ok": true, "texto": "Divergencia con encuesta Maldonado claramente señalada" },
-        { "ok": false, "texto": "CNE aún tiene tercer proceso abierto contra AtlasIntel en investigación" }
+        {
+          "ok": true,
+          "texto": "Publicada por El Tiempo, El Espectador, El Colombiano y Bloomberg Línea (21 may)"
+        },
+        {
+          "ok": true,
+          "texto": "Metodología especificada: n=3.787, 85 municipios, presencial, campo 11-19 may"
+        },
+        {
+          "ok": true,
+          "texto": "Primera vez que De la Espriella aparece segundo en Guarumo — hecho notable"
+        },
+        {
+          "ok": true,
+          "texto": "Escenarios de segunda vuelta incluidos con cifras exactas"
+        },
+        {
+          "ok": false,
+          "texto": "Divergencia con encuesta Tempo: De la Espriella tercero con 23,9%"
+        }
       ],
-      "url": "https://www.elcolombiano.com/especiales/elecciones-2026/atlasintel-no-podra-publicar-encuestas-colombia-cne-abrio-indagacion-CK36694237",
-      "url_label": "El Colombiano – CNE abre indagación y suspende AtlasIntel; Semana recurre y levanta medida"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "El Tiempo / El Espectador",
-      "fuente_color": "#3498db",
-      "fecha": "19 may 2026",
-      "tag": "Valencia · MIRA · Coalición",
-      "tag_color": "#3498db",
-      "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Partido MIRA oficializa apoyo a Valencia; Colombia Justa Libres se adhiere a De la Espriella: partidos religiosos toman partido",
-      "resumen": "El Partido MIRA formalizó el 19 de mayo su adhesión a la candidatura de Paloma Valencia, aportando su red de testigos electorales y fuerza militante en todo el país y en el exterior. En paralelo, Colombia Justa Libres anunció su respaldo a Abelardo De la Espriella. El Espectador tituló: \"así van los partidos religiosos\". Valencia suma así el mayor número de avales de partidos de la campaña. El respaldo del MIRA llega en la semana más turbulenta para la candidata —con la demanda en el CNE— y refuerza su coalición opositora a 12 días de la primera vuelta.",
-      "objetividad": 90,
-      "criterios": [
-        { "ok": true, "texto": "MIRA anunció adhesión oficialmente en el Congreso el 19 mayo" },
-        { "ok": true, "texto": "Colombia Justa Libres confirmó apoyo a De la Espriella (El Espectador)" },
-        { "ok": true, "texto": "Partido MIRA aportará red de testigos electorales" },
-        { "ok": true, "texto": "Impacto estratégico en recta final: amplía coalición opositora" },
-        { "ok": false, "texto": "Número de votos que aportaría el MIRA no estimado en comunicados oficiales" }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/partido-mira-anuncio-su-apoyo-a-la-candidatura-de-paloma-valencia-3556710",
-      "url_label": "El Tiempo – Partido MIRA anuncia apoyo a Valencia; El Espectador: Colombia Justa Libres a De la Espriella"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Cronista",
-      "fuente_color": "#e67e22",
-      "fecha": "19 may 2026",
-      "tag": "De la Espriella · Polémica",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella pidió perdón a periodista colombiana por comentarios ofensivos emitidos en redes sociales",
-      "resumen": "Abelardo de la Espriella se disculpó públicamente con una periodista colombiana tras proferir comentarios catalogados como ofensivos y de tono machista en redes sociales. El candidato del movimiento Defensores de la Patria emitió un video con sus excusas, que no impidió la ola de críticas en redes. El incidente abre un debate sobre el trato de los candidatos a la prensa a 11 días de la primera vuelta del 31 de mayo, justo cuando De la Espriella consolida su ascenso en encuestas y en Polymarket.",
-      "objetividad": 83,
-      "criterios": [
-        { "ok": true, "texto": "Disculpa pública verificable emitida por el propio candidato" },
-        { "ok": true, "texto": "Fuente latinoamericana con cobertura de Colombia" },
-        { "ok": true, "texto": "Impacto en narrativa de campaña a días de la primera vuelta" },
-        { "ok": false, "texto": "No se especifica el nombre ni el medio de la periodista afectada" },
-        { "ok": false, "texto": "Comentarios originales no citados en detalle en el titular" }
-      ],
-      "url": "https://www.cronista.com/colombia/actualidad-co/elecciones-2026-abelardo-de-la-espriella-le-pidio-perdon-a-periodista-colombiana-por-comentarios-ofensivos/",
-      "url_label": "El Cronista – De la Espriella pidió perdón a periodista por comentarios ofensivos"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#3498db",
-      "fecha": "19 may 2026",
-      "tag": "Valencia · CNE",
-      "tag_color": "#3498db",
-      "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Demandan candidatura de Paloma Valencia ante el CNE: podría quedar fuera de las elecciones",
-      "resumen": "Mauricio Villegas Londoño, exmiembro fundador del Centro Democrático, presentó ante el Consejo Nacional Electoral (CNE) una solicitud de revocatoria de la inscripción de Paloma Valencia como candidata presidencial, alegando deficiencias legales en su candidatura. La campaña de Valencia no había respondido al cierre de la nota. El CNE deberá decidir si admite o no la demanda en plena recta final electoral. El episodio se suma al escándalo del evento de Cúcuta supuestamente financiado por un condenado por corrupción, generando la semana más turbulenta para la candidata del Centro Democrático.",
-      "objetividad": 87,
-      "criterios": [
-        { "ok": true, "texto": "Demanda presentada ante el CNE, hecho verificable" },
-        { "ok": true, "texto": "Demandante identificado: Mauricio Villegas Londoño, exfundador del CD" },
-        { "ok": true, "texto": "Fuente internacional de referencia con cobertura Colombia" },
-        { "ok": true, "texto": "Alto impacto: genera incertidumbre sobre participación de Valencia" },
-        { "ok": false, "texto": "CNE no se ha pronunciado oficialmente sobre la admisión" }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/05/19/paloma-valencia-podria-no-participar-en-las-elecciones-presidenciales-demandaron-su-candidatura-ante-el-cne/",
-      "url_label": "Infobae – Demandan candidatura de Valencia ante el CNE"
-    },
-    {
-      "filter": "general",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#7f8c8d",
-      "fecha": "18 may 2026",
-      "tag": "Electoral · Encuesta",
-      "tag_color": "#7f8c8d",
-      "tag_bg": "rgba(127,140,141,0.15)",
-      "titulo": "Nueva encuesta devuelve a Valencia al segundo lugar: Cepeda 35,3%, Valencia 25,7%, De la Espriella 20,4% — a 13 días de las elecciones",
-      "resumen": "La encuesta de la Corporación Miguel Maldonado Manjarrez (campo 12-17 may, n=5.558, margen ±1,68%), publicada el 18 de mayo por Infobae, pone a Iván Cepeda líder con 35,3%, seguido por Paloma Valencia con 25,7% y Abelardo de la Espriella tercero con 20,4%. El resultado contrasta con AtlasIntel (15 may, hoy suspendida y levantada) que ubicaba a De la Espriella segundo con 32,9% y a Valencia tercera con 16,7%. En segunda vuelta, Maldonado da a Valencia ganadora con 46,5% frente a Cepeda con 40,3%. La divergencia entre encuestadoras es el tema central de la recta final.",
-      "objetividad": 90,
-      "criterios": [
-        { "ok": true, "texto": "Encuesta publicada por Infobae Colombia el 18 de mayo de 2026" },
-        { "ok": true, "texto": "Encuestadora: Corporación Miguel Maldonado Manjarrez" },
-        { "ok": true, "texto": "Campo y muestra especificados: 12-17 may, n=5.558, ±1,68%" },
-        { "ok": true, "texto": "Dato de segunda vuelta incluido" },
-        { "ok": false, "texto": "Divergencia significativa con AtlasIntel (ahora bajo investigación del CNE)" }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/05/18/ivan-cepeda-y-paloma-valencia-serian-los-que-irian-a-segunda-vuelta-segun-nueva-encuesta-asi-esta-el-pulso-a-14-dias-de-las-elecciones/",
-      "url_label": "Infobae – Nueva encuesta: Cepeda 35,3%, Valencia 25,7%, De la Espriella 20,4%"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/encuesta-guarumo-y-ecoanalitica-cepeda-37-1-de-la-espriella-27-5-y-paloma-valencia-21-7-en-segunda-abelardo-aparece-por-encima-de-cepeda-3557410",
+      "url_label": "El Tiempo – Encuesta Guarumo: Cepeda 37,1%, De la Espriella 27,5%, Valencia 21,7%"
     },
     {
       "filter": "cepeda",
-      "fuente": "El Tiempo",
+      "fuente": "El Colombiano / Bloomberg Línea",
       "fuente_color": "#27ae60",
-      "fecha": "18 may 2026",
-      "tag": "Cepeda · Desinformación",
+      "fecha": "21 may 2026",
+      "tag": "Cepeda · Segunda Vuelta · Guarumo",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "#ElFiltro: sondeo viral que daba a Cepeda ganador en primera vuelta fue elaborado con inteligencia artificial",
-      "resumen": "El equipo #ElFiltro de El Tiempo reveló que una encuesta que circuló masivamente en redes sociales —en la que Iván Cepeda ganaba en primera vuelta con cifras amplias— fue fabricada usando inteligencia artificial. El sondeo falso citaba a una supuesta firma encuestadora e incluía gráficas de aspecto profesional. La campaña de Cepeda no avaló su publicación. El episodio eleva las alertas de desinformación en la recta final de campaña.",
-      "objetividad": 92,
+      "titulo": "Guarumo: Cepeda lidera en primera vuelta pero pierde segunda vuelta contra De la Espriella (43,6%-40%) y Valencia (44,8%-39,9%)",
+      "resumen": "La encuesta Guarumo/Ecoanalítica confirma el patrón que ya señalaban otros sondeos: Iván Cepeda ganaría la primera vuelta con 37,1%, pero perdería el balotaje contra ambos rivales principales. Frente a De la Espriella: 40%-43,6% (derrota por 3,6 puntos). Frente a Valencia: 39,9%-44,8% (derrota por 4,9 puntos). El análisis político señala que el 'techo electoral' de Cepeda impide que amplíe su caudal para la segunda vuelta. La campaña del Pacto Histórico enfrenta el desafío de los próximos 9 días para revertir esa tendencia.",
+      "objetividad": 91,
       "criterios": [
-        { "ok": true, "texto": "Verificación hecha por equipo periodístico especializado de El Tiempo" },
-        { "ok": true, "texto": "Hecho verificable: el sondeo circuló públicamente en redes sociales" },
-        { "ok": true, "texto": "La campaña de Cepeda no respaldó el sondeo falso" },
-        { "ok": true, "texto": "Alerta de desinformación relevante en recta final" },
-        { "ok": false, "texto": "No identifica con nombre al autor del sondeo falso" }
+        {
+          "ok": true,
+          "texto": "Cifras exactas de segunda vuelta publicadas por múltiples medios"
+        },
+        {
+          "ok": true,
+          "texto": "Patrón confirmado por encuestas previas (Maldonado, Génesis Crea, AtlasIntel)"
+        },
+        {
+          "ok": true,
+          "texto": "Cobertura: El Colombiano, Bloomberg Línea, El Tiempo"
+        },
+        {
+          "ok": true,
+          "texto": "Relevancia directa: define el escenario electoral de las últimas semanas"
+        },
+        {
+          "ok": false,
+          "texto": "Otras encuestadoras aún muestran escenarios distintos para segunda vuelta"
+        }
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-sondeo-en-el-que-ivan-cepeda-ganaria-en-primera-vuelta-la-presidencia-de-colombia-fue-hecho-con-ia-3554932",
-      "url_label": "El Tiempo #ElFiltro – Sondeo viral pro-Cepeda fue fabricado con IA"
+      "url": "https://www.elcolombiano.com/colombia/encuesta-guarumo-mayo-2026-cepeda-lidera-GM36810017",
+      "url_label": "El Colombiano – Guarumo: Cepeda pierde segunda vuelta ante De la Espriella y Valencia"
     },
     {
       "filter": "valencia",
-      "fuente": "El Tiempo",
+      "fuente": "El Tiempo / Vanguardia",
       "fuente_color": "#3498db",
-      "fecha": "18 may 2026",
-      "tag": "Valencia · Liberal",
-      "tag_color": "#3498db",
-      "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Valencia se reúne con bancada del Partido Liberal y César Gaviria a 13 días de las elecciones: 'Tenemos que defender la Constitución'",
-      "resumen": "Paloma Valencia se reunió con la bancada del Partido Liberal en el Congreso —43 congresistas— junto al expresidente César Gaviria, para estructurar estrategia política y electoral de cara a los últimos días de campaña. El eje central de la reunión fue la necesidad de una oposición fuerte para defender la Constitución frente al gobierno Petro. El acercamiento al liberalismo refuerza la coalición opositora, aunque el partido no ha dado aval formal.",
+      "fecha": "21 may 2026",
+      "tag": "Valencia · Vandalismo · Bogotá",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "Sede de campaña de Paloma Valencia vandalizada en Bogotá durante protestas: piedras, pintura y destrozos",
+      "resumen": "Un grupo de encapuchados se desprendió de una marcha en Bogotá y atacó la sede de campaña compartida por Paloma Valencia y Juan Daniel Oviedo en el barrio Chapinero con piedras, palos y pintura, causando destrozos en la fachada y material de campaña. El ministro del Interior Armando Benedetti calificó el acto como 'deplorable'. La campaña de Valencia presentó la denuncia ante autoridades. El ataque se produjo en la semana más turbulenta para la candidata —con la demanda de revocatoria ante el CNE y la controversia del evento en Cúcuta— a 10 días de la primera vuelta.",
       "objetividad": 90,
       "criterios": [
-        { "ok": true, "texto": "Reunión verificable: asistieron 43 congresistas del Partido Liberal" },
-        { "ok": true, "texto": "Fuente El Tiempo: medio de referencia nacional de primer orden" },
-        { "ok": true, "texto": "Presencia de César Gaviria confirma alto peso político del encuentro" },
-        { "ok": true, "texto": "Declaración textual de Valencia citada" },
-        { "ok": false, "texto": "Partido Liberal no ha dado aval formal a Valencia al cierre de la nota" }
+        {
+          "ok": true,
+          "texto": "Ataque documentado con fotos (Vanguardia, 21 may)"
+        },
+        {
+          "ok": true,
+          "texto": "Benedetti se pronunció públicamente (El Tiempo, 21 may)"
+        },
+        {
+          "ok": true,
+          "texto": "Cobertura convergente: El Tiempo, Vanguardia, La Patria, El Universal"
+        },
+        {
+          "ok": true,
+          "texto": "Contexto de semana turbulenta claramente señalado"
+        },
+        {
+          "ok": false,
+          "texto": "Autores del vandalismo no identificados por autoridades al cierre"
+        }
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/candidata-paloma-valencia-se-reune-con-bancada-del-partido-liberal-a-13-dias-de-las-elecciones-presidenciales-3556762",
-      "url_label": "El Tiempo – Valencia se reúne con bancada Liberal y Gaviria"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sede-de-campana-de-paloma-valencia-y-juan-daniel-oviedo-fue-vandalizada-durante-protestas-en-bogota-3557393",
+      "url_label": "El Tiempo – Sede de Valencia vandalizada durante protestas en Bogotá"
+    },
+    {
+      "filter": "general",
+      "fuente": "Pulzo / Infobae",
+      "fuente_color": "#7f8c8d",
+      "fecha": "21 may 2026",
+      "tag": "Encuesta · Tempo · Primera Vuelta",
+      "tag_color": "#9b59b6",
+      "tag_bg": "rgba(155,89,182,0.15)",
+      "titulo": "Encuesta Tempo: Cepeda 38,2%, Valencia segunda con 27,1%, De la Espriella 23,9% — divergencia clave con Guarumo",
+      "resumen": "La encuesta Tempo Consultoría Empresarial (campo 15-17 may, ±2,3%) ubica a Cepeda primero con 38,2%, pero devuelve a Valencia al segundo lugar con 27,1% —superando a De la Espriella (23,9%)— en resultado opuesto a Guarumo, que lo ponía segundo con 27,5%. La divergencia entre encuestadoras sobre quién accede al balotaje es el dato central de la recta final: Tempo y Maldonado (Cepeda-Valencia al balotaje) vs Guarumo y AtlasIntel (Cepeda-De la Espriella). La última fecha legal para publicar encuestas es el 24 de mayo.",
+      "objetividad": 89,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Encuesta publicada por Pulzo (21 may) con metodología detallada"
+        },
+        {
+          "ok": true,
+          "texto": "Campo y margen especificados: 15-17 may, ±2,3%, cara a cara presencial"
+        },
+        {
+          "ok": true,
+          "texto": "Divergencia con Guarumo claramente señalada"
+        },
+        {
+          "ok": true,
+          "texto": "Alta relevancia: define narrativa de quién va al balotaje"
+        },
+        {
+          "ok": false,
+          "texto": "Tamaño de muestra exacto no disponible en resúmenes consultados"
+        }
+      ],
+      "url": "https://www.pulzo.com/elecciones-colombia-2026/nueva-encuesta-presidencial-colombia-mayo-2026-tempo-PP5188181",
+      "url_label": "Pulzo – Encuesta Tempo: Cepeda 38,2%, Valencia 27,1%, De la Espriella 23,9%"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "El Tiempo / Guarumo / Ecoanalítica",
+      "fuente_color": "#27ae60",
+      "fecha": "21 may 2026",
+      "tag": "Guarumo · Voto Castigo · Los tres líderes",
+      "tag_color": "#7f8c8d",
+      "tag_bg": "rgba(127,140,141,0.15)",
+      "titulo": "Guarumo: Cepeda, De la Espriella y Valencia lideran la lista de candidatos por quienes los colombianos NUNCA votarían",
+      "resumen": "La encuesta Guarumo/Ecoanalítica también preguntó por el 'voto castigo': ¿por cuál candidato no votaría usted jamás? Los tres candidatos líderes encabezaron también esa lista negativa. Iván Cepeda lidera el rechazo, seguido por Abelardo de la Espriella y Paloma Valencia. El hallazgo revela la alta polarización del electorado colombiano: los candidatos con más intención de voto positivo son también los que generan mayor rechazo. Este dato explica en parte por qué Cepeda, pese a liderar en primera vuelta, perdería frente a sus rivales en el balotaje.",
+      "objetividad": 87,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Publicado por El Tiempo con datos de la encuesta Guarumo/Ecoanalítica (21 may)"
+        },
+        {
+          "ok": true,
+          "texto": "Dato relevante: explica el fenómeno del 'techo' de Cepeda en segunda vuelta"
+        },
+        {
+          "ok": true,
+          "texto": "Contexto de alta polarización electoral claramente expuesto"
+        },
+        {
+          "ok": false,
+          "texto": "Porcentajes exactos del voto castigo por candidato no disponibles en resúmenes"
+        },
+        {
+          "ok": false,
+          "texto": "Orden exacto del ranking de rechazo por confirmar"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-abelardo-de-la-espriella-y-paloma-valencia-encabezan-encuesta-de-por-quien-nunca-votarian-los-colombianos-segun-guarumo-y-ecoanalitica-3557398",
+      "url_label": "El Tiempo – Guarumo: los tres líderes encabezan también la lista de voto castigo"
     }
   ],
   "sentimiento": {
@@ -175,29 +295,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 34,
-        "negativo": 49,
+        "positivo": 41,
+        "negativo": 42,
         "neutro": 17,
         "tendencia": "up",
-        "tendencia_texto": "21 may: semana de gran movimiento. HOY el CNE negó la revocatoria de su candidatura — el mayor riesgo legal está cerrado. Colombia Justa Libres suma apoyo religioso (19 may). Encuesta Maldonado (18 may) lo baja al tercer lugar con 20,4%, pero AtlasIntel (suspendida y levantada por CNE el 19-20 may) lo daba segundo con 32,9%. Polymarket en máximo histórico ~40%. Polémica pendiente: pidió perdón a periodista por comentarios ofensivos (19 may). Cierre de campaña Barranquilla (23 may) y Medellín (24 may). A 10 días del 31 mayo, candidatura blindada y con momentum ascendente."
+        "tendencia_texto": "22 may: semana histórica para su candidatura. CNE negó revocatoria el 21 may por unanimidad — candidatura blindada. Encuesta Guarumo (pub. 21 may) lo lleva por primera vez al segundo lugar con 27,5%, superando a Valencia. Sin embargo, Encuesta Tempo (21 may) lo pone tercero con 23,9%. Polymarket sigue por encima del 40%. Vandalismo a sede de Valencia genera narrativa de 'violencia política' que no lo beneficia directamente. Cierre de campaña Barranquilla y Medellín pendientes. A 9 días del 31 mayo, es el candidato con mayor momentum ascendente."
       },
       {
         "nombre": "Valencia",
         "color": "#3498db",
-        "positivo": 24,
-        "negativo": 61,
+        "positivo": 20,
+        "negativo": 65,
         "neutro": 15,
         "tendencia": "down",
-        "tendencia_texto": "21 may: la semana más turbulenta de su campaña. Demanda de revocatoria de candidatura ante el CNE (19 may, exfundador del CD — CNE aún no se pronuncia). MIRA oficializa apoyo (19 may), sumando red de testigos electorales. Reunión con bancada Liberal y Gaviria (18 may). Polymarket la desploma al 16%. Encuesta Maldonado (18 may) la devuelve al segundo lugar (25,7%) vs AtlasIntel (16,7%, encuestadora suspendida y levantada por CNE). Segunda vuelta Maldonado: ganaría 46,5%-40,3% sobre Cepeda. Escándalo Cúcuta (evento financiado por condenado por corrupción). A 10 días del 31 mayo, la demanda en el CNE es su mayor amenaza activa."
+        "tendencia_texto": "22 may: la peor semana de su campaña. Sede vandalizada en Bogotá el 21 may. Hoy acusa a María José Pizarro (Cepeda) de instigar el ataque — Galán responsabiliza a Petro. Demanda de revocatoria ante el CNE (19 may, exfundador CD) aún sin resolución. Guarumo la pone tercera con 21,7% — primera vez que De la Espriella la supera en esa encuestadora. Tempo la devuelve al segundo con 27,1%. MIRA suma apoyo (19 may). Segunda vuelta Guarumo: ganaría a Cepeda 44,8%-39,9%. A 9 días del 31 mayo, la demanda en el CNE y la narrativa de violencia son sus mayores amenazas."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 46,
-        "negativo": 33,
-        "neutro": 21,
+        "positivo": 43,
+        "negativo": 37,
+        "neutro": 20,
         "tendencia": "stable",
-        "tendencia_texto": "21 may: lidera todas las encuestas convencionales: Maldonado 35,3% (18 may), AtlasIntel 37,6% (15 may, suspendida y levantada por CNE), Invamer 44,3%. Sondeo viral que lo daba ganador en primera vuelta desmentido como fabricación con IA (El Tiempo #ElFiltro, 18 may). Cierre de campaña en Plaza de Bolívar 22 may. El CNE negó hoy la revocatoria de De la Espriella: su rival más peligroso en segunda vuelta sigue en carrera. Favorito para primera vuelta pero encuestas lo dan perdiendo segunda vuelta contra ambos rivales. A 10 días del 31 mayo, posición de liderazgo sólida pero segunda vuelta es su talón de Aquiles."
+        "tendencia_texto": "22 may: lidera todas las encuestas en primera vuelta — Guarumo 37,1%, Tempo 38,2%, Invamer 44,3%. Pero pierde segunda vuelta en todos los escenarios: Guarumo da a De la Espriella 43,6%-40% y a Valencia 44,8%-39,9%. Su campaña involucrada indirectamente en la narrativa del vandalismo a la sede de Valencia — Pizarro (jefa de debate) negó instigación. Encuesta 'voto castigo' de Guarumo lo pone primero en rechazo. Cierre Plaza de Bolívar (22 may). La clave de los próximos 9 días: ampliar caudal hacia el balotaje."
       },
       {
         "nombre": "Fajardo",
@@ -206,7 +326,7 @@
         "negativo": 22,
         "neutro": 26,
         "tendencia": "stable",
-        "tendencia_texto": "Estable. Sentimiento positivo pero bajo volumen de menciones en medios nacionales. Cierre de campaña en preparación."
+        "tendencia_texto": "Guarumo lo ubica en 3,2%. Sentimiento positivo pero bajo volumen de menciones en medios nacionales."
       },
       {
         "nombre": "C. López",
@@ -220,27 +340,27 @@
     ]
   },
   "encuestas": {
-    "cepeda": 35.3,
-    "valencia": 25.7,
-    "espriella": 20.4,
-    "fuente": "Corp. Miguel Maldonado Manjarrez para Infobae, campo 12-17 may 2026 (n=5.558, ±1,68%)"
+    "cepeda": 37.1,
+    "valencia": 21.7,
+    "espriella": 27.5,
+    "fuente": "Guarumo/Ecoanalítica para El Tiempo, campo 11-19 may 2026 (n=3.787, 85 municipios)"
   },
   "prediccion": {
     "primero": {
       "nombre": "Iván Cepeda",
       "partido": "Pacto Histórico",
       "color": "#27ae60",
-      "pct": 35.3,
-      "fuente_encuesta": "Corp. Maldonado Manjarrez para Infobae (campo 12-17 may 2026)"
+      "pct": 37.1,
+      "fuente_encuesta": "Guarumo/Ecoanalítica para El Tiempo (campo 11-19 may 2026)"
     },
     "segundo": {
-      "nombre": "Paloma Valencia",
-      "partido": "Centro Democrático",
-      "color": "#3498db",
-      "pct": 25.7,
-      "fuente_encuesta": "Corp. Maldonado Manjarrez para Infobae (campo 12-17 may 2026)"
+      "nombre": "Abelardo de la Espriella",
+      "partido": "Defensores de la Patria",
+      "color": "#e67e22",
+      "pct": 27.5,
+      "fuente_encuesta": "Guarumo/Ecoanalítica para El Tiempo (campo 11-19 may 2026)"
     },
-    "resumen_analisis": "Actualización 21 may 2026 — A 10 días del 31 de mayo. BREAKING: CNE NIEGA hoy revocatoria de candidatura de De la Espriella — candidatura asegurada. ENCUESTA MÁS RECIENTE: Corp. Miguel Maldonado Manjarrez para Infobae (campo 12-17 may, n=5.558, pub. 18 may): Cepeda 35,3%, Valencia 25,7%, De la Espriella 20,4%. Segunda vuelta: Valencia ganaría 46,5%-40,3% a Cepeda. ENCUESTA ATLASINTEL (campo 9-14 may, pub. 15 may, n=5.039): Cepeda 37,6%, De la Espriella 32,9%, Valencia 16,7%; segunda vuelta: De la Espriella ganaría 47,8%-42%. POLÉMICA ATLASINTEL: CNE abrió investigación y suspendió sus encuestas el 19 may — medida levantada el 20 may por recurso de Semana. Aún bajo tercer proceso del CNE. ENCUESTA INVAMER: Cepeda 44,3%, De la Espriella 21,5%, Valencia 19,8%. DIVERGENCIA CRÍTICA: las encuestadoras muestran escenarios opuestos para el segundo lugar. POLYMARKET (21 may): Cepeda ~44%, De la Espriella ~40%, Valencia ~16%. CRISIS VALENCIANA: demanda de revocatoria ante CNE (19 may, exfundador CD) + Polymarket al 16%, pero MIRA suma apoyo (19 may). ALIANZA: Valencia con Liberal y Gaviria (18 may). CIERRES: Cepeda (Plaza de Bolívar, 22 may), De la Espriella (Barranquilla 23 may, Medellín 24 may). Última fecha legal para publicar encuestas: 24 de mayo. Primera vuelta: 31 de mayo de 2026."
+    "resumen_analisis": "Actualización 22 may 2026 — A 9 días del 31 de mayo. HOY: Valencia acusa a Pizarro de instigar vandalismo; Galán acusa a Petro. ENCUESTA GUARUMO/ECOANALÍTICA (campo 11-19 may, n=3.787, pub. 21 may): Cepeda 37,1%, De la Espriella 27,5% (1ª vez 2º en Guarumo), Valencia 21,7%. Segunda vuelta: De la Espriella gana a Cepeda 43,6%-40%; Valencia gana a Cepeda 44,8%-39,9%. ENCUESTA TEMPO (campo 15-17 may, ±2,3%, pub. 21 may): Cepeda 38,2%, Valencia 27,1%, De la Espriella 23,9%. DIVERGENCIA CRÍTICA: Guarumo y AtlasIntel apuntan a Cepeda-De la Espriella al balotaje; Tempo y Maldonado a Cepeda-Valencia. CNE NEGÓ revocatoria de De la Espriella el 21 may (firme). DEMANDA vs. Valencia ante el CNE (19 may, ex-fundador CD) sin resolución. VANDALISMO: sede de Valencia atacada en Chapinero el 21 may; el 22 may Valencia acusa a Pizarro y Galán acusa a Petro. VOTO CASTIGO (Guarumo): los 3 líderes también encabezan la lista de candidatos por quienes nunca votarían. Última fecha legal para encuestas: 24 de mayo. Primera vuelta: 31 de mayo de 2026."
   },
-  "ultimo_deploy": "2026-05-21T08:30:00Z"
+  "ultimo_deploy": "2026-05-22T10:00:00Z"
 }
