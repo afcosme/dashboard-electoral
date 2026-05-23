@@ -1,6 +1,102 @@
 {
-  "fecha": "22 de mayo de 2026",
+  "fecha": "23 de mayo de 2026",
   "noticias": [
+    {
+      "filter": "general",
+      "fuente": "El Espectador",
+      "fuente_color": "#7f8c8d",
+      "fecha": "23 may 2026",
+      "tag": "Cierre de Campaña · Primera Vuelta",
+      "tag_color": "#2c3e50",
+      "tag_bg": "rgba(44,62,80,0.15)",
+      "titulo": "Gira de cierre: Cepeda en Cartagena, De la Espriella en Barranquilla, Valencia en Rionegro con posible Uribe",
+      "resumen": "A 8 días de la primera vuelta del 31 de mayo, los tres candidatos principales arrancan su gira de cierre de campaña. Iván Cepeda estuvo en La Boquilla (Cartagena) fortaleciendo estructuras en la Costa. Abelardo de la Espriella convocó a miles en el Malecón del Río (Barranquilla), su plaza electoral más fuerte. Paloma Valencia llegó al Parque de Rionegro (Antioquia), donde se esperaba la presencia del expresidente Álvaro Uribe en lo que sería un impulso simbólico clave para la candidata del Centro Democrático en la recta final.",
+      "objetividad": 88,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Eventos verificados vía El Espectador (23 may)"
+        },
+        {
+          "ok": true,
+          "texto": "Presencia de Uribe en Rionegro reportada por múltiples fuentes"
+        },
+        {
+          "ok": true,
+          "texto": "Contexto de 8 días para la primera vuelta claramente señalado"
+        },
+        {
+          "ok": false,
+          "texto": "Asistencia exacta a los actos no publicada al cierre"
+        }
+      ],
+      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/ivan-cepeda-abelardo-de-la-espriella-y-paloma-valencia-emprenden-su-gira-de-cierre-de-campanas-estos-son-las-fechas-y-lugares-noticias-hoy/",
+      "url_label": "El Espectador – Candidatos arrancan gira de cierre de campaña"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#27ae60",
+      "fecha": "22 may 2026",
+      "tag": "Cepeda · Encuestas · Análisis",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Análisis Infobae: \"Cepeda se estanca, De la Espriella avanza y Paloma se queda\" — mapa de encuestas a 9 días del 31 de mayo",
+      "resumen": "Un análisis de Infobae Colombia publicado el 22 de mayo sintetiza el panorama de encuestas antes del 31 de mayo: Iván Cepeda mantiene el liderato en primera vuelta pero su avance se frenó, consolidándose entre 34% y 44% según la encuestadora. Abelardo de la Espriella muestra el mayor momentum: por primera vez aparece segundo en Guarumo (27,5%) e Invamer lo sitúa en 31,6%. Paloma Valencia se mantiene en un rango fijo entre 14% y 27%. El análisis señala que la clave no es quién gana la primera vuelta sino quién le acompaña en el balotaje.",
+      "objetividad": 90,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Artículo de análisis de Infobae verificable (22 may)"
+        },
+        {
+          "ok": true,
+          "texto": "Cifras de múltiples encuestadoras correctamente citadas"
+        },
+        {
+          "ok": true,
+          "texto": "Tendencia de De la Espriella confirmada por Guarumo e Invamer"
+        },
+        {
+          "ok": false,
+          "texto": "Divergencia entre encuestadoras sobre el segundo lugar no resuelta"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/05/22/cepeda-se-estanca-de-la-espriella-avanza-y-paloma-se-queda-analisis-de-las-ultimas-encuestas-antes-de-la-primera-vuelta-de-las-presidenciales-en-colombia/",
+      "url_label": "Infobae – Cepeda se estanca, De la Espriella avanza y Paloma se queda"
+    },
+    {
+      "filter": "general",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#9b59b6",
+      "fecha": "22 may 2026",
+      "tag": "Encuesta · Génesis Crea · Primera y Segunda Vuelta",
+      "tag_color": "#9b59b6",
+      "tag_bg": "rgba(155,89,182,0.15)",
+      "titulo": "Encuesta Génesis Crea (campo 14-20 may): Cepeda 34,3%, Valencia 27,9%, De la Espriella 21,7% — Valencia segunda y ganaría balotaje",
+      "resumen": "La Fundación Génesis Crea publicó el 22 de mayo una encuesta (campo 14-20 may) que ubica a Iván Cepeda primero con 34,3%, Paloma Valencia segunda con 27,9% y Abelardo de la Espriella tercero con 21,7%. En segunda vuelta, Valencia ganaría al Pacto Histórico. La encuesta diverge de Guarumo e Invamer (que ponen a De la Espriella segundo) y es consistente con Tempo. La dispersión entre sondeos mantiene abierta la incertidumbre sobre quién accede al balotaje.",
+      "objetividad": 88,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Publicada por Infobae Colombia el 22 may con campo 14-20 may"
+        },
+        {
+          "ok": true,
+          "texto": "Porcentajes exactos citados"
+        },
+        {
+          "ok": true,
+          "texto": "Divergencia con Guarumo e Invamer correctamente señalada"
+        },
+        {
+          "ok": false,
+          "texto": "Tamaño de muestra exacto no disponible en resúmenes consultados"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/05/22/estos-son-los-escenarios-de-primera-y-segunda-vuelta-presidencial-que-plantea-la-encuesta-de-fundacion-genesis-crea-para-2026/",
+      "url_label": "Infobae – Génesis Crea: Cepeda 34,3%, Valencia 27,9%, De la Espriella 21,7%"
+    },
     {
       "filter": "valencia",
       "fuente": "Infobae Colombia",
@@ -10,7 +106,7 @@
       "tag_color": "#e74c3c",
       "tag_bg": "rgba(231,76,60,0.15)",
       "titulo": "Valencia acusa a María José Pizarro de instigar vandalismo contra su sede: \"Promueven el odio\"",
-      "resumen": "Horas después del ataque vandálico del 21 de mayo a su sede en Chapinero (Bogotá), Paloma Valencia señaló directamente a la senadora María José Pizarro —jefa de debate de Iván Cepeda— de haber cultivado un clima de odio político que desembocó en el ataque. Pizarro negó cualquier responsabilidad. El alcalde de Bogotá, Carlos Fernando Galán, responsabilizó al presidente Gustavo Petro de 'instigar ataques' a días de las elecciones. El ministro del Interior Benedetti condenó el vandalismo. El episodio escala la tensión política a 9 días del 31 de mayo y pone el foco en el clima electoral violento.",
+      "resumen": "Horas después del ataque vandálico del 21 de mayo a su sede en Chapinero (Bogotá), Paloma Valencia señaló directamente a la senadora María José Pizarro —jefa de debate de Iván Cepeda— de haber cultivado un clima de odio político que desembocó en el ataque. Pizarro negó cualquier responsabilidad. El alcalde de Bogotá, Carlos Fernando Galán, responsabilizó al presidente Gustavo Petro de 'instigar ataques' a días de las elecciones. El ministro del Interior Benedetti condenó el vandalismo. El episodio escala la tensión política en la recta final hacia el 31 de mayo.",
       "objetividad": 88,
       "criterios": [
         {
@@ -19,11 +115,11 @@
         },
         {
           "ok": true,
-          "texto": "Vandalismo a sede confirmado por múltiples medios (El Tiempo, Vanguardia, La Patria)"
+          "texto": "Vandalismo a sede confirmado por múltiples medios (El Tiempo, Vanguardia)"
         },
         {
           "ok": true,
-          "texto": "Reacción del alcalde Galán verificable vía Infobae 22 may"
+          "texto": "Reacción del alcalde Galán verificable"
         },
         {
           "ok": true,
@@ -46,7 +142,7 @@
       "tag_color": "#c0392b",
       "tag_bg": "rgba(192,57,43,0.15)",
       "titulo": "Galán acusa a Petro de instigar ataques contra sede de Valencia y MIRA a 9 días de la primera vuelta",
-      "resumen": "El alcalde de Bogotá, Carlos Fernando Galán, responsabilizó al presidente Gustavo Petro de instigar los ataques vandálicos contra la sede de campaña de Paloma Valencia y el partido MIRA en Chapinero. 'Actúe con responsabilidad', le exigió Galán a Petro. La sede fue atacada por encapuchados durante manifestaciones el 21 de mayo. El incidente pone en evidencia la tensión política máxima en la recta final hacia las elecciones del 31 de mayo y alimenta el debate sobre la seguridad del proceso electoral.",
+      "resumen": "El alcalde de Bogotá, Carlos Fernando Galán, responsabilizó al presidente Gustavo Petro de instigar los ataques vandálicos contra la sede de campaña de Paloma Valencia y el partido MIRA en Chapinero. 'Actúe con responsabilidad', le exigió Galán a Petro. La sede fue atacada por encapuchados durante manifestaciones el 21 de mayo. El incidente pone en evidencia la tensión política máxima en la recta final hacia el 31 de mayo y alimenta el debate sobre la seguridad del proceso electoral.",
       "objetividad": 86,
       "criterios": [
         {
@@ -55,7 +151,7 @@
         },
         {
           "ok": true,
-          "texto": "Vandalismo físico documentado en múltiples medios y en fotos"
+          "texto": "Vandalismo físico documentado en múltiples medios y fotos"
         },
         {
           "ok": true,
@@ -81,8 +177,8 @@
       "tag": "De la Espriella · CNE · FIRME",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "CNE niega revocatoria de candidatura de De la Espriella: candidatura en firme a 9 días del 31 de mayo",
-      "resumen": "La Sala Plena del Consejo Nacional Electoral (CNE) negó por unanimidad la solicitud de revocatoria de la inscripción de Abelardo Gabriel de la Espriella el 21 de mayo, al concluir que el peticionario 'no aportó material probatorio que sustentara sus afirmaciones'. El proceso fue iniciado por presuntas irregularidades en la validación de firmas del movimiento Defensores de la Patria. De la Espriella celebró: 'Estamos firmes'. La decisión cierra el principal riesgo legal de su candidatura y despeja el camino para la primera vuelta del 31 de mayo.",
+      "titulo": "CNE niega revocatoria de candidatura de De la Espriella: aspiración en firme a 10 días del 31 de mayo",
+      "resumen": "La Sala Plena del Consejo Nacional Electoral (CNE) negó por unanimidad la solicitud de revocatoria de la inscripción de Abelardo Gabriel de la Espriella el 21 de mayo, al concluir que el peticionario 'no aportó material probatorio que sustentara sus afirmaciones'. El proceso fue iniciado por presuntas irregularidades en la validación de firmas del movimiento Defensores de la Patria. De la Espriella celebró: 'Estamos firmes'. La decisión cierra el principal riesgo legal de su candidatura y despeja el camino para la primera vuelta.",
       "objetividad": 93,
       "criterios": [
         {
@@ -111,23 +207,51 @@
     },
     {
       "filter": "general",
-      "fuente": "El Tiempo / El Espectador / El Colombiano",
+      "fuente": "Noticias Caracol",
+      "fuente_color": "#e74c3c",
+      "fecha": "21 may 2026",
+      "tag": "Encuesta · Invamer · Colombia Opina",
+      "tag_color": "#e74c3c",
+      "tag_bg": "rgba(231,76,60,0.15)",
+      "titulo": "Encuesta Invamer Colombia Opina: Cepeda 44,6%; De la Espriella 31,6%; Valencia 14,0% — Cepeda amplía brecha en primera vuelta",
+      "resumen": "La encuesta Invamer Colombia Opina, publicada el 21 de mayo a 10 días de la primera vuelta, muestra a Iván Cepeda con 44,6% de intención de voto, seguido por Abelardo de la Espriella con 31,6% y Paloma Valencia con 14,0%. Los datos de Invamer presentan la mayor brecha entre Cepeda y sus contrincantes de cualquier sondeo reciente, y ubican al candidato de las derechas (De la Espriella) firmemente en segundo lugar. La encuesta contrasta con Génesis Crea y Tempo, que ubican a Valencia segunda.",
+      "objetividad": 91,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Publicada por Noticias Caracol el 21 may con cifras exactas"
+        },
+        {
+          "ok": true,
+          "texto": "Invamer es una de las encuestadoras más reconocidas del país"
+        },
+        {
+          "ok": true,
+          "texto": "Contexto de divergencia con otras encuestadoras señalado"
+        },
+        {
+          "ok": false,
+          "texto": "Fecha de campo y tamaño de muestra no disponibles en resúmenes consultados"
+        }
+      ],
+      "url": "https://www.noticiascaracol.com/politica/elecciones-colombia/ivan-cepeda-44-6-abelardo-de-la-espriella-31-6-paloma-valencia-14-0-encuesta-invamer-rg10",
+      "url_label": "Noticias Caracol – Encuesta Invamer: Cepeda 44,6%, De la Espriella 31,6%, Valencia 14,0%"
+    },
+    {
+      "filter": "general",
+      "fuente": "El Tiempo / Guarumo / Ecoanalítica",
       "fuente_color": "#7f8c8d",
       "fecha": "21 may 2026",
       "tag": "Encuesta · Guarumo · Ecoanalítica",
       "tag_color": "#9b59b6",
       "tag_bg": "rgba(155,89,182,0.15)",
-      "titulo": "Encuesta Guarumo: Cepeda 37,1%, De la Espriella 27,5%, Valencia 21,7% — por primera vez Abelardo aparece segundo en Guarumo",
-      "resumen": "La encuesta Guarumo/Ecoanalítica (campo 11-19 may, n=3.787, 85 municipios) confirma a Cepeda como líder con 37,1%, pero marca un hito: por primera vez De la Espriella aparece en segundo lugar con 27,5%, superando a Valencia (21,7%). En segunda vuelta, De la Espriella ganaría a Cepeda 43,6%-40% y Valencia ganaría a Cepeda 44,8%-39,9%. Fajardo cae a 3,2%. La encuesta refuerza la narrativa de que Cepeda ganaría primera vuelta pero perdería el balotaje. La divergencia con la encuesta Tempo (Valencia segunda con 27,1%) mantiene viva la incertidumbre sobre quién accede al balotaje.",
+      "titulo": "Encuesta Guarumo (campo 11-19 may): Cepeda 37,1%, De la Espriella 27,5%, Valencia 21,7% — hito: primera vez Abelardo segundo en Guarumo",
+      "resumen": "La encuesta Guarumo/Ecoanalítica (campo 11-19 may, n=3.787, 85 municipios) confirma a Cepeda líder con 37,1%, pero marca hito: De la Espriella aparece por primera vez en segundo lugar con 27,5%, superando a Valencia (21,7%). En segunda vuelta, De la Espriella ganaría a Cepeda 43,6%-40% y Valencia ganaría a Cepeda 44,8%-39,9%. La encuesta confirma el 'techo electoral' de Cepeda: lidera primera vuelta pero perdería el balotaje.",
       "objetividad": 92,
       "criterios": [
         {
           "ok": true,
-          "texto": "Publicada por El Tiempo, El Espectador, El Colombiano y Bloomberg Línea (21 may)"
-        },
-        {
-          "ok": true,
-          "texto": "Metodología especificada: n=3.787, 85 municipios, presencial, campo 11-19 may"
+          "texto": "Publicada por El Tiempo con metodología detallada (n=3.787, 85 municipios)"
         },
         {
           "ok": true,
@@ -139,155 +263,11 @@
         },
         {
           "ok": false,
-          "texto": "Divergencia con encuesta Tempo: De la Espriella tercero con 23,9%"
+          "texto": "Divergencia con Tempo: Valencia segunda con 27,1%"
         }
       ],
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/encuesta-guarumo-y-ecoanalitica-cepeda-37-1-de-la-espriella-27-5-y-paloma-valencia-21-7-en-segunda-abelardo-aparece-por-encima-de-cepeda-3557410",
       "url_label": "El Tiempo – Encuesta Guarumo: Cepeda 37,1%, De la Espriella 27,5%, Valencia 21,7%"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "El Colombiano / Bloomberg Línea",
-      "fuente_color": "#27ae60",
-      "fecha": "21 may 2026",
-      "tag": "Cepeda · Segunda Vuelta · Guarumo",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Guarumo: Cepeda lidera en primera vuelta pero pierde segunda vuelta contra De la Espriella (43,6%-40%) y Valencia (44,8%-39,9%)",
-      "resumen": "La encuesta Guarumo/Ecoanalítica confirma el patrón que ya señalaban otros sondeos: Iván Cepeda ganaría la primera vuelta con 37,1%, pero perdería el balotaje contra ambos rivales principales. Frente a De la Espriella: 40%-43,6% (derrota por 3,6 puntos). Frente a Valencia: 39,9%-44,8% (derrota por 4,9 puntos). El análisis político señala que el 'techo electoral' de Cepeda impide que amplíe su caudal para la segunda vuelta. La campaña del Pacto Histórico enfrenta el desafío de los próximos 9 días para revertir esa tendencia.",
-      "objetividad": 91,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Cifras exactas de segunda vuelta publicadas por múltiples medios"
-        },
-        {
-          "ok": true,
-          "texto": "Patrón confirmado por encuestas previas (Maldonado, Génesis Crea, AtlasIntel)"
-        },
-        {
-          "ok": true,
-          "texto": "Cobertura: El Colombiano, Bloomberg Línea, El Tiempo"
-        },
-        {
-          "ok": true,
-          "texto": "Relevancia directa: define el escenario electoral de las últimas semanas"
-        },
-        {
-          "ok": false,
-          "texto": "Otras encuestadoras aún muestran escenarios distintos para segunda vuelta"
-        }
-      ],
-      "url": "https://www.elcolombiano.com/colombia/encuesta-guarumo-mayo-2026-cepeda-lidera-GM36810017",
-      "url_label": "El Colombiano – Guarumo: Cepeda pierde segunda vuelta ante De la Espriella y Valencia"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "El Tiempo / Vanguardia",
-      "fuente_color": "#3498db",
-      "fecha": "21 may 2026",
-      "tag": "Valencia · Vandalismo · Bogotá",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "Sede de campaña de Paloma Valencia vandalizada en Bogotá durante protestas: piedras, pintura y destrozos",
-      "resumen": "Un grupo de encapuchados se desprendió de una marcha en Bogotá y atacó la sede de campaña compartida por Paloma Valencia y Juan Daniel Oviedo en el barrio Chapinero con piedras, palos y pintura, causando destrozos en la fachada y material de campaña. El ministro del Interior Armando Benedetti calificó el acto como 'deplorable'. La campaña de Valencia presentó la denuncia ante autoridades. El ataque se produjo en la semana más turbulenta para la candidata —con la demanda de revocatoria ante el CNE y la controversia del evento en Cúcuta— a 10 días de la primera vuelta.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Ataque documentado con fotos (Vanguardia, 21 may)"
-        },
-        {
-          "ok": true,
-          "texto": "Benedetti se pronunció públicamente (El Tiempo, 21 may)"
-        },
-        {
-          "ok": true,
-          "texto": "Cobertura convergente: El Tiempo, Vanguardia, La Patria, El Universal"
-        },
-        {
-          "ok": true,
-          "texto": "Contexto de semana turbulenta claramente señalado"
-        },
-        {
-          "ok": false,
-          "texto": "Autores del vandalismo no identificados por autoridades al cierre"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sede-de-campana-de-paloma-valencia-y-juan-daniel-oviedo-fue-vandalizada-durante-protestas-en-bogota-3557393",
-      "url_label": "El Tiempo – Sede de Valencia vandalizada durante protestas en Bogotá"
-    },
-    {
-      "filter": "general",
-      "fuente": "Pulzo / Infobae",
-      "fuente_color": "#7f8c8d",
-      "fecha": "21 may 2026",
-      "tag": "Encuesta · Tempo · Primera Vuelta",
-      "tag_color": "#9b59b6",
-      "tag_bg": "rgba(155,89,182,0.15)",
-      "titulo": "Encuesta Tempo: Cepeda 38,2%, Valencia segunda con 27,1%, De la Espriella 23,9% — divergencia clave con Guarumo",
-      "resumen": "La encuesta Tempo Consultoría Empresarial (campo 15-17 may, ±2,3%) ubica a Cepeda primero con 38,2%, pero devuelve a Valencia al segundo lugar con 27,1% —superando a De la Espriella (23,9%)— en resultado opuesto a Guarumo, que lo ponía segundo con 27,5%. La divergencia entre encuestadoras sobre quién accede al balotaje es el dato central de la recta final: Tempo y Maldonado (Cepeda-Valencia al balotaje) vs Guarumo y AtlasIntel (Cepeda-De la Espriella). La última fecha legal para publicar encuestas es el 24 de mayo.",
-      "objetividad": 89,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Encuesta publicada por Pulzo (21 may) con metodología detallada"
-        },
-        {
-          "ok": true,
-          "texto": "Campo y margen especificados: 15-17 may, ±2,3%, cara a cara presencial"
-        },
-        {
-          "ok": true,
-          "texto": "Divergencia con Guarumo claramente señalada"
-        },
-        {
-          "ok": true,
-          "texto": "Alta relevancia: define narrativa de quién va al balotaje"
-        },
-        {
-          "ok": false,
-          "texto": "Tamaño de muestra exacto no disponible en resúmenes consultados"
-        }
-      ],
-      "url": "https://www.pulzo.com/elecciones-colombia-2026/nueva-encuesta-presidencial-colombia-mayo-2026-tempo-PP5188181",
-      "url_label": "Pulzo – Encuesta Tempo: Cepeda 38,2%, Valencia 27,1%, De la Espriella 23,9%"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "El Tiempo / Guarumo / Ecoanalítica",
-      "fuente_color": "#27ae60",
-      "fecha": "21 may 2026",
-      "tag": "Guarumo · Voto Castigo · Los tres líderes",
-      "tag_color": "#7f8c8d",
-      "tag_bg": "rgba(127,140,141,0.15)",
-      "titulo": "Guarumo: Cepeda, De la Espriella y Valencia lideran la lista de candidatos por quienes los colombianos NUNCA votarían",
-      "resumen": "La encuesta Guarumo/Ecoanalítica también preguntó por el 'voto castigo': ¿por cuál candidato no votaría usted jamás? Los tres candidatos líderes encabezaron también esa lista negativa. Iván Cepeda lidera el rechazo, seguido por Abelardo de la Espriella y Paloma Valencia. El hallazgo revela la alta polarización del electorado colombiano: los candidatos con más intención de voto positivo son también los que generan mayor rechazo. Este dato explica en parte por qué Cepeda, pese a liderar en primera vuelta, perdería frente a sus rivales en el balotaje.",
-      "objetividad": 87,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Publicado por El Tiempo con datos de la encuesta Guarumo/Ecoanalítica (21 may)"
-        },
-        {
-          "ok": true,
-          "texto": "Dato relevante: explica el fenómeno del 'techo' de Cepeda en segunda vuelta"
-        },
-        {
-          "ok": true,
-          "texto": "Contexto de alta polarización electoral claramente expuesto"
-        },
-        {
-          "ok": false,
-          "texto": "Porcentajes exactos del voto castigo por candidato no disponibles en resúmenes"
-        },
-        {
-          "ok": false,
-          "texto": "Orden exacto del ranking de rechazo por confirmar"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-abelardo-de-la-espriella-y-paloma-valencia-encabezan-encuesta-de-por-quien-nunca-votarian-los-colombianos-segun-guarumo-y-ecoanalitica-3557398",
-      "url_label": "El Tiempo – Guarumo: los tres líderes encabezan también la lista de voto castigo"
     }
   ],
   "sentimiento": {
@@ -295,29 +275,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 41,
-        "negativo": 42,
-        "neutro": 17,
+        "positivo": 44,
+        "negativo": 40,
+        "neutro": 16,
         "tendencia": "up",
-        "tendencia_texto": "22 may: semana histórica para su candidatura. CNE negó revocatoria el 21 may por unanimidad — candidatura blindada. Encuesta Guarumo (pub. 21 may) lo lleva por primera vez al segundo lugar con 27,5%, superando a Valencia. Sin embargo, Encuesta Tempo (21 may) lo pone tercero con 23,9%. Polymarket sigue por encima del 40%. Vandalismo a sede de Valencia genera narrativa de 'violencia política' que no lo beneficia directamente. Cierre de campaña Barranquilla y Medellín pendientes. A 9 días del 31 mayo, es el candidato con mayor momentum ascendente."
+        "tendencia_texto": "23 may: momentum ascendente confirmado. Gira de cierre en Malecón del Río (Barranquilla). CNE blindó candidatura el 21 may. Invamer lo ubica segundo con 31,6%; Guarumo primera vez segundo con 27,5%. Infobae señala 'De la Espriella avanza'. A 8 días del 31 mayo, es el candidato con mayor impulso en la recta final. Segunda vuelta Guarumo: ganaría a Cepeda 43,6%-40%."
       },
       {
         "nombre": "Valencia",
         "color": "#3498db",
-        "positivo": 20,
-        "negativo": 65,
-        "neutro": 15,
+        "positivo": 21,
+        "negativo": 62,
+        "neutro": 17,
         "tendencia": "down",
-        "tendencia_texto": "22 may: la peor semana de su campaña. Sede vandalizada en Bogotá el 21 may. Hoy acusa a María José Pizarro (Cepeda) de instigar el ataque — Galán responsabiliza a Petro. Demanda de revocatoria ante el CNE (19 may, exfundador CD) aún sin resolución. Guarumo la pone tercera con 21,7% — primera vez que De la Espriella la supera en esa encuestadora. Tempo la devuelve al segundo con 27,1%. MIRA suma apoyo (19 may). Segunda vuelta Guarumo: ganaría a Cepeda 44,8%-39,9%. A 9 días del 31 mayo, la demanda en el CNE y la narrativa de violencia son sus mayores amenazas."
+        "tendencia_texto": "23 may: semana de alta turbulencia. Gira en Rionegro (Antioquia) con posible Uribe. Invamer la baja a 14% (tercera); Génesis Crea (22 may) la sube a 27,9% (segunda). Demanda de revocatoria ante el CNE (19 may) sin resolución. Sede vandalizada 21 may; acusó a Pizarro el 22 may; Galán acusó a Petro. Narrativa en medios dominada por violencia política y crisis legal."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 43,
-        "negativo": 37,
-        "neutro": 20,
+        "positivo": 41,
+        "negativo": 38,
+        "neutro": 21,
         "tendencia": "stable",
-        "tendencia_texto": "22 may: lidera todas las encuestas en primera vuelta — Guarumo 37,1%, Tempo 38,2%, Invamer 44,3%. Pero pierde segunda vuelta en todos los escenarios: Guarumo da a De la Espriella 43,6%-40% y a Valencia 44,8%-39,9%. Su campaña involucrada indirectamente en la narrativa del vandalismo a la sede de Valencia — Pizarro (jefa de debate) negó instigación. Encuesta 'voto castigo' de Guarumo lo pone primero en rechazo. Cierre Plaza de Bolívar (22 may). La clave de los próximos 9 días: ampliar caudal hacia el balotaje."
+        "tendencia_texto": "23 may: lidera todas las encuestas — Invamer 44,6%, Guarumo 37,1%, Génesis Crea 34,3%. Gira de cierre en La Boquilla (Cartagena). Infobae señala que 'se estanca'. Pierde segunda vuelta en todos los escenarios. Campaña involucrada en narrativa del vandalismo vía jefa de debate Pizarro. A 8 días del 31 mayo: reto de ampliar caudal para el balotaje."
       },
       {
         "nombre": "Fajardo",
@@ -340,27 +320,27 @@
     ]
   },
   "encuestas": {
-    "cepeda": 37.1,
-    "valencia": 21.7,
-    "espriella": 27.5,
-    "fuente": "Guarumo/Ecoanalítica para El Tiempo, campo 11-19 may 2026 (n=3.787, 85 municipios)"
+    "cepeda": 44.6,
+    "valencia": 14.0,
+    "espriella": 31.6,
+    "fuente": "Invamer Colombia Opina para Noticias Caracol, publicada 21 may 2026"
   },
   "prediccion": {
     "primero": {
       "nombre": "Iván Cepeda",
       "partido": "Pacto Histórico",
       "color": "#27ae60",
-      "pct": 37.1,
-      "fuente_encuesta": "Guarumo/Ecoanalítica para El Tiempo (campo 11-19 may 2026)"
+      "pct": 44.6,
+      "fuente_encuesta": "Invamer Colombia Opina para Noticias Caracol (pub. 21 may 2026)"
     },
     "segundo": {
       "nombre": "Abelardo de la Espriella",
       "partido": "Defensores de la Patria",
       "color": "#e67e22",
-      "pct": 27.5,
-      "fuente_encuesta": "Guarumo/Ecoanalítica para El Tiempo (campo 11-19 may 2026)"
+      "pct": 31.6,
+      "fuente_encuesta": "Invamer Colombia Opina para Noticias Caracol (pub. 21 may 2026)"
     },
-    "resumen_analisis": "Actualización 22 may 2026 — A 9 días del 31 de mayo. HOY: Valencia acusa a Pizarro de instigar vandalismo; Galán acusa a Petro. ENCUESTA GUARUMO/ECOANALÍTICA (campo 11-19 may, n=3.787, pub. 21 may): Cepeda 37,1%, De la Espriella 27,5% (1ª vez 2º en Guarumo), Valencia 21,7%. Segunda vuelta: De la Espriella gana a Cepeda 43,6%-40%; Valencia gana a Cepeda 44,8%-39,9%. ENCUESTA TEMPO (campo 15-17 may, ±2,3%, pub. 21 may): Cepeda 38,2%, Valencia 27,1%, De la Espriella 23,9%. DIVERGENCIA CRÍTICA: Guarumo y AtlasIntel apuntan a Cepeda-De la Espriella al balotaje; Tempo y Maldonado a Cepeda-Valencia. CNE NEGÓ revocatoria de De la Espriella el 21 may (firme). DEMANDA vs. Valencia ante el CNE (19 may, ex-fundador CD) sin resolución. VANDALISMO: sede de Valencia atacada en Chapinero el 21 may; el 22 may Valencia acusa a Pizarro y Galán acusa a Petro. VOTO CASTIGO (Guarumo): los 3 líderes también encabezan la lista de candidatos por quienes nunca votarían. Última fecha legal para encuestas: 24 de mayo. Primera vuelta: 31 de mayo de 2026."
+    "resumen_analisis": "Actualización 23 may 2026 — A 8 días del 31 de mayo. HOY: Gira de cierre: Cepeda en Cartagena, De la Espriella en Barranquilla, Valencia en Rionegro (posible Uribe). ANÁLISIS INFOBAE (22 may): 'Cepeda se estanca, De la Espriella avanza y Paloma se queda'. ENCUESTA INVAMER (pub. 21 may): Cepeda 44,6%, De la Espriella 31,6%, Valencia 14,0%. ENCUESTA GUARUMO (campo 11-19 may, n=3.787): Cepeda 37,1%, De la Espriella 27,5%, Valencia 21,7% — primera vez Abelardo segundo. ENCUESTA GÉNESIS CREA (campo 14-20 may): Cepeda 34,3%, Valencia 27,9%, De la Espriella 21,7%. DIVERGENCIA: Invamer y Guarumo ponen a De la Espriella segundo; Tempo y Génesis Crea a Valencia. CNE NEGÓ revocatoria De la Espriella (21 may). DEMANDA vs. Valencia CNE (19 may) sin resolución. VANDALISMO sede Valencia (21 may): acusó a Pizarro (22 may); Galán acusó a Petro. Última fecha legal para encuestas: 24 de mayo. Primera vuelta: 31 de mayo de 2026."
   },
-  "ultimo_deploy": "2026-05-22T10:00:00Z"
+  "ultimo_deploy": "2026-05-23T10:00:00Z"
 }
