@@ -1,25 +1,37 @@
 {
-  "fecha": "24 de mayo de 2026",
+  "fecha": "25 de mayo de 2026",
   "noticias": [
     {
       "filter": "general",
-      "fuente": "El Espectador",
-      "fuente_color": "#7f8c8d",
-      "fecha": "24 may 2026",
-      "tag": "Valencia · Fajardo · Sin Acuerdo",
-      "tag_color": "#3498db",
-      "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Valencia y Fajardo se toman el café en Barranquilla pero no logran alianza para la primera vuelta",
-      "resumen": "Los candidatos Paloma Valencia y Sergio Fajardo se reunieron a las 8 a.m. del 23 de mayo en el Hotel Prado de Barranquilla, en el encuentro conocido como '¿nos tomamos un café?'. Tras el desayuno, no hubo acuerdo de alianza. Fajardo ratificó que continúa firme en su candidatura independiente hasta la primera vuelta del 31 de mayo, en lo que ha dicho será su última campaña presidencial. Valencia lamentó la negativa y señaló que 'Colombia no puede caer al abismo'. La reunión, seguida en vivo por varios medios, cierra sin frutos el intento de unir el voto no-petronista en el último fin de semana de campaña.",
-      "objetividad": 90,
+      "fuente": "El Tiempo / El Espectador",
+      "fuente_color": "#c0392b",
+      "fecha": "25 may 2026",
+      "tag": "Electoral · Urnas · Exterior · 67 países",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "Arrancan las elecciones: abren urnas en 67 países para 1,4 millones de colombianos en el exterior",
+      "resumen": "Este lunes 25 de mayo la Registraduría Nacional abrió las urnas en 253 puestos de votación distribuidos en 67 países, habilitando a 1.414.661 colombianos residentes en el exterior para votar en la primera vuelta presidencial. Las mesas operarán de 8:00 a.m. a 4:00 p.m. hora local hasta el sábado 30 de mayo; el 31 de mayo (jornada principal en Colombia) se ampliarán a 2.181 mesas. El voto en el exterior marca el arranque oficial del proceso electoral que culmina el próximo domingo.",
+      "objetividad": 95,
       "criterios": [
-        {"ok": true, "texto": "Reunión verificada por El Tiempo, El Espectador, El Colombiano (23-24 may)"},
-        {"ok": true, "texto": "Cita de Valencia verificada por Vanguardia"},
-        {"ok": true, "texto": "Fajardo confirmó continuidad candidatura en múltiples medios"},
-        {"ok": false, "texto": "No se publicaron transcripciones completas del encuentro privado"}
+        {
+          "ok": true,
+          "texto": "Apertura confirmada por El Tiempo, El Espectador, Semana, El Colombiano (25 may)"
+        },
+        {
+          "ok": true,
+          "texto": "Cifra 1.414.661 habilitados verificada por Registraduría Nacional"
+        },
+        {
+          "ok": true,
+          "texto": "67 países, 253 puestos de votación y 1.489 mesas confirmados"
+        },
+        {
+          "ok": true,
+          "texto": "Horarios y fechas según fuente oficial de la Registraduría"
+        }
       ],
-      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/paloma-valencia-y-sergio-fajardo-no-logran-acuerdo-en-barranquilla-para-primera-vuelta-sigue-la-contienda-noticias-hoy/",
-      "url_label": "El Espectador – Valencia y Fajardo no logran acuerdo en Barranquilla"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/se-abriran-primeros-puestos-de-votacion-en-el-exterior-para-primera-vuelta-presidencial-desde-este-lunes-25-de-mayo-3558013",
+      "url_label": "El Tiempo – Abren urnas en el exterior desde el lunes 25 de mayo"
     },
     {
       "filter": "espriella",
@@ -33,10 +45,22 @@
       "resumen": "Abelardo de la Espriella cerró su campaña presidencial en dos eventos masivos: el viernes 23 en el Malecón del Río de Barranquilla (más de 50.000 asistentes) y el sábado 24 en la Plaza de Toros La Macarena de Medellín, donde las boletas se agotaron en tiempo récord (72,4% en las primeras 12 horas). El candidato prometió 'hacer pagar' a corruptos y criminales y reiteró su propuesta de reducción drástica del gasto público. Con Atlas Intel mostrando empate técnico (37,3% vs 38,7% de Cepeda), el cierre en La Macarena fue la última gran apuesta de la campaña antes del silencio electoral.",
       "objetividad": 91,
       "criterios": [
-        {"ok": true, "texto": "Cierre en Barranquilla confirmado por El Colombiano, Infobae (23 may)"},
-        {"ok": true, "texto": "Cierre en Medellín (La Macarena) confirmado por múltiples fuentes (24 may)"},
-        {"ok": true, "texto": "Dato de boletas (72,4%) verificable vía Minuto30 y Chicanoticias"},
-        {"ok": false, "texto": "Cifra exacta de asistentes en Medellín no disponible al cierre"}
+        {
+          "ok": true,
+          "texto": "Cierre en Barranquilla confirmado por El Colombiano, Infobae (23 may)"
+        },
+        {
+          "ok": true,
+          "texto": "Cierre en Medellín (La Macarena) confirmado por múltiples fuentes (24 may)"
+        },
+        {
+          "ok": true,
+          "texto": "Dato de boletas (72,4%) verificable vía Minuto30 y Chicanoticias"
+        },
+        {
+          "ok": false,
+          "texto": "Cifra exacta de asistentes en Medellín no disponible al cierre"
+        }
       ],
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-fueron-los-cierres-de-campana-de-los-candidatos-presidenciales-que-encabezan-encuestas-cartagena-barranquilla-y-envigado-las-ciudades-elegidas-3557960",
       "url_label": "El Tiempo – Así fueron los cierres de los candidatos que lideran encuestas"
@@ -53,10 +77,22 @@
       "resumen": "Iván Cepeda realizó el cierre de su campaña el viernes 22 de mayo en la Plaza de Bolívar de Bogotá, acompañado por el expresidente Ernesto Samper, la fórmula vicepresidencial Aida Quilcué, María José Pizarro, Ariel Ávila y Juan Fernando Cristo. Samper afirmó que Cepeda ganará en primera vuelta y lanzó la frase que dominó los titulares: 'No queremos al norte', en alusión a la postura soberanista del candidato. El evento combinó actuaciones culturales con discursos políticos. La campaña continuó en la Costa Caribe: el sábado en Cartagena y el domingo en Barranquilla.",
       "objetividad": 89,
       "criterios": [
-        {"ok": true, "texto": "Evento verificado por Semana, Publimetro, Reporteros Asociados (22 may)"},
-        {"ok": true, "texto": "Frase de Samper citada con comillas y verificada por Semana"},
-        {"ok": true, "texto": "Lista de acompañantes confirmada por múltiples fuentes"},
-        {"ok": false, "texto": "Cifra de asistencia no disponible en los resúmenes consultados"}
+        {
+          "ok": true,
+          "texto": "Evento verificado por Semana, Publimetro, Reporteros Asociados (22 may)"
+        },
+        {
+          "ok": true,
+          "texto": "Frase de Samper citada con comillas y verificada por Semana"
+        },
+        {
+          "ok": true,
+          "texto": "Lista de acompañantes confirmada por múltiples fuentes"
+        },
+        {
+          "ok": false,
+          "texto": "Cifra de asistencia no disponible en los resúmenes consultados"
+        }
       ],
       "url": "https://www.semana.com/politica/articulo/no-queremos-al-norte-ernesto-samper-dio-una-declaracion-en-el-cierre-de-campana-de-ivan-cepeda/202602/",
       "url_label": "Semana – Samper en cierre de Cepeda: \"No queremos al norte\""
@@ -73,52 +109,89 @@
       "resumen": "La encuesta Atlas Intel para Revista Semana (campo 18-21 mayo, n=online, margen ±1%) es la última publicada antes del cierre legal del 24 de mayo. Sus cifras son las más sorprendentes del ciclo: empate técnico entre Iván Cepeda (38,7%) y Abelardo de la Espriella (37,3%), con Paloma Valencia tercera con 14,3% y Sergio Fajardo cuarto con 3,8%. En segunda vuelta, De la Espriella ganaría a Cepeda 50,0% vs 41,3% (+8,7 puntos). El hallazgo sacude el panorama a 7 días del 31 de mayo y pone en duda quién pasará al balotaje.",
       "objetividad": 92,
       "criterios": [
-        {"ok": true, "texto": "Publicada por Semana y verificada por El Colombiano, La Silla Vacía, HSB Noticias (22 may)"},
-        {"ok": true, "texto": "Campo 18-21 mayo confirmado (previa al cierre legal del 24 may)"},
-        {"ok": true, "texto": "Margen de error ±1% incluido en la metodología"},
-        {"ok": true, "texto": "Datos de segunda vuelta citados con cifras exactas"}
+        {
+          "ok": true,
+          "texto": "Publicada por Semana y verificada por El Colombiano, La Silla Vacía, HSB Noticias (22 may)"
+        },
+        {
+          "ok": true,
+          "texto": "Campo 18-21 mayo confirmado (previa al cierre legal del 24 may)"
+        },
+        {
+          "ok": true,
+          "texto": "Margen de error ±1% incluido en la metodología"
+        },
+        {
+          "ok": true,
+          "texto": "Datos de segunda vuelta citados con cifras exactas"
+        }
       ],
       "url": "https://www.semana.com/politica/articulo/la-encuesta-de-atlasintel-que-querian-callar-abelardo-de-la-espriella-esta-practicamente-empatado-con-ivan-cepeda-y-le-ganaria-en-segunda-vuelta-por-mas-de-ocho-puntos/202600/",
       "url_label": "Semana – Atlas Intel: empate técnico Cepeda 38,7% / De la Espriella 37,3%"
     },
     {
       "filter": "valencia",
-      "fuente": "Vanguardia",
+      "fuente": "El Tiempo / Semana",
       "fuente_color": "#3498db",
-      "fecha": "23 may 2026",
-      "tag": "Valencia · Fajardo · Recta Final",
+      "fecha": "24 may 2026",
+      "tag": "Valencia · Cierre · Movistar Arena · Bogotá",
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "\"Colombia no puede caer al abismo\": Valencia tras negativa de Fajardo a aliarse",
-      "resumen": "Paloma Valencia respondió con dureza a la negativa de Sergio Fajardo de sumarse a su campaña antes de la primera vuelta: 'Colombia no puede caer al abismo', declaró la candidata del Centro Democrático. La frase resume la estrategia de Valencia para la recta final: posicionarse como la única alternativa viable de derecha para llegar al balotaje y derrotar al Pacto Histórico. La candidata llega al último fin de semana sin acuerdo con Fajardo y con una demanda de revocatoria ante el CNE todavía sin resolver. Su Atlas Intel: 14,3%.",
-      "objetividad": 87,
+      "titulo": "Valencia desbordó el Movistar Arena: \"Los voy a cazar como ratas\" — cierre con Gaviria, Betancourt y Marta Lucía",
+      "resumen": "Paloma Valencia cerró su campaña presidencial el domingo 24 de mayo en el Movistar Arena de Bogotá con la asistencia de figuras clave: expresidente César Gaviria, exvicepresidenta Marta Lucía Ramírez, excandidata Ingrid Betancourt, exalcalde Enrique Peñalosa y gobernador de Antioquia Andrés Julián Rendón. Valencia prometió reactivar órdenes de captura contra cabecillas de la paz total ('Los voy a cazar como ratas') y advirtió sobre el riesgo de un 'régimen neocomunista'. Frase central: 'Estamos hechos no para ganar encuestas, sino para ganar elecciones'. El evento fue el mayor de su campaña.",
+      "objetividad": 88,
       "criterios": [
-        {"ok": true, "texto": "Cita textual verificada por Vanguardia (23 may)"},
-        {"ok": true, "texto": "Contexto político y demanda CNE verificados por Infobae (19 may)"},
-        {"ok": false, "texto": "Resolución de la demanda ante CNE no disponible al cierre"}
+        {
+          "ok": true,
+          "texto": "Evento verificado por El Tiempo, Semana, BluRadio, El País (24 may)"
+        },
+        {
+          "ok": true,
+          "texto": "Lista de asistentes confirmada por Semana y El País"
+        },
+        {
+          "ok": true,
+          "texto": "Citas textuales verificadas por múltiples fuentes"
+        },
+        {
+          "ok": false,
+          "texto": "Cifra exacta de asistentes no disponible en fuentes consultadas"
+        }
       ],
-      "url": "https://www.vanguardia.com/politica/elecciones/2026/05/23/colombia-no-puede-caer-al-abismo-paloma-valencia-tras-negativa-de-fajardo/",
-      "url_label": "Vanguardia – \"Colombia no puede caer al abismo\": Valencia tras negativa de Fajardo"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-cerro-su-campana-en-el-movistar-arena-de-bogota-no-estamos-hechos-no-para-ganar-encuestas-sino-para-ganar-elecciones-3558028",
+      "url_label": "El Tiempo – Valencia cerró campaña en el Movistar Arena de Bogotá"
     },
     {
       "filter": "general",
-      "fuente": "Infobae Colombia",
+      "fuente": "El Tiempo / El Espectador",
       "fuente_color": "#9b59b6",
-      "fecha": "22 may 2026",
-      "tag": "Encuesta · Génesis Crea · Primera y Segunda Vuelta",
+      "fecha": "21 may 2026",
+      "tag": "Encuesta · Guarumo-Ecoanalítica · Primera y Segunda Vuelta",
       "tag_color": "#9b59b6",
       "tag_bg": "rgba(155,89,182,0.15)",
-      "titulo": "Génesis Crea (campo 14-20 may): Cepeda 34,3%, Valencia 27,9%, De la Espriella 21,7% — Valencia segunda y ganaría balotaje",
-      "resumen": "La Fundación Génesis Crea publicó el 22 de mayo una encuesta (campo 14-20 may) que ubica a Iván Cepeda primero con 34,3%, Paloma Valencia segunda con 27,9% y Abelardo de la Espriella tercero con 21,7%. En segunda vuelta, Valencia ganaría al Pacto Histórico. La encuesta diverge de Atlas Intel y Guarumo (que ponen a De la Espriella segundo) y contrasta con Invamer (Valencia 14%). La dispersión entre sondeos —inédita en magnitud— mantiene abierta la incertidumbre sobre quién accede al balotaje.",
-      "objetividad": 88,
+      "titulo": "Guarumo-Ecoanalítica (campo 11-19 may): Cepeda 37,1%, De la Espriella 27,5%, Valencia 21,7% — De la Espriella ganaría balotaje",
+      "resumen": "La encuesta Guarumo-Ecoanalítica (campo 11-19 mayo, n=3.787, presencial, 85 municipios) muestra: Iván Cepeda 37,1%, Abelardo de la Espriella 27,5%, Paloma Valencia 21,7%, Sergio Fajardo 3,2%. En segunda vuelta, De la Espriella derrotaría a Cepeda 43,6% vs 40,0%; Valencia también le ganaría 44,8% vs 39,9%. Fajardo 3,2%, Santiago Botero 1,6%, Claudia López 1,5%. La firma confirma el patrón: Cepeda lidera primera vuelta pero perdería el balotaje.",
+      "objetividad": 91,
       "criterios": [
-        {"ok": true, "texto": "Publicada por Infobae Colombia el 22 may con campo 14-20 may"},
-        {"ok": true, "texto": "Porcentajes exactos citados"},
-        {"ok": true, "texto": "Divergencia con otras encuestadoras correctamente señalada"},
-        {"ok": false, "texto": "Tamaño de muestra exacto no disponible en resúmenes consultados"}
+        {
+          "ok": true,
+          "texto": "Publicada por El Tiempo y El Espectador con campo 11-19 may"
+        },
+        {
+          "ok": true,
+          "texto": "Muestra de 3.787 ciudadanos en 85 municipios confirmada"
+        },
+        {
+          "ok": true,
+          "texto": "Porcentajes exactos primera y segunda vuelta citados"
+        },
+        {
+          "ok": true,
+          "texto": "Guarumo-Ecoanalítica es una de las firmas más reconocidas del país"
+        }
       ],
-      "url": "https://www.infobae.com/colombia/2026/05/22/estos-son-los-escenarios-de-primera-y-segunda-vuelta-presidencial-que-plantea-la-encuesta-de-fundacion-genesis-crea-para-2026/",
-      "url_label": "Infobae – Génesis Crea: Cepeda 34,3%, Valencia 27,9%, De la Espriella 21,7%"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/encuesta-guarumo-y-ecoanalitica-cepeda-37-1-de-la-espriella-27-5-y-paloma-valencia-21-7-en-segunda-abelardo-aparece-por-encima-de-cepeda-3557410",
+      "url_label": "El Tiempo – Guarumo: Cepeda 37,1%, De la Espriella 27,5%, Valencia 21,7%"
     },
     {
       "filter": "general",
@@ -132,10 +205,22 @@
       "resumen": "La encuesta Invamer Colombia Opina (publicada 21 mayo) muestra a Iván Cepeda con 44,6%, seguido de Abelardo de la Espriella con 31,6% y Paloma Valencia con 14,0%. Con la mayor brecha entre candidatos de cualquier sondeo reciente, Invamer contrasta fuertemente con Atlas Intel (empate técnico) y Génesis Crea (Valencia segunda). La divergencia entre encuestadoras —inédita en magnitud— refleja la enorme incertidumbre del escenario electoral a pocos días del 31 de mayo.",
       "objetividad": 91,
       "criterios": [
-        {"ok": true, "texto": "Publicada por Noticias Caracol el 21 may con cifras exactas"},
-        {"ok": true, "texto": "Invamer es una de las encuestadoras más reconocidas del país"},
-        {"ok": true, "texto": "Divergencia con Atlas Intel y Génesis Crea correctamente señalada"},
-        {"ok": false, "texto": "Fecha de campo y tamaño de muestra no disponibles en resúmenes consultados"}
+        {
+          "ok": true,
+          "texto": "Publicada por Noticias Caracol el 21 may con cifras exactas"
+        },
+        {
+          "ok": true,
+          "texto": "Invamer es una de las encuestadoras más reconocidas del país"
+        },
+        {
+          "ok": true,
+          "texto": "Divergencia con Atlas Intel y Génesis Crea correctamente señalada"
+        },
+        {
+          "ok": false,
+          "texto": "Fecha de campo y tamaño de muestra no disponibles en resúmenes consultados"
+        }
       ],
       "url": "https://www.noticiascaracol.com/politica/elecciones-colombia/ivan-cepeda-44-6-abelardo-de-la-espriella-31-6-paloma-valencia-14-0-encuesta-invamer-rg10",
       "url_label": "Noticias Caracol – Invamer: Cepeda 44,6%, De la Espriella 31,6%, Valencia 14,0%"
@@ -152,10 +237,22 @@
       "resumen": "La Sala Plena del Consejo Nacional Electoral (CNE) negó por unanimidad la solicitud de revocatoria de la inscripción de Abelardo de la Espriella el 21 de mayo, concluyendo que el peticionario 'no aportó material probatorio que sustentara sus afirmaciones'. El proceso fue iniciado por presuntas irregularidades en la validación de firmas del movimiento Defensores de la Patria. De la Espriella celebró: 'Estamos firmes'. La decisión cierra el principal riesgo legal de su candidatura y despeja el camino hacia el 31 de mayo.",
       "objetividad": 93,
       "criterios": [
-        {"ok": true, "texto": "Decisión del CNE confirmada por múltiples medios el 21 may"},
-        {"ok": true, "texto": "Resolución adoptada por unanimidad en audiencia pública"},
-        {"ok": true, "texto": "Razón oficial citada: falta de material probatorio"},
-        {"ok": true, "texto": "Reacción del candidato verificada"}
+        {
+          "ok": true,
+          "texto": "Decisión del CNE confirmada por múltiples medios el 21 may"
+        },
+        {
+          "ok": true,
+          "texto": "Resolución adoptada por unanimidad en audiencia pública"
+        },
+        {
+          "ok": true,
+          "texto": "Razón oficial citada: falta de material probatorio"
+        },
+        {
+          "ok": true,
+          "texto": "Reacción del candidato verificada"
+        }
       ],
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sala-plena-del-cne-cerro-investigacion-que-pedi-anular-la-candidatura-de-abelardo-de-la-espriella-aspiracion-quedo-en-firme-3557335",
       "url_label": "El Tiempo – CNE: candidatura De la Espriella queda en firme"
@@ -170,16 +267,16 @@
         "negativo": 36,
         "neutro": 16,
         "tendencia": "up",
-        "tendencia_texto": "24 may: máximo momentum de la campaña. Cierre masivo Barranquilla (>50.000) y La Macarena agotada. Atlas Intel (Semana, campo 18-21 may): 37,3% — empate técnico con Cepeda (38,7%). Ganaría balotaje contra Cepeda 50% vs 41,3% (+8,7 pts). CNE blindó candidatura el 21 may. Es el candidato con mayor impulso en el cierre. HOY: último día legal de encuestas."
+        "tendencia_texto": "25 may: SILENCIO ESTADÍSTICO. Semana final antes del 31 de mayo. Doble cierre masivo: Barranquilla (>50.000, 23 may) + La Macarena Medellín agotada (24 may). Atlas Intel (Semana): 37,3% — empate técnico con Cepeda (38,7%). Ganaría balotaje vs Cepeda 50% vs 41,3%. Guarumo: 27,5% (segundo). Invamer: 31,6%. CNE blindó candidatura (21 may). Candidato con mayor impulso en recta final."
       },
       {
         "nombre": "Valencia",
         "color": "#3498db",
-        "positivo": 20,
-        "negativo": 60,
+        "positivo": 28,
+        "negativo": 52,
         "neutro": 20,
-        "tendencia": "down",
-        "tendencia_texto": "24 may: semana turbulenta. Reunión-café con Fajardo en Barranquilla (23 may) terminó sin acuerdo. 'Colombia no puede caer al abismo' (Vanguardia, 23 may). Demanda de revocatoria ante CNE (19 may) sin resolución. Atlas Intel: 14,3% (tercera). Génesis Crea: 27,9% (segunda). Sede vandalizada el 21 may. Narrativa dominada por crisis y alianzas fallidas."
+        "tendencia": "stable",
+        "tendencia_texto": "25 may: cierre Movistar Arena Bogotá (24 may) con Gaviria, Betancourt y Marta Lucía. Frases explosivas: 'Los voy a cazar como ratas', 'régimen neocomunista'. El mayor evento de su campaña. Atlas Intel: 14,3% (tercera). Guarumo: 21,7%. Invamer: 14,0%. Artículo 'La debacle de Paloma Valencia' (Cambio). Reunión fallida con Fajardo (23 may). Ganaría balotaje si llega, pero el acceso sigue siendo incierto."
       },
       {
         "nombre": "Cepeda",
@@ -188,7 +285,7 @@
         "negativo": 36,
         "neutro": 22,
         "tendencia": "stable",
-        "tendencia_texto": "24 may: lidera todas las encuestas pero con empate técnico. Cierre Plaza de Bolívar (22 may) con Samper ('No queremos al norte'). Atlas Intel: 38,7% — empate con De la Espriella. Invamer: 44,6%. Génesis Crea: 34,3%. Perdería balotaje en todos los escenarios (Atlas Intel: 41,3% vs 50% Abelardo). Campaña vinculada a narrativa del vandalismo vía Pizarro."
+        "tendencia_texto": "25 may: lidera todas las encuestas pero con empate técnico Atlas Intel. Cierre Plaza de Bolívar (22 may) con Samper ('No queremos al norte'). Atlas Intel: 38,7% — empate técnico con De la Espriella. Invamer: 44,6%. Guarumo: 37,1%. Perdería balotaje en todos los escenarios (Atlas Intel: 41,3% vs 50% Abelardo; Guarumo: 40% vs 43,6%)."
       },
       {
         "nombre": "Fajardo",
@@ -197,7 +294,7 @@
         "negativo": 20,
         "neutro": 28,
         "tendencia": "stable",
-        "tendencia_texto": "Rechazó alianza con Valencia en Barranquilla (23 may). Ratificó candidatura independiente hasta primera vuelta. 'Serán mis últimas elecciones'. Atlas Intel: 3,8%. Sentimiento positivo pero bajo volumen de menciones nacionales."
+        "tendencia_texto": "Rechazó alianza con Valencia en Barranquilla (23 may). Ratificó candidatura independiente hasta primera vuelta. 'Serán mis últimas elecciones'. Atlas Intel: 3,8%. Guarumo: 3,2%. Sentimiento positivo pero bajo volumen de menciones nacionales."
       },
       {
         "nombre": "C. López",
@@ -206,7 +303,7 @@
         "negativo": 30,
         "neutro": 24,
         "tendencia": "stable",
-        "tendencia_texto": "Retiró candidatura el 6 de abril y se sumó a la campaña de Iván Cepeda. Atlas Intel: 1,1%. Figura de respaldo activa para el Pacto Histórico."
+        "tendencia_texto": "Retiró candidatura el 6 de abril y se sumó a la campaña de Iván Cepeda. Atlas Intel: 1,1%. Guarumo: 1,5%. Figura de respaldo activa para el Pacto Histórico."
       }
     ]
   },
@@ -214,7 +311,7 @@
     "cepeda": 38.7,
     "valencia": 14.3,
     "espriella": 37.3,
-    "fuente": "AtlasIntel para Revista Semana, campo 18-21 may 2026 (última encuesta antes del cierre legal del 24 may)"
+    "fuente": "AtlasIntel para Revista Semana, campo 18-21 may 2026 (última encuesta antes del cierre legal del 24 may · hoy en silencio estadístico)"
   },
   "prediccion": {
     "primero": {
@@ -231,7 +328,7 @@
       "pct": 37.3,
       "fuente_encuesta": "AtlasIntel para Revista Semana (campo 18-21 may 2026)"
     },
-    "resumen_analisis": "Actualización 24 may 2026 — HOY: ÚLTIMO DÍA LEGAL DE ENCUESTAS. A 7 días del 31 de mayo. ENCUESTA MÁS RECIENTE — Atlas Intel para Semana (campo 18-21 may): EMPATE TÉCNICO Cepeda 38,7% / De la Espriella 37,3%. Valencia tercera con 14,3%. Fajardo 3,8%. SEGUNDA VUELTA Atlas Intel: De la Espriella ganaría a Cepeda 50,0% vs 41,3% (+8,7 pts). CIERRES DE CAMPAÑA: De la Espriella llenó Barranquilla (>50k) y agotó La Macarena en Medellín. Cepeda cerró en Plaza de Bolívar con Samper ('No queremos al norte'). VALENCIA-FAJARDO: reunión en Barranquilla sin acuerdo. Valencia: 'Colombia no puede caer al abismo'. CNE NEGÓ revocatoria De la Espriella (21 may). DEMANDA vs. Valencia ante CNE (19 may) sin resolución. COMPARATIVA encuestas: Invamer Cepeda 44,6% / Atlas Intel empate / Génesis Crea Valencia segunda — divergencia máxima entre casas encuestadoras. Primera vuelta: 31 de mayo de 2026."
+    "resumen_analisis": "Actualización 25 may 2026 — SILENCIO ESTADÍSTICO: no se publican nuevas encuestas. Quedan 6 días para el 31 de mayo. HOY: abren urnas en 67 países para 1.414.661 colombianos en el exterior. ÚLTIMA ENCUESTA publicada — Atlas Intel para Semana (campo 18-21 may): EMPATE TÉCNICO Cepeda 38,7% / De la Espriella 37,3%. Valencia tercera 14,3%. Fajardo 3,8%. GUARUMO (campo 11-19 may, n=3.787): Cepeda 37,1% / De la Espriella 27,5% / Valencia 21,7%. INVAMER (21 may): Cepeda 44,6% / De la Espriella 31,6% / Valencia 14,0%. SEGUNDA VUELTA según encuestas: De la Espriella y Valencia derrotarían a Cepeda en balotaje. CIERRES DE CAMPAÑA: De la Espriella (Barranquilla >50k + La Macarena agotada), Cepeda (Plaza de Bolívar + Samper 'No queremos al norte'), Valencia (Movistar Arena + Gaviria + Betancourt + 'Los voy a cazar como ratas'). CNE negó revocatoria De la Espriella (21 may). Primera vuelta: 31 de mayo de 2026."
   },
-  "ultimo_deploy": "2026-05-24T10:00:00Z"
+  "ultimo_deploy": "2026-05-25T08:00:00Z"
 }
