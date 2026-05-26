@@ -1,293 +1,173 @@
 {
-  "fecha": "25 de mayo de 2026",
+  "fecha": "26 de mayo de 2026",
   "noticias": [
     {
-      "filter": "espriella",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#e67e22",
-      "fecha": "11 may 2026",
-      "tag": "De la Espriella · Campaña",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella confirmó cierre de campaña: 23 mayo en Barranquilla y 24 en Medellín",
-      "resumen": "Abelardo De la Espriella confirmó este 11 de mayo las sedes y fechas de su cierre de campaña: el 23 de mayo en Barranquilla y el 24 de mayo en Medellín, a ocho días de la primera vuelta del 31 de mayo. 'Quiero ver a toda la manada del Tigre reunida', declaró el candidato. Los actos marcan la recta final de la campaña más sorpresiva de la contienda, en medio de su ascenso en los mercados de predicción.",
-      "objetividad": 93,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Hecho verificable: fechas y sedes confirmadas por el propio candidato"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente internacional de referencia con cobertura Colombia"
-        },
-        {
-          "ok": true,
-          "texto": "Noticia de hoy 11 de mayo — la más reciente disponible"
-        },
-        {
-          "ok": true,
-          "texto": "Alto impacto: marca la recta final de una campaña de alto perfil"
-        },
-        {
-          "ok": false,
-          "texto": "No detalla el formato ni la logística de los cierres de campaña"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/05/11/abelardo-de-la-espriella-confirmo-fechas-y-sedes-para-su-cierre-de-campana-quiero-ver-a-toda-la-manada-del-tigre-reunida/",
-      "url_label": "Infobae - De la Espriella confirma cierres: Barranquilla (23 may) y Medellín (24 may)"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Semana",
-      "fuente_color": "#e67e22",
-      "fecha": "11 may 2026",
-      "tag": "De la Espriella · Predicción",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Abelardo de la Espriella (43%) supera a Iván Cepeda (41%) en Polymarket por primera vez",
-      "resumen": "La plataforma de predicciones Polymarket registra a Abelardo De la Espriella con 43% de probabilidad de ganar la primera vuelta, superando por primera vez a Iván Cepeda, que cae al 41%. Paloma Valencia se sitúa en 16%. El dato contrasta con las encuestas formales —que mantienen a Cepeda como líder con 38% según AtlasIntel— pero refleja una percepción creciente de empate técnico a 19 días del 31 de mayo.",
-      "objetividad": 84,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Datos verificables: cifras públicas de Polymarket en tiempo real"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente de referencia nacional de primer orden"
-        },
-        {
-          "ok": true,
-          "texto": "Noticia de hoy 11 de mayo — hito histórico en la contienda"
-        },
-        {
-          "ok": true,
-          "texto": "Alto impacto: primera vez que De la Espriella supera a Cepeda en Polymarket"
-        },
-        {
-          "ok": false,
-          "texto": "Polymarket es mercado de apuestas, no encuesta estadística representativa"
-        }
-      ],
-      "url": "https://www.semana.com/confidenciales/articulo/elecciones-2026-paloma-valencia-se-desploma-en-polymarket-y-llega-a-16-mientras-abelardo-de-la-espriella-se-dispara-y-registra-40/202618/",
-      "url_label": "Semana - Polymarket: De la Espriella 43% supera a Cepeda 41% por primera vez"
-    },
-    {
       "filter": "cepeda",
-      "fuente": "El Espectador",
+      "fuente": "Infobae Colombia",
       "fuente_color": "#27ae60",
-      "fecha": "11 may 2026",
-      "tag": "Cepeda · Alianzas",
+      "fecha": "24 may 2026",
+      "tag": "Cepeda · Encuestas",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda suma sectores liberales; Tarazona se va con Valencia y De la Espriella sigue disputa con la DNI",
-      "resumen": "A tres semanas de las elecciones del 31 de mayo, el tablero de alianzas se mueve: Iván Cepeda sumó el respaldo de sectores del Partido Liberal. En el centro-derecha, María Claudia Tarazona anunció su apoyo a Paloma Valencia. Mientras tanto, Abelardo De la Espriella mantiene la controversia con la Dirección Nacional de Inteligencia (DNI) tras su denuncia de un presunto plan de asesinato.",
-      "objetividad": 90,
+      "titulo": "CNC: Cepeda 33,4% vs. De la Espriella 30,9%; Paloma Valencia aparece distante con 12,6%",
+      "resumen": "La encuesta del Centro Nacional de Consultoría publicada el 24 de mayo confirma a Iván Cepeda como líder en intención de voto con 33,4%, seguido muy de cerca por Abelardo De la Espriella con 30,9%. Paloma Valencia queda rezagada con 12,6%, en tercer lugar, a 7 días de la primera vuelta del 31 de mayo.",
+      "objetividad": 95,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Hecho verificable: alianzas confirmadas públicamente por los actores"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente de referencia nacional de primer orden"
-        },
-        {
-          "ok": true,
-          "texto": "Noticia del 11 de mayo — cubre los tres candidatos principales"
-        },
-        {
-          "ok": true,
-          "texto": "Alto impacto: define el mapa de apoyos en la recta final"
-        },
-        {
-          "ok": false,
-          "texto": "No detalla el número de votos que aportan los sectores liberales"
-        }
+        { "ok": true, "texto": "Datos verificables de encuestadora nacional reconocida (CNC)" },
+        { "ok": true, "texto": "Fuente internacional de referencia con cobertura Colombia" },
+        { "ok": true, "texto": "Encuesta publicada el 24 de mayo — la más reciente del CNC" },
+        { "ok": true, "texto": "Alto impacto: define el panorama a una semana de la votación" },
+        { "ok": false, "texto": "No detalla el margen de error ni el tamaño de la muestra en el titular" }
       ],
-      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/cepeda-suma-sectores-liberales-tarazona-se-va-con-valencia-y-de-la-espriella-sigue-disputa-con-el-dni-noticias-hoy/",
-      "url_label": "El Espectador - Cepeda suma liberales; Tarazona apoya a Valencia; De la Espriella vs. DNI"
+      "url": "https://www.infobae.com/colombia/2026/05/24/ivan-cepeda-y-de-la-espriella-lideran-la-intencion-de-voto-paloma-valencia-aparece-distante-segun-encuesta-del-centro-nacional-de-consultoria/",
+      "url_label": "Infobae - CNC: Cepeda 33,4% · De la Espriella 30,9% · Valencia 12,6%"
     },
     {
       "filter": "valencia",
       "fuente": "Infobae Colombia",
       "fuente_color": "#3498db",
-      "fecha": "10 may 2026",
-      "tag": "Valencia · Polémica",
+      "fecha": "24 may 2026",
+      "tag": "Valencia · Declaraciones",
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Valencia respondió a Margarita Rosa por criticar el apoyo de Álvaro Uribe: 'Es un reflejo machista'",
-      "resumen": "Paloma Valencia salió al paso el 10 de mayo de las críticas de la actriz Margarita Rosa de Francisco, quien cuestionó su cercanía con el expresidente Álvaro Uribe. Valencia calificó las críticas como 'un reflejo machista' y defendió el respaldo de Uribe como un activo legítimo de su campaña. El cruce generó amplia repercusión en redes sociales y medios nacionales a 21 días de la primera vuelta.",
-      "objetividad": 86,
+      "titulo": "Valencia reaccionó a encuestas que la dan perdedora en primera vuelta: 'Estamos para ganar elecciones y vamos a demostrarlo'",
+      "resumen": "A una semana de la primera vuelta, Paloma Valencia respondió a los sondeos que la ubican en tercer lugar y aseguró que su campaña no está hecha para 'ganar encuestas, sino para ganar elecciones'. La candidata del Centro Democrático cerró su campaña en el Movistar Arena de Bogotá con el respaldo del uribismo y líderes liberales, conservadores y del Partido de la U.",
+      "objetividad": 90,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaración directa y verificable de la candidata — 10 may"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente internacional de referencia con cobertura Colombia"
-        },
-        {
-          "ok": true,
-          "texto": "Noticia del 10 de mayo — reciente con amplia repercusión en redes"
-        },
-        {
-          "ok": true,
-          "texto": "Alto impacto: enfrenta la narrativa de dependencia del uribismo"
-        },
-        {
-          "ok": false,
-          "texto": "No reproduce la crítica exacta de Margarita Rosa ni el contexto completo"
-        }
+        { "ok": true, "texto": "Declaración directa y verificable de la candidata — 24 may" },
+        { "ok": true, "texto": "Fuente internacional de referencia con cobertura Colombia" },
+        { "ok": true, "texto": "Noticia de las últimas 48h — alto impacto en campaña" },
+        { "ok": true, "texto": "Cierre de campaña en el mayor escenario de Bogotá" },
+        { "ok": false, "texto": "No detalla aforo ni asistencia real al Movistar Arena" }
       ],
-      "url": "https://www.infobae.com/colombia/2026/05/10/paloma-valencia-se-despacho-contra-margarita-rosa-por-criticar-el-apoyo-que-recibe-de-alvaro-uribe-es-un-reflejo-machista/",
-      "url_label": "Infobae - Valencia responde a Margarita Rosa: 'Es un reflejo machista'"
+      "url": "https://www.infobae.com/colombia/2026/05/24/paloma-valencia-reacciono-a-encuestas-que-la-dan-perdedora-en-primera-vuelta-estamos-para-ganar-elecciones-y-vamos-a-demostrarlo/",
+      "url_label": "Infobae - Valencia: 'Estamos para ganar elecciones, no encuestas'"
     },
     {
       "filter": "valencia",
-      "fuente": "El País",
+      "fuente": "El Tiempo",
       "fuente_color": "#3498db",
-      "fecha": "11 may 2026",
-      "tag": "Valencia · Alianzas",
+      "fecha": "24 may 2026",
+      "tag": "Valencia · Cierre campaña",
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "María Claudia Tarazona anuncia apoyo a Paloma Valencia: 'Es la única que puede ganar en segunda vuelta'",
-      "resumen": "María Claudia Tarazona anunció formalmente su respaldo a Paloma Valencia para las elecciones del 31 de mayo. 'Tengo plena certeza de que Paloma es la única que puede ganar en una segunda vuelta', declaró. El respaldo llega en momento crítico para Valencia, quien enfrenta la presión de De la Espriella por el segundo lugar, mientras las encuestas formales (AtlasIntel: 21,2%) la mantienen como posible rival de Cepeda en segunda vuelta.",
-      "objetividad": 88,
+      "titulo": "Paloma Valencia e Iván Cepeda cerraron sus campañas con mensajes opuestos: seguridad total vs. diálogo sin autoritarismo",
+      "resumen": "Paloma Valencia y Iván Cepeda clausuraron sus campañas el 24 de mayo con mensajes contrapuestos que resumen la contienda de 2026: Valencia prometió seguridad sin negociación con criminales en el Movistar Arena, mientras Cepeda defendió el diálogo social y la continuidad de la paz. El contraste marca el dilema que enfrentarán los votantes el 31 de mayo.",
+      "objetividad": 92,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaración directa y verificable de Tarazona"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente regional de referencia con cobertura política"
-        },
-        {
-          "ok": true,
-          "texto": "Noticia del 11 de mayo — refuerza el bloque centro-derecha"
-        },
-        {
-          "ok": true,
-          "texto": "Alto impacto: suma votos potenciales a Valencia en la recta final"
-        },
-        {
-          "ok": false,
-          "texto": "No precisa el caudal electoral que aportaría el respaldo de Tarazona"
-        }
+        { "ok": true, "texto": "Cobertura de ambos candidatos en sus actos de cierre" },
+        { "ok": true, "texto": "Fuente de referencia nacional de primer orden" },
+        { "ok": true, "texto": "Análisis de propuestas contrastadas verificables" },
+        { "ok": true, "texto": "Noticia de las últimas 48h — cobertura directa de los eventos" },
+        { "ok": false, "texto": "No incluye cifras de asistencia a los actos de cierre" }
       ],
-      "url": "https://www.elpais.com.co/politica/maria-claudia-tarazona-revela-a-que-candidato-apoyara-en-las-presidenciales-de-2026-esa-fue-la-voluntad-de-miguel-1122.html",
-      "url_label": "El País - Tarazona anuncia apoyo a Valencia: 'Es la única que puede ganar en segunda vuelta'"
+      "url": "https://www.elcolombiano.com/especiales/elecciones-2026/cierre-campana-paloma-valencia-ivan-cepeda-elecciones-colombia-2026-PM36901853",
+      "url_label": "El Colombiano - Cierres de campaña: Valencia vs. Cepeda, dos visiones de Colombia"
     },
     {
       "filter": "espriella",
       "fuente": "El Colombiano",
-      "fuente_color": "#e74c3c",
-      "fecha": "12 may 2026",
-      "tag": "De la Espriella · Escándalo",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella agredió verbalmente a periodista de Caracol: 'La ignorancia es atrevida'",
-      "resumen": "En entrevista en vivo en Noticias Caracol, Abelardo de la Espriella le dijo a la periodista María Lucía 'Malú' Fernández que 'la ignorancia es atrevida' y que su pregunta 'venía con veneno'. Para desviar la atención sacó a relucir escándalos de acoso sexual dentro del canal. El episodio agrava la percepción negativa del candidato en medios y redes a solo 19 días de la primera vuelta del 31 de mayo.",
-      "objetividad": 82,
+      "fuente_color": "#e67e22",
+      "fecha": "23 may 2026",
+      "tag": "De la Espriella · Cierre campaña",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella cerró campaña en Barranquilla ante más de 50.000 personas y prometió 'hacer pagar' a corruptos y criminales",
+      "resumen": "Abelardo De la Espriella reunió a más de 50.000 personas en el Gran Malecón de Barranquilla el 23 de mayo para su cierre de campaña. El candidato prometió 'hacer pagar' a corruptos y criminales, reafirmó su propuesta de mano dura y extradición, en lo que su equipo calificó como el acto más multitudinario de la contienda electoral a ocho días de la primera vuelta.",
+      "objetividad": 91,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Hecho verificable en transmisión en vivo de Caracol"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente regional con cobertura política activa"
-        },
-        {
-          "ok": true,
-          "texto": "Declaraciones textuales del candidato documentadas"
-        },
-        {
-          "ok": false,
-          "texto": "Sin declaración formal de Caracol o de la periodista afectada"
-        },
-        {
-          "ok": true,
-          "texto": "Alto impacto electoral por proximidad a primera vuelta"
-        }
+        { "ok": true, "texto": "Evento verificable con cobertura in situ de El Colombiano" },
+        { "ok": true, "texto": "Fuente regional de primer orden con cobertura política activa" },
+        { "ok": true, "texto": "Noticia de las últimas 48h — último gran acto de campaña" },
+        { "ok": true, "texto": "Alto impacto: mayor concentración reportada de la campaña" },
+        { "ok": false, "texto": "Cifra de asistencia dada por la campaña, sin verificación independiente" }
       ],
-      "url": "https://www.elcolombiano.com/colombia/politica/abelardo-de-la-espriella-agrede-verbalmente-a-periodista-de-caracol-la-ignorancia-es-atrevida-ME27000000",
-      "url_label": "El Colombiano – De la Espriella vs. periodista Malú de Caracol"
+      "url": "https://www.elcolombiano.com/especiales/elecciones-2026/de-la-espriella-cierre-campana-barranquilla-gran-malecon-elecciones-2026-CF36888903",
+      "url_label": "El Colombiano - De la Espriella: cierre en Barranquilla con +50.000 personas"
     },
     {
       "filter": "espriella",
-      "fuente": "La Silla Vacía",
-      "fuente_color": "#e74c3c",
-      "fecha": "12 may 2026",
-      "tag": "De la Espriella · IA y prensa",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "Campaña de De la Espriella usó imagen de IA de Juanita León de La Silla Vacía sin su consentimiento",
-      "resumen": "La campaña de De la Espriella publicó un video de inteligencia artificial en el que aparece Juanita León, directora de La Silla Vacía, caracterizada como parte de 'los de siempre'. La Silla Vacía rechazó el uso indebido de la imagen de su directora en una pieza de campaña política sin autorización. El episodio se suma a la agresión verbal a la periodista Malú de Caracol el mismo día.",
-      "objetividad": 85,
+      "fuente": "El Tiempo",
+      "fuente_color": "#e67e22",
+      "fecha": "25 may 2026",
+      "tag": "De la Espriella · Candidatura",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "Sala Plena del CNE cerró investigación que pedía anular la candidatura de De la Espriella: aspiración quedó en firme",
+      "resumen": "La Sala Plena del Consejo Nacional Electoral (CNE) cerró la investigación que buscaba anular la candidatura presidencial de Abelardo De la Espriella, confirmando su inscripción para el 31 de mayo. La decisión despeja definitivamente el camino legal del candidato a menos de una semana de la primera vuelta.",
+      "objetividad": 94,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Hecho verificable: video publicado por la campaña"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente directamente afectada, dando su propia versión"
-        },
-        {
-          "ok": true,
-          "texto": "Impacto en libertad de prensa y ética del uso de IA en campaña"
-        },
-        {
-          "ok": true,
-          "texto": "Contexto institucional claro (La Silla Vacía)"
-        },
-        {
-          "ok": false,
-          "texto": "Sin respuesta oficial de la campaña de De la Espriella"
-        }
+        { "ok": true, "texto": "Decisión institucional verificable del CNE" },
+        { "ok": true, "texto": "Fuente de referencia nacional de primer orden" },
+        { "ok": true, "texto": "Noticia de las últimas 48h — relevancia jurídica y electoral" },
+        { "ok": true, "texto": "Alto impacto: confirma candidatura a 6 días de la primera vuelta" },
+        { "ok": false, "texto": "No detalla los motivos que llevaron al CNE a cerrar la investigación" }
       ],
-      "url": "https://lasillavacia.com/silla-nacional/de-la-espriella-uso-una-imagen-de-ia-de-juanita-leon-en-un-video-de-campana/",
-      "url_label": "La Silla Vacía – De la Espriella usó imagen de IA de Juanita León"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sala-plena-del-cne-cerro-investigacion-que-pedi-anular-la-candidatura-de-abelardo-de-la-espriella-aspiracion-quedo-en-firme-3557335",
+      "url_label": "El Tiempo - CNE: candidatura de De la Espriella queda en firme"
     },
     {
-      "filter": "valencia",
+      "filter": "espriella",
+      "fuente": "La República (Perú)",
+      "fuente_color": "#e74c3c",
+      "fecha": "25 may 2026",
+      "tag": "De la Espriella · Perfil",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "El polémico outsider de derecha que busca ser presidente de Colombia con mano dura",
+      "resumen": "La República Perú publicó el 25 de mayo un perfil extenso de Abelardo De la Espriella como el outsider más sorpresivo de las presidenciales colombianas. El abogado penalista de 47 años, conocido por defender casos de alto perfil, propone reducir el Estado un 40%, eliminar la 'Paz Total' de Petro y aplicar extradición y fumigación aérea de cultivos ilícitos.",
+      "objetividad": 86,
+      "criterios": [
+        { "ok": true, "texto": "Perfil basado en fuentes públicas y declaraciones del candidato" },
+        { "ok": true, "texto": "Fuente peruana de referencia con cobertura latinoamericana" },
+        { "ok": true, "texto": "Publicado el 25 de mayo — visibilidad internacional del candidato" },
+        { "ok": false, "texto": "Perspectiva externa puede carecer de matices del contexto colombiano" },
+        { "ok": true, "texto": "Incluye propuestas verificables del plan de gobierno" }
+      ],
+      "url": "https://larepublica.pe/mundo/2026/05/25/abelardo-de-la-espriella-el-polemico-outsider-de-derecha-que-busca-ser-presidente-de-colombia-con-mano-dura-1468625",
+      "url_label": "La República Perú - Perfil: De la Espriella, el outsider de mano dura"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "CNN en Español",
+      "fuente_color": "#27ae60",
+      "fecha": "24 may 2026",
+      "tag": "Cepeda · Análisis electoral",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "¿Quiénes son los favoritos en Colombia 2026? CNN analiza el pulso electoral a días del 31 de mayo",
+      "resumen": "CNN en Español publicó el 24 de mayo un análisis de las encuestas presidenciales que confirma a Iván Cepeda como favorito sostenido en los sondeos. El informe destaca el ascenso de De la Espriella, quien disputa el segundo lugar con Valencia, y analiza los posibles escenarios de segunda vuelta con Cepeda como candidato más probable para disputarla.",
+      "objetividad": 90,
+      "criterios": [
+        { "ok": true, "texto": "Análisis basado en múltiples encuestadoras nacionales" },
+        { "ok": true, "texto": "Fuente internacional de referencia de primer nivel" },
+        { "ok": true, "texto": "Publicado el 24 de mayo — cobertura a días del evento electoral" },
+        { "ok": true, "texto": "Incluye escenarios de primera y segunda vuelta" },
+        { "ok": false, "texto": "Análisis agregado puede difuminar diferencias metodológicas entre encuestas" }
+      ],
+      "url": "https://cnnespanol.cnn.com/2026/05/24/colombia/encuestas-favoritos-elecciones-cepeda-espriella-valencia-orix",
+      "url_label": "CNN en Español - Favoritos Colombia 2026: Cepeda lidera, De la Espriella asciende"
+    },
+    {
+      "filter": "espriella",
       "fuente": "Infobae Colombia",
-      "fuente_color": "#3498db",
-      "fecha": "6 may 2026",
-      "tag": "Valencia · Polémica IA",
+      "fuente_color": "#e67e22",
+      "fecha": "23 may 2026",
+      "tag": "Segunda vuelta · Encuestas",
       "tag_color": "#8e44ad",
       "tag_bg": "rgba(142,68,173,0.15)",
-      "titulo": "Valencia hizo un 'autodebate' con avatares de IA de Cepeda y De la Espriella sin su autorización",
-      "resumen": "El 5 de mayo, la campaña de Paloma Valencia transmitió un debate en el que ella respondía preguntas a avatares generados por inteligencia artificial de Cepeda y De la Espriella, sin el consentimiento de ninguno de los dos. La iniciativa desató críticas de expertos en ética de IA y de las campañas afectadas, que la calificaron de manipuladora y peligrosa para el debate democrático.",
-      "objetividad": 80,
+      "titulo": "Nueva encuesta sacude la carrera: así quedarían los duelos entre Valencia, Cepeda y De la Espriella en segunda vuelta",
+      "resumen": "Una encuesta publicada el 23 de mayo plantea los escenarios de segunda vuelta entre los tres candidatos principales. El estudio muestra que Cepeda ganaría en balotaje tanto frente a Valencia como a De la Espriella, aunque con ventajas ajustadas. El escenario dominante sería Cepeda vs. De la Espriella, con Valencia quedándose fuera de la segunda vuelta.",
+      "objetividad": 88,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Hecho verificable: transmisión pública de la campaña"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente internacional con cobertura electoral activa"
-        },
-        {
-          "ok": true,
-          "texto": "Perspectiva crítica de expertos en ética de IA incluida"
-        },
-        {
-          "ok": false,
-          "texto": "Sin declaración de la campaña de Valencia en respuesta formal"
-        },
-        {
-          "ok": false,
-          "texto": "Sin análisis del marco legal colombiano sobre IA en campaña"
-        }
+        { "ok": true, "texto": "Datos de encuesta con escenarios de segunda vuelta definidos" },
+        { "ok": true, "texto": "Fuente internacional con cobertura electoral activa en Colombia" },
+        { "ok": true, "texto": "Publicado el 23 de mayo — cobertura a 8 días del 31 de mayo" },
+        { "ok": true, "texto": "Cubre los tres candidatos principales en escenarios cruzados" },
+        { "ok": false, "texto": "No especifica la encuestadora que realizó el sondeo en el titular" }
       ],
-      "url": "https://www.infobae.com/colombia/2026/05/06/paloma-valencia-hizo-debate-con-avatares-ia-de-candidatos-sin-su-autorizacion/",
-      "url_label": "Infobae Colombia – Valencia: debate con avatares de IA sin autorización"
+      "url": "https://www.infobae.com/colombia/2026/05/23/nueva-encuesta-sacude-la-carrera-presidencial-asi-quedarian-los-duelos-entre-paloma-valencia-ivan-cepeda-y-de-la-espriella-en-segunda-vuelta/",
+      "url_label": "Infobae - Encuesta segunda vuelta: Cepeda gana vs. Valencia y vs. De la Espriella"
     }
   ],
   "sentimiento": {
@@ -295,29 +175,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 35,
-        "negativo": 48,
+        "positivo": 40,
+        "negativo": 38,
         "neutro": 22,
         "tendencia": "up",
-        "tendencia_texto": "25 may: Recuperación notable en encuestas a pesar de los escándalos de prensa (12 may). Invamer (21 may): 31,6%; AtlasIntel (15 may): 32,9%; Guarumo (21 may): 27,5%. Promedio: ~30,7%, subiendo +5,7 pts desde el 12 de mayo. Analistas de Invamer señalan que capta casi un tercio del electorado de centro. Escenario más probable según Invamer y Guarumo: segunda vuelta vs. Cepeda. A 6 días del 31 de mayo."
+        "tendencia_texto": "26 may: Cierre masivo en Barranquilla (+50.000, 23 may) y candidatura confirmada por el CNE (25 may). CNC (24 may): 30,9%; Invamer (21 may): 31,6%. Promedio: ~31,3%, consolida segundo lugar. Escenario dominante: segunda vuelta vs. Cepeda. A 5 días del 31 de mayo."
       },
       {
         "nombre": "Valencia",
         "color": "#3498db",
-        "positivo": 22,
+        "positivo": 20,
         "negativo": 62,
         "neutro": 18,
         "tendencia": "down",
-        "tendencia_texto": "25 may: Candidatura desinflada. Cayó de 20,5% (12 may) a ~17,5% en promedio (Invamer: 14%, AtlasIntel: 16,7%, Guarumo: 21,7%). Analistas señalan que su giro al centro y la fórmula con Oviedo le quitó diferenciación justo cuando el electorado premia los discursos más radicales. La segunda vuelta entre Cepeda y De la Espriella ya aparece como escenario dominante en Invamer y Guarumo. A 6 días del 31 de mayo."
+        "tendencia_texto": "26 may: Cerró campaña en Movistar Arena (24 may) desafiando las encuestas. CNC (24 may): 12,6%; Invamer (21 may): 14%. Promedio: ~13,3%, distante del segundo lugar. Sigue en tercer lugar, segunda vuelta Cepeda-De la Espriella se consolida como escenario dominante. A 5 días del 31 de mayo."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 50,
-        "negativo": 30,
+        "positivo": 52,
+        "negativo": 28,
         "neutro": 20,
         "tendencia": "stable",
-        "tendencia_texto": "25 may: Mantiene liderazgo sólido. Invamer (21 may): 44,6%; Guarumo (21 may): 37,1%; AtlasIntel (15 may): 37,6%. Promedio: ~39,5%. Rechazado por el 42,9% del electorado según Guarumo, el mayor rechazo de los tres candidatos principales. En segunda vuelta gana vs. Valencia (Invamer: 52,8% vs. 44,3%) pero la ventaja sobre De la Espriella se redujo (52,4% vs. 45,3%). A 6 días del 31 de mayo."
+        "tendencia_texto": "26 may: Mantiene liderazgo sólido en todos los sondeos. CNC (24 may): 33,4%; Invamer (21 may): 44,6%. Promedio: ~39,0%. Cierre de campaña con mensaje de continuidad y diálogo. Favorito para primera vuelta y ganaría en segunda vuelta según encuestas. A 5 días del 31 de mayo."
       },
       {
         "nombre": "Fajardo",
@@ -340,27 +220,27 @@
     ]
   },
   "encuestas": {
-    "cepeda": 39.5,
-    "valencia": 17.5,
-    "espriella": 30.7,
-    "fuente": "Promedio Invamer / Guarumo / AtlasIntel (15–22 may 2026)"
+    "cepeda": 39.0,
+    "valencia": 13.3,
+    "espriella": 31.3,
+    "fuente": "Promedio CNC (24 may) / Invamer (21 may 2026)"
   },
   "prediccion": {
     "primero": {
       "nombre": "Iván Cepeda",
       "partido": "Pacto Histórico",
       "color": "#27ae60",
-      "pct": 39.5,
-      "fuente_encuesta": "Promedio Invamer/Guarumo/AtlasIntel (may 2026)"
+      "pct": 39.0,
+      "fuente_encuesta": "Promedio CNC/Invamer (may 2026)"
     },
     "segundo": {
       "nombre": "Abelardo De la Espriella",
       "partido": "Salvación Nacional",
       "color": "#e67e22",
-      "pct": 30.7,
-      "fuente_encuesta": "Promedio Invamer/Guarumo/AtlasIntel (may 2026)"
+      "pct": 31.3,
+      "fuente_encuesta": "Promedio CNC/Invamer (may 2026)"
     },
-    "resumen_analisis": "Actualización 25 may 2026 — promedio Invamer (44,6%/31,6%/14%), Guarumo (37,1%/27,5%/21,7%) y AtlasIntel (37,6%/32,9%/16,7%). Cepeda lidera con ~39,5%. De la Espriella consolida el segundo lugar con ~30,7%, subiendo +5,7 pts desde el 12 may. Paloma Valencia se desinfló: cae a ~17,5% desde 20,5%, quedando distante del segundo lugar. El escenario más probable según Invamer y Guarumo es una segunda vuelta Cepeda vs. De la Espriella. Primera vuelta: 31 de mayo de 2026."
+    "resumen_analisis": "Actualización 26 may 2026 — CNC (24 may): Cepeda 33,4%, De la Espriella 30,9%, Valencia 12,6%; Invamer (21 may): Cepeda 44,6%, De la Espriella 31,6%, Valencia 14%. Promedios: Cepeda ~39,0%, De la Espriella ~31,3%, Valencia ~13,3%. Cepeda lidera y cerró campaña con mensaje de diálogo. De la Espriella realiza cierre masivo en Barranquilla (+50.000) y candidatura confirmada por CNE. Valencia cerró en Movistar Arena pero persiste en tercer lugar. Escenario más probable: segunda vuelta Cepeda vs. De la Espriella. Primera vuelta: 31 de mayo de 2026."
   },
-  "ultimo_deploy": "2026-05-25T14:00:00Z"
+  "ultimo_deploy": "2026-05-26T12:00:00Z"
 }
