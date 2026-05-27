@@ -1,6 +1,150 @@
 {
-  "fecha": "26 de mayo de 2026",
+  "fecha": "27 de mayo de 2026",
   "noticias": [
+    {
+      "filter": "cepeda",
+      "fuente": "El Tiempo",
+      "fuente_color": "#27ae60",
+      "fecha": "27 may 2026",
+      "tag": "Silencio Electoral · Institucional",
+      "tag_color": "#7f8c8d",
+      "tag_bg": "rgba(127,140,141,0.15)",
+      "titulo": "Colombia entra en silencio electoral: quedan 4 días para el 31 de mayo y votaciones en el exterior ya van en su tercer día",
+      "resumen": "El 27 de mayo Colombia inicia el periodo de silencio electoral con miras a la primera vuelta del 31 de mayo. La Registraduría suspende desde hoy todos los servicios de registro civil e identificación hasta el 2 de junio. En el exterior, la segunda jornada de votación se realizó el 26 de mayo, con participación en ciudades como Miami, Madrid y Buenos Aires.",
+      "objetividad": 96,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Hecho institucional verificable — Registraduría anuncia suspensión de servicios desde el 27 de mayo"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente de referencia nacional de primer orden"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia de hoy (27 may) — máxima actualidad"
+        },
+        {
+          "ok": true,
+          "texto": "Informativo e imparcial; sin favorecer candidato"
+        },
+        {
+          "ok": true,
+          "texto": "Incluye contexto de votación en el exterior"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-empieza-la-segunda-jornada-de-votaciones-en-el-exterior-quedan-5-dias-para-los-comicios-en-el-pais-3558380",
+      "url_label": "El Tiempo - Colombia entra en silencio electoral; votaciones en el exterior en marcha"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Vanguardia",
+      "fuente_color": "#27ae60",
+      "fecha": "24 may 2026",
+      "tag": "Cepeda · Cierre campaña",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda cerró campaña en Barranquilla ante más de 80.000 personas con mensaje de continuidad y diálogo social",
+      "resumen": "Iván Cepeda cerró su campaña presidencial el 24 de mayo en la Calle 50 de Barranquilla con más de 80.000 asistentes según su equipo. El candidato del Pacto Histórico prometió continuar la política de paz, defender los cambios sociales del gobierno Petro y ampliar el diálogo con todos los sectores. Fue el mayor acto del oficialismo en la recta final de la campaña.",
+      "objetividad": 89,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Evento verificable con cobertura in situ de Vanguardia"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente regional de primer orden con cobertura política activa"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia de las últimas 72h — último gran acto de campaña del oficialismo"
+        },
+        {
+          "ok": true,
+          "texto": "Alto impacto: acto de cierre más grande del Pacto Histórico"
+        },
+        {
+          "ok": false,
+          "texto": "Cifra de asistencia dada por la campaña, sin verificación independiente"
+        }
+      ],
+      "url": "https://www.vanguardia.com/politica/elecciones/2026/05/24/cepeda-de-la-espriella-y-paloma-valencia-cerraron-campana-con-masivos-actos-y-duros-mensajes-politicos/",
+      "url_label": "Vanguardia - Cepeda cerró en Barranquilla con +80.000 y mensaje de diálogo"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Vanguardia",
+      "fuente_color": "#e67e22",
+      "fecha": "24 may 2026",
+      "tag": "De la Espriella · Cierre campaña",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella abrió su cierre con un minuto de silencio por coordinadores asesinados Rogers Devia y Fabián Cardona",
+      "resumen": "El cierre de campaña de Abelardo De la Espriella el 24 de mayo inició con un emotivo minuto de silencio en memoria de Rogers Devia y Fabián Cardona, dos coordinadores de su campaña asesinados durante la contienda. El candidato prometió seguridad, mano dura y extradición, y convirtió el acto en un símbolo de resistencia ante la violencia política que marcó su campaña.",
+      "objetividad": 92,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Hecho verificable y confirmado por múltiples medios"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente de primer orden con cobertura directa del evento"
+        },
+        {
+          "ok": true,
+          "texto": "Alta relevancia: asesinato de coordinadores evidencia violencia política"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia de las últimas 72h — recta final de campaña"
+        },
+        {
+          "ok": false,
+          "texto": "No incluye detalles sobre investigaciones judiciales por los crímenes"
+        }
+      ],
+      "url": "https://www.vanguardia.com/politica/elecciones/2026/05/24/cepeda-de-la-espriella-y-paloma-valencia-cerraron-campana-con-masivos-actos-y-duros-mensajes-politicos/",
+      "url_label": "Vanguardia - De la Espriella: minuto de silencio por coordinadores asesinados en su cierre"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "La Silla Vacía",
+      "fuente_color": "#e67e22",
+      "fecha": "24 may 2026",
+      "tag": "De la Espriella · Encuestas",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "La Silla Vacía: encuesta CNC muestra a De la Espriella empatando con Cepeda y a Valencia hundiéndose",
+      "resumen": "La Silla Vacía analizó la encuesta del Centro Nacional de Consultoría (CNC) publicada el 24 de mayo que ubica a De la Espriella con 30,9% de intención de voto, prácticamente empatado con Iván Cepeda (33,4%), dentro del margen de error. El análisis destaca el ascenso de 10 puntos de De la Espriella en 20 días frente a la caída sostenida de Valencia (12,6%).",
+      "objetividad": 93,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Análisis de encuesta de encuestadora reconocida (CNC)"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente analítica de referencia nacional de primer orden"
+        },
+        {
+          "ok": true,
+          "texto": "Publicado el 24 de mayo — la más reciente encuesta disponible"
+        },
+        {
+          "ok": true,
+          "texto": "Contexto histórico del ascenso de De la Espriella (+10 pts en 20 días)"
+        },
+        {
+          "ok": false,
+          "texto": "Análisis editorial puede incluir perspectiva propia de La Silla Vacía"
+        }
+      ],
+      "url": "https://www.lasillavacia.com/en-vivo/encuesta-cnc-de-la-espriella-empata-con-cepeda-y-paloma-se-hunde/",
+      "url_label": "La Silla Vacía - CNC: De la Espriella empata con Cepeda, Valencia se hunde"
+    },
     {
       "filter": "cepeda",
       "fuente": "Infobae Colombia",
@@ -10,14 +154,29 @@
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
       "titulo": "CNC: Cepeda 33,4% vs. De la Espriella 30,9%; Paloma Valencia aparece distante con 12,6%",
-      "resumen": "La encuesta del Centro Nacional de Consultoría publicada el 24 de mayo confirma a Iván Cepeda como líder en intención de voto con 33,4%, seguido muy de cerca por Abelardo De la Espriella con 30,9%. Paloma Valencia queda rezagada con 12,6%, en tercer lugar, a 7 días de la primera vuelta del 31 de mayo.",
+      "resumen": "La encuesta del Centro Nacional de Consultoría publicada el 24 de mayo confirma a Iván Cepeda como líder en intención de voto con 33,4%, seguido muy de cerca por Abelardo De la Espriella con 30,9%. Paloma Valencia queda rezagada con 12,6% en tercer lugar, a 7 días de la primera vuelta del 31 de mayo.",
       "objetividad": 95,
       "criterios": [
-        { "ok": true, "texto": "Datos verificables de encuestadora nacional reconocida (CNC)" },
-        { "ok": true, "texto": "Fuente internacional de referencia con cobertura Colombia" },
-        { "ok": true, "texto": "Encuesta publicada el 24 de mayo — la más reciente del CNC" },
-        { "ok": true, "texto": "Alto impacto: define el panorama a una semana de la votación" },
-        { "ok": false, "texto": "No detalla el margen de error ni el tamaño de la muestra en el titular" }
+        {
+          "ok": true,
+          "texto": "Datos verificables de encuestadora nacional reconocida (CNC)"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente internacional de referencia con cobertura Colombia"
+        },
+        {
+          "ok": true,
+          "texto": "Encuesta publicada el 24 de mayo — la más reciente del CNC"
+        },
+        {
+          "ok": true,
+          "texto": "Alto impacto: define el panorama a una semana de la votación"
+        },
+        {
+          "ok": false,
+          "texto": "No detalla el margen de error ni el tamaño de la muestra en el titular"
+        }
       ],
       "url": "https://www.infobae.com/colombia/2026/05/24/ivan-cepeda-y-de-la-espriella-lideran-la-intencion-de-voto-paloma-valencia-aparece-distante-segun-encuesta-del-centro-nacional-de-consultoria/",
       "url_label": "Infobae - CNC: Cepeda 33,4% · De la Espriella 30,9% · Valencia 12,6%"
@@ -30,60 +189,33 @@
       "tag": "Valencia · Declaraciones",
       "tag_color": "#3498db",
       "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Valencia reaccionó a encuestas que la dan perdedora en primera vuelta: 'Estamos para ganar elecciones y vamos a demostrarlo'",
-      "resumen": "A una semana de la primera vuelta, Paloma Valencia respondió a los sondeos que la ubican en tercer lugar y aseguró que su campaña no está hecha para 'ganar encuestas, sino para ganar elecciones'. La candidata del Centro Democrático cerró su campaña en el Movistar Arena de Bogotá con el respaldo del uribismo y líderes liberales, conservadores y del Partido de la U.",
+      "titulo": "Valencia reaccionó a encuestas que la dan perdedora: 'Estamos para ganar elecciones y vamos a demostrarlo'",
+      "resumen": "A una semana de la primera vuelta, Paloma Valencia respondió a los sondeos que la ubican en tercer lugar y aseguró que su campaña no está hecha para 'ganar encuestas, sino para ganar elecciones'. La candidata del Centro Democrático cerró su campaña en el Movistar Arena de Bogotá con respaldo del uribismo y de líderes liberales, conservadores y del Partido de la U.",
       "objetividad": 90,
       "criterios": [
-        { "ok": true, "texto": "Declaración directa y verificable de la candidata — 24 may" },
-        { "ok": true, "texto": "Fuente internacional de referencia con cobertura Colombia" },
-        { "ok": true, "texto": "Noticia de las últimas 48h — alto impacto en campaña" },
-        { "ok": true, "texto": "Cierre de campaña en el mayor escenario de Bogotá" },
-        { "ok": false, "texto": "No detalla aforo ni asistencia real al Movistar Arena" }
+        {
+          "ok": true,
+          "texto": "Declaración directa y verificable de la candidata — 24 may"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente internacional de referencia con cobertura Colombia"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia de las últimas 72h — alto impacto en recta final de campaña"
+        },
+        {
+          "ok": true,
+          "texto": "Cierre de campaña en el mayor escenario de Bogotá"
+        },
+        {
+          "ok": false,
+          "texto": "No detalla aforo ni asistencia real al Movistar Arena"
+        }
       ],
       "url": "https://www.infobae.com/colombia/2026/05/24/paloma-valencia-reacciono-a-encuestas-que-la-dan-perdedora-en-primera-vuelta-estamos-para-ganar-elecciones-y-vamos-a-demostrarlo/",
       "url_label": "Infobae - Valencia: 'Estamos para ganar elecciones, no encuestas'"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "El Tiempo",
-      "fuente_color": "#3498db",
-      "fecha": "24 may 2026",
-      "tag": "Valencia · Cierre campaña",
-      "tag_color": "#3498db",
-      "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Paloma Valencia e Iván Cepeda cerraron sus campañas con mensajes opuestos: seguridad total vs. diálogo sin autoritarismo",
-      "resumen": "Paloma Valencia y Iván Cepeda clausuraron sus campañas el 24 de mayo con mensajes contrapuestos que resumen la contienda de 2026: Valencia prometió seguridad sin negociación con criminales en el Movistar Arena, mientras Cepeda defendió el diálogo social y la continuidad de la paz. El contraste marca el dilema que enfrentarán los votantes el 31 de mayo.",
-      "objetividad": 92,
-      "criterios": [
-        { "ok": true, "texto": "Cobertura de ambos candidatos en sus actos de cierre" },
-        { "ok": true, "texto": "Fuente de referencia nacional de primer orden" },
-        { "ok": true, "texto": "Análisis de propuestas contrastadas verificables" },
-        { "ok": true, "texto": "Noticia de las últimas 48h — cobertura directa de los eventos" },
-        { "ok": false, "texto": "No incluye cifras de asistencia a los actos de cierre" }
-      ],
-      "url": "https://www.elcolombiano.com/especiales/elecciones-2026/cierre-campana-paloma-valencia-ivan-cepeda-elecciones-colombia-2026-PM36901853",
-      "url_label": "El Colombiano - Cierres de campaña: Valencia vs. Cepeda, dos visiones de Colombia"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Colombiano",
-      "fuente_color": "#e67e22",
-      "fecha": "23 may 2026",
-      "tag": "De la Espriella · Cierre campaña",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella cerró campaña en Barranquilla ante más de 50.000 personas y prometió 'hacer pagar' a corruptos y criminales",
-      "resumen": "Abelardo De la Espriella reunió a más de 50.000 personas en el Gran Malecón de Barranquilla el 23 de mayo para su cierre de campaña. El candidato prometió 'hacer pagar' a corruptos y criminales, reafirmó su propuesta de mano dura y extradición, en lo que su equipo calificó como el acto más multitudinario de la contienda electoral a ocho días de la primera vuelta.",
-      "objetividad": 91,
-      "criterios": [
-        { "ok": true, "texto": "Evento verificable con cobertura in situ de El Colombiano" },
-        { "ok": true, "texto": "Fuente regional de primer orden con cobertura política activa" },
-        { "ok": true, "texto": "Noticia de las últimas 48h — último gran acto de campaña" },
-        { "ok": true, "texto": "Alto impacto: mayor concentración reportada de la campaña" },
-        { "ok": false, "texto": "Cifra de asistencia dada por la campaña, sin verificación independiente" }
-      ],
-      "url": "https://www.elcolombiano.com/especiales/elecciones-2026/de-la-espriella-cierre-campana-barranquilla-gran-malecon-elecciones-2026-CF36888903",
-      "url_label": "El Colombiano - De la Espriella: cierre en Barranquilla con +50.000 personas"
     },
     {
       "filter": "espriella",
@@ -97,77 +229,65 @@
       "resumen": "La Sala Plena del Consejo Nacional Electoral (CNE) cerró la investigación que buscaba anular la candidatura presidencial de Abelardo De la Espriella, confirmando su inscripción para el 31 de mayo. La decisión despeja definitivamente el camino legal del candidato a menos de una semana de la primera vuelta.",
       "objetividad": 94,
       "criterios": [
-        { "ok": true, "texto": "Decisión institucional verificable del CNE" },
-        { "ok": true, "texto": "Fuente de referencia nacional de primer orden" },
-        { "ok": true, "texto": "Noticia de las últimas 48h — relevancia jurídica y electoral" },
-        { "ok": true, "texto": "Alto impacto: confirma candidatura a 6 días de la primera vuelta" },
-        { "ok": false, "texto": "No detalla los motivos que llevaron al CNE a cerrar la investigación" }
+        {
+          "ok": true,
+          "texto": "Decisión institucional verificable del CNE"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente de referencia nacional de primer orden"
+        },
+        {
+          "ok": true,
+          "texto": "Noticia de las últimas 48h — relevancia jurídica y electoral alta"
+        },
+        {
+          "ok": true,
+          "texto": "Alto impacto: confirma candidatura a 6 días de la primera vuelta"
+        },
+        {
+          "ok": false,
+          "texto": "No detalla los motivos que llevaron al CNE a cerrar la investigación"
+        }
       ],
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sala-plena-del-cne-cerro-investigacion-que-pedi-anular-la-candidatura-de-abelardo-de-la-espriella-aspiracion-quedo-en-firme-3557335",
       "url_label": "El Tiempo - CNE: candidatura de De la Espriella queda en firme"
     },
     {
       "filter": "espriella",
-      "fuente": "La República (Perú)",
-      "fuente_color": "#e74c3c",
-      "fecha": "25 may 2026",
-      "tag": "De la Espriella · Perfil",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "El polémico outsider de derecha que busca ser presidente de Colombia con mano dura",
-      "resumen": "La República Perú publicó el 25 de mayo un perfil extenso de Abelardo De la Espriella como el outsider más sorpresivo de las presidenciales colombianas. El abogado penalista de 47 años, conocido por defender casos de alto perfil, propone reducir el Estado un 40%, eliminar la 'Paz Total' de Petro y aplicar extradición y fumigación aérea de cultivos ilícitos.",
-      "objetividad": 86,
-      "criterios": [
-        { "ok": true, "texto": "Perfil basado en fuentes públicas y declaraciones del candidato" },
-        { "ok": true, "texto": "Fuente peruana de referencia con cobertura latinoamericana" },
-        { "ok": true, "texto": "Publicado el 25 de mayo — visibilidad internacional del candidato" },
-        { "ok": false, "texto": "Perspectiva externa puede carecer de matices del contexto colombiano" },
-        { "ok": true, "texto": "Incluye propuestas verificables del plan de gobierno" }
-      ],
-      "url": "https://larepublica.pe/mundo/2026/05/25/abelardo-de-la-espriella-el-polemico-outsider-de-derecha-que-busca-ser-presidente-de-colombia-con-mano-dura-1468625",
-      "url_label": "La República Perú - Perfil: De la Espriella, el outsider de mano dura"
-    },
-    {
-      "filter": "cepeda",
       "fuente": "CNN en Español",
-      "fuente_color": "#27ae60",
-      "fecha": "24 may 2026",
-      "tag": "Cepeda · Análisis electoral",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "¿Quiénes son los favoritos en Colombia 2026? CNN analiza el pulso electoral a días del 31 de mayo",
-      "resumen": "CNN en Español publicó el 24 de mayo un análisis de las encuestas presidenciales que confirma a Iván Cepeda como favorito sostenido en los sondeos. El informe destaca el ascenso de De la Espriella, quien disputa el segundo lugar con Valencia, y analiza los posibles escenarios de segunda vuelta con Cepeda como candidato más probable para disputarla.",
-      "objetividad": 90,
-      "criterios": [
-        { "ok": true, "texto": "Análisis basado en múltiples encuestadoras nacionales" },
-        { "ok": true, "texto": "Fuente internacional de referencia de primer nivel" },
-        { "ok": true, "texto": "Publicado el 24 de mayo — cobertura a días del evento electoral" },
-        { "ok": true, "texto": "Incluye escenarios de primera y segunda vuelta" },
-        { "ok": false, "texto": "Análisis agregado puede difuminar diferencias metodológicas entre encuestas" }
-      ],
-      "url": "https://cnnespanol.cnn.com/2026/05/24/colombia/encuestas-favoritos-elecciones-cepeda-espriella-valencia-orix",
-      "url_label": "CNN en Español - Favoritos Colombia 2026: Cepeda lidera, De la Espriella asciende"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae Colombia",
       "fuente_color": "#e67e22",
-      "fecha": "23 may 2026",
-      "tag": "Segunda vuelta · Encuestas",
-      "tag_color": "#8e44ad",
-      "tag_bg": "rgba(142,68,173,0.15)",
-      "titulo": "Nueva encuesta sacude la carrera: así quedarían los duelos entre Valencia, Cepeda y De la Espriella en segunda vuelta",
-      "resumen": "Una encuesta publicada el 23 de mayo plantea los escenarios de segunda vuelta entre los tres candidatos principales. El estudio muestra que Cepeda ganaría en balotaje tanto frente a Valencia como a De la Espriella, aunque con ventajas ajustadas. El escenario dominante sería Cepeda vs. De la Espriella, con Valencia quedándose fuera de la segunda vuelta.",
-      "objetividad": 88,
+      "fecha": "26 may 2026",
+      "tag": "De la Espriella · Perfil",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "CNN: ¿Cómo gobernaría Abelardo de la Espriella si gana la presidencia de Colombia?",
+      "resumen": "CNN en Español publicó el 26 de mayo un análisis del plan de gobierno de Abelardo De la Espriella, el outsider que emergió como segunda fuerza y disputa el paso a la segunda vuelta. El perfil detalla sus propuestas: reducción del Estado un 40%, crecimiento del 7% anual, eliminación de la 'Paz Total', mano dura con grupos armados y extradición como política de Estado.",
+      "objetividad": 91,
       "criterios": [
-        { "ok": true, "texto": "Datos de encuesta con escenarios de segunda vuelta definidos" },
-        { "ok": true, "texto": "Fuente internacional con cobertura electoral activa en Colombia" },
-        { "ok": true, "texto": "Publicado el 23 de mayo — cobertura a 8 días del 31 de mayo" },
-        { "ok": true, "texto": "Cubre los tres candidatos principales en escenarios cruzados" },
-        { "ok": false, "texto": "No especifica la encuestadora que realizó el sondeo en el titular" }
+        {
+          "ok": true,
+          "texto": "Análisis verificable de propuestas de gobierno del candidato"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente internacional de referencia de primer nivel"
+        },
+        {
+          "ok": true,
+          "texto": "Publicado el 26 de mayo — máxima actualidad"
+        },
+        {
+          "ok": true,
+          "texto": "Cobertura internacional del candidato que más creció en encuestas"
+        },
+        {
+          "ok": false,
+          "texto": "Perfil puede no capturar todos los matices del contexto político colombiano"
+        }
       ],
-      "url": "https://www.infobae.com/colombia/2026/05/23/nueva-encuesta-sacude-la-carrera-presidencial-asi-quedarian-los-duelos-entre-paloma-valencia-ivan-cepeda-y-de-la-espriella-en-segunda-vuelta/",
-      "url_label": "Infobae - Encuesta segunda vuelta: Cepeda gana vs. Valencia y vs. De la Espriella"
+      "url": "https://cnnespanol.cnn.com/2026/05/26/colombia/video/elecciones-colombia-quien-es-abelardo-espriella",
+      "url_label": "CNN en Español - ¿Cómo gobernaría De la Espriella?"
     }
   ],
   "sentimiento": {
@@ -175,11 +295,11 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 40,
-        "negativo": 38,
+        "positivo": 42,
+        "negativo": 36,
         "neutro": 22,
         "tendencia": "up",
-        "tendencia_texto": "26 may: Cierre masivo en Barranquilla (+50.000, 23 may) y candidatura confirmada por el CNE (25 may). CNC (24 may): 30,9%; Invamer (21 may): 31,6%. Promedio: ~31,3%, consolida segundo lugar. Escenario dominante: segunda vuelta vs. Cepeda. A 5 días del 31 de mayo."
+        "tendencia_texto": "27 may: Silencio electoral. Cierre masivo en Barranquilla (24 may) con minuto de silencio por coordinadores asesinados (Rogers Devia y Fabián Cardona). Candidatura ratificada por CNE (25 may). CNC (24 may): 30,9%; Invamer (21 may): 31,6%. Promedio: ~31,3%. Segundo lugar consolidado; escenario segunda vuelta Cepeda-De la Espriella como dominante. Primera vuelta: 4 días."
       },
       {
         "nombre": "Valencia",
@@ -188,7 +308,7 @@
         "negativo": 62,
         "neutro": 18,
         "tendencia": "down",
-        "tendencia_texto": "26 may: Cerró campaña en Movistar Arena (24 may) desafiando las encuestas. CNC (24 may): 12,6%; Invamer (21 may): 14%. Promedio: ~13,3%, distante del segundo lugar. Sigue en tercer lugar, segunda vuelta Cepeda-De la Espriella se consolida como escenario dominante. A 5 días del 31 de mayo."
+        "tendencia_texto": "27 may: Silencio electoral. Cerró campaña en Movistar Arena (24 may) desafiando encuestas: 'para ganar elecciones, no encuestas'. CNC (24 may): 12,6%; Invamer (21 may): 14%. Promedio: ~13,3%. Persiste en tercer lugar; segunda vuelta sin ella como escenario dominante. Primera vuelta: 4 días."
       },
       {
         "nombre": "Cepeda",
@@ -197,7 +317,7 @@
         "negativo": 28,
         "neutro": 20,
         "tendencia": "stable",
-        "tendencia_texto": "26 may: Mantiene liderazgo sólido en todos los sondeos. CNC (24 may): 33,4%; Invamer (21 may): 44,6%. Promedio: ~39,0%. Cierre de campaña con mensaje de continuidad y diálogo. Favorito para primera vuelta y ganaría en segunda vuelta según encuestas. A 5 días del 31 de mayo."
+        "tendencia_texto": "27 may: Silencio electoral. Cerró campaña en Barranquilla con +80.000 asistentes (24 may) con mensaje de diálogo y continuidad. CNC (24 may): 33,4%; Invamer (21 may): 44,6%. Promedio: ~39,0%. Líder sólido en todos los sondeos. Primera vuelta: 4 días."
       },
       {
         "nombre": "Fajardo",
@@ -240,7 +360,7 @@
       "pct": 31.3,
       "fuente_encuesta": "Promedio CNC/Invamer (may 2026)"
     },
-    "resumen_analisis": "Actualización 26 may 2026 — CNC (24 may): Cepeda 33,4%, De la Espriella 30,9%, Valencia 12,6%; Invamer (21 may): Cepeda 44,6%, De la Espriella 31,6%, Valencia 14%. Promedios: Cepeda ~39,0%, De la Espriella ~31,3%, Valencia ~13,3%. Cepeda lidera y cerró campaña con mensaje de diálogo. De la Espriella realiza cierre masivo en Barranquilla (+50.000) y candidatura confirmada por CNE. Valencia cerró en Movistar Arena pero persiste en tercer lugar. Escenario más probable: segunda vuelta Cepeda vs. De la Espriella. Primera vuelta: 31 de mayo de 2026."
+    "resumen_analisis": "Actualización 27 may 2026 — SILENCIO ELECTORAL. Última encuesta disponible: CNC (24 may): Cepeda 33,4%, De la Espriella 30,9%, Valencia 12,6%; Invamer (21 may): Cepeda 44,6%, De la Espriella 31,6%, Valencia 14%. Promedios: Cepeda ~39,0%, De la Espriella ~31,3%, Valencia ~13,3%. Cepeda cerró campaña en Barranquilla con +80.000. De la Espriella realizó cierre emotivo con minuto de silencio por coordinadores asesinados; candidatura ratificada por CNE. Valencia cerró en Movistar Arena desafiando encuestas. Escenario dominante: segunda vuelta Cepeda vs. De la Espriella. Primera vuelta: 31 de mayo de 2026."
   },
-  "ultimo_deploy": "2026-05-26T12:00:00Z"
+  "ultimo_deploy": "2026-05-27T12:00:00Z"
 }
