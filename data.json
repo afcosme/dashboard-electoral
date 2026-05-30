@@ -1,5 +1,5 @@
 {
-  "fecha": "29 de mayo de 2026",
+  "fecha": "30 de mayo de 2026",
   "noticias": [
     {
       "filter": "espriella",
@@ -185,17 +185,17 @@
       "filter": "cepeda",
       "fuente": "El Tiempo",
       "fuente_color": "#27ae60",
-      "fecha": "27 may 2026",
-      "tag": "Silencio Electoral · Exterior",
+      "fecha": "29 may 2026",
+      "tag": "Electoral · Seguridad",
       "tag_color": "#7f8c8d",
       "tag_bg": "rgba(127,140,141,0.15)",
-      "titulo": "Colombia entra en silencio electoral: tercera jornada de votaciones en el exterior a 4 días de los comicios",
-      "resumen": "Desde el 27 de mayo Colombia está en silencio electoral con miras a la primera vuelta del 31 de mayo. En el exterior comenzó la tercera jornada de votación, con participación en Miami, Madrid y Buenos Aires. La Registraduría suspende todos los servicios de registro civil e identificación hasta el 2 de junio.",
+      "titulo": "Ley Seca rige en Bogotá desde el 29 de mayo; Asocapitales pide garantizar la seguridad en la jornada electoral del 31",
+      "resumen": "Desde el 29 de mayo entró en vigor la Ley Seca en Bogotá con miras a la primera vuelta presidencial del 31 de mayo. Simultáneamente, Asocapitales —la asociación de alcaldes de capitales de departamento— pidió al Gobierno Nacional garantizar la seguridad durante toda la jornada electoral. Continúa además la quinta jornada de votaciones anticipadas en el exterior.",
       "objetividad": 97,
       "criterios": [
         {
           "ok": true,
-          "texto": "Hecho institucional verificable — Registraduría anuncia silencio electoral"
+          "texto": "Medida institucional verificable — Alcaldía de Bogotá anuncia Ley Seca"
         },
         {
           "ok": true,
@@ -203,19 +203,19 @@
         },
         {
           "ok": true,
-          "texto": "Publicado el 27 de mayo — inicio del silencio electoral"
+          "texto": "Publicado el 29 de mayo — víspera electoral"
         },
         {
           "ok": true,
-          "texto": "Imparcial e informativo, sin favorecer candidato"
+          "texto": "Imparcial: logística electoral sin favorecer candidato"
         },
         {
           "ok": true,
-          "texto": "Incluye contexto de la votación en el exterior"
+          "texto": "Alta relevancia cívica: afecta a millones de votantes en la capital"
         }
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-empieza-la-tercera-jornada-de-votaciones-en-el-exterior-quedan-4-dias-para-los-comicios-en-el-pais-3558695",
-      "url_label": "El Tiempo - Silencio electoral y tercera jornada de votaciones en el exterior"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-empieza-la-quinta-jornada-de-votaciones-en-el-exterior-quedan-2-dias-para-los-comicios-en-el-pais-3559279",
+      "url_label": "El Tiempo - Ley Seca en Bogotá y quinta jornada de votaciones en el exterior"
     },
     {
       "filter": "valencia",
@@ -254,40 +254,40 @@
       "url_label": "Cambio - La debacle de Paloma Valencia"
     },
     {
-      "filter": "espriella",
-      "fuente": "El Tiempo",
-      "fuente_color": "#e67e22",
-      "fecha": "25 may 2026",
-      "tag": "De la Espriella · CNE",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Sala Plena del CNE cerró investigación que pedía anular la candidatura de De la Espriella: aspiración quedó en firme",
-      "resumen": "La Sala Plena del Consejo Nacional Electoral cerró definitivamente la investigación que buscaba anular la candidatura presidencial de Abelardo De la Espriella, confirmando su inscripción para el 31 de mayo. La decisión despejó el camino legal del candidato a seis días de la primera vuelta.",
-      "objetividad": 94,
+      "filter": "valencia",
+      "fuente": "Pulzo",
+      "fuente_color": "#3498db",
+      "fecha": "29 may 2026",
+      "tag": "Valencia · Partido Liberal",
+      "tag_color": "#3498db",
+      "tag_bg": "rgba(52,152,219,0.15)",
+      "titulo": "Partido Liberal de César Gaviria da respaldo oficial a Paloma Valencia a dos días de la primera vuelta",
+      "resumen": "El expresidente César Gaviria Trujillo, en su calidad de director del Partido Liberal de Colombia, anunció oficialmente el respaldo de la colectividad a la candidatura presidencial de Paloma Valencia. El apoyo del liberalismo, a dos días del 31 de mayo, busca revitalizar la aspiración de la candidata del Centro Democrático, quien promedia 13% en encuestas pero confía en un efecto sorpresa.",
+      "objetividad": 92,
       "criterios": [
         {
           "ok": true,
-          "texto": "Decisión institucional verificable del Consejo Nacional Electoral"
+          "texto": "Respaldo político verificable — declaración oficial de César Gaviria"
         },
         {
           "ok": true,
-          "texto": "Fuente de referencia nacional de primer orden"
+          "texto": "Fuente digital de amplia cobertura política nacional"
         },
         {
           "ok": true,
-          "texto": "Publicado el 25 de mayo — alta relevancia jurídica y electoral"
+          "texto": "Publicado el 29 de mayo — altísima relevancia en cierre de campaña"
         },
         {
           "ok": true,
-          "texto": "Alto impacto: confirma candidatura definitivamente antes del 31 de mayo"
+          "texto": "Dato clave: potencial suma de votos liberales + uribistas"
         },
         {
           "ok": false,
-          "texto": "No detalla los motivos que llevaron al CNE a cerrar la investigación"
+          "texto": "Respaldo tardío de última hora — impacto electoral incierto"
         }
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sala-plena-del-cne-cerro-investigacion-que-pedi-anular-la-candidatura-de-abelardo-de-la-espriella-aspiracion-quedo-en-firme-3557335",
-      "url_label": "El Tiempo - CNE: candidatura de De la Espriella queda en firme"
+      "url": "https://www.pulzo.com/elecciones-colombia-2026/apoyo-partido-liberal-paloma-valencia-elecciones-presidenciales-2026-PP5197722",
+      "url_label": "Pulzo - Partido Liberal apoya a Paloma Valencia para la primera vuelta"
     }
   ],
   "sentimiento": {
@@ -299,7 +299,7 @@
         "negativo": 31,
         "neutro": 23,
         "tendencia": "up",
-        "tendencia_texto": "29 may: Silencio electoral — 2 días para la primera vuelta. Atacó a Valencia: 'Uno no puede pelear con la matemática' (Infobae, 28 may). Prometió retirarse definitivamente tras 4 años de gobierno (El Tiempo, 28 may). Polymarket: 43% probabilidad de victoria. Encuestas: CNC (24 may): 30,9%; Invamer (21 may): 31,7%. Promedio: ~31,3%. Segundo lugar consolidado; disputa directa con Cepeda."
+        "tendencia_texto": "30 may: VÍSPERA ELECTORAL — 1 día para la primera vuelta (31 may). Ley Seca rige en Bogotá; Asocapitales pide garantías de seguridad (El Tiempo, 29 may). Atacó a Valencia: 'Uno no puede pelear con la matemática' (Infobae, 28 may). Prometió retirarse definitivamente tras 4 años de gobierno (El Tiempo, 28 may). Polymarket: 43% probabilidad de victoria. Encuestas: CNC (24 may): 30,9%; Invamer (21 may): 31,7%. Promedio: ~31,3%. Segundo lugar consolidado; duelo directo con Cepeda en segunda vuelta."
       },
       {
         "nombre": "Valencia",
@@ -308,7 +308,7 @@
         "negativo": 68,
         "neutro": 17,
         "tendencia": "down",
-        "tendencia_texto": "29 may: Silencio electoral — 2 días para la primera vuelta. Cambio: 'La debacle de Valencia' — pasó de 18% a ~13% en dos meses. Atacada por De la Espriella: 'No puede pelear con la matemática'. Llamó 'chimbas' a las encuestas (Infobae, 27 may). Encuestas: CNC (24 may): 12,6%; Invamer (21 may): 14,0%. Promedio: ~13,3%. Tercer lugar consolidado; segunda vuelta sin ella como escenario dominante."
+        "tendencia_texto": "30 may: VÍSPERA ELECTORAL — 1 día para la primera vuelta (31 may). Partido Liberal de Gaviria le dio respaldo oficial (Pulzo, 29 may) — movimiento de última hora. Llamó 'chimbas' a las encuestas y aseguró que no hay plan B (Infobae, 27 may). Encuestas: CNC (24 may): 12,6%; Invamer (21 may): 14,0%. Promedio: ~13,3%. Tercer lugar; segunda vuelta sin ella como escenario dominante."
       },
       {
         "nombre": "Cepeda",
@@ -317,7 +317,7 @@
         "negativo": 26,
         "neutro": 21,
         "tendencia": "stable",
-        "tendencia_texto": "29 may: Silencio electoral — 2 días para la primera vuelta. Lidera inscripción de testigos electorales (Infobae, 28 may). Cerró campaña con mensaje de diálogo sin autoritarismo frente a la seguridad total de Valencia (El Colombiano, 27 may). Encuestas: CNC (24 may): 33,4%; Invamer (21 may): 44,6%. Promedio: ~39,0%. Favorito consolidado para pasar a segunda vuelta."
+        "tendencia_texto": "30 may: VÍSPERA ELECTORAL — 1 día para la primera vuelta (31 may). CNN publicó perfil completo: 'El candidato de Petro a las elecciones de 2026' (27 may). Lideró inscripción de testigos electorales (Infobae, 28 may). Cerró campaña con mensaje de diálogo sin autoritarismo (El Colombiano, 27 may). Encuestas: CNC (24 may): 33,4%; Invamer (21 may): 44,6%. Promedio: ~39,0%. Favorito consolidado para ganar primera vuelta."
       },
       {
         "nombre": "Fajardo",
@@ -360,7 +360,7 @@
       "pct": 31.3,
       "fuente_encuesta": "Promedio CNC/Invamer (may 2026)"
     },
-    "resumen_analisis": "Actualización 29 may 2026 — SILENCIO ELECTORAL (2 días para la primera vuelta). Última encuesta disponible: CNC (24 may): Cepeda 33,4%, De la Espriella 30,9%, Valencia 12,6%; Invamer (21 may): Cepeda 44,6%, De la Espriella 31,7%, Valencia 14,0%. Promedios: Cepeda ~39,0%, De la Espriella ~31,3%, Valencia ~13,3%. De la Espriella intensificó ataques a Valencia: 'No puede pelear con la matemática'. Cambio analizó la caída de Valencia: de 18% en marzo a 13% ahora. Valencia y Cepeda cerraron campañas con mensajes opuestos: seguridad total vs. diálogo. Polymarket: De la Espriella 43% probabilidad de victoria. Escenario dominante: segunda vuelta Cepeda vs. De la Espriella. Primera vuelta: 31 de mayo de 2026."
+    "resumen_analisis": "Actualización 30 may 2026 — VÍSPERA ELECTORAL (1 día para la primera vuelta). Partido Liberal de Gaviria respaldó a Paloma Valencia (Pulzo, 29 may) — movimiento de último minuto. Ley Seca rige en Bogotá; Asocapitales pide garantías de seguridad (El Tiempo, 29 may). Última encuesta: CNC (24 may): Cepeda 33,4%, De la Espriella 30,9%, Valencia 12,6%; Invamer (21 may): Cepeda 44,6%, De la Espriella 31,7%, Valencia 14,0%. Promedios: Cepeda ~39,0%, De la Espriella ~31,3%, Valencia ~13,3%. De la Espriella atacó a Valencia: 'No puede pelear con la matemática'. Polymarket: De la Espriella 43% probabilidad de victoria. Escenario dominante: segunda vuelta Cepeda vs. De la Espriella el 21 de junio. Primera vuelta: 31 de mayo de 2026."
   },
-  "ultimo_deploy": "2026-05-29T08:00:00Z"
+  "ultimo_deploy": "2026-05-30T08:00:00Z"
 }
