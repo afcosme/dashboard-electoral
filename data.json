@@ -1,21 +1,57 @@
 {
-  "fecha": "30 de mayo de 2026",
+  "fecha": "31 de mayo de 2026",
   "noticias": [
     {
-      "filter": "espriella",
-      "fuente": "El Tiempo",
-      "fuente_color": "#e67e22",
-      "fecha": "28 may 2026",
-      "tag": "De la Espriella · Declaración",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella: 'Mi tarea será de cuatro años y, una vez concluya, me retiraré de la vida pública para siempre'",
-      "resumen": "A tres días de la primera vuelta, Abelardo De la Espriella hizo una declaración inédita: prometió que si gana la presidencia gobernará cuatro años y se retirará definitivamente de la vida pública. La promesa refuerza su imagen de candidato 'no político' y busca atraer a ciudadanos hastiados de la clase política tradicional.",
-      "objetividad": 93,
+      "filter": "cepeda",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#27ae60",
+      "fecha": "31 may 2026",
+      "tag": "DÍA ELECTORAL · EN VIVO",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "Elecciones Colombia 2026 EN VIVO: apertura de mesas, reporte de orden público y noticias relevantes del 31 de mayo",
+      "resumen": "Colombia celebra hoy su primera vuelta presidencial. Las mesas abrieron a las 8:00 a.m. con más de 41 millones de ciudadanos habilitados para votar. La Registraduría Nacional y la Policía reportan normalidad en la apertura. Los resultados preliminares se esperan entre las 6:00 y las 6:30 p.m. Si ningún candidato supera el 50%+1, habrá segunda vuelta el 21 de junio de 2026.",
+      "objetividad": 98,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaración directa y verificable del candidato en entrevista con El Tiempo"
+          "texto": "Cobertura institucional en tiempo real — Infobae EN VIVO"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente de referencia internacional con cobertura Colombia"
+        },
+        {
+          "ok": true,
+          "texto": "Publicado el 31 de mayo — DÍA ELECTORAL"
+        },
+        {
+          "ok": true,
+          "texto": "Imparcial: seguimiento de la jornada sin favorecer candidato"
+        },
+        {
+          "ok": true,
+          "texto": "Alta relevancia cívica: afecta a más de 41 millones de votantes"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/05/31/elecciones-en-colombia-2026-en-vivo-reporte-de-orden-publico-apertura-de-mesas-y-noticias-relevantes-hoy-31-de-mayo/",
+      "url_label": "Infobae EN VIVO — Jornada electoral 31 de mayo"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Tiempo",
+      "fuente_color": "#e67e22",
+      "fecha": "31 may 2026",
+      "tag": "Electoral · Primera Vuelta",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "Colombia decide este domingo 31 de mayo: así llega el país a la cita con Cepeda, De la Espriella y Valencia",
+      "resumen": "El Tiempo publicó el gran análisis del día electoral: Colombia llega a la primera vuelta con Iván Cepeda como favorito en encuestas (~39%), Abelardo De la Espriella segundo (~31%) y Paloma Valencia tercera (~13%). La jornada transcurre en calma; los resultados determinarán si hay segunda vuelta el 21 de junio. El escenario dominante apunta a un ballotage entre Cepeda y De la Espriella.",
+      "objetividad": 96,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Análisis completo del panorama electoral basado en encuestas verificadas"
         },
         {
           "ok": true,
@@ -23,35 +59,35 @@
         },
         {
           "ok": true,
-          "texto": "Publicado el 28 de mayo — máxima actualidad a 3 días de la primera vuelta"
+          "texto": "Publicado el 31 de mayo — máxima actualidad"
         },
         {
           "ok": true,
-          "texto": "Alta relevancia: mensaje diferenciador clave para el cierre de campaña"
+          "texto": "Cubre a los tres candidatos con el mismo nivel de detalle"
         },
         {
-          "ok": false,
-          "texto": "Promesa de retiro sin mecanismos de cumplimiento verificables"
+          "ok": true,
+          "texto": "Contextualiza la jornada con datos históricos y electorales"
         }
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-mi-tarea-sera-de-cuatro-anos-y-una-vez-concluya-me-retirare-de-la-vida-publica-para-siempre-3558910",
-      "url_label": "El Tiempo - De la Espriella promete retirarse tras cuatro años de gobierno"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cepeda-paloma-abelardo-elecciones-colombia-decide-este-domingo-31-de-mayo-asi-llega-el-pais-a-la-cita-en-esta-primera-vuelta-3559432",
+      "url_label": "El Tiempo — Colombia decide este domingo 31 de mayo"
     },
     {
       "filter": "cepeda",
       "fuente": "Infobae Colombia",
       "fuente_color": "#27ae60",
-      "fecha": "28 may 2026",
-      "tag": "Electoral · Testigos",
-      "tag_color": "#7f8c8d",
-      "tag_bg": "rgba(127,140,141,0.15)",
-      "titulo": "Paloma Valencia, Abelardo de la Espriella e Iván Cepeda lideran la inscripción de testigos electorales",
-      "resumen": "A tres días de la primera vuelta del 31 de mayo, las campañas de los tres candidatos principales encabezan la inscripción de testigos electorales ante la Registraduría. El dato refleja la capacidad organizativa de cada movimiento y su despliegue en los puestos de votación del país.",
+      "fecha": "30 may 2026",
+      "tag": "Cepeda · Jornada",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Candidatos tienen todo listo para su jornada: Cepeda vota en Kennedy a las 10 a.m. y espera resultados en el Hotel Tequendama",
+      "resumen": "La víspera electoral reveló los planes de los candidatos para el día de las elecciones: Iván Cepeda votará en la localidad de Kennedy a las 10:00 a.m. —el mismo punto donde ha participado en procesos anteriores— y recibirá los resultados en el Salón Rojo del Hotel Tequendama. Las campañas de los tres principales candidatos confirmaron sus puestos de votación ante la Registraduría.",
       "objetividad": 97,
       "criterios": [
         {
           "ok": true,
-          "texto": "Dato institucional verificable ante la Registraduría Nacional"
+          "texto": "Información logística verificable confirmada por las propias campañas"
         },
         {
           "ok": true,
@@ -59,199 +95,19 @@
         },
         {
           "ok": true,
-          "texto": "Publicado el 28 de mayo — dato clave del cierre de campaña"
+          "texto": "Publicado el 30 de mayo — víspera electoral"
         },
         {
           "ok": true,
-          "texto": "Imparcial: menciona a los tres principales candidatos por igual"
+          "texto": "Imparcial: cubre a los tres candidatos principales"
         },
         {
           "ok": true,
-          "texto": "Indica capacidad organizativa real de las campañas"
+          "texto": "Dato relevante: refleja la organización y presencia territorial de las campañas"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/05/28/elecciones-presidenciales-paloma-valencia-abelardo-de-la-espriella-e-ivan-cepeda-lideran-la-inscripcion-de-testigos-electorales/",
-      "url_label": "Infobae - Los tres candidatos lideran inscripción de testigos electorales"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#e67e22",
-      "fecha": "28 may 2026",
-      "tag": "De la Espriella · Valencia",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella atacó a Valencia y aseguró que no tiene opción de llegar a la segunda vuelta: 'Uno no puede pelear con la matemática'",
-      "resumen": "A dos días de la primera vuelta del 31 de mayo, Abelardo De la Espriella intensificó sus ataques a Paloma Valencia y descartó que pueda llegar al ballotage. 'Uno no puede pelear con la matemática', declaró el abogado costeño, reforzando su posición como segundo en encuestas con ~31% frente al 12-13% de la candidata uribista.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaración directa y verificable del candidato"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente internacional de referencia con cobertura Colombia"
-        },
-        {
-          "ok": true,
-          "texto": "Publicado el 28 de mayo — altísima relevancia en cierre de campaña"
-        },
-        {
-          "ok": true,
-          "texto": "Refleja dinámica electoral real respaldada por encuestas"
-        },
-        {
-          "ok": false,
-          "texto": "Declaración con claro componente estratégico de campaña"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/05/28/abelardo-de-la-espriella-afirmo-que-paloma-valencia-no-tiene-opcion-de-llegar-a-la-segunda-vuelta-en-las-elecciones-del-31-de-mayo/",
-      "url_label": "Infobae - De la Espriella: 'Valencia no puede pelear con la matemática'"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#3498db",
-      "fecha": "27 may 2026",
-      "tag": "Valencia · Encuestas",
-      "tag_color": "#3498db",
-      "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Paloma Valencia cuestionó la credibilidad de las encuestas: 'Son como los contadores de los mafiosos, chimbas'",
-      "resumen": "Con el inicio del silencio electoral, Paloma Valencia declaró que no hay 'plan B' en su campaña y descartó los sondeos que la ubican en tercer lugar. 'Son como los contadores de los mafiosos, chimbas, no crean en eso', afirmó la candidata del Centro Democrático, reafirmando su confianza en la victoria a pesar de promediar ~13% en las encuestas.",
-      "objetividad": 91,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaración directa y verificable de la candidata — 27 may"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente internacional de referencia con cobertura Colombia"
-        },
-        {
-          "ok": true,
-          "texto": "Publicado el 27 de mayo — inicio del silencio electoral"
-        },
-        {
-          "ok": true,
-          "texto": "Alta relevancia: estrategia de campaña en respuesta a los sondeos"
-        },
-        {
-          "ok": false,
-          "texto": "Tono controvertido que puede afectar la imagen institucional de la candidata"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/05/27/paloma-valencia-afirmo-que-no-hay-plan-b-en-su-campana-y-cuestiono-la-credibilidad-de-las-encuestas-electorales-chimbas-no-crean-en-eso/",
-      "url_label": "Infobae - Valencia: 'Las encuestas son chimbas, no crean en eso'"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "El Colombiano",
-      "fuente_color": "#3498db",
-      "fecha": "27 may 2026",
-      "tag": "Valencia · Cepeda · Cierres",
-      "tag_color": "#7f8c8d",
-      "tag_bg": "rgba(127,140,141,0.15)",
-      "titulo": "Valencia y Cepeda cerraron sus campañas con mensajes opuestos: seguridad total vs. diálogo sin autoritarismo",
-      "resumen": "El Colombiano documentó el marcado contraste entre los cierres de campaña de Paloma Valencia e Iván Cepeda. Valencia apostó por el endurecimiento en seguridad y la defensa del orden constitucional; Cepeda llamó al diálogo sin autoritarismo y a la continuidad del cambio. Los cierres sellaron las propuestas diferenciadas de los dos candidatos que disputaban el segundo puesto con De la Espriella.",
-      "objetividad": 95,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Cobertura comparativa verificable de los dos cierres de campaña"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente regional de primer orden — El Colombiano"
-        },
-        {
-          "ok": true,
-          "texto": "Publicado el 27 de mayo — jornada de cierres de campaña"
-        },
-        {
-          "ok": true,
-          "texto": "Imparcial: cubre a ambos candidatos con el mismo nivel de detalle"
-        },
-        {
-          "ok": true,
-          "texto": "Alta relevancia: refleja la diferenciación ideológica central de la campaña"
-        }
-      ],
-      "url": "https://www.elcolombiano.com/especiales/elecciones-2026/cierre-campana-paloma-valencia-ivan-cepeda-elecciones-colombia-2026-PM36901853",
-      "url_label": "El Colombiano - Cierres de campaña: seguridad total vs. diálogo"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "El Tiempo",
-      "fuente_color": "#27ae60",
-      "fecha": "29 may 2026",
-      "tag": "Electoral · Seguridad",
-      "tag_color": "#7f8c8d",
-      "tag_bg": "rgba(127,140,141,0.15)",
-      "titulo": "Ley Seca rige en Bogotá desde el 29 de mayo; Asocapitales pide garantizar la seguridad en la jornada electoral del 31",
-      "resumen": "Desde el 29 de mayo entró en vigor la Ley Seca en Bogotá con miras a la primera vuelta presidencial del 31 de mayo. Simultáneamente, Asocapitales —la asociación de alcaldes de capitales de departamento— pidió al Gobierno Nacional garantizar la seguridad durante toda la jornada electoral. Continúa además la quinta jornada de votaciones anticipadas en el exterior.",
-      "objetividad": 97,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Medida institucional verificable — Alcaldía de Bogotá anuncia Ley Seca"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente de referencia nacional de primer orden"
-        },
-        {
-          "ok": true,
-          "texto": "Publicado el 29 de mayo — víspera electoral"
-        },
-        {
-          "ok": true,
-          "texto": "Imparcial: logística electoral sin favorecer candidato"
-        },
-        {
-          "ok": true,
-          "texto": "Alta relevancia cívica: afecta a millones de votantes en la capital"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-empieza-la-quinta-jornada-de-votaciones-en-el-exterior-quedan-2-dias-para-los-comicios-en-el-pais-3559279",
-      "url_label": "El Tiempo - Ley Seca en Bogotá y quinta jornada de votaciones en el exterior"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "Cambio Colombia",
-      "fuente_color": "#3498db",
-      "fecha": "27 may 2026",
-      "tag": "Valencia · Análisis",
-      "tag_color": "#3498db",
-      "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "La debacle de Paloma Valencia: de empatar con Cepeda a quedar fuera de la segunda vuelta",
-      "resumen": "La revista Cambio analizó cómo Paloma Valencia pasó de empatar técnicamente con Iván Cepeda hace dos meses a quedar fuera del escenario de segunda vuelta según todas las encuestas. La candidata del Centro Democrático, que promedió 18% en marzo, ha caído a cerca del 13% en las mediciones más recientes, y el duelo Cepeda-De la Espriella se consolida como el escenario dominante.",
-      "objetividad": 88,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Análisis apoyado en datos de encuestas verificables"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente digital especializada en política colombiana"
-        },
-        {
-          "ok": true,
-          "texto": "Publicado el 27 de mayo — alta relevancia pre-electoral"
-        },
-        {
-          "ok": true,
-          "texto": "Contextualiza la evolución de la campaña con datos históricos"
-        },
-        {
-          "ok": false,
-          "texto": "El titular 'debacle' puede reflejar posición editorial del medio"
-        }
-      ],
-      "url": "https://cambiocolombia.com/elecciones-colombia-2026/articulo/2026/5/debacle-paloma-valencia",
-      "url_label": "Cambio - La debacle de Paloma Valencia"
+      "url": "https://www.infobae.com/colombia/2026/05/30/candidatos-tienen-todo-listo-para-su-jornada-electoral-en-estos-puntos-votaran-los-principales-aspirantes-a-la-casa-de-narino/",
+      "url_label": "Infobae — Candidatos listos: puestos de votación confirmados"
     },
     {
       "filter": "valencia",
@@ -287,7 +143,151 @@
         }
       ],
       "url": "https://www.pulzo.com/elecciones-colombia-2026/apoyo-partido-liberal-paloma-valencia-elecciones-presidenciales-2026-PP5197722",
-      "url_label": "Pulzo - Partido Liberal apoya a Paloma Valencia para la primera vuelta"
+      "url_label": "Pulzo — Partido Liberal apoya a Paloma Valencia para la primera vuelta"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "El Tiempo",
+      "fuente_color": "#27ae60",
+      "fecha": "29 may 2026",
+      "tag": "Electoral · Seguridad",
+      "tag_color": "#7f8c8d",
+      "tag_bg": "rgba(127,140,141,0.15)",
+      "titulo": "Ley Seca rige en Bogotá desde el 29 de mayo; Asocapitales pide garantizar la seguridad en la jornada electoral del 31",
+      "resumen": "Desde el 29 de mayo entró en vigor la Ley Seca en Bogotá con miras a la primera vuelta presidencial del 31 de mayo. Simultáneamente, Asocapitales —la asociación de alcaldes de capitales de departamento— pidió al Gobierno Nacional garantizar la seguridad durante toda la jornada electoral. Continúa además la quinta jornada de votaciones anticipadas en el exterior.",
+      "objetividad": 97,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Medida institucional verificable — Alcaldía de Bogotá anuncia Ley Seca"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente de referencia nacional de primer orden"
+        },
+        {
+          "ok": true,
+          "texto": "Publicado el 29 de mayo — víspera electoral"
+        },
+        {
+          "ok": true,
+          "texto": "Imparcial: logística electoral sin favorecer candidato"
+        },
+        {
+          "ok": true,
+          "texto": "Alta relevancia cívica: afecta a millones de votantes en la capital"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-empieza-la-quinta-jornada-de-votaciones-en-el-exterior-quedan-2-dias-para-los-comicios-en-el-pais-3559279",
+      "url_label": "El Tiempo — Ley Seca en Bogotá y garantías de seguridad electoral"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#e67e22",
+      "fecha": "28 may 2026",
+      "tag": "De la Espriella · Valencia",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella atacó a Valencia y aseguró que no tiene opción de llegar a la segunda vuelta: 'Uno no puede pelear con la matemática'",
+      "resumen": "A tres días de la primera vuelta del 31 de mayo, Abelardo De la Espriella intensificó sus ataques a Paloma Valencia y descartó que pueda llegar al ballotage. 'Uno no puede pelear con la matemática', declaró el abogado costeño, reforzando su posición como segundo en encuestas con ~31% frente al ~13% de la candidata uribista.",
+      "objetividad": 90,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Declaración directa y verificable del candidato"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente internacional de referencia con cobertura Colombia"
+        },
+        {
+          "ok": true,
+          "texto": "Publicado el 28 de mayo — altísima relevancia en cierre de campaña"
+        },
+        {
+          "ok": true,
+          "texto": "Refleja dinámica electoral real respaldada por encuestas"
+        },
+        {
+          "ok": false,
+          "texto": "Declaración con claro componente estratégico de campaña"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/05/28/abelardo-de-la-espriella-afirmo-que-paloma-valencia-no-tiene-opcion-de-llegar-a-la-segunda-vuelta-en-las-elecciones-del-31-de-mayo/",
+      "url_label": "Infobae — De la Espriella: 'Valencia no puede pelear con la matemática'"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Tiempo",
+      "fuente_color": "#e67e22",
+      "fecha": "28 may 2026",
+      "tag": "De la Espriella · Declaración",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella: 'Mi tarea será de cuatro años y, una vez concluya, me retiraré de la vida pública para siempre'",
+      "resumen": "A tres días de la primera vuelta, Abelardo De la Espriella hizo una declaración inédita: prometió que si gana la presidencia gobernará cuatro años y se retirará definitivamente de la vida pública. La promesa refuerza su imagen de candidato 'no político' y busca atraer a ciudadanos hastiados de la clase política tradicional.",
+      "objetividad": 93,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Declaración directa y verificable del candidato en entrevista con El Tiempo"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente de referencia nacional de primer orden"
+        },
+        {
+          "ok": true,
+          "texto": "Publicado el 28 de mayo — máxima actualidad a 3 días de la primera vuelta"
+        },
+        {
+          "ok": true,
+          "texto": "Alta relevancia: mensaje diferenciador clave para el cierre de campaña"
+        },
+        {
+          "ok": false,
+          "texto": "Promesa de retiro sin mecanismos de cumplimiento verificables"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-mi-tarea-sera-de-cuatro-anos-y-una-vez-concluya-me-retirare-de-la-vida-publica-para-siempre-3558910",
+      "url_label": "El Tiempo — De la Espriella promete retirarse tras cuatro años de gobierno"
+    },
+    {
+      "filter": "valencia",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#3498db",
+      "fecha": "27 may 2026",
+      "tag": "Valencia · Encuestas",
+      "tag_color": "#3498db",
+      "tag_bg": "rgba(52,152,219,0.15)",
+      "titulo": "Paloma Valencia cuestionó la credibilidad de las encuestas: 'Son como los contadores de los mafiosos, chimbas'",
+      "resumen": "Con el inicio del silencio electoral, Paloma Valencia declaró que no hay 'plan B' en su campaña y descartó los sondeos que la ubican en tercer lugar. 'Son como los contadores de los mafiosos, chimbas, no crean en eso', afirmó la candidata del Centro Democrático, reafirmando su confianza en la victoria a pesar de promediar ~13% en las encuestas.",
+      "objetividad": 91,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Declaración directa y verificable de la candidata — 27 may"
+        },
+        {
+          "ok": true,
+          "texto": "Fuente internacional de referencia con cobertura Colombia"
+        },
+        {
+          "ok": true,
+          "texto": "Publicado el 27 de mayo — inicio del silencio electoral"
+        },
+        {
+          "ok": true,
+          "texto": "Alta relevancia: estrategia de campaña en respuesta a los sondeos"
+        },
+        {
+          "ok": false,
+          "texto": "Tono controvertido que puede afectar la imagen institucional de la candidata"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/05/27/paloma-valencia-afirmo-que-no-hay-plan-b-en-su-campana-y-cuestiono-la-credibilidad-de-las-encuestas-electorales-chimbas-no-crean-en-eso/",
+      "url_label": "Infobae — Valencia: 'Las encuestas son chimbas, no crean en eso'"
     }
   ],
   "sentimiento": {
@@ -299,7 +299,7 @@
         "negativo": 31,
         "neutro": 23,
         "tendencia": "up",
-        "tendencia_texto": "30 may: VÍSPERA ELECTORAL — 1 día para la primera vuelta (31 may). Ley Seca rige en Bogotá; Asocapitales pide garantías de seguridad (El Tiempo, 29 may). Atacó a Valencia: 'Uno no puede pelear con la matemática' (Infobae, 28 may). Prometió retirarse definitivamente tras 4 años de gobierno (El Tiempo, 28 may). Polymarket: 43% probabilidad de victoria. Encuestas: CNC (24 may): 30,9%; Invamer (21 may): 31,7%. Promedio: ~31,3%. Segundo lugar consolidado; duelo directo con Cepeda en segunda vuelta."
+        "tendencia_texto": "31 may: DÍA ELECTORAL — Colombia vota hoy en primera vuelta. Mesas abiertas 8 a.m.–4 p.m.; resultados esperados ~6:30 p.m. Atacó a Valencia: 'Uno no puede pelear con la matemática' (Infobae, 28 may). Prometió retirarse definitivamente tras 4 años de gobierno (El Tiempo, 28 may). Encuestas finales: Invamer (21 may): 31,7%; CNC (24 may): 30,9%. Promedio: ~31,3%. Segundo lugar consolidado; duelo directo con Cepeda en segunda vuelta."
       },
       {
         "nombre": "Valencia",
@@ -308,7 +308,7 @@
         "negativo": 68,
         "neutro": 17,
         "tendencia": "down",
-        "tendencia_texto": "30 may: VÍSPERA ELECTORAL — 1 día para la primera vuelta (31 may). Partido Liberal de Gaviria le dio respaldo oficial (Pulzo, 29 may) — movimiento de última hora. Llamó 'chimbas' a las encuestas y aseguró que no hay plan B (Infobae, 27 may). Encuestas: CNC (24 may): 12,6%; Invamer (21 may): 14,0%. Promedio: ~13,3%. Tercer lugar; segunda vuelta sin ella como escenario dominante."
+        "tendencia_texto": "31 may: DÍA ELECTORAL — Colombia vota hoy. Partido Liberal de Gaviria dio respaldo oficial de último minuto (Pulzo, 29 may). Llamó 'chimbas' a las encuestas y aseguró que no hay plan B (Infobae, 27 may). Encuestas finales: Invamer (21 may): 14,0%; CNC (24 may): 12,6%. Promedio: ~13,3%. Tercer lugar; escenario dominante la excluye de segunda vuelta."
       },
       {
         "nombre": "Cepeda",
@@ -317,7 +317,7 @@
         "negativo": 26,
         "neutro": 21,
         "tendencia": "stable",
-        "tendencia_texto": "30 may: VÍSPERA ELECTORAL — 1 día para la primera vuelta (31 may). CNN publicó perfil completo: 'El candidato de Petro a las elecciones de 2026' (27 may). Lideró inscripción de testigos electorales (Infobae, 28 may). Cerró campaña con mensaje de diálogo sin autoritarismo (El Colombiano, 27 may). Encuestas: CNC (24 may): 33,4%; Invamer (21 may): 44,6%. Promedio: ~39,0%. Favorito consolidado para ganar primera vuelta."
+        "tendencia_texto": "31 may: DÍA ELECTORAL — Colombia vota hoy. Cepeda ejerce su voto en Kennedy a las 10:00 a.m. y recibirá resultados en el Salón Rojo del Hotel Tequendama (Infobae EN VIVO, 31 may). CNN publicó perfil completo: 'El candidato de Petro' (27-29 may). Encuestas finales: Invamer (21 may): 44,6%; CNC (24 may): 33,4%. Promedio: ~39,0%. Favorito consolidado para ganar primera vuelta."
       },
       {
         "nombre": "Fajardo",
@@ -360,7 +360,7 @@
       "pct": 31.3,
       "fuente_encuesta": "Promedio CNC/Invamer (may 2026)"
     },
-    "resumen_analisis": "Actualización 30 may 2026 — VÍSPERA ELECTORAL (1 día para la primera vuelta). Partido Liberal de Gaviria respaldó a Paloma Valencia (Pulzo, 29 may) — movimiento de último minuto. Ley Seca rige en Bogotá; Asocapitales pide garantías de seguridad (El Tiempo, 29 may). Última encuesta: CNC (24 may): Cepeda 33,4%, De la Espriella 30,9%, Valencia 12,6%; Invamer (21 may): Cepeda 44,6%, De la Espriella 31,7%, Valencia 14,0%. Promedios: Cepeda ~39,0%, De la Espriella ~31,3%, Valencia ~13,3%. De la Espriella atacó a Valencia: 'No puede pelear con la matemática'. Polymarket: De la Espriella 43% probabilidad de victoria. Escenario dominante: segunda vuelta Cepeda vs. De la Espriella el 21 de junio. Primera vuelta: 31 de mayo de 2026."
+    "resumen_analisis": "31 may 2026 — DÍA ELECTORAL: PRIMERA VUELTA EN CURSO. 41 millones de colombianos acuden hoy a las urnas. Mesas abiertas desde las 8:00 a.m. hasta las 4:00 p.m. Resultados preliminares esperados hacia las 6:30 p.m. Iván Cepeda vota en Kennedy a las 10 a.m. y recibirá resultados en el Hotel Tequendama. Partido Liberal de Gaviria respaldó a Valencia en movimiento de última hora (29 may). Última encuesta Invamer (21 may): Cepeda 44,6%, De la Espriella 31,7%, Valencia 14,0%. CNC (24 may): Cepeda 33,4%, De la Espriella 30,9%, Valencia 12,6%. Promedios: Cepeda ~39,0%, De la Espriella ~31,3%, Valencia ~13,3%. Si ningún candidato supera el 50%+1, habrá segunda vuelta el 21 de junio de 2026."
   },
-  "ultimo_deploy": "2026-05-30T08:00:00Z"
+  "ultimo_deploy": "2026-05-31T08:30:00Z"
 }
