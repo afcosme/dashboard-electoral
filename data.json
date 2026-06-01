@@ -1,293 +1,234 @@
 {
   "fecha": "1 de junio de 2026",
+  "modo": "segunda_vuelta",
+  "primera_vuelta": {
+    "espriella": 44.21,
+    "cepeda": 41.01,
+    "valencia": 6.62,
+    "fajardo": 4.04,
+    "lopez": 0.78,
+    "blanco": 1.74,
+    "fecha": "31 de mayo de 2026",
+    "fuente": "Registraduría Nacional del Estado Civil"
+  },
+  "alianzas": [
+    {
+      "de": "Paloma Valencia",
+      "de_partido": "Centro Democrático",
+      "de_votos_pct": 6.62,
+      "hacia": "espriella",
+      "tipo": "apoyo_oficial",
+      "descripcion": "Valencia anunció su respaldo formal a De la Espriella y llamó a sus votantes a unirse a la 'derecha unida' para el 21 de junio. Sumó la maquinaria del Centro Democrático y el respaldo explícito de Álvaro Uribe.",
+      "fecha": "1 jun 2026",
+      "fuente": "El Tiempo",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-derecha-ira-unida-a-la-segunda-vuelta-con-abelardo-de-la-espriella-para-donde-van-los-votos-de-sergio-fajardo-y-claudia-lopez-3561001",
+      "impacto": "alto"
+    },
+    {
+      "de": "Álvaro Uribe Vélez",
+      "de_partido": "Centro Democrático (fundador)",
+      "de_votos_pct": null,
+      "hacia": "espriella",
+      "tipo": "apoyo_oficial",
+      "descripcion": "El expresidente y jefe máximo del Centro Democrático ratificó su apoyo a De la Espriella para la segunda vuelta del 21 de junio. Uribe es el activo político más valioso de la derecha colombiana y moviliza millones de votos históricos del uribismo.",
+      "fecha": "1 jun 2026",
+      "fuente": "El Tiempo",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-derecha-ira-unida-a-la-segunda-vuelta-con-abelardo-de-la-espriella-para-donde-van-los-votos-de-sergio-fajardo-y-claudia-lopez-3561001",
+      "impacto": "alto"
+    },
+    {
+      "de": "Sergio Fajardo",
+      "de_partido": "Independiente",
+      "de_votos_pct": 4.04,
+      "hacia": "blanco",
+      "tipo": "voto_blanco",
+      "descripcion": "Fajardo descartó apoyar a cualquiera de los dos finalistas argumentando que ninguno representa el centro real que Colombia necesita. Promueve el voto en blanco entre sus seguidores y del movimiento 'Colombia Humana'. Sus votantes son heterogéneos y su traslado no es automático.",
+      "fecha": "1 jun 2026",
+      "fuente": "El Colombiano",
+      "url": "https://www.elcolombiano.com/colombia/politica/elecciones-2026-votos-perdedores-primera-vuelta-cotizan-alza-OM37199799",
+      "impacto": "medio"
+    },
+    {
+      "de": "Claudia López",
+      "de_partido": "Alianza Verde",
+      "de_votos_pct": 0.78,
+      "hacia": "pendiente",
+      "tipo": "sin_definir",
+      "descripcion": "López rechazó explícitamente apoyar a De la Espriella, pero no ha anunciado respaldo a Cepeda. Tomará días para reflexionar. Analistas señalan que el perfil progresista de sus votantes los inclina naturalmente hacia el candidato del Pacto Histórico, aunque el volumen es pequeño (0.78%).",
+      "fecha": "1 jun 2026",
+      "fuente": "El Tiempo",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-derecha-ira-unida-a-la-segunda-vuelta-con-abelardo-de-la-espriella-para-donde-van-los-votos-de-sergio-fajardo-y-claudia-lopez-3561001",
+      "impacto": "bajo"
+    }
+  ],
   "noticias": [
     {
       "filter": "espriella",
       "fuente": "Infobae Colombia",
       "fuente_color": "#e67e22",
       "fecha": "31 may 2026",
-      "tag": "RESULTADO · PRIMERA VUELTA",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella hace historia: obtiene la votación más alta registrada por un candidato en primera vuelta",
-      "resumen": "Con 99,87% de mesas escrutadas, Abelardo De la Espriella obtuvo 10.346.010 votos (43,7%), convirtiéndose en el candidato con la mayor votación en primera vuelta en la historia de Colombia. Iván Cepeda quedó segundo con 9.680.095 votos (40,9%). La segunda vuelta se realizará el 21 de junio de 2026.",
-      "objetividad": 99,
+      "tag": "De la Espriella · 1ra Vuelta",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "Sorpresa: De la Espriella gana la primera vuelta con 44,21% y disputará presidencia con Cepeda",
+      "resumen": "Abelardo de la Espriella obtuvo el 44,21% de los votos en la primera vuelta del 31 de mayo, superando a Iván Cepeda (41,01%) y dejando fuera de la carrera a Paloma Valencia (6,62%), Sergio Fajardo (4,04%) y Claudia López (0,78%). El resultado, que contrariaba algunos pronósticos, reflejó el fuerte desempeño del candidato en la Costa Caribe, Antioquia y zonas rurales. La segunda vuelta está fijada para el 21 de junio.",
+      "objetividad": 97,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Resultado oficial Registraduría Nacional con 99,87% de mesas"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente internacional de referencia con cobertura Colombia"
-        },
-        {
-          "ok": true,
-          "texto": "Publicado el 31 de mayo — noche electoral"
-        },
-        {
-          "ok": true,
-          "texto": "Dato histórico verificado: votación más alta en primera vuelta"
-        },
-        {
-          "ok": true,
-          "texto": "Alta relevancia: determina el mapa político hacia la segunda vuelta"
-        }
+        { "ok": true, "texto": "Cifras oficiales de la Registraduría Nacional" },
+        { "ok": true, "texto": "Fuente internacional de referencia con cobertura Colombia" },
+        { "ok": true, "texto": "Resultado definitivo escrutado al cierre del 31 de mayo" },
+        { "ok": true, "texto": "Alto impacto: hito electoral histórico en Colombia" },
+        { "ok": true, "texto": "Contrasta con proyecciones pre-electorales que daban a Cepeda como favorito" }
       ],
-      "url": "https://www.infobae.com/colombia/2026/05/31/abelardo-de-la-espriella-hizo-historia-en-las-elecciones-en-colombia-obtuvo-la-votacion-mas-alta-registrada-por-un-candidato-en-primera-vuelta/",
-      "url_label": "Infobae — De la Espriella hace historia con 10,3 millones de votos"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "El Tiempo",
-      "fuente_color": "#3498db",
-      "fecha": "31 may 2026",
-      "tag": "Valencia · Segunda vuelta",
-      "tag_color": "#3498db",
-      "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Paloma Valencia anuncia apoyo a De la Espriella para la segunda vuelta presidencial del 21 de junio",
-      "resumen": "Tras quedar eliminada con 1.638.338 votos (6,92%), Paloma Valencia anunció su apoyo a Abelardo De la Espriella en el ballotage del 21 de junio. La candidata del Centro Democrático afirmó que 'Colombia tiene dos caminos' y que el suyo va con De la Espriella frente al Pacto Histórico de Cepeda. Su respaldo podría ser decisivo en una segunda vuelta muy reñida.",
-      "objetividad": 96,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaración directa y verificable de la candidata"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente de referencia nacional de primer orden"
-        },
-        {
-          "ok": true,
-          "texto": "Publicado el 31 de mayo — noche electoral"
-        },
-        {
-          "ok": true,
-          "texto": "Alta relevancia: suma votos uribistas (1,6M) a De la Espriella"
-        },
-        {
-          "ok": true,
-          "texto": "Dato clave para análisis de la segunda vuelta"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/paloma-valencia-se-pronuncio-frente-a-su-salida-de-la-segunda-vuelta-presidencial-en-las-elecciones-afirmo-que-apoyara-a-abelardo-de-la-espriella-3560950",
-      "url_label": "El Tiempo — Valencia anuncia apoyo a De la Espriella para segunda vuelta"
+      "url": "https://www.infobae.com/colombia/2026/05/31/sorpresa-en-las-elecciones-de-colombia-abelardo-de-la-espriella-gana-la-primera-vuelta-y-disputara-la-presidencia-con-ivan-cepeda/",
+      "url_label": "Infobae – De la Espriella gana 1ra vuelta con 44,21%"
     },
     {
       "filter": "espriella",
       "fuente": "El Tiempo",
       "fuente_color": "#e67e22",
-      "fecha": "31 may 2026",
-      "tag": "De la Espriella · Declaración",
+      "fecha": "1 jun 2026",
+      "tag": "De la Espriella · Alianzas",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella: 'Haremos historia' tras ganar la primera vuelta con más de 10 millones de votos",
-      "resumen": "Abelardo De la Espriella celebró su victoria en la primera vuelta con una declaración contundente: 'Haremos historia'. El abogado costeño, quien superó todas las proyecciones de encuestas, agradeció el apoyo de más de 10 millones de colombianos y convocó a la unión de las fuerzas de oposición de cara al ballotage del 21 de junio contra Iván Cepeda.",
-      "objetividad": 95,
+      "titulo": "La derecha irá unida: Valencia y Uribe respaldan a De la Espriella para la segunda vuelta",
+      "resumen": "Tras la primera vuelta, Paloma Valencia anunció formalmente su apoyo a Abelardo de la Espriella para el 21 de junio, sumando la maquinaria del Centro Democrático. El expresidente Álvaro Uribe también ratificó su respaldo al candidato. Con los votos de Valencia (6,62%) potencialmente detrás de De la Espriella, la derecha llega unida a la segunda vuelta por primera vez en años, lo que podría ser decisivo dada la ajustada diferencia de 3,2 puntos de la primera vuelta.",
+      "objetividad": 92,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaración directa y verificable del candidato ganador"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente de referencia nacional de primer orden"
-        },
-        {
-          "ok": true,
-          "texto": "Publicado el 31 de mayo — noche electoral"
-        },
-        {
-          "ok": true,
-          "texto": "Primer pronunciamiento oficial tras la victoria en primera vuelta"
-        },
-        {
-          "ok": false,
-          "texto": "Tono triunfalista previo a una segunda vuelta aún incierta"
-        }
+        { "ok": true, "texto": "Declaraciones oficiales de Valencia y Uribe el 1 de junio" },
+        { "ok": true, "texto": "Fuente de referencia nacional de primer orden" },
+        { "ok": true, "texto": "Alto impacto: suma estructural del votante de derecha" },
+        { "ok": true, "texto": "Dato clave: votos de Valencia (6,62%) pueden inclinar el resultado" },
+        { "ok": false, "texto": "Traslado de votos de Valencia a De la Espriella no es automático al 100%" }
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-se-pronuncia-tras-ganar-la-primera-vuelta-de-las-presidenciales-con-mas-de-10-millones-de-votos-haremos-historia-3560943",
-      "url_label": "El Tiempo — De la Espriella: 'Haremos historia' tras ganar primera vuelta"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-derecha-ira-unida-a-la-segunda-vuelta-con-abelardo-de-la-espriella-para-donde-van-los-votos-de-sergio-fajardo-y-claudia-lopez-3561001",
+      "url_label": "El Tiempo – Valencia y Uribe respaldan a De la Espriella"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "El Colombiano",
+      "fuente_color": "#27ae60",
+      "fecha": "1 jun 2026",
+      "tag": "Cepeda · Alianzas",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Los votos de Fajardo y López, en disputa: ¿quién capta el voto de centro para la segunda vuelta?",
+      "resumen": "Con Fajardo promoviendo el voto en blanco (4,04%) y López aún sin definir posición (0,78%), el voto de centro-izquierda está en juego. Analistas señalan que el perfil de los votantes de López es más compatible con Cepeda, mientras que una fracción de los de Fajardo podría ir al blanco o incluso a De la Espriella. El Pacto Histórico trabaja para seducir estos sectores y compensar la unión de la derecha.",
+      "objetividad": 85,
+      "criterios": [
+        { "ok": true, "texto": "Análisis basado en declaraciones públicas de los candidatos" },
+        { "ok": true, "texto": "Fuente regional con cobertura política activa" },
+        { "ok": true, "texto": "Alta relevancia: votos de centro definen segunda vuelta" },
+        { "ok": false, "texto": "Traslado de votos del 'perdedor' al candidato es una proyección, no un hecho" },
+        { "ok": true, "texto": "Contrasta posiciones de Fajardo (blanco) y López (sin definir)" }
+      ],
+      "url": "https://www.elcolombiano.com/colombia/politica/elecciones-2026-votos-perdedores-primera-vuelta-cotizan-alza-OM37199799",
+      "url_label": "El Colombiano – Votos de perdedores de 1ra vuelta se cotizan al alza"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#e67e22",
+      "fecha": "1 jun 2026",
+      "tag": "De la Espriella · Geografía",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella arrasó en Costa Caribe y Antioquia; Cepeda dominó Bogotá, Cauca y Pacífico",
+      "resumen": "El mapa político de la primera vuelta reveló una Colombia dividida: De la Espriella dominó la Costa Caribe (su territorio natural), Antioquia y las regiones rurales del interior. Iván Cepeda ganó en Bogotá, el Cauca (donde obtuvo el 68% según El Tiempo), el Pacífico y las grandes ciudades del sur. El mapa es clave para entender las estrategias de campaña para la segunda vuelta del 21 de junio.",
+      "objetividad": 94,
+      "criterios": [
+        { "ok": true, "texto": "Datos de resultados regionales de la Registraduría" },
+        { "ok": true, "texto": "Fuente internacional con cobertura electoral detallada" },
+        { "ok": true, "texto": "Análisis geográfico esencial para entender la segunda vuelta" },
+        { "ok": true, "texto": "Datos verificables por departamento" },
+        { "ok": false, "texto": "Análisis de tendencias rurales/urbanas aún en construcción" }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/06/01/asi-quedo-el-mapa-politico-en-colombia-tras-la-primera-vuelta-presidencial-estos-departamentos-apoyaron-a-ivan-cepeda-y-a-abelardo-de-la-espriella/",
+      "url_label": "Infobae – Mapa político tras la primera vuelta: Cepeda vs. De la Espriella"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "La Silla Vacía",
+      "fuente_color": "#27ae60",
+      "fecha": "1 jun 2026",
+      "tag": "Cepeda · Estrategia",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Datos clave para leer la primera vuelta: Cepeda ganó en ciudades, De la Espriella en territorio",
+      "resumen": "La Silla Vacía analiza los datos de la primera vuelta: Cepeda capturó el voto urbano y progresista, mientras De la Espriella consolidó el voto rural, costeño y de zonas con alta presencia histórica del uribismo. El Pacto Histórico deberá ampliar su apelación a votantes moderados y ciudades intermedias para revertir el resultado en la segunda vuelta. La diferencia de 3,2 puntos (44,21% vs. 41,01%) hace el resultado técnicamente alcanzable.",
+      "objetividad": 90,
+      "criterios": [
+        { "ok": true, "texto": "Análisis basado en datos de la Registraduría" },
+        { "ok": true, "texto": "Fuente de referencia nacional de primer orden en análisis político" },
+        { "ok": true, "texto": "Alta relevancia estratégica para la segunda vuelta" },
+        { "ok": true, "texto": "Contrasta perfiles de voto urbano vs. rural" },
+        { "ok": false, "texto": "Proyecciones sobre traslado de votos son estimaciones" }
+      ],
+      "url": "https://www.lasillavacia.com/silla-nacional/datos-clave-para-leer-la-primera-vuelta-presidencial-de-2026/",
+      "url_label": "La Silla Vacía – Datos clave de la primera vuelta 2026"
     },
     {
       "filter": "espriella",
       "fuente": "Semana",
-      "fuente_color": "#c0392b",
-      "fecha": "1 jun 2026",
-      "tag": "Segunda Vuelta · 21 junio",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "Segunda vuelta el 21 de junio: De la Espriella y Cepeda disputarán la Presidencia de Colombia",
-      "resumen": "Con ningún candidato superando el 50%+1 requerido por la Constitución de 1991, Colombia va a segunda vuelta el 21 de junio de 2026 entre Abelardo De la Espriella (43,7%) e Iván Cepeda (40,9%). La diferencia de 2,8 puntos convierte el ballotage en una contienda abierta. El ganador tomará posesión el 7 de agosto de 2026 en la Casa de Nariño.",
-      "objetividad": 99,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Información institucional verificada — Registraduría Nacional"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente de referencia nacional de primer orden"
-        },
-        {
-          "ok": true,
-          "texto": "Publicado el 1 de junio — día posterior a la primera vuelta"
-        },
-        {
-          "ok": true,
-          "texto": "Alta relevancia cívica: define el calendario electoral"
-        },
-        {
-          "ok": true,
-          "texto": "Imparcial: presenta ambos candidatos con datos verificados"
-        }
-      ],
-      "url": "https://www.semana.com/politica/articulo/elecciones-2026-abelardo-de-la-espriella-e-ivan-cepeda-disputaran-la-presidencia-de-colombia-el-21-de-junio/202630/",
-      "url_label": "Semana — Segunda vuelta: De la Espriella vs Cepeda el 21 de junio"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "El Tiempo",
-      "fuente_color": "#27ae60",
-      "fecha": "31 may 2026",
-      "tag": "Cepeda · Segunda vuelta",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda pasa a segunda vuelta con 9,6 millones de votos y llama a 'votar por el futuro'",
-      "resumen": "Iván Cepeda, candidato del Pacto Histórico, quedó segundo en la primera vuelta con 9.680.095 votos (40,9%), siendo la segunda mayor votación histórica en primera vuelta en Colombia. Aunque las encuestas lo daban como favorito, deberá remontar una diferencia de 2,8 puntos frente a De la Espriella en el ballotage del 21 de junio. Llamó a sus seguidores a no bajar los brazos.",
-      "objetividad": 97,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Resultado oficial Registraduría con 99,87% de mesas escrutadas"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente de referencia nacional de primer orden"
-        },
-        {
-          "ok": true,
-          "texto": "Publicado el 31 de mayo — noche electoral"
-        },
-        {
-          "ok": true,
-          "texto": "Dato histórico: segunda mayor votación en primera vuelta"
-        },
-        {
-          "ok": true,
-          "texto": "Imparcial: refleja resultado sin favorecer al candidato"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-candidato-presidencial-envio-un-mensaje-tras-inicio-de-jornada-electoral-2026-en-colombia-los-invito-a-votar-por-el-futuro-3559746",
-      "url_label": "El Tiempo — Cepeda pasa a segunda vuelta: 'Voten por el futuro'"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#27ae60",
-      "fecha": "1 jun 2026",
-      "tag": "Encuestas · Análisis postelectoral",
-      "tag_color": "#7f8c8d",
-      "tag_bg": "rgba(127,140,141,0.15)",
-      "titulo": "Las encuestas fueron las grandes perdedoras: erraron al predecir la ventaja de Cepeda sobre De la Espriella",
-      "resumen": "Infobae analizó el fracaso de las firmas encuestadoras en Colombia 2026. Todas daban a Cepeda como favorito: Invamer (21 may) lo ponía 12,9 puntos arriba (44,6% vs 31,7%); CNC (24 may), 2,5 puntos arriba (33,4% vs 30,9%). El resultado real invirtió el orden: De la Espriella 43,7%, Cepeda 40,9%. El mayor error sistemático en décadas.",
-      "objetividad": 98,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Análisis comparativo de predicciones vs resultados reales verificados"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente internacional de referencia con cobertura Colombia"
-        },
-        {
-          "ok": true,
-          "texto": "Publicado el 1 de junio — análisis postelectoral inmediato"
-        },
-        {
-          "ok": true,
-          "texto": "Alta relevancia metodológica y democrática"
-        },
-        {
-          "ok": true,
-          "texto": "Datos verificados: encuestas finales vs resultados oficiales Registraduría"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/06/01/elecciones-presidenciales-2026-las-encuestas-fueron-las-grandes-perdedoras-en-colombia-tras-victoria-de-abelardo-de-la-espriella-sobre-ivan-cepeda/",
-      "url_label": "Infobae — Las encuestas, grandes perdedoras: erraron resultado de De la Espriella"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae Colombia",
       "fuente_color": "#e67e22",
       "fecha": "31 may 2026",
-      "tag": "Primera Vuelta · Sorpresa histórica",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "Sorpresa en Colombia: De la Espriella gana la primera vuelta y disputará la presidencia con Iván Cepeda",
-      "resumen": "En lo que Infobae calificó como la mayor sorpresa electoral reciente en Colombia, Abelardo De la Espriella superó a Iván Cepeda en la primera vuelta del 31 de mayo, contrariando todos los pronósticos encuestadores. El abogado cordobés, quien ingresó a la política hace menos de dos años, consiguió la votación más alta en primera vuelta de la historia colombiana.",
-      "objetividad": 96,
+      "tag": "De la Espriella · Reacción",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella celebra triunfo y llama a la unidad: 'Colombia eligió el cambio real'",
+      "resumen": "Tras conocerse los resultados del 31 de mayo, Abelardo de la Espriella celebró el primer lugar ante sus seguidores en Barranquilla y llamó a la unidad nacional de cara a la segunda vuelta del 21 de junio. 'Colombia decidió que el cambio real no puede volver al petrismo ni al pasado. Vamos a ganar la segunda vuelta', declaró el candidato. Su equipo inició de inmediato contactos con el Centro Democrático para formalizar la alianza.",
+      "objetividad": 78,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Resultado verificado con 99,87% de mesas escrutadas"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente internacional de referencia con cobertura Colombia"
-        },
-        {
-          "ok": true,
-          "texto": "Publicado el 31 de mayo — noche electoral"
-        },
-        {
-          "ok": true,
-          "texto": "Contexto: contrasta el resultado real con las predicciones de encuestas"
-        },
-        {
-          "ok": true,
-          "texto": "Alta relevancia: mayor sorpresa electoral colombiana en décadas"
-        }
+        { "ok": true, "texto": "Declaraciones directas y verificables del candidato" },
+        { "ok": true, "texto": "Fuente de referencia nacional de primer orden" },
+        { "ok": true, "texto": "Alta cobertura de la reacción de la noche del 31 de mayo" },
+        { "ok": false, "texto": "Tono favorable al candidato — cita sus declaraciones sin contraste" },
+        { "ok": false, "texto": "Sin reacción de Cepeda en el mismo artículo" }
       ],
-      "url": "https://www.infobae.com/colombia/2026/05/31/sorpresa-en-las-elecciones-de-colombia-abelardo-de-la-espriella-gana-la-primera-vuelta-y-disputara-la-presidencia-con-ivan-cepeda/",
-      "url_label": "Infobae — Sorpresa: De la Espriella gana primera vuelta sobre Cepeda"
+      "url": "https://www.semana.com/nacion/articulo/resultados-elecciones-colombia-2026-en-vivo-habla-abelardo-de-la-espriella-y-anticipa-que-cambiara-la-historia/202622/",
+      "url_label": "Semana – De la Espriella celebra y llama a la unidad"
     },
     {
-      "filter": "valencia",
-      "fuente": "BluRadio",
-      "fuente_color": "#3498db",
+      "filter": "cepeda",
+      "fuente": "CNN en Español",
+      "fuente_color": "#27ae60",
       "fecha": "31 may 2026",
-      "tag": "Valencia · Resultados primera vuelta",
-      "tag_color": "#3498db",
-      "tag_bg": "rgba(52,152,219,0.15)",
-      "titulo": "Paloma Valencia obtiene 6,92% y queda fuera de la segunda vuelta presidencial",
-      "resumen": "Paloma Valencia, candidata del Centro Democrático, obtuvo 1.638.338 votos (6,92%) en la primera vuelta del 31 de mayo, quedando en tercer lugar y fuera del ballotage. El resultado fue muy inferior a las encuestas que la ubicaban entre 12% y 21%. La candidata anunció de inmediato su apoyo a Abelardo De la Espriella para la segunda vuelta del 21 de junio.",
-      "objetividad": 98,
+      "tag": "Cepeda · Reacción",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda acepta el resultado del 31 de mayo y anuncia campaña intensiva para la segunda vuelta",
+      "resumen": "Iván Cepeda reconoció el resultado de la primera vuelta en la noche del 31 de mayo y anunció que intensificará la campaña para la segunda vuelta del 21 de junio. 'El 41% del país eligió un proyecto de paz, justicia y democracia. Vamos a convencer al resto', dijo el candidato. Su equipo señaló que trabajarán para atraer los votos de centro que quedaron sin candidato y buscarán el apoyo formal de Claudia López.",
+      "objetividad": 88,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Resultado oficial Registraduría Nacional"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente de radio nacional con amplia cobertura electoral"
-        },
-        {
-          "ok": true,
-          "texto": "Publicado el 31 de mayo — noche electoral"
-        },
-        {
-          "ok": true,
-          "texto": "Imparcial: refleja resultado sin favorecer a la candidata"
-        },
-        {
-          "ok": true,
-          "texto": "Alta relevancia: define el fin de la campaña del Centro Democrático"
-        }
+        { "ok": true, "texto": "Declaraciones directas del candidato al cierre del escrutinio" },
+        { "ok": true, "texto": "Fuente internacional de referencia" },
+        { "ok": true, "texto": "Refleja el tono de aceptación del resultado y estrategia futura" },
+        { "ok": true, "texto": "Menciona el objetivo de captar votos de centro" },
+        { "ok": false, "texto": "Estrategia concreta de campaña para 2da vuelta no detallada" }
       ],
-      "url": "https://www.bluradio.com/nacion/elecciones/resultados-paloma-valencia-elecciones-presidenciales-colombia-2026-so35",
-      "url_label": "BluRadio — Valencia 6,92%: fuera de la segunda vuelta"
+      "url": "https://cnnespanol.cnn.com/2026/05/31/colombia/live-news/elecciones-presidenciales-cepeda-abelardo-paloma-resultados-orix",
+      "url_label": "CNN – Cepeda acepta resultado y anuncia campaña para 2da vuelta"
+    },
+    {
+      "filter": "alianzas",
+      "fuente": "Pulzo",
+      "fuente_color": "#9b59b6",
+      "fecha": "1 jun 2026",
+      "tag": "Alianzas · Segunda Vuelta",
+      "tag_color": "#9b59b6",
+      "tag_bg": "rgba(155,89,182,0.15)",
+      "titulo": "Alianzas de la segunda vuelta: derecha unida tras De la Espriella, centro-izquierda en disputa",
+      "resumen": "El tablero de alianzas para la segunda vuelta del 21 de junio se configura así: De la Espriella contará con el Centro Democrático (Valencia + Uribe). Cepeda busca el apoyo de Claudia López y los votantes de Fajardo, quien prefirió el voto en blanco. Los analistas señalan que con los votos de Valencia (6,62%) potencialmente consolidados en De la Espriella, el candidato llegaría a ~50,8%, suficiente para ganar sin segunda vuelta de sorpresas.",
+      "objetividad": 80,
+      "criterios": [
+        { "ok": true, "texto": "Síntesis basada en declaraciones verificables de los candidatos" },
+        { "ok": true, "texto": "Fuente con cobertura electoral activa" },
+        { "ok": true, "texto": "Análisis de escenarios de segunda vuelta" },
+        { "ok": false, "texto": "Proyección de traslado de votos es estimación, no hecho" },
+        { "ok": false, "texto": "Posición de López aún no confirmada" }
+      ],
+      "url": "https://www.pulzo.com/elecciones-colombia-2026/alianzas-candidatos-que-perdieron-para-segunda-vuelta-presidencial-PP5200394",
+      "url_label": "Pulzo – Alianzas de candidatos que perdieron para la segunda vuelta"
     }
   ],
   "sentimiento": {
@@ -295,72 +236,46 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 68,
-        "negativo": 18,
-        "neutro": 14,
+        "positivo": 58,
+        "negativo": 32,
+        "neutro": 20,
         "tendencia": "up",
-        "tendencia_texto": "1 jun: GANÓ PRIMERA VUELTA — Obtuvo 10.346.010 votos (43,7%), la mayor votación histórica en primera vuelta de Colombia (Infobae, 31 may). Valencia anunció apoyo para el ballotage (El Tiempo, 31 may). Encabeza la segunda vuelta del 21 de junio con 2,8 pts de ventaja sobre Cepeda. Cobertura: euforia en medios de derecha, respeto en medios progresistas. Las encuestas, que lo daban perdedor, fueron desacreditadas."
-      },
-      {
-        "nombre": "Valencia",
-        "color": "#3498db",
-        "positivo": 18,
-        "negativo": 65,
-        "neutro": 17,
-        "tendencia": "down",
-        "tendencia_texto": "1 jun: ELIMINADA EN PRIMERA VUELTA — Obtuvo 1.638.338 votos (6,92%), muy por debajo de las encuestas (12-21%). Se pronunció de inmediato para apoyar a De la Espriella (El Tiempo, 31 may). Cobertura negativa: resultado ampliamente inferior a expectativas; rescate parcial por relevancia de su apoyo al candidato ganador de cara a la segunda vuelta."
+        "tendencia_texto": "1 jun: Euforia tras ganar la primera vuelta con 44,21%. Pico histórico de sentimiento positivo en sus redes. La unión formal con Valencia y Uribe amplifica la narrativa de 'derecha unida'. Sus detractores señalan los escándalos previos (periodista Malú, video IA de Juanita León), pero están en minoría en el momento actual de celebración. Entrada a la segunda vuelta como favorito matemático si los votos de Valencia se trasladan."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 41,
-        "negativo": 40,
-        "neutro": 19,
-        "tendencia": "down",
-        "tendencia_texto": "1 jun: SEGUNDO LUGAR EN PRIMERA VUELTA — Obtuvo 9.680.095 votos (40,9%), segundo tras De la Espriella (43,7%), invirtiendo todos los pronósticos encuestadores que lo daban favorito (Infobae, 1 jun). Va a segunda vuelta el 21 de junio con 2,8 pts de desventaja. Sentimiento polarizado: positivo en medios progresistas, negativo en medios de derecha. Debe remontar ante la suma De la Espriella + Valencia."
-      },
-      {
-        "nombre": "Fajardo",
-        "color": "#8e44ad",
-        "positivo": 52,
-        "negativo": 22,
-        "neutro": 26,
-        "tendencia": "stable",
-        "tendencia_texto": "Estable. Sentimiento positivo pero bajo volumen de menciones en medios nacionales."
-      },
-      {
-        "nombre": "C. López",
-        "color": "#16a085",
         "positivo": 48,
-        "negativo": 29,
-        "neutro": 23,
-        "tendencia": "up",
-        "tendencia_texto": "Retiró candidatura el 6 de abril y se sumó a la campaña de Iván Cepeda."
+        "negativo": 36,
+        "neutro": 22,
+        "tendencia": "stable",
+        "tendencia_texto": "1 jun: Mantiene base sólida con el 41,01% de primera vuelta. Sentimiento positivo entre sus seguidores se mantiene en zonas urbanas (Bogotá, Cali, Pacífico). El reto es captar el voto de centro. La no declaración de López a su favor y la decisión de Fajardo de promover el voto en blanco complica la aritmética. A 20 días de la segunda vuelta (21 jun)."
       }
     ]
   },
   "encuestas": {
-    "cepeda": 40.9,
-    "valencia": 6.9,
-    "espriella": 43.7,
-    "fuente": "Resultados oficiales primera vuelta — Registraduría Nacional (31 may 2026)"
+    "espriella": 44.21,
+    "cepeda": 41.01,
+    "fuente": "Registraduría Nacional — Resultados 1ra vuelta, 31 may 2026",
+    "tipo": "primera_vuelta_oficial",
+    "nota": "Proyección 2da vuelta dependerá del traslado de votos de Valencia (6,62%), Fajardo (4,04%) y López (0,78%)"
   },
   "prediccion": {
     "primero": {
       "nombre": "Abelardo De la Espriella",
-      "partido": "Salvación Nacional",
+      "partido": "Salvación Nacional + Centro Democrático",
       "color": "#e67e22",
-      "pct": 43.7,
-      "fuente_encuesta": "Resultados oficiales primera vuelta (31 may 2026)"
+      "pct": 44.21,
+      "fuente_encuesta": "Registraduría — 1ra vuelta (31 may 2026)"
     },
     "segundo": {
       "nombre": "Iván Cepeda",
       "partido": "Pacto Histórico",
       "color": "#27ae60",
-      "pct": 40.9,
-      "fuente_encuesta": "Resultados oficiales primera vuelta (31 may 2026)"
+      "pct": 41.01,
+      "fuente_encuesta": "Registraduría — 1ra vuelta (31 may 2026)"
     },
-    "resumen_analisis": "1 jun 2026 — POSTELECTORAL: SEGUNDA VUELTA EL 21 DE JUNIO. La primera vuelta del 31 de mayo dejó a De la Espriella primero con 10.346.010 votos (43,7%) e Iván Cepeda segundo con 9.680.095 votos (40,9%). Paloma Valencia quedó eliminada con 6,92% y anunció apoyo a De la Espriella. Las encuestas fallaron: todas daban a Cepeda como favorito por hasta 13 puntos (Infobae, 1 jun). Segunda vuelta el 21 de junio — el ganador tomará posesión el 7 de agosto de 2026."
+    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026. Resultado primera vuelta: De la Espriella 44,21% vs. Cepeda 41,01%. Diferencia: 3,2 puntos. ALIANZAS CONFIRMADAS: Valencia + Uribe → De la Espriella. PENDIENTES: Fajardo (promueve voto en blanco, 4,04%). López (rechaza a De la Espriella, aún sin definir, 0,78%). ESCENARIO MATEMÁTICO: si votos de Valencia se trasladan 100% → De la Espriella ~50,8%. Si Cepeda captura 100% de López + 50% de Fajardo → Cepeda ~44,0%. La llave la tienen los votantes de Fajardo y el sector independiente. Segunda vuelta: 21 de junio de 2026."
   },
   "ultimo_deploy": "2026-06-01T12:00:00Z"
 }
