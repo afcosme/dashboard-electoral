@@ -1,5 +1,5 @@
 {
-  "fecha": "1 de junio de 2026",
+  "fecha": "2 de junio de 2026",
   "modo": "segunda_vuelta",
   "primera_vuelta": {
     "espriella": 44.21,
@@ -52,12 +52,12 @@
       "de": "Claudia López",
       "de_partido": "Alianza Verde",
       "de_votos_pct": 0.78,
-      "hacia": "pendiente",
-      "tipo": "sin_definir",
-      "descripcion": "López rechazó explícitamente apoyar a De la Espriella, pero no ha anunciado respaldo a Cepeda. Tomará días para reflexionar. Analistas señalan que el perfil progresista de sus votantes los inclina naturalmente hacia el candidato del Pacto Histórico, aunque el volumen es pequeño (0.78%).",
-      "fecha": "1 jun 2026",
-      "fuente": "El Tiempo",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-derecha-ira-unida-a-la-segunda-vuelta-con-abelardo-de-la-espriella-para-donde-van-los-votos-de-sergio-fajardo-y-claudia-lopez-3561001",
+      "hacia": "cepeda",
+      "tipo": "acercamiento_cepeda",
+      "descripcion": "López rechazó explícitamente apoyar a De la Espriella. El 2 de junio, Cepeda alista reunión con emisarios de López para explorar un posible respaldo. López condicionó su apoyo a que Cepeda demuestre distancia con los errores del petrismo. Posición oficial aún sin confirmar.",
+      "fecha": "2 jun 2026",
+      "fuente": "El Espectador",
+      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/centro-democratico-organiza-apoyo-a-abelardo-de-la-espriella-e-ivan-cepeda-alista-cafe-con-claudia-lopez-noticias-hoy/",
       "impacto": "bajo"
     }
   ],
@@ -106,66 +106,66 @@
     },
     {
       "filter": "cepeda",
-      "fuente": "El Colombiano",
+      "fuente": "El Espectador",
       "fuente_color": "#27ae60",
-      "fecha": "1 jun 2026",
+      "fecha": "2 jun 2026",
       "tag": "Cepeda · Alianzas",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Los votos de Fajardo y López, en disputa: ¿quién capta el voto de centro para la segunda vuelta?",
-      "resumen": "Con Fajardo promoviendo el voto en blanco (4,04%) y López aún sin definir posición (0,78%), el voto de centro-izquierda está en juego. Analistas señalan que el perfil de los votantes de López es más compatible con Cepeda, mientras que una fracción de los de Fajardo podría ir al blanco o incluso a De la Espriella. El Pacto Histórico trabaja para seducir estos sectores y compensar la unión de la derecha.",
-      "objetividad": 85,
+      "titulo": "Cepeda alista reunión con emisarios de Claudia López para explorar respaldo en segunda vuelta",
+      "resumen": "El 2 de junio, el equipo de Iván Cepeda organiza un acercamiento con emisarios de Claudia López para explorar un eventual respaldo de cara a la segunda vuelta del 21 de junio. López rechazó explícitamente apoyar a De la Espriella, pero condicionó su respaldo a Cepeda a que demuestre distancia con los errores atribuidos al petrismo. El encuentro es clave: los votantes de López (0,78%) son de perfil urbano y progresista, el mismo electorado que Cepeda necesita ampliar.",
+      "objetividad": 88,
       "criterios": [
-        { "ok": true, "texto": "Análisis basado en declaraciones públicas de los candidatos" },
-        { "ok": true, "texto": "Fuente regional con cobertura política activa" },
-        { "ok": true, "texto": "Alta relevancia: votos de centro definen segunda vuelta" },
-        { "ok": false, "texto": "Traslado de votos del 'perdedor' al candidato es una proyección, no un hecho" },
-        { "ok": true, "texto": "Contrasta posiciones de Fajardo (blanco) y López (sin definir)" }
+        { "ok": true, "texto": "Noticia del 2 de junio confirmada por El Espectador" },
+        { "ok": true, "texto": "López ya descartó apoyar a De la Espriella (hecho verificado)" },
+        { "ok": true, "texto": "Relevancia: primera señal de acercamiento Cepeda-López" },
+        { "ok": true, "texto": "El perfil del votante de López es compatible con la base de Cepeda" },
+        { "ok": false, "texto": "Apoyo formal de López a Cepeda aún sin confirmar" }
       ],
-      "url": "https://www.elcolombiano.com/colombia/politica/elecciones-2026-votos-perdedores-primera-vuelta-cotizan-alza-OM37199799",
-      "url_label": "El Colombiano – Votos de perdedores de 1ra vuelta se cotizan al alza"
+      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/centro-democratico-organiza-apoyo-a-abelardo-de-la-espriella-e-ivan-cepeda-alista-cafe-con-claudia-lopez-noticias-hoy/",
+      "url_label": "El Espectador – Cepeda alista café con Claudia López"
     },
     {
       "filter": "espriella",
-      "fuente": "Infobae Colombia",
+      "fuente": "El Tiempo",
       "fuente_color": "#e67e22",
       "fecha": "1 jun 2026",
-      "tag": "De la Espriella · Geografía",
+      "tag": "De la Espriella · Estrategia",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella arrasó en Costa Caribe y Antioquia; Cepeda dominó Bogotá, Cauca y Pacífico",
-      "resumen": "El mapa político de la primera vuelta reveló una Colombia dividida: De la Espriella dominó la Costa Caribe (su territorio natural), Antioquia y las regiones rurales del interior. Iván Cepeda ganó en Bogotá, el Cauca (donde obtuvo el 68% según El Tiempo), el Pacífico y las grandes ciudades del sur. El mapa es clave para entender las estrategias de campaña para la segunda vuelta del 21 de junio.",
-      "objetividad": 94,
+      "titulo": "La estrategia de De la Espriella para la segunda vuelta: mantener el tono ganador y atacar en Bogotá",
+      "resumen": "Analistas y el equipo de campaña de De la Espriella coinciden en que la estrategia para el 21 de junio es no cambiar el tono que lo llevó al primer lugar: mano dura, libre empresa y megacárceles. El reto es reducir la brecha en Bogotá y Cundinamarca, donde Cepeda dominó. Con Valencia y Uribe confirmados, la tarea es consolidar la coalición de derecha y evitar que los votos independientes de Fajardo se vayan a Cepeda.",
+      "objetividad": 87,
       "criterios": [
-        { "ok": true, "texto": "Datos de resultados regionales de la Registraduría" },
-        { "ok": true, "texto": "Fuente internacional con cobertura electoral detallada" },
-        { "ok": true, "texto": "Análisis geográfico esencial para entender la segunda vuelta" },
-        { "ok": true, "texto": "Datos verificables por departamento" },
-        { "ok": false, "texto": "Análisis de tendencias rurales/urbanas aún en construcción" }
+        { "ok": true, "texto": "Análisis basado en declaraciones del equipo de campaña" },
+        { "ok": true, "texto": "Fuente de referencia nacional de primer orden" },
+        { "ok": true, "texto": "Relevancia alta: hoja de ruta para la segunda vuelta" },
+        { "ok": true, "texto": "Identifica las zonas geográficas clave (Bogotá, Cundinamarca)" },
+        { "ok": false, "texto": "Estrategia concreta de eventos y actos no detallada" }
       ],
-      "url": "https://www.infobae.com/colombia/2026/06/01/asi-quedo-el-mapa-politico-en-colombia-tras-la-primera-vuelta-presidencial-estos-departamentos-apoyaron-a-ivan-cepeda-y-a-abelardo-de-la-espriella/",
-      "url_label": "Infobae – Mapa político tras la primera vuelta: Cepeda vs. De la Espriella"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cual-sera-la-estrategia-de-abelardo-de-la-espriella-para-afrontar-la-segunda-vuelta-presidencial-3561271",
+      "url_label": "El Tiempo – Estrategia de De la Espriella para la 2da vuelta"
     },
     {
       "filter": "cepeda",
-      "fuente": "La Silla Vacía",
+      "fuente": "El Tiempo",
       "fuente_color": "#27ae60",
       "fecha": "1 jun 2026",
       "tag": "Cepeda · Estrategia",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Datos clave para leer la primera vuelta: Cepeda ganó en ciudades, De la Espriella en territorio",
-      "resumen": "La Silla Vacía analiza los datos de la primera vuelta: Cepeda capturó el voto urbano y progresista, mientras De la Espriella consolidó el voto rural, costeño y de zonas con alta presencia histórica del uribismo. El Pacto Histórico deberá ampliar su apelación a votantes moderados y ciudades intermedias para revertir el resultado en la segunda vuelta. La diferencia de 3,2 puntos (44,21% vs. 41,01%) hace el resultado técnicamente alcanzable.",
-      "objetividad": 90,
+      "titulo": "La nueva estrategia de Cepeda: reunir 3 millones de votos más para derrotar a De la Espriella",
+      "resumen": "El equipo de Iván Cepeda diseñó una estrategia para captar aproximadamente 3 millones de votos adicionales de cara a la segunda vuelta del 21 de junio. Los ejes: reforzar la pauta digital donde De la Espriella domina, ampliar presencia en Bogotá (donde esperaban 2 millones de apoyos), y seducir al votante de centro que quedó sin candidato. Cepeda también debe reducir su dependencia del círculo cercano y abrirse a asesores externos.",
+      "objetividad": 85,
       "criterios": [
-        { "ok": true, "texto": "Análisis basado en datos de la Registraduría" },
-        { "ok": true, "texto": "Fuente de referencia nacional de primer orden en análisis político" },
-        { "ok": true, "texto": "Alta relevancia estratégica para la segunda vuelta" },
-        { "ok": true, "texto": "Contrasta perfiles de voto urbano vs. rural" },
-        { "ok": false, "texto": "Proyecciones sobre traslado de votos son estimaciones" }
+        { "ok": true, "texto": "Análisis basado en fuentes del equipo de Cepeda" },
+        { "ok": true, "texto": "Fuente de referencia nacional de primer orden" },
+        { "ok": true, "texto": "Dato concreto: 3 millones de votos adicionales como meta" },
+        { "ok": true, "texto": "Identifica debilidades reales (digital, Bogotá, voto de centro)" },
+        { "ok": false, "texto": "Plan de acción detallado no confirmado públicamente" }
       ],
-      "url": "https://www.lasillavacia.com/silla-nacional/datos-clave-para-leer-la-primera-vuelta-presidencial-de-2026/",
-      "url_label": "La Silla Vacía – Datos clave de la primera vuelta 2026"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/esta-seria-la-nueva-estrategia-de-ivan-cepeda-para-reunir-tres-millones-de-votos-mas-para-la-segunda-vuelta-contra-abelardo-de-la-espriella-3561014",
+      "url_label": "El Tiempo – Estrategia de Cepeda para reunir 3 millones más"
     },
     {
       "filter": "espriella",
@@ -190,45 +190,45 @@
     },
     {
       "filter": "cepeda",
-      "fuente": "CNN en Español",
+      "fuente": "Infobae Colombia",
       "fuente_color": "#27ae60",
-      "fecha": "31 may 2026",
-      "tag": "Cepeda · Reacción",
+      "fecha": "1 jun 2026",
+      "tag": "Cepeda · Análisis",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda acepta el resultado del 31 de mayo y anuncia campaña intensiva para la segunda vuelta",
-      "resumen": "Iván Cepeda reconoció el resultado de la primera vuelta en la noche del 31 de mayo y anunció que intensificará la campaña para la segunda vuelta del 21 de junio. 'El 41% del país eligió un proyecto de paz, justicia y democracia. Vamos a convencer al resto', dijo el candidato. Su equipo señaló que trabajarán para atraer los votos de centro que quedaron sin candidato y buscarán el apoyo formal de Claudia López.",
-      "objetividad": 88,
+      "titulo": "Claudia López explica por qué Cepeda quedó segundo: 'No te pueden hacer la campaña'",
+      "resumen": "Claudia López analizó el resultado de la primera vuelta y señaló que Cepeda quedó segundo porque dependió demasiado del aparato gubernamental petrista para hacer campaña. 'No te pueden hacer la campaña', dijo López, apuntando a la dependencia del candidato del Pacto del apoyo institucional de Petro. Su análisis refleja la tensión entre Cepeda y los sectores de centro-izquierda que podrían respaldarle en la segunda vuelta.",
+      "objetividad": 84,
       "criterios": [
-        { "ok": true, "texto": "Declaraciones directas del candidato al cierre del escrutinio" },
+        { "ok": true, "texto": "Declaraciones directas de Claudia López, figura del centro-izquierda" },
         { "ok": true, "texto": "Fuente internacional de referencia" },
-        { "ok": true, "texto": "Refleja el tono de aceptación del resultado y estrategia futura" },
-        { "ok": true, "texto": "Menciona el objetivo de captar votos de centro" },
-        { "ok": false, "texto": "Estrategia concreta de campaña para 2da vuelta no detallada" }
+        { "ok": true, "texto": "Análisis relevante: López es clave para las alianzas de Cepeda" },
+        { "ok": true, "texto": "Señala la dependencia de Cepeda del aparato petrista como factor electoral" },
+        { "ok": false, "texto": "Análisis parcial — no incluye factores externos que afectaron a Cepeda" }
       ],
-      "url": "https://cnnespanol.cnn.com/2026/05/31/colombia/live-news/elecciones-presidenciales-cepeda-abelardo-paloma-resultados-orix",
-      "url_label": "CNN – Cepeda acepta resultado y anuncia campaña para 2da vuelta"
+      "url": "https://www.infobae.com/colombia/2026/06/01/claudia-lopez-explico-por-que-ivan-cepeda-quedo-segundo-en-la-primera-vuelta-de-las-elecciones-presidenciales-no-te-pueden-hacer-la-campana/",
+      "url_label": "Infobae – Claudia López: por qué Cepeda quedó segundo"
     },
     {
       "filter": "alianzas",
-      "fuente": "Pulzo",
+      "fuente": "Infobae Colombia",
       "fuente_color": "#9b59b6",
       "fecha": "1 jun 2026",
       "tag": "Alianzas · Segunda Vuelta",
       "tag_color": "#9b59b6",
       "tag_bg": "rgba(155,89,182,0.15)",
-      "titulo": "Alianzas de la segunda vuelta: derecha unida tras De la Espriella, centro-izquierda en disputa",
-      "resumen": "El tablero de alianzas para la segunda vuelta del 21 de junio se configura así: De la Espriella contará con el Centro Democrático (Valencia + Uribe). Cepeda busca el apoyo de Claudia López y los votantes de Fajardo, quien prefirió el voto en blanco. Los analistas señalan que con los votos de Valencia (6,62%) potencialmente consolidados en De la Espriella, el candidato llegaría a ~50,8%, suficiente para ganar sin segunda vuelta de sorpresas.",
-      "objetividad": 80,
+      "titulo": "Distribución de apoyos por partidos: el Pacto Histórico en desventaja estructural para la segunda vuelta",
+      "resumen": "Según el análisis de Infobae, la distribución de apoyos por partidos coloca al Pacto Histórico en desventaja estructural: De la Espriella suma a CD (Valencia + Uribe) y Cambio Radical. Cepeda cuenta con el respaldo formal del Pacto y busca atraer a la Alianza Verde (López). Los votos de Fajardo (Independiente, 4,04%) son el comodín que puede definir el resultado. Sin captar el voto independiente, Cepeda no llegaría al 50%+1.",
+      "objetividad": 83,
       "criterios": [
-        { "ok": true, "texto": "Síntesis basada en declaraciones verificables de los candidatos" },
-        { "ok": true, "texto": "Fuente con cobertura electoral activa" },
-        { "ok": true, "texto": "Análisis de escenarios de segunda vuelta" },
-        { "ok": false, "texto": "Proyección de traslado de votos es estimación, no hecho" },
-        { "ok": false, "texto": "Posición de López aún no confirmada" }
+        { "ok": true, "texto": "Análisis basado en declaraciones formales de los partidos" },
+        { "ok": true, "texto": "Fuente internacional de referencia con cobertura Colombia" },
+        { "ok": true, "texto": "Mapea la distribución estructural del apoyo partidista" },
+        { "ok": false, "texto": "Proyecciones de traslado de votos son estimaciones, no hechos" },
+        { "ok": false, "texto": "Posición de varios partidos aún en definición" }
       ],
-      "url": "https://www.pulzo.com/elecciones-colombia-2026/alianzas-candidatos-que-perdieron-para-segunda-vuelta-presidencial-PP5200394",
-      "url_label": "Pulzo – Alianzas de candidatos que perdieron para la segunda vuelta"
+      "url": "https://www.infobae.com/colombia/2026/06/01/asi-se-distribuirian-los-apoyos-por-partidos-para-ivan-cepeda-y-abelardo-de-la-espriella-de-cara-a-la-segunda-vuelta-los-del-pacto-estarian-en-desventaja/",
+      "url_label": "Infobae – Distribución de apoyos por partidos para la 2da vuelta"
     }
   ],
   "sentimiento": {
@@ -236,20 +236,20 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 58,
-        "negativo": 32,
-        "neutro": 20,
+        "positivo": 60,
+        "negativo": 28,
+        "neutro": 12,
         "tendencia": "up",
-        "tendencia_texto": "1 jun: Euforia tras ganar la primera vuelta con 44,21%. Pico histórico de sentimiento positivo en sus redes. La unión formal con Valencia y Uribe amplifica la narrativa de 'derecha unida'. Sus detractores señalan los escándalos previos (periodista Malú, video IA de Juanita León), pero están en minoría en el momento actual de celebración. Entrada a la segunda vuelta como favorito matemático si los votos de Valencia se trasladan."
+        "tendencia_texto": "2 jun: Entra a la segunda vuelta (21 jun) como favorito matemático tras el histórico 44,21% en primera vuelta. Alianzas consolidadas con Valencia (CD) y Uribe. Estrategia: mantener tono ganador, enfocarse en Bogotá y Cundinamarca. Alta euforia en Costa Caribe y Antioquia. Detractores señalan denuncias de irregularidades electorales, pero el momentum positivo domina el ciclo informativo."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 48,
-        "negativo": 36,
+        "positivo": 44,
+        "negativo": 34,
         "neutro": 22,
         "tendencia": "stable",
-        "tendencia_texto": "1 jun: Mantiene base sólida con el 41,01% de primera vuelta. Sentimiento positivo entre sus seguidores se mantiene en zonas urbanas (Bogotá, Cali, Pacífico). El reto es captar el voto de centro. La no declaración de López a su favor y la decisión de Fajardo de promover el voto en blanco complica la aritmética. A 20 días de la segunda vuelta (21 jun)."
+        "tendencia_texto": "2 jun: En modo campaña intensiva para la segunda vuelta (21 jun). Alista reunión con emisarios de Claudia López para explorar respaldo. Meta: 3 millones de votos adicionales. Base sólida urbana (Bogotá, Pacífico, Cauca). Fajardo promueve voto en blanco. La aritmética es desafiante pero técnicamente alcanzable: brecha de 3,2 puntos."
       }
     ]
   },
@@ -258,7 +258,7 @@
     "cepeda": 41.01,
     "fuente": "Registraduría Nacional — Resultados 1ra vuelta, 31 may 2026",
     "tipo": "primera_vuelta_oficial",
-    "nota": "Proyección 2da vuelta dependerá del traslado de votos de Valencia (6,62%), Fajardo (4,04%) y López (0,78%)"
+    "nota": "Proyección 2da vuelta dependerá del traslado de votos de Valencia (6,62%), Fajardo (4,04%) y López (0,78%). Encuestas de 2da vuelta pre-primera: Guarumo da De la Espriella 43,6% vs Cepeda 40%; Invamer da Cepeda 52,4% vs De la Espriella 45,3%."
   },
   "prediccion": {
     "primero": {
@@ -275,7 +275,7 @@
       "pct": 41.01,
       "fuente_encuesta": "Registraduría — 1ra vuelta (31 may 2026)"
     },
-    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026. Resultado primera vuelta: De la Espriella 44,21% vs. Cepeda 41,01%. Diferencia: 3,2 puntos. ALIANZAS CONFIRMADAS: Valencia + Uribe → De la Espriella. PENDIENTES: Fajardo (promueve voto en blanco, 4,04%). López (rechaza a De la Espriella, aún sin definir, 0,78%). ESCENARIO MATEMÁTICO: si votos de Valencia se trasladan 100% → De la Espriella ~50,8%. Si Cepeda captura 100% de López + 50% de Fajardo → Cepeda ~44,0%. La llave la tienen los votantes de Fajardo y el sector independiente. Segunda vuelta: 21 de junio de 2026."
+    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026. Resultado primera vuelta: De la Espriella 44,21% vs. Cepeda 41,01%. Diferencia: 3,2 puntos. ALIANZAS CONFIRMADAS: Valencia + Uribe → De la Espriella. ACERCAMIENTOS (2 jun): Cepeda alista reunión con emisarios de López. PENDIENTES: Fajardo (promueve voto en blanco, 4,04%). ESCENARIO MATEMÁTICO: si votos de Valencia se trasladan 100% → De la Espriella ~50,8%. Cepeda necesita ~3M votos adicionales. Segunda vuelta: 21 de junio de 2026."
   },
-  "ultimo_deploy": "2026-06-01T12:00:00Z"
+  "ultimo_deploy": "2026-06-02T12:00:00Z"
 }
