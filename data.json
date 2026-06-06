@@ -1,5 +1,5 @@
 {
-  "fecha": "5 de junio de 2026",
+  "fecha": "6 de junio de 2026",
   "modo": "segunda_vuelta",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -18,10 +18,10 @@
       "de_votos_pct": 6.92,
       "hacia": "espriella",
       "tipo": "apoyo_oficial",
-      "descripcion": "Valencia anunció su respaldo formal a De la Espriella y llamó a sus votantes a unirse a la 'derecha unida' para el 21 de junio. Sumó la maquinaria del Centro Democrático y el respaldo explícito de Álvaro Uribe.",
+      "descripcion": "Valencia anunció su respaldo formal a De la Espriella y llamó a sus votantes a unirse a la 'derecha unida' para el 21 de junio. Sumó la maquinaria del Centro Democrático y el respaldo explícito de Álvaro Uribe. También invitó a Fajardo, López y Oviedo a un 'café por la democracia' para convencerlos de no votar por Cepeda.",
       "fecha": "1 jun 2026",
       "fuente": "El Tiempo",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-derecha-ira-unida-a-la-segunda-vuelta-con-abelardo-de-la-espriella-para-donde-van-los-votos-de-sergio-fajardo-y-claudia-lopez-3561001",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-se-pronuncio-frente-a-su-salida-de-la-segunda-vuelta-presidencial-en-las-elecciones-afirmo-que-apoyara-a-abelardo-de-la-espriella-3560950",
       "impacto": "alto"
     },
     {
@@ -37,28 +37,40 @@
       "impacto": "alto"
     },
     {
+      "de": "Fenalco — Jaime Alberto Cabal",
+      "de_partido": "Gremio empresarial (comercio)",
+      "de_votos_pct": null,
+      "hacia": "espriella",
+      "tipo": "apoyo_empresarial",
+      "descripcion": "El presidente de la Federación Nacional de Comerciantes (Fenalco), Jaime Alberto Cabal, anunció el respaldo del gremio a Abelardo de la Espriella y a su fórmula vicepresidencial José Manuel Restrepo para la segunda vuelta. Fenalco representa al sector comercial del país y suma credenciales económicas al candidato conservador.",
+      "fecha": "5 jun 2026",
+      "fuente": "El Tiempo",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562276",
+      "impacto": "medio"
+    },
+    {
+      "de": "Roy Barreras",
+      "de_partido": "La Fuerza de la Paz",
+      "de_votos_pct": null,
+      "hacia": "cepeda",
+      "tipo": "apoyo_oficial",
+      "descripcion": "El exsenador y exembajador Roy Barreras anunció su apoyo a Iván Cepeda para la segunda vuelta del 21 de junio. Barreras suma su figura al bloque progresista que busca movilizar el voto de izquierda y centro, aunque su votación en primera vuelta fue marginal.",
+      "fecha": "5 jun 2026",
+      "fuente": "El Tiempo",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562276",
+      "impacto": "bajo"
+    },
+    {
       "de": "Sergio Fajardo",
       "de_partido": "Independiente",
       "de_votos_pct": 4.04,
       "hacia": "blanco",
       "tipo": "voto_blanco",
-      "descripcion": "Fajardo descartó apoyar a cualquiera de los dos finalistas argumentando que ninguno representa el centro real que Colombia necesita. Promueve el voto en blanco entre sus seguidores y del movimiento 'Colombia Humana'. Sus votantes son heterogéneos y su traslado no es automático.",
+      "descripcion": "Fajardo descartó apoyar a cualquiera de los dos finalistas argumentando que ninguno representa el centro real que Colombia necesita. Promueve el voto en blanco entre sus seguidores del movimiento 'Dignidad y Compromiso'. Sus votantes son heterogéneos y su traslado no es automático.",
       "fecha": "1 jun 2026",
       "fuente": "El Colombiano",
       "url": "https://www.elcolombiano.com/colombia/politica/elecciones-2026-votos-perdedores-primera-vuelta-cotizan-alza-OM37199799",
       "impacto": "medio"
-    },
-    {
-      "de": "Claudia López",
-      "de_partido": "Alianza Verde",
-      "de_votos_pct": 0.78,
-      "hacia": "cepeda",
-      "tipo": "acercamiento_cepeda",
-      "descripcion": "López descartó apoyar a De la Espriella ('peligro para Colombia'). Llamó al 45% de abstencionistas a votar y a definir la segunda vuelta. Aún sin respaldo formal a Cepeda; condicionó cualquier apoyo a que él demuestre distancia del petrismo. Cepeda busca activamente su apoyo.",
-      "fecha": "3 jun 2026",
-      "fuente": "La FM",
-      "url": "https://www.lafm.com.co/politica/claudia-lopez-resultados-primera-vuelta-colombia-alerta-abismo-en-democracia-segunda-vuelta-400950",
-      "impacto": "bajo"
     },
     {
       "de": "Donald Trump",
@@ -66,7 +78,7 @@
       "de_votos_pct": null,
       "hacia": "espriella",
       "tipo": "apoyo_internacional",
-      "descripcion": "El presidente de EEUU Donald Trump anunció el 2 de junio su apoyo a Abelardo de la Espriella para la segunda vuelta del 21 de junio, felicitándolo por su victoria en primera vuelta. El respaldo suma visibilidad internacional a De la Espriella pero activa el argumento de intervencionismo extranjero que Cepeda ya usa en campaña.",
+      "descripcion": "El presidente de EEUU Donald Trump anunció el 2 de junio su apoyo a Abelardo de la Espriella para la segunda vuelta del 21 de junio. El respaldo suma visibilidad internacional al candidato conservador pero activa el argumento de intervencionismo extranjero que Cepeda usa activamente en campaña.",
       "fecha": "2 jun 2026",
       "fuente": "El Tiempo",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-ultimas-noticias-apoyos-y-reacciones-a-la-segunda-vuelta-entre-abelardo-de-la-espriella-e-ivan-cepeda-3561681",
@@ -76,6 +88,138 @@
   "noticias": [
     {
       "filter": "espriella",
+      "fuente": "El Tiempo",
+      "fuente_color": "#e67e22",
+      "fecha": "6 jun 2026",
+      "tag": "De la Espriella · Campaña",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella advierte: familiares y amigos no pueden hacer acuerdos en nombre de su campaña",
+      "resumen": "El candidato Abelardo de la Espriella hizo un llamado público para aclarar que ningún familiar, amigo cercano o allegado tiene autorización para cerrar acuerdos políticos o compromisos en nombre de su campaña de segunda vuelta. La advertencia busca blindar al candidato de negociaciones no autorizadas en el período de mayor actividad previa al 21 de junio. La declaración refleja el creciente número de sectores políticos y gremiales que buscan acercarse al candidato que lidera todas las encuestas de cara a la segunda vuelta.",
+      "objetividad": 88,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Declaración oficial directa de De la Espriella — verificada por El Tiempo (6 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Contexto claro: momento de máxima presión de alianzas en segunda vuelta"
+        },
+        {
+          "ok": true,
+          "texto": "Señal de control de campaña y disciplina interna en momento clave"
+        },
+        {
+          "ok": false,
+          "texto": "No se especificó qué acuerdos concretos motivaron la declaración pública"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562276",
+      "url_label": "El Tiempo – De la Espriella: familiares no pueden negociar en su nombre"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "El Tiempo / Infobae",
+      "fuente_color": "#27ae60",
+      "fecha": "6 jun 2026",
+      "tag": "Cepeda · Debate",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda desiste de participar en debate público con De la Espriella pese a haberlo propuesto",
+      "resumen": "Iván Cepeda, quien inicialmente había extendido una invitación a debate público con Abelardo de la Espriella, finalmente desistió de participar. El retroceso genera daño reputacional ante el votante independiente y de centro que esperaba una confrontación directa de ideas entre los dos finalistas. Paloma Valencia también había exigido públicamente la realización de debates en segunda vuelta. La negativa refuerza la narrativa de De la Espriella, quien se presenta como el candidato con mayor confianza para la contienda directa.",
+      "objetividad": 85,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Hecho verificado: Cepeda desiste de debate que él mismo había propuesto"
+        },
+        {
+          "ok": true,
+          "texto": "Paloma Valencia también exigió debates — presión múltiple sobre el candidato"
+        },
+        {
+          "ok": true,
+          "texto": "Impacto directo en votante independiente que valora confrontación de ideas"
+        },
+        {
+          "ok": false,
+          "texto": "Motivos reales del desistimiento no fueron explicados públicamente por Cepeda"
+        },
+        {
+          "ok": false,
+          "texto": "Impacto cuantificable en votos aún incierto — faltan 15 días para el 21-J"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562276",
+      "url_label": "El Tiempo – Cepeda desiste del debate que él propuso con De la Espriella"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "El Tiempo",
+      "fuente_color": "#27ae60",
+      "fecha": "5 jun 2026",
+      "tag": "Cepeda · Alianzas",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Roy Barreras anuncia su apoyo a Iván Cepeda para la segunda vuelta del 21 de junio",
+      "resumen": "El exsenador y exembajador Roy Barreras, quien fue candidato presidencial en primera vuelta con una votación marginal, anunció formalmente su respaldo a Iván Cepeda para la segunda vuelta. Barreras suma su figura política y su red de contactos al bloque progresista que respalda a Cepeda. Su votación en primera vuelta fue reducida, pero el respaldo contribuye a la narrativa de unidad de la izquierda y el centro progresista.",
+      "objetividad": 88,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Apoyo oficial verificado por El Tiempo (5 jun 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Barreras es figura conocida — exsenador y exembajador de Colombia ante la OEA"
+        },
+        {
+          "ok": false,
+          "texto": "Su votación en 1ra vuelta fue mínima — impacto directo en votos muy limitado"
+        },
+        {
+          "ok": false,
+          "texto": "Sin datos sobre qué maquinaria concreta trae Barreras a la campaña de Cepeda"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562276",
+      "url_label": "El Tiempo – Roy Barreras apoya a Cepeda en segunda vuelta"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Tiempo",
+      "fuente_color": "#e67e22",
+      "fecha": "5 jun 2026",
+      "tag": "De la Espriella · Alianzas",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "Fenalco respalda a De la Espriella y a su fórmula Restrepo para la segunda vuelta",
+      "resumen": "El presidente de la Federación Nacional de Comerciantes (Fenalco), Jaime Alberto Cabal, anunció el apoyo del gremio al candidato Abelardo de la Espriella y su fórmula vicepresidencial José Manuel Restrepo. Fenalco representa al sector comercial del país — uno de los gremios con mayor presencia regional en Colombia — y suma credenciales económicas al candidato conservador. El respaldo empresarial consolida la imagen de De la Espriella como candidato de la estabilidad económica frente a la incertidumbre.",
+      "objetividad": 90,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Anuncio oficial del presidente de Fenalco — verificado por El Tiempo (5 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Fenalco es gremio de primer orden con presencia nacional"
+        },
+        {
+          "ok": true,
+          "texto": "Suma credenciales económicas al candidato que ya lidera encuestas"
+        },
+        {
+          "ok": false,
+          "texto": "Respaldo gremial no se traduce automáticamente en votos directos"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562276",
+      "url_label": "El Tiempo – Fenalco respalda a De la Espriella para la segunda vuelta"
+    },
+    {
+      "filter": "espriella",
       "fuente": "Semana / El Heraldo",
       "fuente_color": "#e67e22",
       "fecha": "5 jun 2026",
@@ -83,7 +227,7 @@
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
       "titulo": "Hostigamientos a sede de De la Espriella en Teusaquillo, Bogotá; Secretaría de Seguridad se pronuncia",
-      "resumen": "El 5 de junio, simpatizantes de Iván Cepeda llegaron a la sede de campaña de Abelardo de la Espriella en Teusaquillo y lanzaron arengas ofensivas e intimidantes, restringiendo el acceso y la salida del inmueble. Videos en redes sociales mostraron el incidente. La Secretaría de Seguridad de Bogotá confirmó que no hubo vandalización estructural. De la Espriella denunció el hecho calificando a los participantes como 'desadaptados de primera línea, seguidores del señor Cepeda y de Petro'. La representante María Fernanda Carrascal (petrista) acusó a su vez a simpatizantes de De la Espriella de haber sacado un arma de fuego durante el intercambio verbal. El presidente Gustavo Petro hizo un llamado a la tranquilidad y al respeto.",
+      "resumen": "El 5 de junio, simpatizantes de Iván Cepeda llegaron a la sede de campaña de Abelardo de la Espriella en Teusaquillo y lanzaron arengas ofensivas, restringiendo accesos. La Secretaría de Seguridad de Bogotá confirmó que no hubo vandalización estructural. De la Espriella denunció el hecho calificando a los participantes como 'desadaptados de primera línea, seguidores del señor Cepeda y de Petro'. La representante María Fernanda Carrascal (petrista) acusó a su vez a simpatizantes de De la Espriella de portar un arma. El presidente Petro llamó a la tranquilidad. Pulzo reportó un herido.",
       "objetividad": 85,
       "criterios": [
         {
@@ -104,7 +248,7 @@
         },
         {
           "ok": false,
-          "texto": "La narrativa política de cada bando ya está instrumentalizando el incidente"
+          "texto": "La narrativa política de cada bando ya instrumentaliza el incidente"
         }
       ],
       "url": "https://www.semana.com/nacion/bogota/articulo/video-intentan-atacar-sede-de-la-campana-de-abelardo-de-la-espriella-en-bogota/202637/",
@@ -112,14 +256,14 @@
     },
     {
       "filter": "cepeda",
-      "fuente": "BluRadio",
+      "fuente": "BluRadio / Pulzo",
       "fuente_color": "#27ae60",
       "fecha": "5 jun 2026",
       "tag": "Cepeda · Campaña",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Nueva tensión entre seguidores de Cepeda y De la Espriella; Petro invita a la tranquilidad",
-      "resumen": "Tras los hostigamientos a la sede de De la Espriella en Teusaquillo, el presidente Gustavo Petro hizo un llamado público a sus simpatizantes a mantener la tranquilidad y el respeto durante la campaña de segunda vuelta. Según Pulzo, una persona fue herida en el incidente de la tarde del 5 de junio en Bogotá. La campaña de Cepeda afronta el riesgo de que la narrativa de violencia de sus seguidores reste votos independientes a 16 días de la segunda vuelta. La tensión refuerza el argumento de De la Espriella sobre la 'radicalización' del petrismo.",
+      "titulo": "Petro interviene y pide tranquilidad tras tensión entre seguidores de Cepeda y De la Espriella en Bogotá",
+      "resumen": "Tras los hostigamientos a la sede de De la Espriella en Teusaquillo el 5 de junio, el presidente Gustavo Petro hizo un llamado público a sus simpatizantes a mantener la tranquilidad y el respeto durante la campaña de segunda vuelta. Pulzo reportó un herido en el incidente. La campaña de Cepeda afronta el riesgo de que la narrativa de violencia de sus seguidores reste votos independientes a 16 días de la segunda vuelta. La tensión refuerza el argumento de De la Espriella sobre la 'radicalización' del petrismo.",
       "objetividad": 82,
       "criterios": [
         {
@@ -140,39 +284,7 @@
         }
       ],
       "url": "https://www.bluradio.com/nacion/elecciones/nueva-tension-entre-seguidores-de-cepeda-y-de-la-espriella-petro-invito-a-la-tranquilidad-so35",
-      "url_label": "BluRadio – Tensiones seguidores Cepeda–De la Espriella; Petro pide calma"
-    },
-    {
-      "filter": "alianzas",
-      "fuente": "Infobae / El Espectador",
-      "fuente_color": "#8e44ad",
-      "fecha": "4 jun 2026",
-      "tag": "Electoral · CNE",
-      "tag_color": "#8e44ad",
-      "tag_bg": "rgba(142,68,173,0.15)",
-      "titulo": "CNE cierra el escrutinio oficial: De la Espriella venció a Cepeda por 662.222 votos en la primera vuelta",
-      "resumen": "El Consejo Nacional Electoral finalizó el proceso de escrutinio de la primera vuelta presidencial del 31 de mayo con el 99,98% de más de 122.000 mesas verificadas. Resultados finales certificados: Abelardo de la Espriella 10.366.143 votos (43,73%) y Iván Cepeda 9.703.921 votos (40,91%), con una diferencia de 662.222 votos. Paloma Valencia obtuvo 1.640.989 votos y Sergio Fajardo 1.009.346 votos. La correspondencia entre el preconteo y los resultados oficiales fue del 99,94%. El CNE confirmó oficialmente la segunda vuelta para el 21 de junio.",
-      "objetividad": 99,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Resultado oficial e irrefutable del organismo electoral competente"
-        },
-        {
-          "ok": true,
-          "texto": "99,98% de mesas verificadas — margen de error mínimo"
-        },
-        {
-          "ok": true,
-          "texto": "99,94% de correspondencia preconteo-escrutinio: proceso limpio"
-        },
-        {
-          "ok": true,
-          "texto": "Diferencia certificada de 662.222 votos es el punto de partida real para la 2da vuelta"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/06/04/cne-cerro-el-escrutinio-estos-fueron-los-resultados-finales-de-abelardo-de-la-espriella-e-ivan-cepeda-rumbo-a-la-segunda-vuelta/",
-      "url_label": "Infobae – CNE cierra escrutinio: De la Espriella +662.222 votos sobre Cepeda"
+      "url_label": "BluRadio – Petro pide calma tras tensión entre seguidores en Bogotá"
     },
     {
       "filter": "espriella",
@@ -182,177 +294,69 @@
       "tag": "De la Espriella · Encuesta",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "CB Global Data 2da vuelta: De la Espriella 46,7% vs Cepeda 41,9% — potencial electoral 51,9% vs 47,8%",
-      "resumen": "La encuestadora CB Global Data publicó el 4 de junio una nueva medición para la segunda vuelta, recolectada entre el 1 y 4 de junio con 1.475 personas. De la Espriella cuenta con el 46,7% de quienes definitivamente votarían por él frente al 41,9% de Cepeda. El potencial electoral (incluye quienes podrían votar por cada candidato) es de 51,9% para De la Espriella vs 47,8% para Cepeda. Margen de error ±2,6% con confianza del 95%. Esta encuesta se suma a AtlasIntel (2 jun: De la Espriella 50,3% vs Cepeda 42,6%) para consolidar el liderazgo del candidato de derecha.",
+      "titulo": "CB Global Data 2da vuelta: De la Espriella 49,6% vs Cepeda 43,3% — ventaja de 6,3 puntos",
+      "resumen": "La encuestadora CB Global Data publicó el 4 de junio una medición para la segunda vuelta, recolectada entre el 1 y 4 de junio con 1.475 personas. De la Espriella cuenta con el 49,6% de intención de voto total frente al 43,3% de Cepeda. El voto definitivo es 46,7% vs 41,9% y el potencial electoral es 51,9% vs 47,8%. Margen de error ±2,6% con confianza del 95%. Se suma a AtlasIntel (2 jun: De la Espriella 50,3% vs Cepeda 42,6%) para consolidar el liderazgo del candidato de derecha.",
       "objetividad": 90,
       "criterios": [
         {
           "ok": true,
-          "texto": "Encuesta publicada el 4 de junio, la más reciente disponible"
+          "texto": "Encuesta publicada el 4 de junio — la más reciente disponible"
         },
         {
           "ok": true,
-          "texto": "Muestra de 1.475 personas; confianza 95% y margen ±2.6%"
+          "texto": "Muestra de 1.475 personas; confianza 95% y margen ±2,6%"
         },
         {
           "ok": true,
-          "texto": "Coincide en dirección con AtlasIntel: De la Espriella liderando"
+          "texto": "Coincide en dirección con AtlasIntel: De la Espriella liderando en todas las métricas"
         },
         {
           "ok": true,
-          "texto": "Potencial electoral de De la Espriella supera el 50% — barrera psicológica relevante"
+          "texto": "Potencial electoral de 51,9% supera la barrera del 50% — psicológicamente relevante"
         },
         {
           "ok": false,
-          "texto": "Encuesta sigue siendo proyección; 16 días de campaña pueden mover el resultado"
+          "texto": "Proyección — 15 días de campaña activa pueden mover el resultado final"
         }
       ],
-      "url": "https://www.elpais.com.co/elecciones/nueva-encuesta-pone-a-abelardo-de-la-espriella-por-encima-de-ivan-cepeda-en-segunda-vuelta-presidencial-0451.html",
-      "url_label": "El País – CB Global Data: De la Espriella 46,7% vs Cepeda 41,9%"
+      "url": "https://www.infobae.com/colombia/2026/06/04/nueva-encuesta-ubica-a-abelardo-de-la-espriella-como-el-ganador-de-la-segunda-vuelta-ivan-cepeda-perderia-por-pocos-votos/",
+      "url_label": "Infobae – CB Global Data: De la Espriella 49,6% vs Cepeda 43,3%"
     },
     {
       "filter": "espriella",
-      "fuente": "Semana / AtlasIntel",
+      "fuente": "El Tiempo / AtlasIntel",
       "fuente_color": "#e67e22",
-      "fecha": "2 jun 2026",
+      "fecha": "4 jun 2026",
       "tag": "De la Espriella · Encuesta",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "AtlasIntel 2da vuelta: De la Espriella 50,3% vs Cepeda 42,6% — ventaja de 7,7 puntos",
-      "resumen": "La encuesta AtlasIntel para Revista Semana, publicada el 2 de junio con muestra de 2.030 personas (recolección 1-2 jun), proyecta a De la Espriella ganador de la segunda vuelta con el 50,3% frente al 42,6% de Cepeda. El voto en blanco alcanza el 3,7% e indecisos el 2,9%. El 56,6% de los encuestados rechaza más a Cepeda como presidente, frente al 40,3% que rechaza a De la Espriella. AtlasIntel fue la única encuestadora que acertó el resultado de la primera vuelta.",
+      "titulo": "AtlasIntel — la única firma que acertó la 1ra vuelta — ratifica: De la Espriella 50,3% ganaría la segunda",
+      "resumen": "El Tiempo publicó el análisis de AtlasIntel para la segunda vuelta: De la Espriella 50,3% vs Cepeda 42,6% (+7,7 pts), con muestra de 2.030 personas recolectada el 1-2 de junio. AtlasIntel fue la única encuestadora que predijo correctamente el resultado de la primera vuelta del 31 de mayo, lo que otorga especial credibilidad a su proyección. El 56,6% de los encuestados rechaza a Cepeda como presidente, frente al 40,3% que rechaza a De la Espriella — dato clave para la dinámica de segunda vuelta. Voto en blanco: 3,7%; indecisos: 2,9%.",
       "objetividad": 95,
       "criterios": [
         {
           "ok": true,
-          "texto": "Encuesta publicada tras la primera vuelta, con resultados reales como base"
+          "texto": "AtlasIntel fue la única firma que acertó el ganador de la primera vuelta"
         },
         {
           "ok": true,
-          "texto": "AtlasIntel fue la única firma que acertó la primera vuelta"
-        },
-        {
-          "ok": true,
-          "texto": "Muestra de 2.030 personas, período 1-2 jun 2026"
+          "texto": "Muestra de 2.030 personas — la más grande entre encuestas recientes para 2da vuelta"
         },
         {
           "ok": true,
           "texto": "Dato de rechazo muy relevante: 56,6% rechaza a Cepeda vs 40,3% a De la Espriella"
         },
         {
-          "ok": false,
-          "texto": "Encuesta sigue siendo proyección, no resultado definitivo"
-        }
-      ],
-      "url": "https://pluralidadz.com/politica/encuesta-atlasintel-segunda-vuelta-presidencial-2026-de-la-espriella-arriba-con-77-puntos-sobre-cepeda/",
-      "url_label": "AtlasIntel (Semana): De la Espriella +7,7 pts en 2da vuelta"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Tiempo",
-      "fuente_color": "#e67e22",
-      "fecha": "2 jun 2026",
-      "tag": "De la Espriella · Internacional",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Trump anuncia apoyo a De la Espriella para la segunda vuelta del 21 de junio",
-      "resumen": "El presidente de Estados Unidos Donald Trump anunció el 2 de junio su respaldo a Abelardo de la Espriella, felicitándolo por su victoria en primera vuelta y señalando que su liderazgo sería favorable para las relaciones Colombia–EEUU. Es la primera intervención directa de Trump en un proceso electoral colombiano. El apoyo suma visibilidad internacional al candidato conservador, aunque también activa el discurso de intervencionismo extranjero que Cepeda ya usa como argumento de campaña.",
-      "objetividad": 90,
-      "criterios": [
-        {
           "ok": true,
-          "texto": "Anuncio oficial verificado por múltiples medios colombianos e internacionales"
-        },
-        {
-          "ok": true,
-          "texto": "Hecho relevante: primera intervención directa de Trump en elecciones colombianas 2026"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente de referencia nacional de primer orden"
-        },
-        {
-          "ok": true,
-          "texto": "Alto impacto geopolítico y en narrativa electoral"
+          "texto": "Ventaja de 7,7 puntos es estadísticamente significativa con margen ±2 p.p."
         },
         {
           "ok": false,
-          "texto": "El efecto real en votantes colombianos es incierto — Trump es figura polarizante en Colombia"
+          "texto": "Encuesta sigue siendo proyección — 15 días de campaña pueden mover el voto"
         }
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-ultimas-noticias-apoyos-y-reacciones-a-la-segunda-vuelta-entre-abelardo-de-la-espriella-e-ivan-cepeda-3561681",
-      "url_label": "El Tiempo – Trump apoya a De la Espriella para la segunda vuelta"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "El Tiempo",
-      "fuente_color": "#27ae60",
-      "fecha": "3 jun 2026",
-      "tag": "Cepeda · Internacional",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda califica de 'intervencionista' el apoyo de Trump: 'La soberanía colombiana debe respetarse'",
-      "resumen": "Iván Cepeda respondió al respaldo de Donald Trump a De la Espriella calificándolo de intervencionista. Señaló que cualquier presidente puede tener preferencias, pero que la soberanía colombiana y la decisión del pueblo el 21 de junio deben ser respetadas. La respuesta de Cepeda busca reencuadrar la segunda vuelta como una defensa de la soberanía nacional frente al alineamiento internacional de su rival, movilizando el voto antiimperialista y el rechazo a injerencias extranjeras.",
-      "objetividad": 88,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaraciones directas y verificadas de Cepeda (El Tiempo, 3 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Marco de soberanía vs. intervencionismo: estrategia electoral real y medible"
-        },
-        {
-          "ok": true,
-          "texto": "Alto impacto: primer choque geopolítico visible de la campaña de segunda vuelta"
-        },
-        {
-          "ok": true,
-          "texto": "Apoyo de Trump puede ser contraproducente entre clase media urbana que rechaza al mandatario"
-        },
-        {
-          "ok": false,
-          "texto": "El efecto cuantificable en votos de este argumento es difícil de medir de inmediato"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-ultimas-noticias-apoyos-y-reacciones-a-la-segunda-vuelta-entre-abelardo-de-la-espriella-e-ivan-cepeda-3561681",
-      "url_label": "El Tiempo – Cepeda: apoyo de Trump es intervencionista"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Tiempo",
-      "fuente_color": "#e67e22",
-      "fecha": "1 jun 2026",
-      "tag": "De la Espriella · Alianzas",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "La derecha irá unida: Valencia y Uribe respaldan a De la Espriella para la segunda vuelta",
-      "resumen": "Tras la primera vuelta, Paloma Valencia anunció formalmente su apoyo a Abelardo de la Espriella para el 21 de junio, sumando la maquinaria del Centro Democrático. El expresidente Álvaro Uribe también ratificó su respaldo al candidato. Con los votos de Valencia (6,92%) potencialmente detrás de De la Espriella, la derecha llega unida a la segunda vuelta por primera vez en años, lo que podría ser decisivo dada la ajustada diferencia de 2,82 puntos de la primera vuelta.",
-      "objetividad": 92,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaraciones oficiales de Valencia y Uribe el 1 de junio"
-        },
-        {
-          "ok": true,
-          "texto": "Fuente de referencia nacional de primer orden"
-        },
-        {
-          "ok": true,
-          "texto": "Alto impacto: suma estructural del votante de derecha"
-        },
-        {
-          "ok": true,
-          "texto": "Dato clave: votos de Valencia (6,92%) pueden inclinar el resultado"
-        },
-        {
-          "ok": false,
-          "texto": "Traslado de votos de Valencia a De la Espriella no es automático al 100%"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-derecha-ira-unida-a-la-segunda-vuelta-con-abelardo-de-la-espriella-para-donde-van-los-votos-de-sergio-fajardo-y-claudia-lopez-3561001",
-      "url_label": "El Tiempo – Valencia y Uribe respaldan a De la Espriella"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/encuesta-de-atlasintel-la-que-acerto-en-victoria-de-abelardo-de-la-espriella-en-primera-vuelta-dice-que-ganaria-la-segunda-segun-nueva-medicion-3561651",
+      "url_label": "El Tiempo – AtlasIntel: De la Espriella 50,3% ganaría la segunda vuelta"
     }
   ],
   "sentimiento": {
@@ -360,29 +364,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 62,
-        "negativo": 26,
-        "neutro": 12,
+        "positivo": 65,
+        "negativo": 20,
+        "neutro": 15,
         "tendencia": "up",
-        "tendencia_texto": "5 jun: Sede atacada por simpatizantes de Cepeda en Teusaquillo — polariza campaña y activa narrativa de violencia petrista. 4 jun: CNE certifica triunfo oficial: 43,73% y 662.222 votos de ventaja. CB Global Data (1-4 jun): 46,7% vs 41,9%; potencial electoral 51,9%. AtlasIntel (2 jun): 50,3% vs 42,6% (+7,7 pts). Derecha unida: Valencia, Uribe, Centro Democrático. Trump suma apoyo internacional. Favorito claro al 21 de junio."
+        "tendencia_texto": "6 jun: Advierte que familiares/amigos no pueden negociar en nombre de campaña — señal de control interno. 6 jun: Cepeda desiste de debate — De la Espriella gana por walkover mediático. 5 jun: Fenalco suma respaldo del sector comercial. 5 jun: Sede atacada en Teusaquillo — narrativa de violencia petrista activada. 4 jun: CB Global Data 49,6% vs 43,3%; potencial 51,9%. AtlasIntel (2 jun): 50,3% vs 42,6% (+7,7 pts). Favorito consolidado al 21-J."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 35,
-        "negativo": 47,
-        "neutro": 18,
+        "positivo": 29,
+        "negativo": 52,
+        "neutro": 19,
         "tendencia": "down",
-        "tendencia_texto": "5 jun: Seguidores señalados en ataque a sede rival — Petro debió pedir tranquilidad, daño imagen. 4 jun: CNE certifica derrota por 662.222 votos en 1ra vuelta. CB Global Data (1-4 jun): 41,9% (-4,8 pts). AtlasIntel (2 jun): 42,6% (-7,7 pts). 56,6% lo rechaza como presidente (AtlasIntel). López sin respaldo formal; Fajardo promueve voto en blanco. Argumento antiintervencionismo vs Trump activo. Necesita ~3M votos adicionales en 16 días."
+        "tendencia_texto": "6 jun: Desiste de debate que él mismo propuso — daño reputacional severo con votante independiente. 5 jun: Seguidores señalados en ataque a sede rival; Petro debió intervenir. 5 jun: Roy Barreras suma apoyo pero su votación fue marginal. 4 jun: CB Global Data 43,3%; AtlasIntel 42,6%. 56,6% lo rechaza como presidente. López aún sin respaldo formal; Fajardo promueve voto en blanco. Necesita ~3M votos adicionales en 15 días."
       }
     ]
   },
   "encuestas": {
-    "espriella": 46.7,
-    "cepeda": 41.9,
+    "espriella": 49.6,
+    "cepeda": 43.3,
     "fuente": "CB Global Data — 2da vuelta, 4 jun 2026",
     "tipo": "segunda_vuelta",
-    "nota": "Muestra de 1.475 personas. Recolección: 1-4 jun 2026. Confianza 95%, margen ±2,6%. Potencial electoral: De la Espriella 51,9% vs Cepeda 47,8%. También AtlasIntel (2 jun): De la Espriella 50,3% vs Cepeda 42,6% (+7,7 pts) — ambas encuestas favorecen a De la Espriella para el 21 de junio."
+    "nota": "Muestra de 1.475 personas. Recolección: 1-4 jun 2026. Confianza 95%, margen ±2,6%. Proyección total de intención de voto. Voto definitivo: De la Espriella 46,7% vs Cepeda 41,9%. Potencial electoral: De la Espriella 51,9% vs Cepeda 47,8%. También AtlasIntel (2 jun): De la Espriella 50,3% vs Cepeda 42,6% (+7,7 pts) — ambas encuestas favorecen a De la Espriella para el 21 de junio."
   },
   "prediccion": {
     "primero": {
@@ -399,7 +403,7 @@
       "pct": 40.91,
       "fuente_encuesta": "CNE — escrutinio oficial 1ra vuelta (4 jun 2026)"
     },
-    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026. CNE oficial (4 jun): De la Espriella 43,73% vs Cepeda 40,91% (+662.222 votos). ENCUESTAS: CB Global Data (4 jun): De la Espriella 46,7% vs Cepeda 41,9%. AtlasIntel (2 jun): De la Espriella 50,3% vs Cepeda 42,6% (+7,7 pts). TENSIÓN (5 jun): Ataque a sede De la Espriella en Teusaquillo; Petro pide tranquilidad. ALIANZAS CONFIRMADAS: Valencia + Uribe + CD → De la Espriella. Trump apoya internacionalmente (2 jun). PENDIENTES: López sin respaldo formal a Cepeda. Fajardo promueve voto en blanco (4,04%). Cepeda con narrativa antiintervencionismo vs Trump."
+    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026. CNE oficial (4 jun): De la Espriella 43,73% vs Cepeda 40,91% (+662.222 votos). ENCUESTAS HOY: CB Global Data (4 jun): De la Espriella 49,6% vs Cepeda 43,3%. AtlasIntel (2 jun): De la Espriella 50,3% vs Cepeda 42,6% (+7,7 pts). NUEVO (6 jun): Cepeda desiste de debate que él propuso — ventaja mediática para De la Espriella. De la Espriella advierte control sobre acuerdos no autorizados de familiares. ALIANZAS CONFIRMADAS: Valencia + Uribe + CD + Fenalco → De la Espriella. Trump apoyo internacional (2 jun). Roy Barreras → Cepeda (impacto bajo). PENDIENTES: Claudia López sin respaldo formal. Fajardo promueve voto en blanco (4,04%). Quedan 15 días para el 21-J."
   },
-  "ultimo_deploy": "2026-06-05T00:00:00Z"
+  "ultimo_deploy": "2026-06-06T00:00:00Z"
 }
