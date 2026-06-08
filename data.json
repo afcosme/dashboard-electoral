@@ -1,5 +1,5 @@
 {
-  "fecha": "7 de junio de 2026",
+  "fecha": "8 de junio de 2026",
   "modo": "segunda_vuelta",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -18,7 +18,7 @@
       "de_votos_pct": 6.92,
       "hacia": "espriella",
       "tipo": "apoyo_oficial",
-      "descripcion": "Valencia anunció su respaldo formal a De la Espriella y llamó a sus votantes a unirse a la 'derecha unida' para el 21 de junio. Sumó la maquinaria del Centro Democrático y el respaldo explícito de Álvaro Uribe. También invitó a Fajardo, López y Oviedo a un 'café por la democracia' para convencerlos de no votar por Cepeda.",
+      "descripcion": "Valencia anunció su respaldo formal a De la Espriella y llamó a sus votantes a unirse a la 'derecha unida' para el 21 de junio. Sumó la maquinaria del Centro Democrático y el respaldo explícito de Álvaro Uribe.",
       "fecha": "1 jun 2026",
       "fuente": "El Tiempo",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-se-pronuncio-frente-a-su-salida-de-la-segunda-vuelta-presidencial-en-las-elecciones-afirmo-que-apoyara-a-abelardo-de-la-espriella-3560950",
@@ -30,7 +30,7 @@
       "de_votos_pct": null,
       "hacia": "espriella",
       "tipo": "apoyo_oficial",
-      "descripcion": "El expresidente y jefe máximo del Centro Democrático ratificó su apoyo a De la Espriella para la segunda vuelta del 21 de junio. Uribe es el activo político más valioso de la derecha colombiana y moviliza millones de votos históricos del uribismo.",
+      "descripcion": "El expresidente y jefe máximo del Centro Democrático ratificó su apoyo a De la Espriella para la segunda vuelta del 21 de junio.",
       "fecha": "1 jun 2026",
       "fuente": "El Tiempo",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-derecha-ira-unida-a-la-segunda-vuelta-con-abelardo-de-la-espriella-para-donde-van-los-votos-de-sergio-fajardo-y-claudia-lopez-3561001",
@@ -42,7 +42,7 @@
       "de_votos_pct": null,
       "hacia": "espriella",
       "tipo": "apoyo_empresarial",
-      "descripcion": "El presidente de la Federación Nacional de Comerciantes (Fenalco), Jaime Alberto Cabal, anunció el respaldo del gremio a Abelardo de la Espriella y a su fórmula vicepresidencial José Manuel Restrepo para la segunda vuelta. Fenalco representa al sector comercial del país y suma credenciales económicas al candidato conservador.",
+      "descripcion": "El presidente de Fenalco anunció el respaldo del gremio a Abelardo de la Espriella y su fórmula vicepresidencial José Manuel Restrepo para la segunda vuelta.",
       "fecha": "5 jun 2026",
       "fuente": "El Tiempo",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562276",
@@ -54,11 +54,23 @@
       "de_votos_pct": null,
       "hacia": "cepeda",
       "tipo": "apoyo_oficial",
-      "descripcion": "El exsenador y exembajador Roy Barreras anunció su apoyo a Iván Cepeda para la segunda vuelta del 21 de junio. Barreras suma su figura al bloque progresista que busca movilizar el voto de izquierda y centro, aunque su votación en primera vuelta fue marginal.",
+      "descripcion": "El exsenador Roy Barreras anunció su apoyo a Iván Cepeda para la segunda vuelta. Su votación en primera vuelta fue marginal, pero suma figura al bloque progresista.",
       "fecha": "5 jun 2026",
       "fuente": "El Tiempo",
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562276",
       "impacto": "bajo"
+    },
+    {
+      "de": "Partido Comunes (Timochenko)",
+      "de_partido": "Comunes (ex-FARC)",
+      "de_votos_pct": null,
+      "hacia": "cepeda",
+      "tipo": "apoyo_oficial",
+      "descripcion": "El partido Comunes (exFARC) y su líder Rodrigo Londoño 'Timochenko' anunciaron formalmente su apoyo a Iván Cepeda para la segunda vuelta. El respaldo activa el argumento de la oposición sobre el vínculo de Cepeda con el progresismo radical.",
+      "fecha": "7 jun 2026",
+      "fuente": "Infobae / El Espectador",
+      "url": "https://www.infobae.com/colombia/2026/06/07/en-vivo-colombia-se-prepara-para-la-segunda-vuelta-de-las-elecciones-presidenciales-aun-no-se-ha-definido-si-habra-debates/",
+      "impacto": "medio"
     },
     {
       "de": "Sergio Fajardo",
@@ -66,7 +78,7 @@
       "de_votos_pct": 4.04,
       "hacia": "blanco",
       "tipo": "voto_blanco",
-      "descripcion": "Fajardo descartó apoyar a cualquiera de los dos finalistas argumentando que ninguno representa el centro real que Colombia necesita. Promueve el voto en blanco entre sus seguidores del movimiento 'Dignidad y Compromiso'. Sus votantes son heterogéneos y su traslado no es automático.",
+      "descripcion": "Fajardo descartó apoyar a cualquiera de los dos finalistas argumentando que ninguno representa el centro real que Colombia necesita. Promueve el voto en blanco.",
       "fecha": "1 jun 2026",
       "fuente": "El Colombiano",
       "url": "https://www.elcolombiano.com/colombia/politica/elecciones-2026-votos-perdedores-primera-vuelta-cotizan-alza-OM37199799",
@@ -78,45 +90,141 @@
       "de_votos_pct": null,
       "hacia": "espriella",
       "tipo": "apoyo_internacional",
-      "descripcion": "El presidente de EEUU Donald Trump anunció el 2 de junio su apoyo a Abelardo de la Espriella para la segunda vuelta del 21 de junio. El respaldo suma visibilidad internacional al candidato conservador pero activa el argumento de intervencionismo extranjero que Cepeda usa activamente en campaña.",
+      "descripcion": "El presidente de EEUU Donald Trump anunció el 2 de junio su apoyo a Abelardo de la Espriella para la segunda vuelta del 21 de junio.",
       "fecha": "2 jun 2026",
       "fuente": "El Tiempo",
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-ultimas-noticias-apoyos-y-reacciones-a-la-segunda-vuelta-entre-abelardo-de-la-espriella-e-ivan-cepeda-3561681",
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-ultimas-noticias-apoyos-y-reacciones-a-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3561681",
       "impacto": "medio"
     }
   ],
   "noticias": [
     {
       "filter": "espriella",
-      "fuente": "El Tiempo / Semana",
+      "fuente": "Infobae / El Heraldo",
       "fuente_color": "#e67e22",
       "fecha": "7 jun 2026",
-      "tag": "De la Espriella · Debate",
+      "tag": "De la Espriella · Independencia",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella exige a Cepeda aceptar el debate de Semana programado para el 9 de junio",
-      "resumen": "Abelardo de la Espriella convocó públicamente a Iván Cepeda a aceptar la invitación de la revista Semana para un debate televisado el próximo lunes 9 de junio a las 7 p.m. La exigencia llega un día después de que Cepeda desistiera de un debate que él mismo había propuesto, lo que generó críticas del votante independiente y del centro. Presionar el debate se convierte en la principal arena simbólica de los primeros días de la segunda vuelta.",
+      "titulo": "De la Espriella rechaza apoyo de Colombia Renaciente: \"Nada con los polítiqueros de siempre\"",
+      "resumen": "El candidato Abelardo de la Espriella rechazó públicamente el respaldo anunciado por el partido Colombia Renaciente (Jhon Arley Murillo), declarando que su independencia no quedaría \"manchada por estos corredores de avales\". El gesto refuerza el principal activo de campaña de De la Espriella —su imagen de outsider antiestablishment— justo cuando la segunda vuelta activa la búsqueda de maquinarias tradicionales. La encuestadora CB Global Data lo ubica con 49,6% frente a 43,3% de Cepeda.",
+      "objetividad": 91,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Declaración pública verificada por Infobae, El Heraldo, La FM y Minuto30 (7 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Coherente con su postura anticuotas durante toda la campaña"
+        },
+        {
+          "ok": true,
+          "texto": "Refuerza imagen de independencia ante el votante de centro"
+        },
+        {
+          "ok": false,
+          "texto": "Colombia Renaciente tiene votación marginal — impacto electoral del rechazo es simbólico"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/06/07/abelardo-de-la-espriella-le-dijo-no-a-la-adhesion-del-partido-colombia-renaciente-nada-con-los-politiqueros-de-siempre/",
+      "url_label": "Infobae – De la Espriella rechaza Colombia Renaciente: \"Nada con los polítiqueros\""
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "El Tiempo / El Espectador",
+      "fuente_color": "#27ae60",
+      "fecha": "7 jun 2026",
+      "tag": "Cepeda · Resultados",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda reconoce los resultados de la primera vuelta y se enfila a la segunda",
+      "resumen": "Iván Cepeda emitió un comunicado oficial reconociendo los resultados de la primera vuelta del 31 de mayo, donde quedó segundo con 40,91% frente al 43,73% de De la Espriella. El reconocimiento llegó seis días después de la votación y coincide con el escrutinio 100% cerrado por el CNE. La campaña anunció una Comisión Nacional de Cuidado Electoral con 4.497 testigos en 112.117 mesas para blindar el proceso del 21 de junio.",
+      "objetividad": 90,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Comunicado oficial verificado por El Tiempo y El Espectador (7 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Activa mecanismos formales de vigilancia electoral para el 21-J"
+        },
+        {
+          "ok": false,
+          "texto": "El reconocimiento tardío (6 días después) generó críticas sobre actitud antidemocrática"
+        },
+        {
+          "ok": false,
+          "texto": "La activación de la comisión de cuidado puede interpretarse como anticipación de impugnación"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-el-candidato-por-el-pacto-historico-ivan-cepeda-reconocio-los-resultados-de-la-primera-vuelta-3562830",
+      "url_label": "El Tiempo – Cepeda reconoce resultados de primera vuelta"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Infobae / El Espectador",
+      "fuente_color": "#27ae60",
+      "fecha": "7 jun 2026",
+      "tag": "Cepeda · Alianzas",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Partido Comunes (Timochenko) anuncia apoyo oficial a Iván Cepeda para la segunda vuelta",
+      "resumen": "El partido Comunes —surgido de la desmovilización de las FARC— y su máximo líder Rodrigo Londoño 'Timochenko' anunciaron formalmente su respaldo a Iván Cepeda para la segunda vuelta del 21 de junio. El apoyo suma bases territoriales del partido en regiones como Caquetá y Putumayo, pero activa el argumento de campaña de De la Espriella sobre el vínculo de Cepeda con el progresismo radical y la continuidad del petrismo.",
       "objetividad": 88,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaración pública verificada de De la Espriella convocando debate de Semana el 9-J"
+          "texto": "Anuncio oficial verificado por Infobae EN VIVO (7 jun 2026)"
         },
         {
           "ok": true,
-          "texto": "Contexto inmediato: Cepeda desistió ayer del debate que él mismo propuso"
-        },
-        {
-          "ok": true,
-          "texto": "Alto impacto: debate televisado a 14 días de la segunda vuelta (21-J)"
+          "texto": "Comunes tiene presencia territorial en zonas exFARC — suma bases reales"
         },
         {
           "ok": false,
-          "texto": "Al cierre Cepeda no confirmó ni rechazó formalmente la invitación de Semana"
+          "texto": "El apoyo de Timochenko puede ahuyentar votante de centro que Cepeda necesita ganar"
+        },
+        {
+          "ok": false,
+          "texto": "Votación de Comunes en elecciones pasadas ha sido marginal"
         }
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-ultimas-noticias-apoyos-y-reacciones-a-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3561681",
-      "url_label": "El Tiempo – De la Espriella exige a Cepeda aceptar debate de Semana el 9-J"
+      "url": "https://www.infobae.com/colombia/2026/06/07/en-vivo-colombia-se-prepara-para-la-segunda-vuelta-de-las-elecciones-presidenciales-aun-no-se-ha-definido-si-habra-debates/",
+      "url_label": "Infobae – Partido Comunes (Timochenko) apoya a Cepeda en segunda vuelta"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "El Tiempo / El Espectador",
+      "fuente_color": "#7f8c8d",
+      "fecha": "7 jun 2026",
+      "tag": "Segunda Vuelta · Debate",
+      "tag_color": "#7f8c8d",
+      "tag_bg": "rgba(127,140,141,0.15)",
+      "titulo": "Panorama difícil para debates en segunda vuelta: Cepeda rechaza Semana por \"sesgo editorial\"",
+      "resumen": "El panorama para la realización de debates en la segunda vuelta es incierto. Cepeda rechazó la propuesta de debate en revista Semana para el martes 9 de junio, alegando que el medio tiene un \"sesgo editorial\" a favor de De la Espriella. De la Espriella había aceptado y fijó públicamente fecha, hora y lugar. Ambos candidatos ponen condiciones y ningunean las iniciativas del otro, dejando al votante independiente sin confrontación directa de ideas a 13 días del 21-J.",
+      "objetividad": 87,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Postura de Cepeda verificada por Infobae y El Espectador (7 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "De la Espriella aceptó públicamente con fecha y hora — contraste claro"
+        },
+        {
+          "ok": true,
+          "texto": "El Tiempo confirma el difícil panorama para debates en segunda vuelta"
+        },
+        {
+          "ok": false,
+          "texto": "La falta de debate perjudica a ambos ante el votante independiente"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-dificil-panorama-para-la-realizacion-de-debates-en-la-segunda-vuelta-presidencial-3562792",
+      "url_label": "El Tiempo – El difícil panorama para debates en segunda vuelta"
     },
     {
       "filter": "espriella",
@@ -127,12 +235,12 @@
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
       "titulo": "Leonardo Huerta, fórmula de Claudia López, anuncia apoyo a De la Espriella para la segunda vuelta",
-      "resumen": "Leonardo Huerta, quien fue fórmula vicepresidencial de Claudia López en el movimiento Imparables, anunció oficialmente su apoyo a Abelardo de la Espriella para la segunda vuelta del 21 de junio. La declaración se produce mientras la propia Claudia López aún no ha dado un respaldo formal a ningún candidato finalista. El movimiento de Huerta puede representar una fractura en el bloque Imparables y suma figuras del centroizquierda al bloque conservador.",
+      "resumen": "Leonardo Huerta, quien fue fórmula vicepresidencial de Claudia López en el movimiento Imparables, anunció oficialmente su apoyo a Abelardo de la Espriella para la segunda vuelta del 21 de junio. La declaración contrasta con la postura de Claudia López, quien aún no ha dado respaldo formal a ningún candidato finalista, y puede representar una fractura en el bloque Imparables.",
       "objetividad": 85,
       "criterios": [
         {
           "ok": true,
-          "texto": "Anuncio público de Huerta verificado — figura conocida del centroizquierda"
+          "texto": "Anuncio público de Huerta verificado — figura del centroizquierda"
         },
         {
           "ok": true,
@@ -151,36 +259,40 @@
       "url_label": "El Tiempo – Huerta (fórmula de López) anuncia apoyo a De la Espriella"
     },
     {
-      "filter": "espriella",
-      "fuente": "El Tiempo",
-      "fuente_color": "#7f8c8d",
+      "filter": "cepeda",
+      "fuente": "El Tiempo / Infobae",
+      "fuente_color": "#27ae60",
       "fecha": "6 jun 2026",
-      "tag": "Segunda Vuelta · Alianzas",
-      "tag_color": "#7f8c8d",
-      "tag_bg": "rgba(127,140,141,0.15)",
-      "titulo": "Juan Daniel Oviedo, fórmula de Paloma Valencia, descarta respaldar a De la Espriella o a Cepeda",
-      "resumen": "Juan Daniel Oviedo, quien fue candidato a la vicepresidencia en la fórmula de Paloma Valencia (Centro Democrático), anunció que no apoyará a ninguno de los dos finalistas en la segunda vuelta del 21 de junio. La postura contrasta con la de Paloma Valencia, quien sí anunció apoyo oficial a De la Espriella, y puede enviar una señal ambigua a los votantes del CD que buscan indicación clara para el 21-J.",
-      "objetividad": 87,
+      "tag": "Cepeda · Debate",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda desiste de participar en debate público con De la Espriella pese a haberlo propuesto",
+      "resumen": "Iván Cepeda, quien inicialmente había extendido una invitación a debate público con Abelardo de la Espriella, finalmente desistió de participar. El retroceso generó daño reputacional ante el votante independiente y de centro que esperaba una confrontación directa de ideas entre los dos finalistas.",
+      "objetividad": 85,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaración verificada por El Tiempo — Oviedo descarta apoyar a cualquier finalista"
+          "texto": "Hecho verificado: Cepeda desiste de debate que él mismo había propuesto"
         },
         {
           "ok": true,
-          "texto": "Contrasta con Valencia: ella apoya a De la Espriella, Oviedo se abstiene"
+          "texto": "Paloma Valencia también exigió debates — presión múltiple"
         },
         {
           "ok": true,
-          "texto": "Puede generar confusión en el votante del CD ante mensajes contradictorios"
+          "texto": "Impacto directo en votante independiente que valora confrontación de ideas"
         },
         {
           "ok": false,
-          "texto": "Oviedo es figura técnica — el votante de CD sigue la línea de Valencia y Uribe ante todo"
+          "texto": "Motivos reales del desistimiento no fueron explicados públicamente"
+        },
+        {
+          "ok": false,
+          "texto": "Impacto cuantificable en votos aún incierto — faltan 15 días para el 21-J"
         }
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562000",
-      "url_label": "El Tiempo – Oviedo (fórmula de Valencia) descarta apoyar a De la Espriella o Cepeda"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562276",
+      "url_label": "El Tiempo – Cepeda desiste del debate que propuso"
     },
     {
       "filter": "espriella",
@@ -191,7 +303,7 @@
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
       "titulo": "De la Espriella advierte: familiares y amigos no pueden hacer acuerdos en nombre de su campaña",
-      "resumen": "El candidato Abelardo de la Espriella hizo un llamado público para aclarar que ningún familiar, amigo cercano o allegado tiene autorización para cerrar acuerdos políticos o compromisos en nombre de su campaña de segunda vuelta. La advertencia busca blindar al candidato de negociaciones no autorizadas en el período de mayor actividad previa al 21 de junio. La declaración refleja el creciente número de sectores políticos y gremiales que buscan acercarse al candidato que lidera todas las encuestas de cara a la segunda vuelta.",
+      "resumen": "El candidato Abelardo de la Espriella hizo un llamado público para aclarar que ningún familiar, amigo cercano o allegado tiene autorización para cerrar acuerdos políticos o compromisos en nombre de su campaña de segunda vuelta. La advertencia busca blindar al candidato de negociaciones no autorizadas en el período de mayor actividad.",
       "objetividad": 88,
       "criterios": [
         {
@@ -204,83 +316,15 @@
         },
         {
           "ok": true,
-          "texto": "Señal de control de campaña y disciplina interna en momento clave"
+          "texto": "Señal de control de campaña y disciplina interna"
         },
         {
           "ok": false,
-          "texto": "No se especificó qué acuerdos concretos motivaron la declaración pública"
+          "texto": "No se especificó qué acuerdos concretos motivaron la declaración"
         }
       ],
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562276",
       "url_label": "El Tiempo – De la Espriella: familiares no pueden negociar en su nombre"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "El Tiempo / Infobae",
-      "fuente_color": "#27ae60",
-      "fecha": "6 jun 2026",
-      "tag": "Cepeda · Debate",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda desiste de participar en debate público con De la Espriella pese a haberlo propuesto",
-      "resumen": "Iván Cepeda, quien inicialmente había extendido una invitación a debate público con Abelardo de la Espriella, finalmente desistió de participar. El retroceso genera daño reputacional ante el votante independiente y de centro que esperaba una confrontación directa de ideas entre los dos finalistas. Paloma Valencia también había exigido públicamente la realización de debates en segunda vuelta. La negativa refuerza la narrativa de De la Espriella, quien se presenta como el candidato con mayor confianza para la contienda directa.",
-      "objetividad": 85,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Hecho verificado: Cepeda desiste de debate que él mismo había propuesto"
-        },
-        {
-          "ok": true,
-          "texto": "Paloma Valencia también exigió debates — presión múltiple sobre el candidato"
-        },
-        {
-          "ok": true,
-          "texto": "Impacto directo en votante independiente que valora confrontación de ideas"
-        },
-        {
-          "ok": false,
-          "texto": "Motivos reales del desistimiento no fueron explicados públicamente por Cepeda"
-        },
-        {
-          "ok": false,
-          "texto": "Impacto cuantificable en votos aún incierto — faltan 15 días para el 21-J"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562276",
-      "url_label": "El Tiempo – Cepeda desiste del debate que él propuso con De la Espriella"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "El Tiempo",
-      "fuente_color": "#27ae60",
-      "fecha": "5 jun 2026",
-      "tag": "Cepeda · Alianzas",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Roy Barreras anuncia su apoyo a Iván Cepeda para la segunda vuelta del 21 de junio",
-      "resumen": "El exsenador y exembajador Roy Barreras, quien fue candidato presidencial en primera vuelta con una votación marginal, anunció formalmente su respaldo a Iván Cepeda para la segunda vuelta. Barreras suma su figura política y su red de contactos al bloque progresista que respalda a Cepeda. Su votación en primera vuelta fue reducida, pero el respaldo contribuye a la narrativa de unidad de la izquierda y el centro progresista.",
-      "objetividad": 88,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Apoyo oficial verificado por El Tiempo (5 jun 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Barreras es figura conocida — exsenador y exembajador de Colombia ante la OEA"
-        },
-        {
-          "ok": false,
-          "texto": "Su votación en 1ra vuelta fue mínima — impacto directo en votos muy limitado"
-        },
-        {
-          "ok": false,
-          "texto": "Sin datos sobre qué maquinaria concreta trae Barreras a la campaña de Cepeda"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562276",
-      "url_label": "El Tiempo – Roy Barreras apoya a Cepeda en segunda vuelta"
     },
     {
       "filter": "espriella",
@@ -291,7 +335,7 @@
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
       "titulo": "Fenalco respalda a De la Espriella y a su fórmula Restrepo para la segunda vuelta",
-      "resumen": "El presidente de la Federación Nacional de Comerciantes (Fenalco), Jaime Alberto Cabal, anunció el apoyo del gremio al candidato Abelardo de la Espriella y su fórmula vicepresidencial José Manuel Restrepo. Fenalco representa al sector comercial del país — uno de los gremios con mayor presencia regional en Colombia — y suma credenciales económicas al candidato conservador. El respaldo empresarial consolida la imagen de De la Espriella como candidato de la estabilidad económica frente a la incertidumbre.",
+      "resumen": "El presidente de la Federación Nacional de Comerciantes (Fenalco), Jaime Alberto Cabal, anunció el apoyo del gremio al candidato Abelardo de la Espriella y su fórmula vicepresidencial José Manuel Restrepo. Fenalco suma credenciales económicas al candidato conservador, quien ya lidera todas las encuestas de cara al 21 de junio.",
       "objetividad": 90,
       "criterios": [
         {
@@ -304,7 +348,7 @@
         },
         {
           "ok": true,
-          "texto": "Suma credenciales económicas al candidato que ya lidera encuestas"
+          "texto": "Suma credenciales económicas al candidato que lidera encuestas"
         },
         {
           "ok": false,
@@ -313,42 +357,6 @@
       ],
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562276",
       "url_label": "El Tiempo – Fenalco respalda a De la Espriella para la segunda vuelta"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Semana / El Heraldo",
-      "fuente_color": "#e67e22",
-      "fecha": "5 jun 2026",
-      "tag": "De la Espriella · Seguridad",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Hostigamientos a sede de De la Espriella en Teusaquillo, Bogotá; Secretaría de Seguridad se pronuncia",
-      "resumen": "El 5 de junio, simpatizantes de Iván Cepeda llegaron a la sede de campaña de Abelardo de la Espriella en Teusaquillo y lanzaron arengas ofensivas, restringiendo accesos. La Secretaría de Seguridad de Bogotá confirmó que no hubo vandalización estructural. De la Espriella denunció el hecho calificando a los participantes como 'desadaptados de primera línea, seguidores del señor Cepeda y de Petro'. La representante María Fernanda Carrascal (petrista) acusó a su vez a simpatizantes de De la Espriella de portar un arma. El presidente Petro llamó a la tranquilidad. Pulzo reportó un herido.",
-      "objetividad": 85,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Incidente verificado por Semana, El Heraldo, Infobae y BluRadio (5 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Secretaría de Seguridad confirmó la situación y descartó afectaciones estructurales"
-        },
-        {
-          "ok": true,
-          "texto": "Petro intervino llamando a la tranquilidad — hecho de alto impacto simbólico"
-        },
-        {
-          "ok": false,
-          "texto": "Versiones contradictorias sobre quién inició la violencia — sin arbitraje oficial definitivo"
-        },
-        {
-          "ok": false,
-          "texto": "La narrativa política de cada bando ya instrumentaliza el incidente"
-        }
-      ],
-      "url": "https://www.semana.com/nacion/bogota/articulo/video-intentan-atacar-sede-de-la-campana-de-abelardo-de-la-espriella-en-bogota/202637/",
-      "url_label": "Semana – Hostigamientos a sede de De la Espriella en Teusaquillo"
     }
   ],
   "sentimiento": {
@@ -356,20 +364,20 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 67,
-        "negativo": 19,
+        "positivo": 68,
+        "negativo": 18,
         "neutro": 14,
         "tendencia": "up",
-        "tendencia_texto": "7 jun: Convoca a Cepeda al debate de Semana para el 9-J; gana ventaja simbólica. Leonardo Huerta (fórmula de López) anuncia apoyo. 6 jun: Advierte que familiares/amigos no pueden negociar en nombre de campaña. Cepeda desiste del debate — De la Espriella gana por walkover mediático. 5 jun: Fenalco suma respaldo del sector comercial. Sede atacada en Teusaquillo — narrativa de violencia petrista activada. CB Global Data (4 jun): 49,6% vs 43,3%. AtlasIntel (2 jun): 50,3% vs 42,6% (+7,7 pts). Favorito consolidado. Quedan 14 días para el 21-J."
+        "tendencia_texto": "8 jun: Nuevo record de sentimiento positivo (68%). 7 jun: Rechazó apoyo de Colombia Renaciente ('Nada con los polítiqueros') — refuerza imagen de outsider independiente. Aceptó debate en Semana el 9-J; Cepeda declinó alegando sesgo editorial. Leonardo Huerta (fórmula López) anunció apoyo. 6 jun: Advierte que familiares/amigos no pueden negociar en nombre de campaña. 5 jun: Fenalco suma respaldo del sector comercial. CB Global Data (4 jun): 49,6% vs 43,3%. AtlasIntel (2 jun): 50,3% vs 42,6% (+7,7 pts). Favorito consolidado. Quedan 13 días para el 21-J."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 27,
-        "negativo": 54,
+        "positivo": 26,
+        "negativo": 55,
         "neutro": 19,
         "tendencia": "down",
-        "tendencia_texto": "7 jun: Bajo presión para aceptar debate de Semana el 9-J tras desistir del propio. Oviedo (fórmula de Valencia) descarta respaldarlo. 6 jun: Desistió del debate que él mismo propuso — daño reputacional con votante independiente. 5 jun: Seguidores señalados en ataque a sede rival; Petro debió intervenir. Roy Barreras suma apoyo con impacto electoral bajo. CB Global Data (4 jun): 43,3%; AtlasIntel: 42,6%. 56,6% lo rechaza como presidente. López sin respaldo formal; Fajardo promueve voto en blanco. Necesita ~3M votos adicionales en 14 días."
+        "tendencia_texto": "8 jun: Apoyo de Timochenko (FARC/Comunes) puede ahuyentar voto de centro independiente. 7 jun: Reconoció tardíamente resultados de primera vuelta (6 días después del 31-may). Partido Comunes anuncia apoyo oficial. Rechaza debate en Semana alegando sesgo editorial — daño reputacional persistente. 6 jun: Desistió de debate que él mismo propuso; Oviedo (fórmula Valencia) descarta respaldarlo. 5 jun: Roy Barreras apoya con impacto electoral bajo. CB Global Data (4 jun): 43,3%; AtlasIntel: 42,6%. Necesita ~3M votos adicionales en 13 días."
       },
       {
         "nombre": "Valencia",
@@ -377,8 +385,8 @@
         "positivo": 38,
         "negativo": 42,
         "neutro": 20,
-        "tendencia": "down",
-        "tendencia_texto": "31 may: Terminó 3ra con 6.92% (1.6M votos), muy por debajo de sus encuestas (~3.2M). Anuncia apoyo oficial a De la Espriella; llama a la 'derecha unida'. 1 jun: Uribe ratifica apoyo de CD junto a Valencia. 6 jun: Su fórmula Oviedo descarta respaldar a ningún finalista — señal ambigua para votante del CD. Sin protagonismo activo en la campaña de segunda vuelta."
+        "tendencia": "neutral",
+        "tendencia_texto": "31 may: Terminó 3ra con 6.92% (1.6M votos), muy por debajo de sus encuestas (~3.2M). Anunció apoyo oficial a De la Espriella junto a Uribe. 6 jun: Su fórmula Oviedo descarta respaldar a cualquier finalista — señal ambigua para votante del CD. Sin protagonismo activo en la campaña de segunda vuelta. Su voto podría trasladarse en un 70%+ a De la Espriella según analistas."
       }
     ]
   },
@@ -387,7 +395,7 @@
     "cepeda": 43.3,
     "fuente": "CB Global Data — 2da vuelta, 4 jun 2026",
     "tipo": "segunda_vuelta",
-    "nota": "Muestra de 1.475 personas. Recolección: 1-4 jun 2026. Confianza 95%, margen ±2,6%. Proyección total de intención de voto. Voto definitivo: De la Espriella 46,7% vs Cepeda 41,9%. Potencial electoral: De la Espriella 51,9% vs Cepeda 47,8%. También AtlasIntel (2 jun): De la Espriella 50,3% vs Cepeda 42,6% (+7,7 pts) — ambas encuestas favorecen a De la Espriella para el 21 de junio."
+    "nota": "Muestra de 1.475 personas. Recolección: 1-4 jun 2026. Confianza 95%, margen ±2,6%. Voto definitivo: De la Espriella 46,7% vs Cepeda 41,9%. Potencial electoral: De la Espriella 51,9% vs Cepeda 47,8%. También AtlasIntel (2 jun): De la Espriella 50,3% vs Cepeda 42,6% (+7,7 pts) — ambas encuestas favorecen a De la Espriella para el 21 de junio."
   },
   "prediccion": {
     "primero": {
@@ -404,7 +412,7 @@
       "pct": 40.91,
       "fuente_encuesta": "CNE — escrutinio oficial 1ra vuelta (4 jun 2026)"
     },
-    "resumen_analisis": "NUEVA VUELTA — 21 de junio de 2026. 7 jun: De la Espriella convoca debate Semana el 9-J. Huerta (fórmula López) apoya a De la Espriella. Oviedo (fórmula Valencia) no apoya a ninguno. SEGUNDA VUELTA — 21 de junio de 2026. CNE oficial (4 jun): De la Espriella 43,73% vs Cepeda 40,91% (+662.222 votos). ENCUESTAS HOY: CB Global Data (4 jun): De la Espriella 49,6% vs Cepeda 43,3%. AtlasIntel (2 jun): De la Espriella 50,3% vs Cepeda 42,6% (+7,7 pts). NUEVO (6 jun): Cepeda desiste de debate que él propuso — ventaja mediática para De la Espriella. De la Espriella advierte control sobre acuerdos no autorizados de familiares. ALIANZAS CONFIRMADAS: Valencia + Uribe + CD + Fenalco → De la Espriella. Trump apoyo internacional (2 jun). Roy Barreras → Cepeda (impacto bajo). PENDIENTES: Claudia López sin respaldo formal. Fajardo promueve voto en blanco (4,04%). Quedan 14 días para el 21-J."
+    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026. 8 jun: De la Espriella rechaza Colombia Renaciente ('Nada con los polítiqueros') — imagen de outsider intacta. Timochenko (Comunes/FARC) apoya a Cepeda — puede ahuyentar voto de centro. CNE oficial (4 jun): De la Espriella 43,73% vs Cepeda 40,91% (+662.222 votos). ENCUESTAS: CB Global Data (4 jun): 49,6% vs 43,3%. AtlasIntel (2 jun): 50,3% vs 42,6% (+7,7 pts). PANORAMA DEBATES: Cepeda rechazó Semana por 'sesgo editorial'; difícil panorama para confrontación directa. ALIANZAS CONFIRMADAS: Valencia + Uribe + CD + Fenalco + Huerta (fórmula López) → De la Espriella. Trump apoyo internacional (2 jun). Roy Barreras + Comunes/Timochenko → Cepeda. PENDIENTES: Claudia López sin respaldo formal. Fajardo promueve voto en blanco (4,04%). Quedan 13 días para el 21-J."
   },
-  "ultimo_deploy": "2026-06-07T00:00:00Z"
+  "ultimo_deploy": "2026-06-08T00:00:00Z"
 }
