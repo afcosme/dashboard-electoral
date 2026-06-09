@@ -1,5 +1,5 @@
 {
-  "fecha": "8 de junio de 2026",
+  "fecha": "9 de junio de 2026",
   "modo": "segunda_vuelta",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -196,35 +196,35 @@
     },
     {
       "filter": "cepeda",
-      "fuente": "El Tiempo / El Espectador",
+      "fuente": "El Colombiano",
       "fuente_color": "#7f8c8d",
-      "fecha": "7 jun 2026",
+      "fecha": "9 jun 2026",
       "tag": "Segunda Vuelta · Debate",
       "tag_color": "#7f8c8d",
       "tag_bg": "rgba(127,140,141,0.15)",
-      "titulo": "Panorama difícil para debates en segunda vuelta: Cepeda rechaza Semana por \"sesgo editorial\"",
-      "resumen": "El panorama para la realización de debates en la segunda vuelta es incierto. Cepeda rechazó la propuesta de debate en revista Semana para el martes 9 de junio, alegando que el medio tiene un \"sesgo editorial\" a favor de De la Espriella. De la Espriella había aceptado y fijó públicamente fecha, hora y lugar. Ambos candidatos ponen condiciones y ningunean las iniciativas del otro, dejando al votante independiente sin confrontación directa de ideas a 13 días del 21-J.",
-      "objetividad": 87,
+      "titulo": "Sigue enredado el debate presidencial: Cepeda exige reglas y De La Espriella lo acusa de evadirlo",
+      "resumen": "A 12 días del 21-J, el debate de segunda vuelta sigue sin concretarse. Cepeda rechazó el debate propuesto en Semana para esta noche (9 jun, 7pm) alegando 'sesgo editorial' del medio. De la Espriella confirmó fecha y hora públicamente y acusó a Cepeda de 'huir del debate que él mismo propuso'. El Espectador extendió una nueva invitación formal a ambos candidatos. La ausencia de debate favorece al líder en encuestas, que no necesita cambiar el panorama.",
+      "objetividad": 90,
       "criterios": [
         {
           "ok": true,
-          "texto": "Postura de Cepeda verificada por Infobae y El Espectador (7 jun)"
+          "texto": "El Colombiano documenta el impasse en negociaciones del debate (9 jun)"
         },
         {
           "ok": true,
-          "texto": "De la Espriella aceptó públicamente con fecha y hora — contraste claro"
+          "texto": "El Espectador extendió invitación formal a debate — verificada (9 jun)"
         },
         {
           "ok": true,
-          "texto": "El Tiempo confirma el difícil panorama para debates en segunda vuelta"
+          "texto": "Postura de De la Espriella registrada públicamente en X con fecha y hora"
         },
         {
           "ok": false,
-          "texto": "La falta de debate perjudica a ambos ante el votante independiente"
+          "texto": "Sin debate directo, el votante independiente no puede comparar propuestas"
         }
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-dificil-panorama-para-la-realizacion-de-debates-en-la-segunda-vuelta-presidencial-3562792",
-      "url_label": "El Tiempo – El difícil panorama para debates en segunda vuelta"
+      "url": "https://www.elcolombiano.com/colombia/segunda-vuelta-presidencial-debate-ivan-cepeda-abelardo-de-la-espriella-IE37445159",
+      "url_label": "El Colombiano – Sigue enredado el debate: Cepeda exige reglas y De la Espriella lo acusa de evadirlo"
     },
     {
       "filter": "espriella",
@@ -328,35 +328,35 @@
     },
     {
       "filter": "espriella",
-      "fuente": "El Tiempo",
-      "fuente_color": "#e67e22",
-      "fecha": "5 jun 2026",
-      "tag": "De la Espriella · Alianzas",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Fenalco respalda a De la Espriella y a su fórmula Restrepo para la segunda vuelta",
-      "resumen": "El presidente de la Federación Nacional de Comerciantes (Fenalco), Jaime Alberto Cabal, anunció el apoyo del gremio al candidato Abelardo de la Espriella y su fórmula vicepresidencial José Manuel Restrepo. Fenalco suma credenciales económicas al candidato conservador, quien ya lidera todas las encuestas de cara al 21 de junio.",
-      "objetividad": 90,
+      "fuente": "El Espectador",
+      "fuente_color": "#3498db",
+      "fecha": "9 jun 2026",
+      "tag": "Segunda Vuelta · Debate",
+      "tag_color": "#3498db",
+      "tag_bg": "rgba(52,152,219,0.15)",
+      "titulo": "El Espectador invita formalmente a De la Espriella y Cepeda a debate de segunda vuelta",
+      "resumen": "El Espectador extendió una invitación formal a los dos candidatos finalistas para un debate de segunda vuelta. La invitación llega el mismo día en que fracasó el debate propuesto por Semana (9 jun, 7pm): De la Espriella aceptó la cita de Semana; Cepeda la rechazó alegando sesgo editorial. Si El Espectador logra concretarlo, sería el primer cara a cara directo entre los dos candidatos a 12 días del 21-J.",
+      "objetividad": 91,
       "criterios": [
         {
           "ok": true,
-          "texto": "Anuncio oficial del presidente de Fenalco — verificado por El Tiempo (5 jun)"
+          "texto": "Invitación formal verificada por El Espectador (9 jun 2026)"
         },
         {
           "ok": true,
-          "texto": "Fenalco es gremio de primer orden con presencia nacional"
-        },
-        {
-          "ok": true,
-          "texto": "Suma credenciales económicas al candidato que lidera encuestas"
+          "texto": "Contexto claro: coincide con el fracaso del debate de Semana esta noche"
         },
         {
           "ok": false,
-          "texto": "Respaldo gremial no se traduce automáticamente en votos directos"
+          "texto": "Ninguno de los candidatos ha aceptado formalmente la propuesta del Espectador aún"
+        },
+        {
+          "ok": false,
+          "texto": "El historial de las últimas 2 semanas augura difícil concreción del debate"
         }
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562276",
-      "url_label": "El Tiempo – Fenalco respalda a De la Espriella para la segunda vuelta"
+      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/el-espectador-invito-a-abelardo-de-la-espriella-y-a-ivan-cepeda-a-un-debate-de-cara-a-la-segunda-vuelta-noticias-hoy/",
+      "url_label": "El Espectador – Invitación formal a debate de segunda vuelta"
     }
   ],
   "sentimiento": {
@@ -364,20 +364,20 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 68,
-        "negativo": 18,
+        "positivo": 70,
+        "negativo": 16,
         "neutro": 14,
         "tendencia": "up",
-        "tendencia_texto": "8 jun: Nuevo record de sentimiento positivo (68%). 7 jun: Rechazó apoyo de Colombia Renaciente ('Nada con los polítiqueros') — refuerza imagen de outsider independiente. Aceptó debate en Semana el 9-J; Cepeda declinó alegando sesgo editorial. Leonardo Huerta (fórmula López) anunció apoyo. 6 jun: Advierte que familiares/amigos no pueden negociar en nombre de campaña. 5 jun: Fenalco suma respaldo del sector comercial. CB Global Data (4 jun): 49,6% vs 43,3%. AtlasIntel (2 jun): 50,3% vs 42,6% (+7,7 pts). Favorito consolidado. Quedan 13 días para el 21-J."
+        "tendencia_texto": "9 jun: Debate Semana 9-J — De la Espriella confirmó asistencia (7pm); Cepeda rechazó por 'sesgo editorial'. El Espectador también extendió invitación formal. Imagen de candidato valiente al debate se consolida. 8 jun: Rechazó apoyo de Colombia Renaciente ('Nada con los polítiqueros') — outsider independiente intacto. ENCUESTAS: CB Global Data (4 jun): 49,6% vs 43,3%. AtlasIntel (2 jun): 50,3% vs 42,6%. CONDOR promedio: De la Espriella +7,0 pts. Rechazo ciudadano: 40,3% (vs 56,6% de Cepeda). 76,4% de votantes de Valencia le apoyan. 12 días para el 21-J."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 26,
-        "negativo": 55,
+        "positivo": 24,
+        "negativo": 57,
         "neutro": 19,
         "tendencia": "down",
-        "tendencia_texto": "8 jun: Apoyo de Timochenko (FARC/Comunes) puede ahuyentar voto de centro independiente. 7 jun: Reconoció tardíamente resultados de primera vuelta (6 días después del 31-may). Partido Comunes anuncia apoyo oficial. Rechaza debate en Semana alegando sesgo editorial — daño reputacional persistente. 6 jun: Desistió de debate que él mismo propuso; Oviedo (fórmula Valencia) descarta respaldarlo. 5 jun: Roy Barreras apoya con impacto electoral bajo. CB Global Data (4 jun): 43,3%; AtlasIntel: 42,6%. Necesita ~3M votos adicionales en 13 días."
+        "tendencia_texto": "9 jun: Rechazó debate en Semana para esta noche (7pm) alegando 'sesgo editorial' — imagen de anti-debate se consolida a 12 días del 21-J. El Colombiano: 'Cepeda exige reglas y De la Espriella lo acusa de evadirlo'. 8 jun: Apoyo de Timochenko (FARC/Comunes) puede ahuyentar voto de centro independiente. 7 jun: Reconoció tardíamente resultados de 1ra vuelta (6 días después del 31-may). ENCUESTAS: CB Global Data (4 jun): 43,3%. Rechazo ciudadano: 56,6% (vs 40,3% De la Espriella). Solo el 14,7% de los votantes de Valencia le apoyarían. Necesita ~3M votos adicionales en 12 días."
       },
       {
         "nombre": "Valencia",
@@ -386,7 +386,7 @@
         "negativo": 42,
         "neutro": 20,
         "tendencia": "neutral",
-        "tendencia_texto": "31 may: Terminó 3ra con 6.92% (1.6M votos), muy por debajo de sus encuestas (~3.2M). Anunció apoyo oficial a De la Espriella junto a Uribe. 6 jun: Su fórmula Oviedo descarta respaldar a cualquier finalista — señal ambigua para votante del CD. Sin protagonismo activo en la campaña de segunda vuelta. Su voto podría trasladarse en un 70%+ a De la Espriella según analistas."
+        "tendencia_texto": "Fuera de la carrera (6,92% en 1ra vuelta, 1,6M votos). Apoyo oficial a De la Espriella junto a Uribe y Centro Democrático. Su fórmula Oviedo no respalda a ningún finalista — señal ambigua para el votante del CD. Según encuestas, 76,4% de sus votos irían a De la Espriella en segunda vuelta. Sin protagonismo activo en la campaña de segunda vuelta."
       }
     ]
   },
@@ -395,7 +395,7 @@
     "cepeda": 43.3,
     "fuente": "CB Global Data — 2da vuelta, 4 jun 2026",
     "tipo": "segunda_vuelta",
-    "nota": "Muestra de 1.475 personas. Recolección: 1-4 jun 2026. Confianza 95%, margen ±2,6%. Voto definitivo: De la Espriella 46,7% vs Cepeda 41,9%. Potencial electoral: De la Espriella 51,9% vs Cepeda 47,8%. También AtlasIntel (2 jun): De la Espriella 50,3% vs Cepeda 42,6% (+7,7 pts) — ambas encuestas favorecen a De la Espriella para el 21 de junio."
+    "nota": "Muestra de 1.475 personas. Recolección: 1-4 jun 2026. Confianza 95%, margen ±2,6%. Voto definitivo: De la Espriella 46,7% vs Cepeda 41,9%. RECHAZO: Cepeda 56,6% vs De la Espriella 40,3%. TRANSFERENCIA VALENCIA: 76,4% de sus votantes irían a De la Espriella; 14,7% a Cepeda. Potencial electoral: De la Espriella 51,9% vs Cepeda 47,8%. AtlasIntel (2 jun): De la Espriella 50,3% vs Cepeda 42,6% (+7,7 pts). CONDOR promedio al 4 jun: De la Espriella +7,0 pts. Ambas encuestas favorecen a De la Espriella el 21-J."
   },
   "prediccion": {
     "primero": {
@@ -412,7 +412,7 @@
       "pct": 40.91,
       "fuente_encuesta": "CNE — escrutinio oficial 1ra vuelta (4 jun 2026)"
     },
-    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026. 8 jun: De la Espriella rechaza Colombia Renaciente ('Nada con los polítiqueros') — imagen de outsider intacta. Timochenko (Comunes/FARC) apoya a Cepeda — puede ahuyentar voto de centro. CNE oficial (4 jun): De la Espriella 43,73% vs Cepeda 40,91% (+662.222 votos). ENCUESTAS: CB Global Data (4 jun): 49,6% vs 43,3%. AtlasIntel (2 jun): 50,3% vs 42,6% (+7,7 pts). PANORAMA DEBATES: Cepeda rechazó Semana por 'sesgo editorial'; difícil panorama para confrontación directa. ALIANZAS CONFIRMADAS: Valencia + Uribe + CD + Fenalco + Huerta (fórmula López) → De la Espriella. Trump apoyo internacional (2 jun). Roy Barreras + Comunes/Timochenko → Cepeda. PENDIENTES: Claudia López sin respaldo formal. Fajardo promueve voto en blanco (4,04%). Quedan 13 días para el 21-J."
+    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026 (12 días). 9 jun: Debate Semana esta noche fracasó — De la Espriella aceptó, Cepeda rechazó por 'sesgo editorial'; El Espectador extendió nueva invitación formal. 8 jun: Timochenko (Comunes/FARC) apoya a Cepeda — riesgo de ahuyentar voto de centro. 7 jun: Cepeda reconoció tardíamente resultados; De la Espriella rechazó Colombia Renaciente. ESCRUTINIO CNE (4 jun): De la Espriella 43,73% vs Cepeda 40,91% (+662.222 votos). ENCUESTAS: CB Global Data (4 jun): 49,6% vs 43,3%; rechazo Cepeda 56,6% vs De la Espriella 40,3%. AtlasIntel: 50,3% vs 42,6%. CONDOR: +7,0 pts. 76,4% de los 1,6M votantes de Valencia irían a De la Espriella. ALIANZAS: Valencia + Uribe + CD + Fenalco + Huerta (fórmula López) → De la Espriella. Trump apoyo int. Comunes/Timochenko + Roy Barreras → Cepeda. PENDIENTES: Claudia López sin respaldo formal. Fajardo promueve voto en blanco (4,04%)."
   },
-  "ultimo_deploy": "2026-06-08T00:00:00Z"
+  "ultimo_deploy": "2026-06-09T00:00:00Z"
 }
