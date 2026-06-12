@@ -1,5 +1,5 @@
 {
-  "fecha": "11 de junio de 2026",
+  "fecha": "12 de junio de 2026",
   "modo": "segunda_vuelta",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -98,6 +98,38 @@
     }
   ],
   "noticias": [
+    {
+      "filter": "cepeda",
+      "fuente": "El Espectador",
+      "fuente_color": "#27ae60",
+      "fecha": "12 jun 2026",
+      "tag": "Segunda Vuelta · Debate",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "¿Habrá o no debate presidencial? Las propuestas y posiciones de De la Espriella y Cepeda",
+      "resumen": "A 9 días del 21-J, El Espectador revisa el impasse: De la Espriella exige que el debate incluya a las fórmulas vicepresidenciales; Cepeda lo rechaza y pide a Caracol, RCN y RTVC que organicen uno sin esa condición. Ninguno de los canales ha confirmado fecha. La ausencia de debate beneficia al puntero en encuestas.",
+      "objetividad": 90,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Posiciones de ambos candidatos verificadas por múltiples medios (9-12 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "El Espectador sistematiza el estado del impasse con fuentes directas de campaña"
+        },
+        {
+          "ok": false,
+          "texto": "Sin debate confirmado a 9 días del 21-J — panorama cada vez más difícil"
+        },
+        {
+          "ok": false,
+          "texto": "Cepeda rechaza Semana pero pide otros canales — imagen contradictoria"
+        }
+      ],
+      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/habra-o-no-debate-presidencial-estas-son-las-propuestas-y-lo-que-dicen-de-la-espriella-y-cepeda-noticias-hoy/",
+      "url_label": "El Espectador – ¿Habrá o no debate? Las propuestas de De la Espriella y Cepeda"
+    },
     {
       "filter": "espriella",
       "fuente": "Infobae / El Espectador",
@@ -321,38 +353,6 @@
       ],
       "url": "https://www.infobae.com/colombia/2026/06/07/en-vivo-colombia-se-prepara-para-la-segunda-vuelta-de-las-elecciones-presidenciales-aun-no-se-ha-definido-si-habra-debates/",
       "url_label": "Infobae – Partido Comunes (Timochenko) apoya a Cepeda en segunda vuelta"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "El Tiempo / El Espectador",
-      "fuente_color": "#27ae60",
-      "fecha": "7 jun 2026",
-      "tag": "Cepeda · Resultados",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda reconoce los resultados de la primera vuelta con 6 días de retraso",
-      "resumen": "Iván Cepeda emitió un comunicado oficial reconociendo los resultados de la primera vuelta del 31 de mayo, donde quedó segundo con 40,91% frente al 43,73% de De la Espriella. El reconocimiento llegó seis días después de la votación y coincide con el escrutinio 100% cerrado por el CNE. La campaña anunció una Comisión Nacional de Cuidado Electoral con 4.497 testigos en 112.117 mesas para blindar el proceso del 21 de junio.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Comunicado oficial verificado por El Tiempo y El Espectador (7 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Activa mecanismos formales de vigilancia electoral para el 21-J"
-        },
-        {
-          "ok": false,
-          "texto": "El reconocimiento tardío (6 días) generó críticas sobre actitud antidemocrática"
-        },
-        {
-          "ok": false,
-          "texto": "La activación de comisión de cuidado puede anticipar impugnación de resultados"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-el-candidato-por-el-pacto-historico-ivan-cepeda-reconocio-los-resultados-de-la-primera-vuelta-3562830",
-      "url_label": "El Tiempo – Cepeda reconoce resultados de primera vuelta con 6 días de retraso"
     }
   ],
   "sentimiento": {
@@ -364,7 +364,7 @@
         "negativo": 27,
         "neutro": 15,
         "tendencia": "down",
-        "tendencia_texto": "11 jun: Controversia constitucional por nacionalidad estadounidense — exmagistrados y constitucionalistas advierten 'conflicto insalvable de lealtades'; campaña sin respuesta formal. 10 jun: AtlasIntel (5-10 jun): 52,6% vs 44,8% — amplía ventaja a 7,8 pts. 9 jun: Acepta debatir pero exige incluir VP — Cepeda rechaza condición, debate sin confirmar a 10 días del 21-J. 7 jun: Rechazó Colombia Renaciente — outsider intacto. CONDOR: +7,0 pts promedio. Rechazo ciudadano: 46,6% vs Cepeda 51,7%. Veda de encuestas: 13 junio."
+        "tendencia_texto": "12 jun: Sin nueva encuesta (veda inicia 13 jun) — El Espectador confirma impasse en debate a 9 días del 21-J. 11 jun: Controversia constitucional por nacionalidad estadounidense — exmagistrados y constitucionalistas advierten 'conflicto insalvable de lealtades'; campaña sin respuesta formal. 10 jun: AtlasIntel (5-10 jun): 52,6% vs 44,8% — amplía ventaja a 7,8 pts. 9 jun: Acepta debatir pero exige incluir VP — Cepeda rechaza condición, debate sin confirmar a 10 días del 21-J. 7 jun: Rechazó Colombia Renaciente — outsider intacto. CONDOR: +7,0 pts promedio. Rechazo ciudadano: 46,6% vs Cepeda 51,7%. Veda de encuestas: 13 junio."
       },
       {
         "nombre": "Cepeda",
@@ -373,7 +373,7 @@
         "negativo": 55,
         "neutro": 17,
         "tendencia": "neutral",
-        "tendencia_texto": "11 jun: Beneficia de controversia de nacionalidad de De la Espriella — tema activa su base. 10 jun: AtlasIntel (5-10 jun): 44,8% vs 52,6% — sigue 7,8 pts abajo. 9 jun: Pide debates a Caracol/RCN/RTVC tras rechazar el de Semana — imagen contradictoria sobre debates. 7 jun: Reconocimiento tardío de 1ra vuelta (6 días). Apoyo de Timochenko aleja voto de centro. Rechazo ciudadano: 51,7% vs De la Espriella 46,6%. Necesita ~3M votos adicionales en 10 días."
+        "tendencia_texto": "12 jun: Insiste en debate sin condiciones — 9 días para revertir 7,8 pts de desventaja. 11 jun: Beneficia de controversia de nacionalidad de De la Espriella — tema activa su base. 10 jun: AtlasIntel (5-10 jun): 44,8% vs 52,6% — sigue 7,8 pts abajo. 9 jun: Pide debates a Caracol/RCN/RTVC tras rechazar el de Semana — imagen contradictoria sobre debates. 7 jun: Reconocimiento tardío de 1ra vuelta (6 días). Apoyo de Timochenko aleja voto de centro. Rechazo ciudadano: 51,7% vs De la Espriella 46,6%. Necesita ~3M votos adicionales en 10 días."
       },
       {
         "nombre": "Valencia",
@@ -408,7 +408,7 @@
       "pct": 40.91,
       "fuente_encuesta": "CNE — escrutinio oficial 1ra vuelta (4 jun 2026)"
     },
-    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026 (10 días). 11 jun: POLÉMICA CONSTITUCIONAL: exmagistrados y juristas advierten que el juramento de naturalización de De la Espriella en EEUU crea 'conflicto insalvable' con la presidencia colombiana; campaña sin respuesta formal. ENCUESTA AtlasIntel (5-10 jun, n=3.681): De la Espriella 52,6% vs Cepeda 44,8%, ventaja +7,8 pts — mayor medición hasta ahora. 9-10 jun: Debate sin confirmar — De la Espriella exige incluir VP; Cepeda rechaza condición; Portafolio: 'debate embolatado'. ALIANZAS: Valencia + Uribe + CD + Fenalco → De la Espriella. Trump apoyo internacional. Timochenko/Comunes + Barreras → Cepeda. Fajardo promueve voto en blanco. VEDA encuestas: 13 junio. FALTA: Claudia López sin posición formal."
+    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026 (9 días). 11 jun: POLÉMICA CONSTITUCIONAL: exmagistrados y juristas advierten que el juramento de naturalización de De la Espriella en EEUU crea 'conflicto insalvable' con la presidencia colombiana; campaña sin respuesta formal. ENCUESTA AtlasIntel (5-10 jun, n=3.681): De la Espriella 52,6% vs Cepeda 44,8%, ventaja +7,8 pts — mayor medición hasta ahora. 9-10 jun: Debate sin confirmar — De la Espriella exige incluir VP; Cepeda rechaza condición; Portafolio: 'debate embolatado'. ALIANZAS: Valencia + Uribe + CD + Fenalco → De la Espriella. Trump apoyo internacional. Timochenko/Comunes + Barreras → Cepeda. Fajardo promueve voto en blanco. VEDA encuestas: 13 junio. FALTA: Claudia López sin posición formal."
   },
-  "ultimo_deploy": "2026-06-11T00:00:00Z"
+  "ultimo_deploy": "2026-06-12T00:00:00Z"
 }
