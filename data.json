@@ -1,5 +1,5 @@
 {
-  "fecha": "13 de junio de 2026",
+  "fecha": "14 de junio de 2026",
   "modo": "segunda_vuelta",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,6 +100,102 @@
   "noticias": [
     {
       "filter": "espriella",
+      "fuente": "El Tiempo / Minuto a minuto",
+      "fuente_color": "#e67e22",
+      "fecha": "14 jun 2026",
+      "tag": "De la Espriella · Cierre campaña",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella cierra su campaña hoy en la Basílica del Señor de los Milagros de Buga",
+      "resumen": "Abelardo de la Espriella celebra hoy su acto de cierre de campaña en la Basílica del Señor de los Milagros de Buga, Valle del Cauca, a 7 días de la segunda vuelta del 21 de junio. La elección de Buga —ciudad de profunda devoción religiosa y epicentro del Valle del Cauca— busca consolidar votos en un departamento clave de la contienda. De la Espriella llega al cierre liderando todas las encuestas: Guarumo/Ecoanalítica 52,6% y AtlasIntel 52,2%. La veda de encuestas está activa desde el 13 de junio.",
+      "objetividad": 93,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Cierre en Buga confirmado por El Tiempo minuto a minuto (13-14 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Liderazgo consolidado en todas las encuestas previas a la veda"
+        },
+        {
+          "ok": true,
+          "texto": "Veda de encuestas activa — sin nuevas mediciones hasta el 21-J"
+        },
+        {
+          "ok": false,
+          "texto": "Debate presidencial sin confirmar — impasse por condición de incluir VP"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-colombia-2026-ultima-hora-de-la-segunda-vuelta-entre-abelardo-de-la-espriella-e-ivan-cepeda-este-21-de-junio-3564098",
+      "url_label": "El Tiempo – Última hora segunda vuelta: De la Espriella cierra en Buga"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Tiempo / Guarumo / Ecoanalítica",
+      "fuente_color": "#2980b9",
+      "fecha": "13 jun 2026",
+      "tag": "Encuesta · Guarumo Final",
+      "tag_color": "#2980b9",
+      "tag_bg": "rgba(41,128,185,0.15)",
+      "titulo": "Encuesta FINAL Guarumo/Ecoanalítica: De la Espriella 52,6 % vs Cepeda 45 % — última medición antes de la veda",
+      "resumen": "La encuesta final de Guarumo y Ecoanalítica para la segunda vuelta presidencial —publicada el 13 de junio, último día antes de la veda de publicación— muestra a Abelardo de la Espriella con 52,6% frente al 45% de Iván Cepeda, una brecha de 7,6 puntos. La medición coincide con la de AtlasIntel (52,2% vs 44,5%, 5-10 jun), consolidando el liderazgo de De la Espriella. A partir del 13 de junio, ninguna firma puede publicar sondeos hasta después del 21-J. La misma encuesta registró un aumento en la aprobación del presidente Gustavo Petro.",
+      "objetividad": 96,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Publicada el 13 jun — última encuesta oficial antes de la veda"
+        },
+        {
+          "ok": true,
+          "texto": "Guarumo es una de las firmas encuestadoras más reconocidas del país"
+        },
+        {
+          "ok": true,
+          "texto": "Coincide con AtlasIntel: brecha de ~7-8 puntos en ambas mediciones"
+        },
+        {
+          "ok": false,
+          "texto": "Veda activa desde el 13 jun — sin nuevas mediciones hasta el 21-J"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/encuesta-final-de-guarumo-y-ecoanalitica-para-segunda-vuelta-presidencial-abelardo-de-la-espriella-52-6-ivan-cepeda-3564095",
+      "url_label": "El Tiempo – Encuesta final Guarumo/Ecoanalítica: De la Espriella 52,6 %, Cepeda 45 %"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "El Tiempo / El Colombiano / Infobae",
+      "fuente_color": "#27ae60",
+      "fecha": "13 jun 2026",
+      "tag": "Cepeda · Cierre campaña",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda cerró campaña ayer en Plaza La Santamaría de Bogotá; De la Espriella lo hará hoy en Buga",
+      "resumen": "Iván Cepeda convocó a sus seguidores el sábado 13 de junio desde las 10 a.m. en la Plaza Cultural La Santamaría (Bogotá) bajo el lema 'Bogotá ¡Se la juega por la vida!'. La apuesta por Bogotá buscaba revertir el déficit de ~400.000 votos en la capital respecto a las proyecciones internas de primera vuelta. Abelardo de la Espriella cierra su campaña hoy (14 jun) en la Basílica del Señor de los Milagros de Buga. Ambos candidatos están bajo veda de encuestas a partir del 13 de junio.",
+      "objetividad": 95,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Cierre Cepeda verificado por El Tiempo, El Colombiano e Infobae (12-13 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Cierre De la Espriella en Buga confirmado hoy 14 jun"
+        },
+        {
+          "ok": true,
+          "texto": "Veda de encuestas activa desde el 13 jun — sin nuevas mediciones hasta el 21-J"
+        },
+        {
+          "ok": false,
+          "texto": "Bogotá registró déficit de ~400K votos para Cepeda en primera vuelta — reto real"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-cerrara-su-campana-presidencial-de-segunda-vuelta-en-la-plaza-la-santamaria-en-bogota-3563912",
+      "url_label": "El Tiempo – Cepeda cerró campaña en Plaza La Santamaría; De la Espriella cierra hoy en Buga"
+    },
+    {
+      "filter": "espriella",
       "fuente": "Semana / Infobae / Colombia.com",
       "fuente_color": "#e67e22",
       "fecha": "12 jun 2026",
@@ -131,36 +227,36 @@
       "url_label": "Semana – Consejo de Estado rechazó demanda de inhabilidad contra De la Espriella"
     },
     {
-      "filter": "cepeda",
-      "fuente": "El Tiempo / El Colombiano / Infobae",
-      "fuente_color": "#27ae60",
-      "fecha": "13 jun 2026",
-      "tag": "Cepeda · Cierre campaña",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda cierra campaña hoy en Plaza La Santamaría de Bogotá; De la Espriella lo hará mañana en Buga",
-      "resumen": "Iván Cepeda convocó a sus seguidores desde las 10 a.m. del sábado 13 de junio en la Plaza Cultural La Santamaría (antigua plaza de toros, Bogotá) bajo el lema 'Bogotá ¡Se la juega por la vida!'. La apuesta por Bogotá busca revertir el déficit de ~400.000 votos en la capital respecto a las proyecciones internas de primera vuelta. Abelardo de la Espriella cerrará al día siguiente (14 jun) en la Basílica del Señor de los Milagros de Buga, Valle del Cauca. Ambos candidatos entran a veda de encuestas a partir de hoy.",
-      "objetividad": 95,
+      "filter": "espriella",
+      "fuente": "El Tiempo",
+      "fuente_color": "#e67e22",
+      "fecha": "12 jun 2026",
+      "tag": "De la Espriella · Alianzas",
+      "tag_color": "#9b59b6",
+      "tag_bg": "rgba(155,89,182,0.15)",
+      "titulo": "Colombia Renaciente anunció respaldo a De la Espriella — él rechazó el apoyo",
+      "resumen": "El partido Colombia Renaciente anunció públicamente su respaldo a Abelardo de la Espriella para la segunda vuelta del 21 de junio. Sin embargo, el candidato rechazó formalmente el apoyo sin revelar los motivos públicamente. Analistas interpretan el rechazo como una señal de que De la Espriella busca distanciarse de ciertos sectores políticos de cara al electorado de centro que puede ser clave en la segunda vuelta.",
+      "objetividad": 90,
       "criterios": [
         {
           "ok": true,
-          "texto": "Cierre Cepeda verificado por El Tiempo, El Colombiano e Infobae (12-13 jun)"
+          "texto": "Anuncio de Colombia Renaciente y rechazo de De la Espriella confirmados por El Tiempo (12 jun)"
         },
         {
           "ok": true,
-          "texto": "Cierre De la Espriella en Buga confirmado por El Nuevo Siglo (12 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Veda de encuestas inicia hoy 13 jun — sin nuevas mediciones hasta el 21-J"
+          "texto": "El rechazo señala una estrategia de imagen hacia el centro político"
         },
         {
           "ok": false,
-          "texto": "Bogotá registró déficit de ~400K votos para Cepeda en primera vuelta — reto real"
+          "texto": "De la Espriella no explicó públicamente los motivos del rechazo"
+        },
+        {
+          "ok": false,
+          "texto": "El impacto electoral del episodio es difícil de cuantificar"
         }
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-cerrara-su-campana-presidencial-de-segunda-vuelta-en-la-plaza-la-santamaria-en-bogota-3563912",
-      "url_label": "El Tiempo – Cepeda cerrará campaña en Plaza La Santamaría; De la Espriella lo hará en Buga"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-el-partido-colombia-renaciente-anuncio-su-respaldo-a-abelardo-de-la-espriella-el-aspirante-rechazo-el-apoyo-3562828",
+      "url_label": "El Tiempo – Colombia Renaciente apoyó a De la Espriella; él rechazó el apoyo"
     },
     {
       "filter": "espriella",
@@ -235,7 +331,7 @@
       "tag_color": "#c0392b",
       "tag_bg": "rgba(192,57,43,0.15)",
       "titulo": "Exmagistrados alertan: nacionalidad estadounidense de De la Espriella es incompatible con la Presidencia",
-      "resumen": "Un grupo de exmagistrados de altas cortes y constitucionalistas —entre ellos Pablo Cáceres Corrales, Stella Conto Díaz del Castillo, Jaime Córdoba Triviño y Álvaro Echeverri Uruburu— firmaron un documento advirtiendo que el juramento de naturalización exigido por EEUU implica renunciar a lealtades a otros países, lo que crea 'un conflicto insalvable de lealtades' con las funciones presidenciales de Colombia. La campaña de De la Espriella no ha respondido formalmente.",
+      "resumen": "Un grupo de exmagistrados de altas cortes y constitucionalistas —entre ellos Pablo Cáceres Corrales, Stella Conto Díaz del Castillo, Jaime Córdoba Triviño y Álvaro Echeverri Uruburu— firmaron un documento advirtiendo que el juramento de naturalización exigido por EEUU implica renunciar a lealtades a otros países, lo que crea 'un conflicto insalvable de lealtades' con las funciones presidenciales de Colombia. El Consejo de Estado rechazó el 12 de junio la demanda por motivos procedimentales, sin pronunciarse sobre el fondo.",
       "objetividad": 92,
       "criterios": [
         {
@@ -248,111 +344,15 @@
         },
         {
           "ok": true,
-          "texto": "Distinción clara: nacionalidad italiana no presenta problema; solo la estadounidense por el juramento"
+          "texto": "Consejo de Estado rechazó demanda el 12 jun por motivo procedimental — no analizó el fondo"
         },
         {
           "ok": false,
-          "texto": "La campaña de De la Espriella aún no ha emitido respuesta oficial formal"
+          "texto": "La campaña de De la Espriella no emitió respuesta oficial formal sobre el fondo"
         }
       ],
       "url": "https://www.infobae.com/colombia/2026/06/10/nacionalidad-estadounidense-de-abelardo-de-la-espriella-le-impediria-ejercer-la-presidencia-de-colombia-la-alerta-de-exmagistrados-y-constitucionalistas/",
-      "url_label": "Infobae – Exmagistrados: nacionalidad estadounidense de De la Espriella incompatible con presidencia"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Universal / Semana / Vanguardia",
-      "fuente_color": "#e67e22",
-      "fecha": "10 jun 2026",
-      "tag": "Encuesta · AtlasIntel",
-      "tag_color": "#2980b9",
-      "tag_bg": "rgba(41,128,185,0.15)",
-      "titulo": "Nueva encuesta AtlasIntel (5-10 jun): De la Espriella 52,6% vs Cepeda 44,8% en segunda vuelta",
-      "resumen": "AtlasIntel —la encuestadora que acertó el resultado de la primera vuelta— publicó su nueva medición: De la Espriella 52,6% vs Cepeda 44,8% (+7,8 pts). Muestra: 3.681 personas, trabajo de campo 5-10 jun, margen de error ±2%, confianza 95%. De la Espriella lidera en Costa, Eje Cafetero/Antioquia (58,9%) y Orinoquía/Amazonía; Cepeda mantiene ventaja en Bogotá y el Pacífico. Rechazo: Cepeda 51,7% vs De la Espriella 46,6%. Aprobación Petro: 42,8%.",
-      "objetividad": 94,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Encuestadora AtlasIntel acertó resultados de primera vuelta — credibilidad alta"
-        },
-        {
-          "ok": true,
-          "texto": "Datos verificados en El Universal, La Silla Vacía y Semana (10 jun 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Muestra robusta: 3.681 personas, margen ±2%, confianza 95%"
-        },
-        {
-          "ok": false,
-          "texto": "Veda de publicación de encuestas comienza el 13 de junio — esta es de las últimas mediciones"
-        }
-      ],
-      "url": "https://www.eluniversal.com.co/colombia/2026/06/10/encuesta-atlasintel-de-la-espriella-amplia-ventaja-cepeda-a-11-dias-de-segunda-vuelta/",
-      "url_label": "El Universal – AtlasIntel: De la Espriella amplía ventaja a Cepeda a 11 días de segunda vuelta"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae",
-      "fuente_color": "#e67e22",
-      "fecha": "9 jun 2026",
-      "tag": "De la Espriella · Debate",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella acepta debatir con Cepeda pero exige incluir a las fórmulas vicepresidenciales",
-      "resumen": "Abelardo de la Espriella confirmó su disposición a debatir con Iván Cepeda de cara al 21-J, pero condicionó su participación a que las fórmulas vicepresidenciales —José Manuel Restrepo y Aída Quilcué— también sean parte del debate. Cepeda rechazó la condición. El impasse deja el 21-J sin debate confirmado.",
-      "objetividad": 91,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Postura de De la Espriella verificada por Infobae (9 jun 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Cepeda rechazó formalmente la condición — impasse bilateral documentado"
-        },
-        {
-          "ok": true,
-          "texto": "El Tiempo publica análisis sobre 'el difícil panorama' para debates (9 jun)"
-        },
-        {
-          "ok": false,
-          "texto": "Sin debate confirmado, el votante independiente no puede comparar propuestas directamente"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/06/09/abelardo-de-la-espriella-acepto-tener-un-debate-con-ivan-cepeda-pero-puso-sus-condiciones-que-el-pais-nos-escuche/",
-      "url_label": "Infobae – De la Espriella acepta debate con condición: incluir fórmulas vicepresidenciales"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "El Tiempo",
-      "fuente_color": "#27ae60",
-      "fecha": "9 jun 2026",
-      "tag": "Cepeda · Debate",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda pide a Caracol, RCN y RTVC que organicen debates con De la Espriella para la segunda vuelta",
-      "resumen": "Iván Cepeda solicitó formalmente a los canales Caracol, RCN y RTVC que organicen debates presidenciales de cara a la segunda vuelta del 21 de junio. La solicitud llega el mismo día en que Cepeda rechazó el debate en Semana por 'sesgo editorial'. Portafolio calificó la situación como un debate 'embolatado' por nuevas exigencias de ambas partes.",
-      "objetividad": 89,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Solicitud formal de Cepeda a Caracol, RCN y RTVC verificada por El Tiempo (9 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Portafolio documenta el impasse: 'debate se estaría embolatando por nuevas exigencias'"
-        },
-        {
-          "ok": false,
-          "texto": "Contrasta con el rechazo previo de Cepeda al debate en Semana — imagen contradictoria"
-        },
-        {
-          "ok": false,
-          "texto": "Ninguno de los tres canales ha confirmado aún la organización del debate"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-cancilleria-rechaza-cualquier-intento-de-injerencia-externa-en-proceso-electoral-colombiano-3562553",
-      "url_label": "El Tiempo – Cepeda pide debates a Caracol, RCN y RTVC para la segunda vuelta"
+      "url_label": "Infobae – Exmagistrados: doble nacionalidad EE.UU. de De la Espriella incompatible con presidencia"
     }
   ],
   "sentimiento": {
@@ -360,38 +360,38 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 58,
-        "negativo": 27,
+        "positivo": 60,
+        "negativo": 25,
         "neutro": 15,
         "tendencia": "up",
-        "tendencia_texto": "13 jun: VEDA DE ENCUESTAS — sin nuevas mediciones hasta el 21-J. Cierre campaña mañana en Buga. 12 jun: CONSEJO DE ESTADO rechazó demanda de inhabilidad (motivo procedimental) — camino judicial despejado. Valencia se reunió con Uribe coordinando maquinaria CD. 11 jun: Controversia constitucional nacionalidad EEUU aún abierta. 10 jun: AtlasIntel 52,6% vs 44,8% — amplía ventaja a 7,8 pts. 9 jun: Acepta debatir pero exige incluir VP — impasse. CONDOR: +7,0 pts promedio. Rechazo ciudadano: 46,6% vs Cepeda 51,7%."
+        "tendencia_texto": "14 jun: HOY cierra campaña en Buga (Basílica del Señor de los Milagros). Colombia Renaciente anunció respaldo; De la Espriella lo rechazó estratégicamente. ENCUESTA FINAL Guarumo/Ecoanalítica 52,6% vs Cepeda 45% (13 jun). VEDA DE ENCUESTAS activa. 12 jun: CONSEJO DE ESTADO rechazó demanda de inhabilidad (motivo procedimental) — camino judicial despejado. Valencia-Uribe coordinan maquinaria CD. 7 días para el 21-J. CONDOR: +7,0 pts promedio. Rechazo ciudadano: 46,6% vs Cepeda 51,7%."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 28,
-        "negativo": 55,
-        "neutro": 17,
+        "positivo": 30,
+        "negativo": 52,
+        "neutro": 18,
         "tendencia": "neutral",
-        "tendencia_texto": "13 jun: HOY cierre campaña Plaza La Santamaría Bogotá (10am) — 'Bogotá ¡Se la juega por la vida!'. VEDA DE ENCUESTAS inicia. 12 jun: Acto de campaña en Bucaramanga. Consejo de Estado desactiva amenaza judicial contra De la Espriella. 10 jun: AtlasIntel 44,8% vs 52,6% — 7,8 pts abajo con 8 días. 9 jun: Pide debates a Caracol/RCN/RTVC tras rechazar Semana — imagen contradictoria. Apoyo de Timochenko aleja voto de centro. Rechazo ciudadano: 51,7% vs De la Espriella 46,6%."
+        "tendencia_texto": "14 jun: 7 días para el 21-J. AYER (13 jun) cerró campaña en Plaza La Santamaría Bogotá — 'Bogotá ¡Se la juega por la vida!'. ENCUESTA FINAL Guarumo: 45% vs 52,6% De la Espriella (−7,6 pts). AtlasIntel (5-10 jun): 44,5%. VEDA activa desde el 13 jun. Apoyo Timochenko aleja voto de centro. Rechazo ciudadano: 51,7% vs De la Espriella 46,6%. Acto en Bucaramanga el 12 jun."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 38,
-        "negativo": 42,
+        "positivo": 40,
+        "negativo": 40,
         "neutro": 20,
         "tendencia": "neutral",
-        "tendencia_texto": "Fuera de la carrera (6,92% en 1ra vuelta, 1,6M votos). 12 jun: Se reunió con Álvaro Uribe para coordinar maquinaria CD a favor de De la Espriella en la recta final. Apoyo oficial a De la Espriella. Según encuestas, 76,4% de sus votos irían a De la Espriella en segunda vuelta."
+        "tendencia_texto": "Fuera de la carrera (6,92% — 1,6M votos, 1ra vuelta). 14 jun: 7 días para el 21-J. 12 jun: Se reunió con Álvaro Uribe para coordinar maquinaria del CD a favor de De la Espriella en la recta final. Apoyo oficial anunciado el 1 jun. Según encuestas, 76,4% de sus votantes migrarían a De la Espriella en segunda vuelta."
       }
     ]
   },
   "encuestas": {
     "espriella": 52.6,
-    "cepeda": 44.8,
-    "fuente": "AtlasIntel — 2da vuelta, 5-10 jun 2026",
+    "cepeda": 45.0,
+    "fuente": "Guarumo/Ecoanalítica — 2da vuelta, encuesta final, 13 jun 2026",
     "tipo": "segunda_vuelta",
-    "nota": "ÚLTIMA ENCUESTA ANTES DE VEDA (13 jun). Muestra 3.681 personas. Trabajo de campo: 5-10 jun 2026. Metodología: Random Digital Recruitment. Confianza 95%, margen ±2%. Votos válidos: De la Espriella 52,6% vs Cepeda 44,8% (+7,8 pts). Liderazgo regional: Costa 56%, Antioquia/Eje Cafetero 58,9%, Orinoquía/Amazonía 50,5%. Cepeda lidera Bogotá y Pacífico. RECHAZO: Cepeda 51,7% vs De la Espriella 46,6%. Aprobación Petro: 42,8%. CB Global Data (1-4 jun): 49,6% vs 43,3%. CONDOR promedio: De la Espriella +7,0 pts. Veda de encuestas: comenzó 13 de junio (8 días antes del 21-J)."
+    "nota": "ÚLTIMA ENCUESTA ANTES DE VEDA (13 jun). Guarumo/Ecoanalítica: De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). AtlasIntel (5-10 jun, n=3.681, ±2%): 52,2% vs 44,5% (+7,7 pts). CB Global Data (1-4 jun): 49,6% vs 43,3%. CONDOR promedio: De la Espriella +7,0 pts. Veda de encuestas: comenzó 13 de junio (8 días antes del 21-J) — sin nuevas mediciones hasta después del 21-J. RECHAZO: Cepeda 51,7% vs De la Espriella 46,6% (AtlasIntel). Aprobación Petro: 42,8% aumentó según Guarumo (13 jun)."
   },
   "prediccion": {
     "primero": {
@@ -408,7 +408,7 @@
       "pct": 40.91,
       "fuente_encuesta": "CNE — escrutinio oficial 1ra vuelta (4 jun 2026)"
     },
-    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026 (8 días). 13 jun: VEDA DE ENCUESTAS — sin nuevas mediciones hasta el 21-J. HOY: Cepeda cierra campaña en Plaza La Santamaría (Bogotá, 10am); De la Espriella cerrará mañana en Buga. 12 jun: CONSEJO DE ESTADO rechazó por motivo procedimental la demanda de nulidad electoral sobre la doble nacionalidad — camino judicial de De la Espriella despejado. ÚLTIMA ENCUESTA AtlasIntel (5-10 jun, n=3.681): De la Espriella 52,6% vs Cepeda 44,8% (+7,8 pts). Debate presidencial sin confirmar — impasse por condición de incluir fórmulas VP. ALIANZAS: Valencia + Uribe + CD + Fenalco → De la Espriella. Trump (apoyo internacional). Timochenko/Comunes + Barreras → Cepeda. Fajardo → voto en blanco."
+    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026 (7 días). 14 jun: De la Espriella cierra campaña HOY en Buga; Cepeda cerró ayer en Plaza La Santamaría (Bogotá). VEDA DE ENCUESTAS activa desde el 13 jun — sin nuevas mediciones hasta el 21-J. ENCUESTA FINAL Guarumo/Ecoanalítica (13 jun): De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). AtlasIntel (5-10 jun): 52,2% vs 44,5%. Colombia Renaciente quiso apoyar a De la Espriella; él rechazó el apoyo. 12 jun: CONSEJO DE ESTADO rechazó demanda de inhabilidad por doble nacionalidad EE.UU. (motivo procedimental). Debate presidencial sin confirmar. ALIANZAS: Valencia + Uribe + CD + Fenalco → De la Espriella. Trump (apoyo internacional). Timochenko/Comunes + Barreras → Cepeda. Fajardo → voto en blanco."
   },
-  "ultimo_deploy": "2026-06-13T00:00:00Z"
+  "ultimo_deploy": "2026-06-14T00:00:00Z"
 }
