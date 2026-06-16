@@ -1,5 +1,5 @@
 {
-  "fecha": "15 de junio de 2026",
+  "fecha": "16 de junio de 2026",
   "modo": "segunda_vuelta",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -98,6 +98,70 @@
     }
   ],
   "noticias": [
+    {
+      "filter": "cepeda",
+      "fuente": "El Tiempo / Infobae",
+      "fuente_color": "#27ae60",
+      "fecha": "16 jun 2026",
+      "tag": "Cepeda · Cierre final",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda cerró campaña en Soledad, Atlántico — último día de campaña pública antes del 21-J",
+      "resumen": "Iván Cepeda realizó su acto final de campaña en Soledad, Atlántico, el 16 de junio — último día permitido para campaña pública antes del silencio electoral que rige desde el 17 de junio hasta el 21-J. Apostando por la base electoral del Caribe colombiano, Cepeda buscó movilizar el voto costeño en una región estratégica para la segunda vuelta. A 5 días de la elección, las encuestas mainstream (Guarumo: 45%, AtlasIntel: 44,5%) lo ubican 7-8 puntos detrás de De la Espriella, aunque Celag Data mostró un empate técnico el 14 de junio.",
+      "objetividad": 90,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Cierre en Soledad, Atlántico confirmado por cobertura en tiempo real (16 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "16 jun es el último día legal de campaña pública antes del silencio electoral"
+        },
+        {
+          "ok": true,
+          "texto": "Costa Caribe estratégica — voto costeño puede ser decisivo en segunda vuelta"
+        },
+        {
+          "ok": false,
+          "texto": "Sin encuestas nuevas disponibles — veda activa desde el 13 jun"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-colombia-2026-ultima-hora-de-la-segunda-vuelta-entre-abelardo-de-la-espriella-e-ivan-cepeda-este-21-de-junio-3564098",
+      "url_label": "El Tiempo – Cepeda cerró campaña en Soledad, Atlántico"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "La Nación AR / Infobae",
+      "fuente_color": "#e67e22",
+      "fecha": "15 jun 2026",
+      "tag": "De la Espriella · Orden público",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella denuncia presión armada sobre votantes en Nariño y Cauca en la recta final",
+      "resumen": "Durante su cierre de campaña en Buga (14-15 jun), Abelardo de la Espriella denunció la existencia de presión armada sobre votantes en los departamentos de Nariño y Cauca, vinculando esos actos de coerción electoral a un apoyo que calificó de 'atípico' hacia su rival Iván Cepeda. La denuncia escala la tensión entre los dos candidatos a 5 días del 21-J y genera preocupación entre organismos electorales. La Registraduría no se ha pronunciado formalmente al cierre de esta edición.",
+      "objetividad": 78,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Denuncia realizada durante cierre en Buga (14-15 jun) — confirmada por La Nación AR y Infobae"
+        },
+        {
+          "ok": true,
+          "texto": "Nariño y Cauca: zonas históricas de conflicto con presencia de grupos armados"
+        },
+        {
+          "ok": false,
+          "texto": "De la Espriella vinculó la coerción a Cepeda sin presentar evidencia directa — afirmación de campaña"
+        },
+        {
+          "ok": false,
+          "texto": "Registraduría no emitió pronunciamiento formal sobre las denuncias al cierre"
+        }
+      ],
+      "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-colombia-2026-quienes-son-los-candidatos-en-el-balotaje-para-definir-al-proximo-nid15062026/",
+      "url_label": "La Nación — De la Espriella denuncia presión armada en Nariño y Cauca"
+    },
     {
       "filter": "espriella",
       "fuente": "El Tiempo / Minuto a minuto",
@@ -289,70 +353,6 @@
       ],
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-el-partido-colombia-renaciente-anuncio-su-respaldo-a-abelardo-de-la-espriella-el-aspirante-rechazo-el-apoyo-3562828",
       "url_label": "El Tiempo – Colombia Renaciente apoyó a De la Espriella; él rechazó el apoyo"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Tiempo",
-      "fuente_color": "#e67e22",
-      "fecha": "12 jun 2026",
-      "tag": "Segunda Vuelta · Alianzas",
-      "tag_color": "#9b59b6",
-      "tag_bg": "rgba(155,89,182,0.15)",
-      "titulo": "Paloma Valencia se reunió con Álvaro Uribe en la recta final de campaña",
-      "resumen": "La candidata que finalizó tercera en la primera vuelta con 6,92% (1,6 millones de votos) y su aliado Álvaro Uribe Vélez coordinaron esfuerzos de maquinaria del Centro Democrático para la recta final de la segunda vuelta. La reunión refuerza el bloque de derecha detrás de De la Espriella antes del inicio de la veda electoral. Según encuestas, el 76,4% de los votantes de Valencia migraría a De la Espriella en el 21-J.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Reunión Valencia-Uribe confirmada por El Tiempo en cobertura minuto a minuto (12 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "76,4% de votos de Valencia proyectados a De la Espriella según estimaciones encuestadoras"
-        },
-        {
-          "ok": true,
-          "texto": "Centro Democrático suma maquinaria electoral para segunda vuelta"
-        },
-        {
-          "ok": false,
-          "texto": "No se divulgaron detalles del contenido de la reunión ni acuerdos específicos"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-2026-siga-el-minuto-a-minuto-de-la-segunda-vuelta-presidencial-en-colombia-3563823",
-      "url_label": "El Tiempo – Minuto a minuto: Paloma Valencia se reunió con Álvaro Uribe"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae / El Espectador",
-      "fuente_color": "#e67e22",
-      "fecha": "10 jun 2026",
-      "tag": "De la Espriella · Constitucional",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "Exmagistrados alertan: nacionalidad estadounidense de De la Espriella es incompatible con la Presidencia",
-      "resumen": "Un grupo de exmagistrados de altas cortes y constitucionalistas —entre ellos Pablo Cáceres Corrales, Stella Conto Díaz del Castillo, Jaime Córdoba Triviño y Álvaro Echeverri Uruburu— firmaron un documento advirtiendo que el juramento de naturalización exigido por EEUU implica renunciar a lealtades a otros países, lo que crea 'un conflicto insalvable de lealtades' con las funciones presidenciales de Colombia. El Consejo de Estado rechazó el 12 de junio la demanda por motivos procedimentales, sin pronunciarse sobre el fondo.",
-      "objetividad": 92,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Firmantes identificados y verificados: exmagistrados de altas cortes colombianas (10 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Argumento jurídico documentado en Infobae, El Espectador, LaFM, Cambio Colombia"
-        },
-        {
-          "ok": true,
-          "texto": "Consejo de Estado rechazó demanda el 12 jun por motivo procedimental — no analizó el fondo"
-        },
-        {
-          "ok": false,
-          "texto": "La campaña de De la Espriella no emitió respuesta oficial formal sobre el fondo"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/06/10/nacionalidad-estadounidense-de-abelardo-de-la-espriella-le-impediria-ejercer-la-presidencia-de-colombia-la-alerta-de-exmagistrados-y-constitucionalistas/",
-      "url_label": "Infobae – Exmagistrados: doble nacionalidad EE.UU. de De la Espriella incompatible con presidencia"
     }
   ],
   "sentimiento": {
@@ -364,7 +364,7 @@
         "negativo": 25,
         "neutro": 15,
         "tendencia": "up",
-        "tendencia_texto": "15 jun: 6 DÍAS para el 21-J. AYER cerró campaña en Buga (Basílica del Señor de los Milagros). ENCUESTA FINAL mainstream: Guarumo/Ecoanalítica 52,6% vs Cepeda 45% (13 jun). CELAG DATA (14 jun) muestra empate técnico 39,7% vs Cepeda 40,8% — divergencia metodológica. Cierre de campaña pública: MAÑANA 16 jun. 12 jun: CONSEJO DE ESTADO rechazó demanda inhabilidad (motivo procedimental). VEDA DE ENCUESTAS activa. CONDOR: +7,0 pts promedio. Rechazo ciudadano: 46,6% vs Cepeda 51,7%."
+        "tendencia_texto": "16 jun: 5 DÍAS para el 21-J. HOY último día de campaña pública — silencio electoral desde el 17 jun. Cerró campaña el 14 jun en Buga. DENUNCIÓ presión armada en Nariño y Cauca. ENCUESTA FINAL mainstream: Guarumo/Ecoanalítica 52,6% vs Cepeda 45% (13 jun). CELAG DATA (14 jun): empate técnico 39,7% vs Cepeda 40,8% — divergencia metodológica. VEDA DE ENCUESTAS activa. CONDOR: +7,0 pts promedio. Rechazo ciudadano: 46,6% vs Cepeda 51,7%."
       },
       {
         "nombre": "Cepeda",
@@ -373,7 +373,7 @@
         "negativo": 50,
         "neutro": 18,
         "tendencia": "up",
-        "tendencia_texto": "15 jun: 6 DÍAS para el 21-J. Cerró campaña el 13 jun en Plaza La Santamaría (Bogotá). Acto adicional en Bucaramanga el 14 jun. CELAG DATA (14 jun): 40,8% vs De la Espriella 39,7% — empate técnico. GUARUMO: 45% vs 52,6% De la Espriella (−7,6 pts). Cierre de campaña pública: MAÑANA 16 jun. Apoyo Timochenko aleja voto de centro. Rechazo ciudadano: 51,7% vs De la Espriella 46,6%. VEDA activa desde el 13 jun."
+        "tendencia_texto": "16 jun: 5 DÍAS para el 21-J. HOY cierre final de campaña en Soledad, Atlántico — último día legal. GUARUMO: 45% vs 52,6% De la Espriella (−7,6 pts). CELAG DATA (14 jun): 40,8% vs De la Espriella 39,7% — empate técnico. VEDA activa desde el 13 jun. Apoyo Timochenko aleja voto de centro. Rechazo ciudadano: 51,7% vs De la Espriella 46,6%."
       },
       {
         "nombre": "Valencia",
@@ -382,7 +382,7 @@
         "negativo": 40,
         "neutro": 20,
         "tendencia": "neutral",
-        "tendencia_texto": "Fuera de la carrera (6,92% — 1,6M votos, 1ra vuelta). 15 jun: 6 DÍAS para el 21-J. 12 jun: Se reunió con Álvaro Uribe para coordinar maquinaria del CD a favor de De la Espriella en la recta final. Apoyo oficial anunciado el 1 jun. Según encuestas, 76,4% de sus votantes migrarían a De la Espriella en segunda vuelta."
+        "tendencia_texto": "Fuera de la carrera (6,92% — 1,6M votos, 1ra vuelta). 16 jun: 5 DÍAS para el 21-J. HOY último día de campaña — silencio electoral desde mañana. 12 jun: Se reunió con Álvaro Uribe para coordinar maquinaria del CD a favor de De la Espriella. Apoyo oficial anunciado el 1 jun. Según encuestas, 76,4% de sus votantes migrarían a De la Espriella en segunda vuelta."
       }
     ]
   },
@@ -408,7 +408,7 @@
       "pct": 40.91,
       "fuente_encuesta": "CNE — escrutinio oficial 1ra vuelta (4 jun 2026)"
     },
-    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026 (6 días). 15 jun: Cierre de campaña pública MAÑANA 16 jun. De la Espriella cerró AYER en Buga; Cepeda cerró el 13 jun en Plaza La Santamaría y tuvo acto adicional en Bucaramanga el 14 jun. ENCUESTA FINAL mainstream Guarumo/Ecoanalítica (13 jun): De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). CELAG DATA (14 jun): empate técnico Cepeda 40,8% vs De la Espriella 39,7% — divergencia metodológica. VEDA DE ENCUESTAS activa. Debate presidencial sin confirmar. ALIANZAS: Valencia + Uribe + CD + Fenalco → De la Espriella. Trump (apoyo internacional). Timochenko/Comunes + Barreras → Cepeda. Fajardo → voto en blanco. 12 jun: CONSEJO DE ESTADO rechazó demanda de inhabilidad por doble nacionalidad EE.UU. (motivo procedimental)."
+    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026 (5 días). HOY 16 jun: ÚLTIMO DÍA de campaña pública — silencio electoral desde el 17 jun hasta el 21-J. De la Espriella cerró el 14 jun en Buga y denunció presión armada en Nariño y Cauca. Cepeda cerró HOY en Soledad, Atlántico. ENCUESTA FINAL mainstream Guarumo/Ecoanalítica (13 jun): De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). CELAG DATA (14 jun): empate técnico Cepeda 40,8% vs De la Espriella 39,7% — divergencia metodológica. VEDA DE ENCUESTAS activa desde el 13 jun. ALIANZAS: Valencia + Uribe + CD + Fenalco → De la Espriella. Trump (apoyo internacional). Timochenko/Comunes + Barreras → Cepeda. Fajardo → voto en blanco. 12 jun: CONSEJO DE ESTADO rechazó demanda inhabilidad doble nacionalidad EE.UU. (motivo procedimental). VOTACIÓN EN EXTERIOR: del 15 al 21 jun."
   },
-  "ultimo_deploy": "2026-06-15T00:00:00Z"
+  "ultimo_deploy": "2026-06-16T00:00:00Z"
 }
