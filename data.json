@@ -1,5 +1,5 @@
 {
-  "fecha": "16 de junio de 2026",
+  "fecha": "17 de junio de 2026",
   "modo": "segunda_vuelta",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,14 +100,78 @@
   "noticias": [
     {
       "filter": "cepeda",
+      "fuente": "El Tiempo",
+      "fuente_color": "#27ae60",
+      "fecha": "17 jun 2026",
+      "tag": "Cepeda · Salud",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda desmiente grave enfermedad y publica certificado sobre su estado de salud a 4 días del 21-J",
+      "resumen": "Iván Cepeda salió al paso de los rumores sobre una presunta grave enfermedad que circularon en redes sociales en los días previos a la segunda vuelta. El candidato del Pacto Histórico publicó un certificado médico que avala su buen estado de salud, buscando disipar dudas entre el electorado justo cuando inicia el silencio electoral (17 jun). La acción busca cerrar un frente de ataque en la recta final antes del 21-J.",
+      "objetividad": 88,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Publicación certificado médico confirmada por El Tiempo (17 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Hoy inicia silencio electoral — último intento de aclarar rumores ante el electorado"
+        },
+        {
+          "ok": false,
+          "texto": "Origen de los rumores no identificado — posible campaña de desinformación"
+        },
+        {
+          "ok": false,
+          "texto": "Sin detalles clínicos publicados — solo aval de aptitud"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-transcurren-con-normalidad-las-elecciones-en-el-exterior-antes-de-la-segunda-vuelta-del-21-de-junio-3564470",
+      "url_label": "El Tiempo – Cepeda desmiente grave enfermedad y publica certificado médico"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Tiempo",
+      "fuente_color": "#2980b9",
+      "fecha": "17 jun 2026",
+      "tag": "Segunda Vuelta · Exterior",
+      "tag_color": "#2980b9",
+      "tag_bg": "rgba(41,128,185,0.15)",
+      "titulo": "Elecciones en el exterior transcurren con normalidad antes de la segunda vuelta del 21-J",
+      "resumen": "El voto de los colombianos residentes en el exterior (15-21 jun) transcurre con normalidad, según reportes de la Registraduría. Colombia entra hoy 17 jun en silencio electoral, que regirá hasta la jornada del 21-J entre Abelardo de la Espriella e Iván Cepeda. Quedan 4 días para que el país defina su próximo presidente.",
+      "objetividad": 95,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Confirmado por El Tiempo — sin incidentes reportados en el exterior (17 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Voto en exterior abre el 15 jun, cierra el 21 jun — proceso constitucional normal"
+        },
+        {
+          "ok": true,
+          "texto": "Silencio electoral inicia hoy 17 jun hasta después del 21-J"
+        },
+        {
+          "ok": false,
+          "texto": "Cifras de participación en exterior no disponibles en tiempo real"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-transcurren-con-normalidad-las-elecciones-en-el-exterior-antes-de-la-segunda-vuelta-del-21-de-junio-3564470",
+      "url_label": "El Tiempo – Elecciones en el exterior transcurren con normalidad antes del 21-J"
+    },
+    {
+      "filter": "cepeda",
       "fuente": "El Tiempo / Infobae",
       "fuente_color": "#27ae60",
       "fecha": "16 jun 2026",
       "tag": "Cepeda · Cierre final",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda cerró campaña en Soledad, Atlántico — último día de campaña pública antes del 21-J",
-      "resumen": "Iván Cepeda realizó su acto final de campaña en Soledad, Atlántico, el 16 de junio — último día permitido para campaña pública antes del silencio electoral que rige desde el 17 de junio hasta el 21-J. Apostando por la base electoral del Caribe colombiano, Cepeda buscó movilizar el voto costeño en una región estratégica para la segunda vuelta. A 5 días de la elección, las encuestas mainstream (Guarumo: 45%, AtlasIntel: 44,5%) lo ubican 7-8 puntos detrás de De la Espriella, aunque Celag Data mostró un empate técnico el 14 de junio.",
+      "titulo": "Cepeda cerró campaña en Soledad, Atlántico — último día de campaña pública antes del silencio electoral",
+      "resumen": "Iván Cepeda realizó su acto final de campaña en Soledad, Atlántico, el 16 de junio — último día permitido para campaña pública antes del silencio electoral activo desde el 17 jun. Apostando por la base electoral del Caribe colombiano, Cepeda buscó movilizar el voto costeño en una región estratégica. A 5 días de la elección, las encuestas mainstream (Guarumo: 45%, AtlasIntel: 44,5%) lo ubican 7-8 puntos detrás de De la Espriella, aunque Celag Data mostró un empate técnico el 14 de junio.",
       "objetividad": 90,
       "criterios": [
         {
@@ -139,7 +203,7 @@
       "tag_color": "#c0392b",
       "tag_bg": "rgba(192,57,43,0.15)",
       "titulo": "De la Espriella denuncia presión armada sobre votantes en Nariño y Cauca en la recta final",
-      "resumen": "Durante su cierre de campaña en Buga (14-15 jun), Abelardo de la Espriella denunció la existencia de presión armada sobre votantes en los departamentos de Nariño y Cauca, vinculando esos actos de coerción electoral a un apoyo que calificó de 'atípico' hacia su rival Iván Cepeda. La denuncia escala la tensión entre los dos candidatos a 5 días del 21-J y genera preocupación entre organismos electorales. La Registraduría no se ha pronunciado formalmente al cierre de esta edición.",
+      "resumen": "Durante su cierre de campaña en Buga (14-15 jun), Abelardo de la Espriella denunció la existencia de presión armada sobre votantes en los departamentos de Nariño y Cauca, vinculando esos actos de coerción electoral a un apoyo que calificó de 'atípico' hacia su rival Iván Cepeda. La denuncia escala la tensión entre los dos candidatos a 5 días del 21-J y genera preocupación entre organismos electorales. La Registraduría no se pronunció formalmente al cierre de esta edición.",
       "objetividad": 78,
       "criterios": [
         {
@@ -170,8 +234,8 @@
       "tag": "De la Espriella · Cierre campaña",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella cerró su campaña ayer en la Basílica del Señor de los Milagros de Buga",
-      "resumen": "Abelardo de la Espriella celebró el 14 de junio su acto de cierre de campaña en la Basílica del Señor de los Milagros de Buga, Valle del Cauca, a 7 días de la segunda vuelta del 21 de junio. La elección de Buga —ciudad de profunda devoción religiosa y epicentro del Valle del Cauca— buscó consolidar votos en un departamento clave de la contienda. De la Espriella llega al cierre liderando todas las encuestas mainstream: Guarumo/Ecoanalítica 52,6% y AtlasIntel 52,2%. La veda de encuestas está activa desde el 13 de junio.",
+      "titulo": "De la Espriella cerró su campaña en la Basílica del Señor de los Milagros de Buga",
+      "resumen": "Abelardo de la Espriella celebró el 14 de junio su acto de cierre de campaña en la Basílica del Señor de los Milagros de Buga, Valle del Cauca, a 7 días de la segunda vuelta del 21 de junio. La elección de Buga —ciudad de profunda devoción religiosa y epicentro del Valle del Cauca— buscó consolidar votos en un departamento clave. De la Espriella llega al silencio electoral liderando todas las encuestas mainstream: Guarumo/Ecoanalítica 52,6% y AtlasIntel 52,2%.",
       "objetividad": 93,
       "criterios": [
         {
@@ -203,7 +267,7 @@
       "tag_color": "#2980b9",
       "tag_bg": "rgba(41,128,185,0.15)",
       "titulo": "Celag Data revela empate técnico: Cepeda 40,8% vs De la Espriella 39,7% — contrasta con Guarumo",
-      "resumen": "Una nueva encuesta de Celag Data publicada el 14 de junio por Infobae muestra empate técnico entre los dos candidatos: Iván Cepeda 40,8% vs Abelardo de la Espriella 39,7%, dentro del margen de error. Esta medición contrasta con la encuesta final de Guarumo/Ecoanalítica (13 jun) que otorgó a De la Espriella 52,6% vs Cepeda 45%. La diferencia metodológica se atribuye a que Celag incluye indecisos y voto en blanco en el universo total. Analistas señalan el sesgo ideológico de cada firma como factor a considerar en la interpretación.",
+      "resumen": "Una nueva encuesta de Celag Data publicada el 14 de junio por Infobae muestra empate técnico entre los dos candidatos: Iván Cepeda 40,8% vs Abelardo de la Espriella 39,7%, dentro del margen de error. Esta medición contrasta con la encuesta final de Guarumo/Ecoanalítica (13 jun) que otorgó a De la Espriella 52,6% vs Cepeda 45%. La diferencia metodológica se atribuye a que Celag incluye indecisos y voto en blanco en el universo total.",
       "objetividad": 82,
       "criterios": [
         {
@@ -235,7 +299,7 @@
       "tag_color": "#2980b9",
       "tag_bg": "rgba(41,128,185,0.15)",
       "titulo": "Encuesta FINAL Guarumo/Ecoanalítica: De la Espriella 52,6 % vs Cepeda 45 % — última medición antes de la veda",
-      "resumen": "La encuesta final de Guarumo y Ecoanalítica para la segunda vuelta presidencial —publicada el 13 de junio, último día antes de la veda de publicación— muestra a Abelardo de la Espriella con 52,6% frente al 45% de Iván Cepeda, una brecha de 7,6 puntos. La medición coincide con la de AtlasIntel (52,2% vs 44,5%, 5-10 jun), consolidando el liderazgo de De la Espriella entre las firmas mainstream. A partir del 13 de junio, ninguna firma puede publicar sondeos hasta después del 21-J.",
+      "resumen": "La encuesta final de Guarumo y Ecoanalítica para la segunda vuelta —publicada el 13 de junio, último día antes de la veda— muestra a Abelardo de la Espriella con 52,6% frente al 45% de Iván Cepeda, una brecha de 7,6 puntos. La medición coincide con la de AtlasIntel (52,2% vs 44,5%, 5-10 jun), consolidando el liderazgo de De la Espriella entre las firmas mainstream. CNC (15 jun, publicado durante veda): 48,6% vs 44,7%.",
       "objetividad": 96,
       "criterios": [
         {
@@ -267,7 +331,7 @@
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
       "titulo": "Cepeda adelantó acto de campaña en Bucaramanga buscando votos en Santander",
-      "resumen": "Iván Cepeda realizó un acto de campaña en Bucaramanga el 14 de junio, un día después de su cierre oficial en Plaza La Santamaría de Bogotá. La movida busca consolidar el voto en Santander, un departamento clave para la segunda vuelta. Mientras De la Espriella cerraba en Buga, Cepeda apostó por movilizar bases en el nororiente del país a 7 días del 21-J, en una recta final de alto voltaje.",
+      "resumen": "Iván Cepeda realizó un acto de campaña en Bucaramanga el 14 de junio, un día después de su cierre oficial en Plaza La Santamaría de Bogotá. La movida busca consolidar el voto en Santander, un departamento clave para la segunda vuelta. Mientras De la Espriella cerraba en Buga, Cepeda apostó por movilizar bases en el nororiente del país a 7 días del 21-J.",
       "objetividad": 88,
       "criterios": [
         {
@@ -289,70 +353,6 @@
       ],
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-2026-siga-el-minuto-a-minuto-de-la-segunda-vuelta-presidencial-en-colombia-3563823",
       "url_label": "El Tiempo – Minuto a minuto: Cepeda adelanta acto de campaña en Bucaramanga"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Semana / Infobae / Colombia.com",
-      "fuente_color": "#e67e22",
-      "fecha": "12 jun 2026",
-      "tag": "De la Espriella · Judicial",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "Consejo de Estado rechazó demanda de inhabilidad contra De la Espriella — camino judicial despejado",
-      "resumen": "La Sección Quinta del Consejo de Estado rechazó por motivos procedimentales la demanda de nulidad electoral presentada el 9 de junio por Sebastián López Betancourt, que buscaba anular la inscripción de De la Espriella como candidato por su doble nacionalidad estadounidense. Magistrado ponente: Omar Joaquín Barreto Suárez. El tribunal no analizó el fondo constitucional y rechazó de plano la acción. El fallo despeja el camino judicial a 9 días del 21-J, aunque constitucionalistas advierten que el debate de fondo permanece sin resolver formalmente.",
-      "objetividad": 93,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Fallo verificado por Semana, Infobae, Colombia.com y Diario del Huila (11-12 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Magistrado ponente identificado: Omar Joaquín Barreto Suárez, Sección Quinta"
-        },
-        {
-          "ok": true,
-          "texto": "Rechazo por motivo procedimental — no se analizó el fondo de la doble nacionalidad"
-        },
-        {
-          "ok": false,
-          "texto": "El debate constitucional de fondo queda abierto — exmagistrados mantienen su posición"
-        }
-      ],
-      "url": "https://www.semana.com/nacion/articulo/consejo-de-estado-resolvio-el-debate-sobre-la-presunta-inhabilidad-de-abelardo-de-la-espriella-para-aspirar-a-la-presidencia/202611/",
-      "url_label": "Semana – Consejo de Estado rechazó demanda de inhabilidad contra De la Espriella"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Tiempo",
-      "fuente_color": "#e67e22",
-      "fecha": "12 jun 2026",
-      "tag": "De la Espriella · Alianzas",
-      "tag_color": "#9b59b6",
-      "tag_bg": "rgba(155,89,182,0.15)",
-      "titulo": "Colombia Renaciente anunció respaldo a De la Espriella — él rechazó el apoyo",
-      "resumen": "El partido Colombia Renaciente anunció públicamente su respaldo a Abelardo de la Espriella para la segunda vuelta del 21 de junio. Sin embargo, el candidato rechazó formalmente el apoyo sin revelar los motivos públicamente. Analistas interpretan el rechazo como una señal de que De la Espriella busca distanciarse de ciertos sectores políticos de cara al electorado de centro que puede ser clave en la segunda vuelta.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Anuncio de Colombia Renaciente y rechazo de De la Espriella confirmados por El Tiempo (12 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "El rechazo señala una estrategia de imagen hacia el centro político"
-        },
-        {
-          "ok": false,
-          "texto": "De la Espriella no explicó públicamente los motivos del rechazo"
-        },
-        {
-          "ok": false,
-          "texto": "El impacto electoral del episodio es difícil de cuantificar"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-el-partido-colombia-renaciente-anuncio-su-respaldo-a-abelardo-de-la-espriella-el-aspirante-rechazo-el-apoyo-3562828",
-      "url_label": "El Tiempo – Colombia Renaciente apoyó a De la Espriella; él rechazó el apoyo"
     }
   ],
   "sentimiento": {
@@ -364,16 +364,16 @@
         "negativo": 25,
         "neutro": 15,
         "tendencia": "up",
-        "tendencia_texto": "16 jun: 5 DÍAS para el 21-J. HOY último día de campaña pública — silencio electoral desde el 17 jun. Cerró campaña el 14 jun en Buga. DENUNCIÓ presión armada en Nariño y Cauca. ENCUESTA FINAL mainstream: Guarumo/Ecoanalítica 52,6% vs Cepeda 45% (13 jun). CELAG DATA (14 jun): empate técnico 39,7% vs Cepeda 40,8% — divergencia metodológica. VEDA DE ENCUESTAS activa. CONDOR: +7,0 pts promedio. Rechazo ciudadano: 46,6% vs Cepeda 51,7%."
+        "tendencia_texto": "17 jun: 4 DÍAS para el 21-J. SILENCIO ELECTORAL activo desde HOY hasta el 21-J — sin actos de campaña permitidos. Cerró el 14 jun en la Basílica de Buga. Denunció presión armada en Nariño y Cauca. ENCUESTAS FINALES mainstream: Guarumo/Ecoanalítica 52,6% vs Cepeda 45% (13 jun). AtlasIntel 52,2% vs 44,5% (5-10 jun). CNC 48,6% vs 44,7% (15 jun, publicado durante veda). CONDOR: +7,0 pts promedio. VOTO EN EXTERIOR en curso (15-21 jun). Rechazo ciudadano: 46,6% vs Cepeda 51,7%."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 32,
-        "negativo": 50,
+        "positivo": 35,
+        "negativo": 47,
         "neutro": 18,
         "tendencia": "up",
-        "tendencia_texto": "16 jun: 5 DÍAS para el 21-J. HOY cierre final de campaña en Soledad, Atlántico — último día legal. GUARUMO: 45% vs 52,6% De la Espriella (−7,6 pts). CELAG DATA (14 jun): 40,8% vs De la Espriella 39,7% — empate técnico. VEDA activa desde el 13 jun. Apoyo Timochenko aleja voto de centro. Rechazo ciudadano: 51,7% vs De la Espriella 46,6%."
+        "tendencia_texto": "17 jun: 4 DÍAS para el 21-J. SILENCIO ELECTORAL activo desde HOY. HOY desmintió rumores de grave enfermedad — publicó certificado médico. Cerró el 16 jun en Soledad, Atlántico. ENCUESTAS: Guarumo 45% vs 52,6% De la Espriella (−7,6 pts). AtlasIntel: 44,5% vs 52,2%. CNC (15 jun): 44,7% vs De la Espriella 48,6%. CELAG DATA (14 jun): 40,8% vs De la Espriella 39,7% — empate técnico. VOTO EN EXTERIOR en curso. Rechazo ciudadano: 51,7% vs De la Espriella 46,6%."
       },
       {
         "nombre": "Valencia",
@@ -382,7 +382,7 @@
         "negativo": 40,
         "neutro": 20,
         "tendencia": "neutral",
-        "tendencia_texto": "Fuera de la carrera (6,92% — 1,6M votos, 1ra vuelta). 16 jun: 5 DÍAS para el 21-J. HOY último día de campaña — silencio electoral desde mañana. 12 jun: Se reunió con Álvaro Uribe para coordinar maquinaria del CD a favor de De la Espriella. Apoyo oficial anunciado el 1 jun. Según encuestas, 76,4% de sus votantes migrarían a De la Espriella en segunda vuelta."
+        "tendencia_texto": "Fuera de la carrera (6,92% — 1,6M votos, 1ra vuelta). 17 jun: 4 DÍAS para el 21-J. SILENCIO ELECTORAL desde hoy. Apoyo oficial a De la Espriella (anunciado 1 jun). Se reunió con Álvaro Uribe el 12 jun para coordinar maquinaria del CD. Según encuestas, 76,4% de sus votantes migrarían a De la Espriella en segunda vuelta."
       }
     ]
   },
@@ -391,7 +391,7 @@
     "cepeda": 45.0,
     "fuente": "Guarumo/Ecoanalítica — 2da vuelta, encuesta final, 13 jun 2026",
     "tipo": "segunda_vuelta",
-    "nota": "ÚLTIMAS ENCUESTAS ANTES DE VEDA: Guarumo/Ecoanalítica (13 jun): De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). AtlasIntel (5-10 jun, n=3.681, ±2%): 52,2% vs 44,5% (+7,7 pts). CELAG DATA (14 jun, Infobae): empate técnico — Cepeda 40,8% vs De la Espriella 39,7% (divergencia metodológica; incluye indecisos). CB Global Data (1-4 jun): 49,6% vs 43,3%. CONDOR promedio: De la Espriella +7,0 pts. Veda de encuestas: activa desde el 13 jun — sin nuevas mediciones hasta después del 21-J. RECHAZO: Cepeda 51,7% vs De la Espriella 46,6% (AtlasIntel). Aprobación Petro: 42,8% aumentó según Guarumo (13 jun). Cierre campaña pública: 16 jun."
+    "nota": "ÚLTIMAS ENCUESTAS ANTES DE VEDA: Guarumo/Ecoanalítica (13 jun): De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). AtlasIntel (5-10 jun, n=3.681, ±2%): 52,2% vs 44,5% (+7,7 pts). CNC / Centro Nacional de Consultoría (15 jun, publicado durante veda): De la Espriella 48,6% vs Cepeda 44,7% (+3,9 pts). CELAG DATA (14 jun, Infobae): empate técnico — Cepeda 40,8% vs De la Espriella 39,7% (divergencia metodológica; incluye indecisos). CB Global Data (1-4 jun): 49,6% vs 43,3%. CONDOR promedio: De la Espriella +7,0 pts. SILENCIO ELECTORAL activo desde el 17 jun — sin nuevas mediciones hasta después del 21-J. RECHAZO: Cepeda 51,7% vs De la Espriella 46,6% (AtlasIntel). Aprobación Petro: 42,8% según Guarumo (13 jun). VOTO EN EXTERIOR: 15-21 jun."
   },
   "prediccion": {
     "primero": {
@@ -408,7 +408,7 @@
       "pct": 40.91,
       "fuente_encuesta": "CNE — escrutinio oficial 1ra vuelta (4 jun 2026)"
     },
-    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026 (5 días). HOY 16 jun: ÚLTIMO DÍA de campaña pública — silencio electoral desde el 17 jun hasta el 21-J. De la Espriella cerró el 14 jun en Buga y denunció presión armada en Nariño y Cauca. Cepeda cerró HOY en Soledad, Atlántico. ENCUESTA FINAL mainstream Guarumo/Ecoanalítica (13 jun): De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). CELAG DATA (14 jun): empate técnico Cepeda 40,8% vs De la Espriella 39,7% — divergencia metodológica. VEDA DE ENCUESTAS activa desde el 13 jun. ALIANZAS: Valencia + Uribe + CD + Fenalco → De la Espriella. Trump (apoyo internacional). Timochenko/Comunes + Barreras → Cepeda. Fajardo → voto en blanco. 12 jun: CONSEJO DE ESTADO rechazó demanda inhabilidad doble nacionalidad EE.UU. (motivo procedimental). VOTACIÓN EN EXTERIOR: del 15 al 21 jun."
+    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026 (4 días). HOY 17 jun: SILENCIO ELECTORAL activo hasta el 21-J — campaña pública cerrada. Cepeda desmintió hoy rumores de grave enfermedad y publicó certificado médico. De la Espriella cerró el 14 jun en Buga; Cepeda cerró el 16 jun en Soledad, Atlántico. ENCUESTA FINAL mainstream Guarumo/Ecoanalítica (13 jun): De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). CNC (15 jun): 48,6% vs 44,7% (+3,9 pts). CELAG DATA (14 jun): empate técnico Cepeda 40,8% vs De la Espriella 39,7% — divergencia metodológica. ALIANZAS: Valencia + Uribe + CD + Fenalco → De la Espriella. Trump (apoyo internacional). Timochenko/Comunes + Barreras → Cepeda. Fajardo → voto en blanco. VOTACIÓN EN EXTERIOR: 15-21 jun."
   },
-  "ultimo_deploy": "2026-06-16T00:00:00Z"
+  "ultimo_deploy": "2026-06-17T00:00:00Z"
 }
