@@ -1,5 +1,5 @@
 {
-  "fecha": "17 de junio de 2026",
+  "fecha": "18 de junio de 2026",
   "modo": "segunda_vuelta",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -98,6 +98,70 @@
     }
   ],
   "noticias": [
+    {
+      "filter": "cepeda",
+      "fuente": "El Tiempo",
+      "fuente_color": "#c0392b",
+      "fecha": "18 jun 2026",
+      "tag": "Petro · Narrativa fraude",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "Llaman a respetar el 21-J ante el silencio de Petro: no ha reconocido los resultados de primera vuelta",
+      "resumen": "A 3 días de la segunda vuelta del 21-J, crece la alarma institucional porque el presidente Gustavo Petro sigue sin reconocer los resultados del 31 de mayo, pese a que su candidato Iván Cepeda los aceptó oficialmente una semana después. Petro alega 850 mil votantes irregulares en el censo; la Registraduría, la MOE, la OEA y la UE refutaron formalmente esas denuncias. Analistas señalan que la narrativa de fraude busca extender la controversia al 21-J. SILENCIO ELECTORAL activo desde el 17 jun.",
+      "objetividad": 85,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Confirmado por El Tiempo: Petro mantiene narrativa de fraude y no reconoce 1ra vuelta"
+        },
+        {
+          "ok": true,
+          "texto": "Registraduría, MOE, OEA y UE refutaron las denuncias de irregularidades de Petro"
+        },
+        {
+          "ok": true,
+          "texto": "Cepeda sí reconoció resultados una semana después de la elección — distancia documentada"
+        },
+        {
+          "ok": false,
+          "texto": "Impacto real en intención de voto para el 21-J no medible (veda de encuestas activa)"
+        }
+      ],
+      "url": "https://www.eltiempo.com/amp/politica/elecciones-colombia-2026/llaman-a-respetar-los-resultados-del-proximo-21-de-junio-ante-el-silencio-del-presidente-gustavo-petro-de-reconocer-los-de-primera-vuelta-3564186",
+      "url_label": "El Tiempo – Llaman a respetar el 21-J ante el silencio de Petro"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Infobae",
+      "fuente_color": "#8e44ad",
+      "fecha": "17 jun 2026",
+      "tag": "Alianzas · Segunda Vuelta",
+      "tag_color": "#8e44ad",
+      "tag_bg": "rgba(142,68,173,0.15)",
+      "titulo": "Mapa de alianzas para el 21-J: De la Espriella con derecha unida, Cepeda sin respaldo público de Petro",
+      "resumen": "Infobae publicó el mapa completo de alianzas consolidadas para la segunda vuelta. De la Espriella concentra el apoyo de Centro Democrático (Uribe/Valencia), Partido Conservador, caucus del Partido Liberal, Liga de Gobernantes Anticorrupción y la familia Vargas Lleras. Cepeda cuenta con Comunes (Timochenko) y Roy Barreras, pero el presidente Petro no ha dado respaldo público formal. Fajardo promueve el voto en blanco. Partido Colombia Renaciente ofreció apoyo a De la Espriella, quien lo rechazó públicamente rechazando acuerdos con 'la política tradicional'.",
+      "objetividad": 90,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Mapa de alianzas confirmado por múltiples fuentes: El Tiempo, Infobae, Semana, La Nación AR"
+        },
+        {
+          "ok": true,
+          "texto": "Rechazo de Colombia Renaciente por De la Espriella verificado (El Heraldo, LaFM, 7 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Ausencia de respaldo público formal de Petro a Cepeda es un hecho documentado"
+        },
+        {
+          "ok": false,
+          "texto": "Peso real de cada alianza en votos efectivos no cuantificable durante silencio electoral"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/06/17/elecciones-en-colombia-2026-asi-se-repartieron-los-partidos-politicos-para-la-segunda-vuelta-entre-abelardo-de-la-espriella-e-ivan-cepeda/",
+      "url_label": "Infobae – Cómo quedó el mapa de alianzas para el 21-J"
+    },
     {
       "filter": "cepeda",
       "fuente": "El Tiempo",
@@ -289,70 +353,6 @@
       ],
       "url": "https://www.infobae.com/colombia/2026/06/14/elecciones-en-colombia-2026-nueva-encuesta-asegura-empate-tecnico-entre-ivan-cepeda-y-abelardo-de-la-espriella/",
       "url_label": "Infobae – Celag Data: empate técnico Cepeda 40,8% vs De la Espriella 39,7%"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Tiempo / Guarumo / Ecoanalítica",
-      "fuente_color": "#2980b9",
-      "fecha": "13 jun 2026",
-      "tag": "Encuesta · Guarumo Final",
-      "tag_color": "#2980b9",
-      "tag_bg": "rgba(41,128,185,0.15)",
-      "titulo": "Encuesta FINAL Guarumo/Ecoanalítica: De la Espriella 52,6 % vs Cepeda 45 % — última medición antes de la veda",
-      "resumen": "La encuesta final de Guarumo y Ecoanalítica para la segunda vuelta —publicada el 13 de junio, último día antes de la veda— muestra a Abelardo de la Espriella con 52,6% frente al 45% de Iván Cepeda, una brecha de 7,6 puntos. La medición coincide con la de AtlasIntel (52,2% vs 44,5%, 5-10 jun), consolidando el liderazgo de De la Espriella entre las firmas mainstream. CNC (15 jun, publicado durante veda): 48,6% vs 44,7%.",
-      "objetividad": 96,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Publicada el 13 jun — última encuesta oficial mainstream antes de la veda"
-        },
-        {
-          "ok": true,
-          "texto": "Guarumo es una de las firmas encuestadoras más reconocidas del país"
-        },
-        {
-          "ok": true,
-          "texto": "Coincide con AtlasIntel: brecha de ~7-8 puntos en ambas mediciones"
-        },
-        {
-          "ok": false,
-          "texto": "Celag Data (14 jun) muestra empate técnico — divergencia metodológica importante"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/encuesta-final-de-guarumo-y-ecoanalitica-para-segunda-vuelta-presidencial-abelardo-de-la-espriella-52-6-ivan-cepeda-3564095",
-      "url_label": "El Tiempo – Encuesta final Guarumo/Ecoanalítica: De la Espriella 52,6 %, Cepeda 45 %"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "El Tiempo / El Colombiano / Infobae",
-      "fuente_color": "#27ae60",
-      "fecha": "14 jun 2026",
-      "tag": "Cepeda · Bucaramanga",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda adelantó acto de campaña en Bucaramanga buscando votos en Santander",
-      "resumen": "Iván Cepeda realizó un acto de campaña en Bucaramanga el 14 de junio, un día después de su cierre oficial en Plaza La Santamaría de Bogotá. La movida busca consolidar el voto en Santander, un departamento clave para la segunda vuelta. Mientras De la Espriella cerraba en Buga, Cepeda apostó por movilizar bases en el nororiente del país a 7 días del 21-J.",
-      "objetividad": 88,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Acto en Bucaramanga confirmado por El Tiempo minuto a minuto (14 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Santander es departamento estratégico para la segunda vuelta"
-        },
-        {
-          "ok": false,
-          "texto": "Cepeda ya cerró formalmente en Bogotá — el acto adicional puede generar críticas"
-        },
-        {
-          "ok": false,
-          "texto": "Sin cifras de asistencia disponibles al momento de la publicación"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-2026-siga-el-minuto-a-minuto-de-la-segunda-vuelta-presidencial-en-colombia-3563823",
-      "url_label": "El Tiempo – Minuto a minuto: Cepeda adelanta acto de campaña en Bucaramanga"
     }
   ],
   "sentimiento": {
@@ -364,7 +364,7 @@
         "negativo": 25,
         "neutro": 15,
         "tendencia": "up",
-        "tendencia_texto": "17 jun: 4 DÍAS para el 21-J. SILENCIO ELECTORAL activo desde HOY hasta el 21-J — sin actos de campaña permitidos. Cerró el 14 jun en la Basílica de Buga. Denunció presión armada en Nariño y Cauca. ENCUESTAS FINALES mainstream: Guarumo/Ecoanalítica 52,6% vs Cepeda 45% (13 jun). AtlasIntel 52,2% vs 44,5% (5-10 jun). CNC 48,6% vs 44,7% (15 jun, publicado durante veda). CONDOR: +7,0 pts promedio. VOTO EN EXTERIOR en curso (15-21 jun). Rechazo ciudadano: 46,6% vs Cepeda 51,7%."
+        "tendencia_texto": "18 jun: 3 DÍAS para el 21-J. SILENCIO ELECTORAL activo desde el 17 jun hasta el 21-J — sin actos de campaña. Cerró el 14 jun en la Basílica de Buga (Valle del Cauca). Denunció presión armada en Nariño y Cauca. ENCUESTAS FINALES (antes de veda): Guarumo/Ecoanalítica 52,6% vs Cepeda 45% (13 jun). AtlasIntel 52,2% vs 44,5% (5-10 jun). CNC 48,6% vs 44,7% (15 jun, publicado durante veda). CONDOR promedio: +7,0 pts. ALIANZAS: Uribe+Valencia+CD+Conservadores+Liberales+Vargas Lleras. VOTO EN EXTERIOR en curso (15-21 jun). Rechazo ciudadano: 46,6% vs Cepeda 51,7%."
       },
       {
         "nombre": "Cepeda",
@@ -373,7 +373,7 @@
         "negativo": 47,
         "neutro": 18,
         "tendencia": "up",
-        "tendencia_texto": "17 jun: 4 DÍAS para el 21-J. SILENCIO ELECTORAL activo desde HOY. HOY desmintió rumores de grave enfermedad — publicó certificado médico. Cerró el 16 jun en Soledad, Atlántico. ENCUESTAS: Guarumo 45% vs 52,6% De la Espriella (−7,6 pts). AtlasIntel: 44,5% vs 52,2%. CNC (15 jun): 44,7% vs De la Espriella 48,6%. CELAG DATA (14 jun): 40,8% vs De la Espriella 39,7% — empate técnico. VOTO EN EXTERIOR en curso. Rechazo ciudadano: 51,7% vs De la Espriella 46,6%."
+        "tendencia_texto": "18 jun: 3 DÍAS para el 21-J. SILENCIO ELECTORAL activo. Ayer (17 jun) desmintió rumores de grave enfermedad — publicó certificado médico. Cerró el 16 jun en Soledad, Atlántico. Petro no ha reconocido resultados de 1ra vuelta — Cepeda sí los aceptó. ENCUESTAS: Guarumo 45% vs 52,6% De la Espriella (−7,6 pts). AtlasIntel: 44,5% vs 52,2%. CNC (15 jun): 44,7% vs De la Espriella 48,6%. CELAG DATA (14 jun): 40,8% vs De la Espriella 39,7% — empate técnico. VOTO EN EXTERIOR en curso. Rechazo ciudadano: 51,7% vs De la Espriella 46,6%."
       },
       {
         "nombre": "Valencia",
@@ -382,7 +382,7 @@
         "negativo": 40,
         "neutro": 20,
         "tendencia": "neutral",
-        "tendencia_texto": "Fuera de la carrera (6,92% — 1,6M votos, 1ra vuelta). 17 jun: 4 DÍAS para el 21-J. SILENCIO ELECTORAL desde hoy. Apoyo oficial a De la Espriella (anunciado 1 jun). Se reunió con Álvaro Uribe el 12 jun para coordinar maquinaria del CD. Según encuestas, 76,4% de sus votantes migrarían a De la Espriella en segunda vuelta."
+        "tendencia_texto": "Fuera de la carrera (6,92% — 1,64M votos, 1ra vuelta). 18 jun: 3 DÍAS para el 21-J. SILENCIO ELECTORAL activo. Apoyo oficial a De la Espriella (anunciado 1 jun). Se reunió con Álvaro Uribe el 12 jun para coordinar maquinaria del CD. Según encuestas, 76,4% de sus votantes migrarían a De la Espriella en segunda vuelta."
       }
     ]
   },
@@ -408,7 +408,7 @@
       "pct": 40.91,
       "fuente_encuesta": "CNE — escrutinio oficial 1ra vuelta (4 jun 2026)"
     },
-    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026 (4 días). HOY 17 jun: SILENCIO ELECTORAL activo hasta el 21-J — campaña pública cerrada. Cepeda desmintió hoy rumores de grave enfermedad y publicó certificado médico. De la Espriella cerró el 14 jun en Buga; Cepeda cerró el 16 jun en Soledad, Atlántico. ENCUESTA FINAL mainstream Guarumo/Ecoanalítica (13 jun): De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). CNC (15 jun): 48,6% vs 44,7% (+3,9 pts). CELAG DATA (14 jun): empate técnico Cepeda 40,8% vs De la Espriella 39,7% — divergencia metodológica. ALIANZAS: Valencia + Uribe + CD + Fenalco → De la Espriella. Trump (apoyo internacional). Timochenko/Comunes + Barreras → Cepeda. Fajardo → voto en blanco. VOTACIÓN EN EXTERIOR: 15-21 jun."
+    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026 (3 días). SILENCIO ELECTORAL activo desde el 17 jun hasta el 21-J — campaña pública cerrada. 18 jun: Petro mantiene narrativa de fraude sin reconocer resultados de 1ra vuelta — Cepeda los aceptó formalmente. Cepeda desmintió ayer (17 jun) rumores de grave enfermedad y publicó certificado médico. De la Espriella cerró el 14 jun en Buga; Cepeda cerró el 16 jun en Soledad, Atlántico. ENCUESTA FINAL mainstream Guarumo/Ecoanalítica (13 jun): De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). CNC (15 jun, veda): 48,6% vs 44,7% (+3,9 pts). CELAG DATA (14 jun): empate técnico Cepeda 40,8% vs De la Espriella 39,7% — divergencia metodológica. ALIANZAS: Valencia + Uribe + CD + Conservadores + Liberales + Vargas Lleras → De la Espriella. Trump (apoyo internacional). Timochenko/Comunes + Barreras → Cepeda. Fajardo → voto en blanco. Colombia Renaciente rechazado por De la Espriella. Petro no respalda públicamente a Cepeda. VOTACIÓN EN EXTERIOR: 15-21 jun."
   },
-  "ultimo_deploy": "2026-06-17T00:00:00Z"
+  "ultimo_deploy": "2026-06-18T00:00:00Z"
 }
