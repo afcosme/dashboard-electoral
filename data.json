@@ -1,5 +1,5 @@
 {
-  "fecha": "18 de junio de 2026",
+  "fecha": "19 de junio de 2026",
   "modo": "segunda_vuelta",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -99,6 +99,70 @@
   ],
   "noticias": [
     {
+      "filter": "espriella",
+      "fuente": "El Tiempo",
+      "fuente_color": "#c0392b",
+      "fecha": "19 jun 2026",
+      "tag": "21-J · Alerta EEUU",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "EEUU emite alerta para sus ciudadanos en Colombia ante riesgo de protestas y violencia el 21-J",
+      "resumen": "A dos días de la segunda vuelta, el Departamento de Estado de EEUU emitió una alerta oficial para sus ciudadanos en Colombia advirtiendo que 'es posible que se produzcan protestas y actos de violencia relacionados con la votación y posteriores a ella'. La alerta señala cierre de fronteras, ley seca (desde las 6:00 p.m. del viernes 19 jun hasta el lunes 22 jun) y despliegues policiales que pueden generar interrupciones en los desplazamientos. SILENCIO ELECTORAL activo desde el 17 jun.",
+      "objetividad": 90,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Alerta oficial del Departamento de Estado de EEUU — confirmada por El Tiempo (19 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Ley seca y medidas electorales verificadas: 6 p.m. viernes 19 jun al 6 p.m. lunes 22 jun"
+        },
+        {
+          "ok": true,
+          "texto": "Silencio electoral activo desde el 17 jun hasta después del 21-J"
+        },
+        {
+          "ok": false,
+          "texto": "Nivel específico de riesgo no detallado — alerta preventiva estándar para jornadas electorales"
+        }
+      ],
+      "url": "https://www.eltiempo.com/amp/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-todo-sobre-la-segunda-vuelta-presidencial-que-definira-al-proximo-presidente-3565112",
+      "url_label": "El Tiempo – EEUU emite alerta para sus ciudadanos ante posibles protestas el 21-J"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "El Tiempo",
+      "fuente_color": "#2980b9",
+      "fecha": "19 jun 2026",
+      "tag": "Institucional · 50 org.",
+      "tag_color": "#2980b9",
+      "tag_bg": "rgba(41,128,185,0.15)",
+      "titulo": "Transparencia por Colombia y más de 50 organizaciones exigen a los candidatos reconocer resultados del 21-J",
+      "resumen": "A 2 días de la segunda vuelta, Transparencia por Colombia junto a más de 50 organizaciones civiles hicieron un llamado formal a ambos candidatos — Abelardo de la Espriella e Iván Cepeda — a comprometerse a reconocer los resultados electorales del 21 de junio, en medio de la preocupación generada por la narrativa de fraude que mantiene el presidente Petro. MOE, UE y OEA ya habían refutado las denuncias de irregularidades en la primera vuelta.",
+      "objetividad": 92,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Llamado de Transparencia por Colombia y 50+ org. confirmado por El Tiempo (19 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Contexto: Petro mantiene narrativa de fraude sin reconocer 1ra vuelta — Cepeda sí la aceptó"
+        },
+        {
+          "ok": true,
+          "texto": "MOE, OEA y UE ya refutaron formalmente las denuncias de irregularidades"
+        },
+        {
+          "ok": false,
+          "texto": "Respuesta formal de los candidatos al llamado no publicada al cierre de esta edición"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-anuncios-de-los-candidatos-y-noticias-antes-de-la-segunda-vuelta-del-proximo-domingo-21-de-junio-3564787",
+      "url_label": "El Tiempo – Transparencia por Colombia y 50 org. piden reconocer resultados del 21-J"
+    },
+    {
       "filter": "cepeda",
       "fuente": "El Tiempo",
       "fuente_color": "#c0392b",
@@ -139,7 +203,7 @@
       "tag_color": "#8e44ad",
       "tag_bg": "rgba(142,68,173,0.15)",
       "titulo": "Mapa de alianzas para el 21-J: De la Espriella con derecha unida, Cepeda sin respaldo público de Petro",
-      "resumen": "Infobae publicó el mapa completo de alianzas consolidadas para la segunda vuelta. De la Espriella concentra el apoyo de Centro Democrático (Uribe/Valencia), Partido Conservador, caucus del Partido Liberal, Liga de Gobernantes Anticorrupción y la familia Vargas Lleras. Cepeda cuenta con Comunes (Timochenko) y Roy Barreras, pero el presidente Petro no ha dado respaldo público formal. Fajardo promueve el voto en blanco. Partido Colombia Renaciente ofreció apoyo a De la Espriella, quien lo rechazó públicamente rechazando acuerdos con 'la política tradicional'.",
+      "resumen": "Infobae publicó el mapa completo de alianzas consolidadas para la segunda vuelta. De la Espriella concentra el apoyo de Centro Democrático (Uribe/Valencia), Partido Conservador, caucus del Partido Liberal, Liga de Gobernantes Anticorrupción y la familia Vargas Lleras. Cepeda cuenta con Comunes (Timochenko) y Roy Barreras, pero el presidente Petro no ha dado respaldo público formal. Fajardo promueve el voto en blanco. Partido Colombia Renaciente ofreció apoyo a De la Espriella, quien lo rechazó públicamente.",
       "objetividad": 90,
       "criterios": [
         {
@@ -171,7 +235,7 @@
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
       "titulo": "Cepeda desmiente grave enfermedad y publica certificado sobre su estado de salud a 4 días del 21-J",
-      "resumen": "Iván Cepeda salió al paso de los rumores sobre una presunta grave enfermedad que circularon en redes sociales en los días previos a la segunda vuelta. El candidato del Pacto Histórico publicó un certificado médico que avala su buen estado de salud, buscando disipar dudas entre el electorado justo cuando inicia el silencio electoral (17 jun). La acción busca cerrar un frente de ataque en la recta final antes del 21-J.",
+      "resumen": "Iván Cepeda salió al paso de los rumores sobre una presunta grave enfermedad que circularon en redes sociales en los días previos a la segunda vuelta. El candidato del Pacto Histórico publicó un certificado médico que avala su buen estado de salud, buscando disipar dudas entre el electorado justo cuando inicia el silencio electoral (17 jun).",
       "objetividad": 88,
       "criterios": [
         {
@@ -195,38 +259,6 @@
       "url_label": "El Tiempo – Cepeda desmiente grave enfermedad y publica certificado médico"
     },
     {
-      "filter": "espriella",
-      "fuente": "El Tiempo",
-      "fuente_color": "#2980b9",
-      "fecha": "17 jun 2026",
-      "tag": "Segunda Vuelta · Exterior",
-      "tag_color": "#2980b9",
-      "tag_bg": "rgba(41,128,185,0.15)",
-      "titulo": "Elecciones en el exterior transcurren con normalidad antes de la segunda vuelta del 21-J",
-      "resumen": "El voto de los colombianos residentes en el exterior (15-21 jun) transcurre con normalidad, según reportes de la Registraduría. Colombia entra hoy 17 jun en silencio electoral, que regirá hasta la jornada del 21-J entre Abelardo de la Espriella e Iván Cepeda. Quedan 4 días para que el país defina su próximo presidente.",
-      "objetividad": 95,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Confirmado por El Tiempo — sin incidentes reportados en el exterior (17 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Voto en exterior abre el 15 jun, cierra el 21 jun — proceso constitucional normal"
-        },
-        {
-          "ok": true,
-          "texto": "Silencio electoral inicia hoy 17 jun hasta después del 21-J"
-        },
-        {
-          "ok": false,
-          "texto": "Cifras de participación en exterior no disponibles en tiempo real"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-transcurren-con-normalidad-las-elecciones-en-el-exterior-antes-de-la-segunda-vuelta-del-21-de-junio-3564470",
-      "url_label": "El Tiempo – Elecciones en el exterior transcurren con normalidad antes del 21-J"
-    },
-    {
       "filter": "cepeda",
       "fuente": "El Tiempo / Infobae",
       "fuente_color": "#27ae60",
@@ -235,7 +267,7 @@
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
       "titulo": "Cepeda cerró campaña en Soledad, Atlántico — último día de campaña pública antes del silencio electoral",
-      "resumen": "Iván Cepeda realizó su acto final de campaña en Soledad, Atlántico, el 16 de junio — último día permitido para campaña pública antes del silencio electoral activo desde el 17 jun. Apostando por la base electoral del Caribe colombiano, Cepeda buscó movilizar el voto costeño en una región estratégica. A 5 días de la elección, las encuestas mainstream (Guarumo: 45%, AtlasIntel: 44,5%) lo ubican 7-8 puntos detrás de De la Espriella, aunque Celag Data mostró un empate técnico el 14 de junio.",
+      "resumen": "Iván Cepeda realizó su acto final de campaña en Soledad, Atlántico, el 16 de junio — último día permitido para campaña pública antes del silencio electoral activo desde el 17 jun. Apostando por la base electoral del Caribe colombiano, Cepeda buscó movilizar el voto costeño en una región estratégica. A 5 días de la elección, las encuestas mainstream (Guarumo: 45%, AtlasIntel: 44,5%) lo ubican 7-8 puntos detrás de De la Espriella.",
       "objetividad": 90,
       "criterios": [
         {
@@ -267,7 +299,7 @@
       "tag_color": "#c0392b",
       "tag_bg": "rgba(192,57,43,0.15)",
       "titulo": "De la Espriella denuncia presión armada sobre votantes en Nariño y Cauca en la recta final",
-      "resumen": "Durante su cierre de campaña en Buga (14-15 jun), Abelardo de la Espriella denunció la existencia de presión armada sobre votantes en los departamentos de Nariño y Cauca, vinculando esos actos de coerción electoral a un apoyo que calificó de 'atípico' hacia su rival Iván Cepeda. La denuncia escala la tensión entre los dos candidatos a 5 días del 21-J y genera preocupación entre organismos electorales. La Registraduría no se pronunció formalmente al cierre de esta edición.",
+      "resumen": "Durante su cierre de campaña en Buga (14-15 jun), Abelardo de la Espriella denunció la existencia de presión armada sobre votantes en los departamentos de Nariño y Cauca, vinculando esos actos de coerción electoral a un apoyo que calificó de 'atípico' hacia su rival Iván Cepeda. La denuncia escala la tensión entre los dos candidatos a 5 días del 21-J y genera preocupación entre organismos electorales.",
       "objetividad": 78,
       "criterios": [
         {
@@ -289,38 +321,6 @@
       ],
       "url": "https://www.lanacion.com.ar/el-mundo/elecciones-en-colombia-2026-quienes-son-los-candidatos-en-el-balotaje-para-definir-al-proximo-nid15062026/",
       "url_label": "La Nación — De la Espriella denuncia presión armada en Nariño y Cauca"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Tiempo / Minuto a minuto",
-      "fuente_color": "#e67e22",
-      "fecha": "14 jun 2026",
-      "tag": "De la Espriella · Cierre campaña",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella cerró su campaña en la Basílica del Señor de los Milagros de Buga",
-      "resumen": "Abelardo de la Espriella celebró el 14 de junio su acto de cierre de campaña en la Basílica del Señor de los Milagros de Buga, Valle del Cauca, a 7 días de la segunda vuelta del 21 de junio. La elección de Buga —ciudad de profunda devoción religiosa y epicentro del Valle del Cauca— buscó consolidar votos en un departamento clave. De la Espriella llega al silencio electoral liderando todas las encuestas mainstream: Guarumo/Ecoanalítica 52,6% y AtlasIntel 52,2%.",
-      "objetividad": 93,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Cierre en Buga confirmado por El Tiempo minuto a minuto (13-14 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Liderazgo consolidado en encuestas mainstream previas a la veda"
-        },
-        {
-          "ok": true,
-          "texto": "Veda de encuestas activa — sin nuevas mediciones hasta el 21-J"
-        },
-        {
-          "ok": false,
-          "texto": "Debate presidencial sin confirmar — impasse por condición de incluir VP"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-colombia-2026-ultima-hora-de-la-segunda-vuelta-entre-abelardo-de-la-espriella-e-ivan-cepeda-este-21-de-junio-3564098",
-      "url_label": "El Tiempo – De la Espriella cerró campaña en Buga"
     },
     {
       "filter": "cepeda",
@@ -364,7 +364,7 @@
         "negativo": 25,
         "neutro": 15,
         "tendencia": "up",
-        "tendencia_texto": "18 jun: 3 DÍAS para el 21-J. SILENCIO ELECTORAL activo desde el 17 jun hasta el 21-J — sin actos de campaña. Cerró el 14 jun en la Basílica de Buga (Valle del Cauca). Denunció presión armada en Nariño y Cauca. ENCUESTAS FINALES (antes de veda): Guarumo/Ecoanalítica 52,6% vs Cepeda 45% (13 jun). AtlasIntel 52,2% vs 44,5% (5-10 jun). CNC 48,6% vs 44,7% (15 jun, publicado durante veda). CONDOR promedio: +7,0 pts. ALIANZAS: Uribe+Valencia+CD+Conservadores+Liberales+Vargas Lleras. VOTO EN EXTERIOR en curso (15-21 jun). Rechazo ciudadano: 46,6% vs Cepeda 51,7%."
+        "tendencia_texto": "19 jun: 2 DÍAS para el 21-J. SILENCIO ELECTORAL activo. EEUU emitió alerta para sus ciudadanos en Colombia por posibles protestas en torno a la jornada electoral. Cerró el 14 jun en la Basílica de Buga (Valle del Cauca). Denunció presión armada en Nariño y Cauca. ENCUESTAS FINALES (antes de veda): Guarumo/Ecoanalítica 52,6% vs Cepeda 45% (13 jun). AtlasIntel 52,2% vs 44,5% (5-10 jun). CNC 48,6% vs 44,7% (15 jun). CONDOR promedio: +7,0 pts. ALIANZAS: Uribe+Valencia+CD+Conservadores+Liberales+Vargas Lleras. VOTO EN EXTERIOR en curso (15-21 jun). Rechazo ciudadano: 46,6% vs Cepeda 51,7%."
       },
       {
         "nombre": "Cepeda",
@@ -373,7 +373,7 @@
         "negativo": 47,
         "neutro": 18,
         "tendencia": "up",
-        "tendencia_texto": "18 jun: 3 DÍAS para el 21-J. SILENCIO ELECTORAL activo. Ayer (17 jun) desmintió rumores de grave enfermedad — publicó certificado médico. Cerró el 16 jun en Soledad, Atlántico. Petro no ha reconocido resultados de 1ra vuelta — Cepeda sí los aceptó. ENCUESTAS: Guarumo 45% vs 52,6% De la Espriella (−7,6 pts). AtlasIntel: 44,5% vs 52,2%. CNC (15 jun): 44,7% vs De la Espriella 48,6%. CELAG DATA (14 jun): 40,8% vs De la Espriella 39,7% — empate técnico. VOTO EN EXTERIOR en curso. Rechazo ciudadano: 51,7% vs De la Espriella 46,6%."
+        "tendencia_texto": "19 jun: 2 DÍAS para el 21-J. SILENCIO ELECTORAL activo. Transparencia por Colombia y 50+ organizaciones exigen reconocer los resultados del 21-J. Petro no ha reconocido resultados de 1ra vuelta — Cepeda sí los aceptó. ENCUESTAS: Guarumo 45% vs 52,6% De la Espriella (−7,6 pts). AtlasIntel: 44,5% vs 52,2%. CNC (15 jun): 44,7% vs De la Espriella 48,6%. CELAG DATA (14 jun): 40,8% vs De la Espriella 39,7% — empate técnico. VOTO EN EXTERIOR en curso. Rechazo ciudadano: 51,7% vs De la Espriella 46,6%."
       },
       {
         "nombre": "Valencia",
@@ -382,7 +382,7 @@
         "negativo": 40,
         "neutro": 20,
         "tendencia": "neutral",
-        "tendencia_texto": "Fuera de la carrera (6,92% — 1,64M votos, 1ra vuelta). 18 jun: 3 DÍAS para el 21-J. SILENCIO ELECTORAL activo. Apoyo oficial a De la Espriella (anunciado 1 jun). Se reunió con Álvaro Uribe el 12 jun para coordinar maquinaria del CD. Según encuestas, 76,4% de sus votantes migrarían a De la Espriella en segunda vuelta."
+        "tendencia_texto": "Fuera de la carrera (6,92% — 1,64M votos, 1ra vuelta). 19 jun: 2 DÍAS para el 21-J. SILENCIO ELECTORAL activo. Apoyo oficial a De la Espriella (anunciado 1 jun). Se reunió con Álvaro Uribe el 12 jun para coordinar maquinaria del CD. Según encuestas, 76,4% de sus votantes migrarían a De la Espriella en segunda vuelta."
       }
     ]
   },
@@ -408,7 +408,7 @@
       "pct": 40.91,
       "fuente_encuesta": "CNE — escrutinio oficial 1ra vuelta (4 jun 2026)"
     },
-    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026 (3 días). SILENCIO ELECTORAL activo desde el 17 jun hasta el 21-J — campaña pública cerrada. 18 jun: Petro mantiene narrativa de fraude sin reconocer resultados de 1ra vuelta — Cepeda los aceptó formalmente. Cepeda desmintió ayer (17 jun) rumores de grave enfermedad y publicó certificado médico. De la Espriella cerró el 14 jun en Buga; Cepeda cerró el 16 jun en Soledad, Atlántico. ENCUESTA FINAL mainstream Guarumo/Ecoanalítica (13 jun): De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). CNC (15 jun, veda): 48,6% vs 44,7% (+3,9 pts). CELAG DATA (14 jun): empate técnico Cepeda 40,8% vs De la Espriella 39,7% — divergencia metodológica. ALIANZAS: Valencia + Uribe + CD + Conservadores + Liberales + Vargas Lleras → De la Espriella. Trump (apoyo internacional). Timochenko/Comunes + Barreras → Cepeda. Fajardo → voto en blanco. Colombia Renaciente rechazado por De la Espriella. Petro no respalda públicamente a Cepeda. VOTACIÓN EN EXTERIOR: 15-21 jun."
+    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026 (2 días). SILENCIO ELECTORAL activo desde el 17 jun hasta el 21-J. 19 jun: EEUU emitió alerta para sus ciudadanos ante posibles protestas — ley seca y cierre de fronteras desde hoy 6 p.m. Transparencia por Colombia y 50+ organizaciones exigen reconocer los resultados del 21-J. Petro mantiene narrativa de fraude sin reconocer 1ra vuelta — Cepeda los aceptó formalmente. De la Espriella cerró el 14 jun en Buga; Cepeda cerró el 16 jun en Soledad, Atlántico. ENCUESTA FINAL mainstream Guarumo/Ecoanalítica (13 jun): De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). CNC (15 jun, veda): 48,6% vs 44,7% (+3,9 pts). CELAG DATA (14 jun): empate técnico Cepeda 40,8% vs De la Espriella 39,7% — divergencia metodológica. ALIANZAS: Valencia + Uribe + CD + Conservadores + Liberales + Vargas Lleras → De la Espriella. Trump (apoyo internacional). Timochenko/Comunes + Barreras → Cepeda. Fajardo → voto en blanco. Petro no respalda públicamente a Cepeda. VOTACIÓN EN EXTERIOR: 15-21 jun."
   },
-  "ultimo_deploy": "2026-06-18T00:00:00Z"
+  "ultimo_deploy": "2026-06-19T00:00:00Z"
 }
