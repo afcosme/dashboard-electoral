@@ -1,5 +1,5 @@
 {
-  "fecha": "20 de junio de 2026",
+  "fecha": "21 de junio de 2026",
   "modo": "segunda_vuelta",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,259 +100,163 @@
   "noticias": [
     {
       "filter": "espriella",
-      "fuente": "La FM / La Opinión",
-      "fuente_color": "#c0392b",
-      "fecha": "20 jun 2026",
-      "tag": "21-J MAÑANA · Ley seca",
+      "fuente": "Infobae / Semana",
+      "fuente_color": "#e67e22",
+      "fecha": "21 jun 2026",
+      "tag": "2ª VUELTA · DÍA ELECTORAL",
       "tag_color": "#c0392b",
       "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "Ley seca y cierre de fronteras vigentes desde esta tarde: Colombia entra en modo electoral",
-      "resumen": "A horas de la segunda vuelta del 21-J, entran en vigor las medidas de orden público. Desde las 6 p.m. de hoy 20 de junio (Decreto 0612): ley seca hasta el lunes 22 jun al mediodía, cierre de fronteras terrestres y fluviales hasta las 6 a.m. del 22 jun. Votación mañana 21 jun de 8 a.m. a 4 p.m. para 41+ millones de habilitados. Transporte público al 100 % de capacidad, obligatorio por decreto. Silencio electoral activo. Propaganda, mítines y publicidad política prohibidos hasta el cierre de urnas.",
-      "objetividad": 95,
+      "titulo": "Colombia vota en segunda vuelta: De la Espriella vs. Cepeda deciden al sucesor de Petro",
+      "resumen": "Los colombianos acudieron hoy a las urnas en la segunda vuelta presidencial entre Abelardo de la Espriella (Defensores de la Patria) e Iván Cepeda (Pacto Histórico). 41+ millones de ciudadanos habilitados votaron de 8 a.m. a 4 p.m. La jornada transcurrió con normalidad y fuerte participación en la mayor parte del país, en medio de medidas de orden público: ley seca activa y fronteras cerradas desde el 20 jun. En primera vuelta De la Espriella obtuvo 43,74% y Cepeda 40,91%.",
+      "objetividad": 98,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Decreto 0612 del 16 jun — cierre de fronteras verificado por múltiples fuentes"
-        },
-        {
-          "ok": true,
-          "texto": "Ley seca desde 6 p.m. hoy 20 jun hasta 12 m. lunes 22 jun — confirmado Bogotá, Medellín y Cali"
-        },
-        {
-          "ok": true,
-          "texto": "Votación 21 jun: 8 a.m. – 4 p.m., 41+ millones de habilitados (Registraduría)"
-        },
-        {
-          "ok": true,
-          "texto": "Transporte al 100 % de capacidad — medida ordenada por el Gobierno Nacional"
-        }
+        {"ok": true, "texto": "Jornada electoral del 21-J confirmada: urnas 8 a.m. – 4 p.m., 41+ millones habilitados"},
+        {"ok": true, "texto": "Ley seca y cierre de fronteras activos desde el 20 jun (Decreto 0612)"},
+        {"ok": true, "texto": "Resultado de primera vuelta (CNE escrutinio oficial): De la Espriella 43,74% — Cepeda 40,91%"},
+        {"ok": false, "texto": "Cifras de participación final aún no publicadas al cierre de edición"}
       ],
-      "url": "https://www.lafm.com.co/actualidad/ley-seca-colombia-elecciones-segunda-vuelta-colombia-21-junio-horario-fechas-402516",
-      "url_label": "La FM – Ley seca y cierre de fronteras: medidas para la segunda vuelta del 21-J"
+      "url": "https://www.infobae.com/colombia/2026/06/21/ivan-cepeda-elecciones-2026-en-vivo-apertura-de-mesas-y-reporte-de-orden-publico-en-colombia/",
+      "url_label": "Infobae – Elecciones 2026 EN VIVO: segunda vuelta presidencial, 21 de junio"
     },
     {
       "filter": "espriella",
-      "fuente": "El Tiempo",
-      "fuente_color": "#e67e22",
-      "fecha": "20 jun 2026",
-      "tag": "CNE · Candidatura",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "CNE ratifica candidatura de De la Espriella a un día del 21-J, tras denuncia de inhabilidad por doble ciudadanía",
-      "resumen": "El Consejo Nacional Electoral (CNE) ratificó la candidatura de Abelardo de la Espriella para la segunda vuelta del 21 de junio, cerrando la controversia jurídica generada por una denuncia de presunta inhabilidad por doble ciudadanía interpuesta en la recta final de campaña. La decisión del CNE despeja la última disputa institucional antes de la jornada, cuyas urnas abren mañana de 8 a.m. a 4 p.m.",
-      "objetividad": 88,
+      "fuente": "Semana",
+      "fuente_color": "#27ae60",
+      "fecha": "21 jun 2026",
+      "tag": "RESULTADO · Preconteo 21-J",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Preconteo del 21-J apunta a victoria de De la Espriella — Cepeda y Petro no reconocen resultados: tormenta política",
+      "resumen": "Tras el cierre de urnas de la segunda vuelta, el preconteo apunta a victoria de Abelardo de la Espriella según Semana. Sin embargo, el candidato Iván Cepeda y el presidente Gustavo Petro no reconocieron los resultados preliminares, repitiendo el patrón del 31 de mayo. La negativa desató una 'tormenta política' y abrió el debate institucional sobre qué pasa si el gobierno saliente rechaza los resultados. El escrutinio formal continuará en los próximos días.",
+      "objetividad": 85,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "CNE ratificó candidatura — confirmado por El Tiempo en la recta final de campaña"
-        },
-        {
-          "ok": true,
-          "texto": "Denuncia de doble ciudadanía fue formal pero no prosperó ante el CNE"
-        },
-        {
-          "ok": false,
-          "texto": "Fundamentos jurídicos del fallo del CNE no detallados en los reportes disponibles"
-        },
-        {
-          "ok": false,
-          "texto": "Parte denunciante no identificada en los reportes públicos disponibles"
-        }
+        {"ok": true, "texto": "Titular de Semana confirma: 'Victoria de Abelardo de la Espriella y no reconocimiento de Cepeda y Petro desata tormenta política'"},
+        {"ok": true, "texto": "Patrón de no-reconocimiento de Petro/Cepeda documentado desde primera vuelta (31 may)"},
+        {"ok": false, "texto": "Porcentajes exactos del preconteo de 2da vuelta pendientes de publicación oficial"},
+        {"ok": false, "texto": "Escrutinio definitivo aún en curso — resultado preliminar, no vinculante"}
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-ultimas-noticias-de-la-segunda-vuelta-presidencial-entre-ivan-cepeda-y-abelardo-de-la-espriella-3565410",
-      "url_label": "El Tiempo – CNE ratifica candidatura de De la Espriella tras denuncias de inhabilidad"
+      "url": "https://www.semana.com/semana-tv/semana-el-debate/articulo/elecciones-2026-esperar-el-escrutinio-victoria-de-abelardo-de-la-espriella-y-no-reconocimiento-de-ivan-cepeda-y-gustavo-petro-desata-tormenta-politica/202608/",
+      "url_label": "Semana – Victoria de De la Espriella y no reconocimiento de Cepeda/Petro desata tormenta política"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Semana",
+      "fuente_color": "#c0392b",
+      "fecha": "21 jun 2026",
+      "tag": "CRISIS · No reconocimiento",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "'Se está alistando': alertaron en vivo lo que haría Petro si De la Espriella ganaba el 21-J",
+      "resumen": "En debate en vivo de Semana, analistas y congresistas alertaron sobre las posibles acciones del presidente Gustavo Petro ante la derrota de Iván Cepeda en la segunda vuelta. Petro ya había rechazado los resultados de la primera vuelta alegando 850.000 votantes irregulares — afirmación descartada por Registraduría, MOE, OEA y UE. La crisis de no-reconocimiento agrava la tensión institucional en los últimos días del gobierno.",
+      "objetividad": 82,
+      "criterios": [
+        {"ok": true, "texto": "Debate Semana TV sobre posibles acciones de Petro — confirmado por titulares del 21-J"},
+        {"ok": true, "texto": "No-reconocimiento de primera vuelta por Petro documentado (Infobae, 1 jun 2026)"},
+        {"ok": false, "texto": "Acciones concretas de Petro post-21J no confirmadas al cierre de edición"},
+        {"ok": false, "texto": "Fuente de la frase 'Se está alistando' no atribuida nominalmente"}
+      ],
+      "url": "https://www.semana.com/semana-tv/semana-el-debate/articulo/advierten-en-vivo-lo-que-haria-petro-si-abelardo-de-la-espriella-le-gana-a-ivan-cepeda-en-segunda-vuelta-se-esta-alistando/202649/",
+      "url_label": "Semana – Advierten lo que haría Petro si De la Espriella ganaba la segunda vuelta"
     },
     {
       "filter": "cepeda",
       "fuente": "El Tiempo",
       "fuente_color": "#2980b9",
-      "fecha": "19 jun 2026",
-      "tag": "Institucional · 50 org.",
+      "fecha": "21 jun 2026",
+      "tag": "Santos · Instituciones",
       "tag_color": "#2980b9",
       "tag_bg": "rgba(41,128,185,0.15)",
-      "titulo": "Transparencia por Colombia y más de 50 organizaciones exigen a los candidatos reconocer resultados del 21-J",
-      "resumen": "A 2 días de la segunda vuelta, Transparencia por Colombia junto a más de 50 organizaciones civiles hicieron un llamado formal a ambos candidatos — Abelardo de la Espriella e Iván Cepeda — a comprometerse a reconocer los resultados electorales del 21 de junio, en medio de la preocupación generada por la narrativa de fraude que mantiene el presidente Petro. MOE, UE y OEA ya habían refutado las denuncias de irregularidades en la primera vuelta.",
+      "titulo": "Santos el día del 21-J: 'No apoyo ninguna candidatura' — llama a respetar instituciones y resultados",
+      "resumen": "El expresidente Juan Manuel Santos se pronunció el mismo 21 de junio: no apoya ninguna candidatura y hace un llamado a respetar las instituciones y los resultados electorales. Su postura contrasta con el no-reconocimiento que mantiene el presidente Petro desde la primera vuelta. Santos fue el único exmandatario vivo que no tomó partido público por ninguno de los dos finalistas durante la segunda vuelta.",
       "objetividad": 92,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Llamado de Transparencia por Colombia y 50+ org. confirmado por El Tiempo (19 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Contexto: Petro mantiene narrativa de fraude sin reconocer 1ra vuelta — Cepeda sí la aceptó"
-        },
-        {
-          "ok": true,
-          "texto": "MOE, OEA y UE ya refutaron formalmente las denuncias de irregularidades"
-        },
-        {
-          "ok": false,
-          "texto": "Respuesta formal de los candidatos al llamado no publicada al cierre de esta edición"
-        }
+        {"ok": true, "texto": "Declaración de Santos confirmada por El Tiempo en el día del 21-J"},
+        {"ok": true, "texto": "Santos no respaldó ninguna candidatura durante toda la segunda vuelta — hecho documentado"},
+        {"ok": false, "texto": "Texto exacto de la declaración no transcrito en fuentes disponibles"},
+        {"ok": false, "texto": "Posible reunión de Santos con algún candidato no confirmada ni descartada"}
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-anuncios-de-los-candidatos-y-noticias-antes-de-la-segunda-vuelta-del-proximo-domingo-21-de-junio-3564787",
-      "url_label": "El Tiempo – Transparencia por Colombia y 50 org. piden reconocer resultados del 21-J"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "El Tiempo",
-      "fuente_color": "#c0392b",
-      "fecha": "19 jun 2026",
-      "tag": "21-J · Alerta EEUU",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "EEUU emite alerta para sus ciudadanos en Colombia ante riesgo de protestas y violencia el 21-J",
-      "resumen": "A dos días de la segunda vuelta, el Departamento de Estado de EEUU emitió una alerta oficial para sus ciudadanos en Colombia advirtiendo que 'es posible que se produzcan protestas y actos de violencia relacionados con la votación y posteriores a ella'. La alerta señala cierre de fronteras, ley seca y despliegues policiales que pueden generar interrupciones en los desplazamientos. SILENCIO ELECTORAL activo desde el 17 jun.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Alerta oficial del Departamento de Estado de EEUU — confirmada por El Tiempo (19 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Ley seca y medidas electorales verificadas: 6 p.m. viernes 19 jun al 6 p.m. lunes 22 jun"
-        },
-        {
-          "ok": true,
-          "texto": "Silencio electoral activo desde el 17 jun hasta después del 21-J"
-        },
-        {
-          "ok": false,
-          "texto": "Nivel específico de riesgo no detallado — alerta preventiva estándar para jornadas electorales"
-        }
-      ],
-      "url": "https://www.eltiempo.com/amp/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-todo-sobre-la-segunda-vuelta-presidencial-que-definira-al-proximo-presidente-3565112",
-      "url_label": "El Tiempo – EEUU emite alerta para sus ciudadanos ante posibles protestas el 21-J"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "El Tiempo",
-      "fuente_color": "#c0392b",
-      "fecha": "18 jun 2026",
-      "tag": "Petro · Narrativa fraude",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "Llaman a respetar el 21-J ante el silencio de Petro: no ha reconocido los resultados de primera vuelta",
-      "resumen": "A 3 días de la segunda vuelta del 21-J, crece la alarma institucional porque el presidente Gustavo Petro sigue sin reconocer los resultados del 31 de mayo, pese a que su candidato Iván Cepeda los aceptó oficialmente una semana después. Petro alega 850 mil votantes irregulares en el censo; la Registraduría, la MOE, la OEA y la UE refutaron formalmente esas denuncias.",
-      "objetividad": 85,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Confirmado por El Tiempo: Petro mantiene narrativa de fraude y no reconoce 1ra vuelta"
-        },
-        {
-          "ok": true,
-          "texto": "Registraduría, MOE, OEA y UE refutaron las denuncias de irregularidades de Petro"
-        },
-        {
-          "ok": true,
-          "texto": "Cepeda sí reconoció resultados una semana después de la elección — distancia documentada"
-        },
-        {
-          "ok": false,
-          "texto": "Impacto real en intención de voto para el 21-J no medible (veda de encuestas activa)"
-        }
-      ],
-      "url": "https://www.eltiempo.com/amp/politica/elecciones-colombia-2026/llaman-a-respetar-los-resultados-del-proximo-21-de-junio-ante-el-silencio-del-presidente-gustavo-petro-de-reconocer-los-de-primera-vuelta-3564186",
-      "url_label": "El Tiempo – Llaman a respetar el 21-J ante el silencio de Petro"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-ultimas-noticias-de-la-segunda-vuelta-presidencial-entre-ivan-cepeda-y-abelardo-de-la-espriella-3565410",
+      "url_label": "El Tiempo – Santos: 'No apoyo ninguna candidatura' y llama a respetar instituciones"
     },
     {
       "filter": "espriella",
-      "fuente": "Infobae",
-      "fuente_color": "#8e44ad",
-      "fecha": "17 jun 2026",
-      "tag": "Alianzas · Segunda Vuelta",
-      "tag_color": "#8e44ad",
-      "tag_bg": "rgba(142,68,173,0.15)",
-      "titulo": "Mapa de alianzas para el 21-J: De la Espriella con derecha unida, Cepeda sin respaldo público de Petro",
-      "resumen": "Infobae publicó el mapa completo de alianzas consolidadas para la segunda vuelta. De la Espriella concentra el apoyo de Centro Democrático (Uribe/Valencia), Partido Conservador, caucus del Partido Liberal, Liga de Gobernantes Anticorrupción y la familia Vargas Lleras. Cepeda cuenta con Comunes (Timochenko) y Roy Barreras, pero el presidente Petro no ha dado respaldo público formal. Fajardo promueve el voto en blanco.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Mapa de alianzas confirmado por múltiples fuentes: El Tiempo, Infobae, Semana, La Nación AR"
-        },
-        {
-          "ok": true,
-          "texto": "Rechazo de Colombia Renaciente por De la Espriella verificado (El Heraldo, LaFM, 7 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Ausencia de respaldo público formal de Petro a Cepeda es un hecho documentado"
-        },
-        {
-          "ok": false,
-          "texto": "Peso real de cada alianza en votos efectivos no cuantificable durante silencio electoral"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/06/17/elecciones-en-colombia-2026-asi-se-repartieron-los-partidos-politicos-para-la-segunda-vuelta-entre-abelardo-de-la-espriella-e-ivan-cepeda/",
-      "url_label": "Infobae – Cómo quedó el mapa de alianzas para el 21-J"
-    },
-    {
-      "filter": "cepeda",
       "fuente": "El Tiempo",
       "fuente_color": "#27ae60",
-      "fecha": "17 jun 2026",
-      "tag": "Cepeda · Salud",
+      "fecha": "21 jun 2026",
+      "tag": "Auditoría · Legitimidad",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda desmiente grave enfermedad y publica certificado sobre su estado de salud a 4 días del 21-J",
-      "resumen": "Iván Cepeda salió al paso de los rumores sobre una presunta grave enfermedad que circularon en redes sociales en los días previos a la segunda vuelta. El candidato del Pacto Histórico publicó un certificado médico que avala su buen estado de salud, buscando disipar dudas entre el electorado justo cuando inicia el silencio electoral (17 jun).",
-      "objetividad": 88,
+      "titulo": "Auditoría internacional ratifica: no hubo manipulación ni irregularidades en primera vuelta — refuerza legitimidad del 21-J",
+      "resumen": "Una auditoría electoral internacional publicó sus conclusiones definitivas en el día de la segunda vuelta: no hubo manipulación ni irregularidades en la primera vuelta del 31 de mayo. El hallazgo cierra la puerta a las denuncias del presidente Petro y refuerza la legitimidad del proceso electoral. La Registraduría, MOE, OEA y UE ya habían refutado esas denuncias previamente; la auditoría ratifica el consenso internacional.",
+      "objetividad": 93,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Publicación certificado médico confirmada por El Tiempo (17 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Hoy inicia silencio electoral — último intento de aclarar rumores ante el electorado"
-        },
-        {
-          "ok": false,
-          "texto": "Origen de los rumores no identificado — posible campaña de desinformación"
-        },
-        {
-          "ok": false,
-          "texto": "Sin detalles clínicos publicados — solo aval de aptitud"
-        }
+        {"ok": true, "texto": "Conclusión de auditoría internacional confirmada por El Tiempo el día del 21-J"},
+        {"ok": true, "texto": "MOE, OEA y UE ya habían refutado las denuncias de Petro — consistente con este hallazgo"},
+        {"ok": false, "texto": "Nombre de la organización auditora no identificado en fuentes disponibles"},
+        {"ok": false, "texto": "Metodología detallada de la auditoría no publicada en los reportes"}
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-transcurren-con-normalidad-las-elecciones-en-el-exterior-antes-de-la-segunda-vuelta-del-21-de-junio-3564470",
-      "url_label": "El Tiempo – Cepeda desmiente grave enfermedad y publica certificado médico"
+      "url": "https://www.eltiempo.com/amp/politica/elecciones-colombia-2026/elecciones-colombia-2026-siga-la-jornada-de-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-para-este-proximo-domingo-21-de-junio-3565703",
+      "url_label": "El Tiempo – Auditoría internacional: no hubo manipulación en primera vuelta"
     },
     {
-      "filter": "cepeda",
-      "fuente": "El Tiempo / Infobae",
-      "fuente_color": "#27ae60",
-      "fecha": "16 jun 2026",
-      "tag": "Cepeda · Cierre final",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda cerró campaña en Soledad, Atlántico — último día de campaña pública antes del silencio electoral",
-      "resumen": "Iván Cepeda realizó su acto final de campaña en Soledad, Atlántico, el 16 de junio — último día permitido para campaña pública antes del silencio electoral activo desde el 17 jun. Apostando por la base electoral del Caribe colombiano, Cepeda buscó movilizar el voto costeño en una región estratégica. A 5 días de la elección, las encuestas mainstream (Guarumo: 45%, AtlasIntel: 44,5%) lo ubican 7-8 puntos detrás de De la Espriella.",
-      "objetividad": 90,
+      "filter": "espriella",
+      "fuente": "Semana",
+      "fuente_color": "#e67e22",
+      "fecha": "21 jun 2026",
+      "tag": "Espriella · Cierre final",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella a pocas horas del 21-J: 'No podemos pecar por exceso de confianza — hoy Colombia cambia su historia'",
+      "resumen": "En entrevista con Vicky Dávila en Semana horas antes de la apertura de urnas, Abelardo de la Espriella llamó a sus seguidores a movilizarse sin exceso de confianza pese a las encuestas favorables. Lanzó un 'contundente mensaje al petrismo' sobre la legitimidad del proceso electoral como única vía para el cambio. Las encuestas finales antes de la veda lo situaban con 52,6% frente a 45% de Cepeda (Guarumo, 13 jun).",
+      "objetividad": 92,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Cierre en Soledad, Atlántico confirmado por cobertura en tiempo real (16 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "16 jun es el último día legal de campaña pública antes del silencio electoral"
-        },
-        {
-          "ok": true,
-          "texto": "Costa Caribe estratégica — voto costeño puede ser decisivo en segunda vuelta"
-        },
-        {
-          "ok": false,
-          "texto": "Sin encuestas nuevas disponibles — veda activa desde el 13 jun"
-        }
+        {"ok": true, "texto": "Entrevista con Vicky Dávila en Semana confirmada — publicada el mismo día 21-J"},
+        {"ok": true, "texto": "Cifras de encuesta Guarumo (13 jun): 52,6% vs Cepeda 45% — verificadas"},
+        {"ok": false, "texto": "Texto exacto de 'mensaje al petrismo' no transcrito en titulares disponibles"},
+        {"ok": false, "texto": "Participación final en urnas en el momento de la entrevista no conocida"}
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-colombia-2026-ultima-hora-de-la-segunda-vuelta-entre-abelardo-de-la-espriella-e-ivan-cepeda-este-21de-junio-3564098",
-      "url_label": "El Tiempo – Cepeda cerró campaña en Soledad, Atlántico"
+      "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-habla-con-vicky-davila-a-horas-de-la-segunda-vuelta-no-podemos-pecar-por-exceso-de-confianza/202644/",
+      "url_label": "Semana – De la Espriella: 'No podemos pecar por exceso de confianza' a horas del 21-J"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Semana",
+      "fuente_color": "#c0392b",
+      "fecha": "21 jun 2026",
+      "tag": "Espriella · Seguridad",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella vs. Petro: 'La ofensiva armada en Magdalena y La Guajira es una pelea entre bandidos'",
+      "resumen": "En los días previos al 21-J, Abelardo de la Espriella arremetió contra el presidente Gustavo Petro por la ofensiva de grupos armados en Magdalena y La Guajira, acusándolo de incapacidad para garantizar el orden público. La frase 'es una pelea entre bandidos' se viralizó en redes. El tema de la seguridad y el narcoparamilitarismo fue un eje central del debate de segunda vuelta, con De la Espriella proponiendo mano dura e inteligencia artificial para el orden público.",
+      "objetividad": 85,
+      "criterios": [
+        {"ok": true, "texto": "Frase 'pelea entre bandidos' confirmada por Semana en reportaje reciente al 21-J"},
+        {"ok": true, "texto": "Ofensiva armada en Magdalena y La Guajira documentada por múltiples fuentes en jun 2026"},
+        {"ok": false, "texto": "Conexión causal directa entre Petro y la ofensiva armada no establecida judicialmente"},
+        {"ok": false, "texto": "Impacto en intención de voto no cuantificable con veda electoral activa"}
+      ],
+      "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-arremete-contra-petro-por-ofensiva-en-magdalena-y-la-guajira-es-una-pelea-entre-bandidos/202656/",
+      "url_label": "Semana – De la Espriella: ofensiva en Magdalena y La Guajira 'es una pelea entre bandidos'"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Semana",
+      "fuente_color": "#2980b9",
+      "fecha": "18 jun 2026",
+      "tag": "Espriella · Geopolítica",
+      "tag_color": "#2980b9",
+      "tag_bg": "rgba(41,128,185,0.15)",
+      "titulo": "De la Espriella a 3 días del 21-J envió mensaje a EEUU: 'Otro más a la lista' — giro geopolítico histórico",
+      "resumen": "A tres días de la segunda vuelta, Abelardo de la Espriella envió un mensaje geopolítico a Estados Unidos insinuando que Colombia sería 'otro más a la lista' de gobiernos aliados al círculo de Donald Trump en América Latina, junto a Argentina (Milei) y El Salvador (Bukele). El giro geopolítico anticiparía un cambio radical en las relaciones Colombia-EEUU y contrasta con la política exterior del gobierno Petro, que tuvo fricciones con Washington.",
+      "objetividad": 88,
+      "criterios": [
+        {"ok": true, "texto": "Mensaje de De la Espriella a EEUU confirmado por Semana (18 jun 2026)"},
+        {"ok": true, "texto": "Apoyo de Trump a De la Espriella anunciado el 2 jun — consistente con la narrativa geopolítica"},
+        {"ok": false, "texto": "Canal diplomático del mensaje no especificado en la fuente disponible"},
+        {"ok": false, "texto": "Reacción oficial de Washington a la declaración no publicada al cierre de edición"}
+      ],
+      "url": "https://www.semana.com/politica/articulo/a-tres-dias-de-la-segunda-vuelta-presidencial-abelardo-de-la-espriella-envio-mensaje-a-ee-uu-otro-mas-a-la-lista/202653/",
+      "url_label": "Semana – De la Espriella a EEUU: 'Otro más a la lista' a 3 días del 21-J"
     }
   ],
   "sentimiento": {
@@ -360,29 +264,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 62,
-        "negativo": 23,
+        "positivo": 67,
+        "negativo": 18,
         "neutro": 15,
         "tendencia": "up",
-        "tendencia_texto": "20 jun — VÍSPERA del 21-J. LEY SECA activa desde 6 p.m. hoy. CIERRE DE FRONTERAS (Decreto 0612) desde 6 p.m. hoy hasta 6 a.m. del 22 jun. CNE ratificó su candidatura cerrando controversia de doble ciudadanía. ENCUESTAS FINALES (antes de veda 13-15 jun): Guarumo/Ecoanalítica 52,6 % vs Cepeda 45 % (+7,6 pts). AtlasIntel 52,2 % vs 44,5 % (+7,7 pts). CNC 48,6 % vs 44,7 % (+3,9 pts). CONDOR promedio: +7,0 pts. ALIANZAS: Uribe + Valencia + CD + Conservadores + Liberales + Vargas Lleras. Trump (apoyo internacional). Rechazo ciudadano: 46,6 % vs Cepeda 51,7 %. Urnas abren mañana 8 a.m. – 4 p.m."
+        "tendencia_texto": "21 jun — DÍA DE LA SEGUNDA VUELTA. PRECONTEO: Semana confirma victoria de De la Espriella. Cepeda y Petro no reconocen resultados — tormenta política en curso. AUDITORÍA INTERNACIONAL ratificó limpieza de primera vuelta. ALIANZAS: Uribe + Valencia + CD + Trump + Conservadores + Liberales. Santos no apoyó a ningún candidato. ENCUESTA FINAL (Guarumo 13 jun): 52,6% vs Cepeda 45%. Escrutinio oficial en curso. El ganador asumirá el 7 de agosto."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 33,
-        "negativo": 49,
+        "positivo": 28,
+        "negativo": 54,
         "neutro": 18,
-        "tendencia": "up",
-        "tendencia_texto": "20 jun — VÍSPERA del 21-J. LEY SECA activa desde 6 p.m. hoy. Transparencia por Colombia y 50+ organizaciones exigieron reconocer resultados del 21-J. Petro no ha reconocido los de la 1ra vuelta — Cepeda sí los aceptó. ENCUESTAS: Guarumo 45 % vs 52,6 % De la Espriella (−7,6 pts). AtlasIntel: 44,5 %. CNC (15 jun): 44,7 %. CELAG DATA (14 jun, veda): empate técnico 40,8 % vs 39,7 % (divergencia metodológica). Rechazo ciudadano: 51,7 % vs De la Espriella 46,6 %. Urnas abren mañana 8 a.m. – 4 p.m."
+        "tendencia": "down",
+        "tendencia_texto": "21 jun — DÍA DE LA SEGUNDA VUELTA. Pierde según preconteo del 21-J (Semana). Cepeda y Petro no reconocen resultados — crisis institucional. Rechazo ciudadano: 51,7% (AtlasIntel). Petro no respaldó públicamente a Cepeda durante la segunda vuelta. CELAG DATA (14 jun): empate técnico 40,8% vs De la Espriella 39,7% (metodología divergente). ENCUESTA FINAL (Guarumo 13 jun): 45% vs De la Espriella 52,6%."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 40,
-        "negativo": 40,
+        "positivo": 42,
+        "negativo": 38,
         "neutro": 20,
         "tendencia": "neutral",
-        "tendencia_texto": "Fuera de la carrera (6,92 % — 1,64 M votos, 1ra vuelta). 20 jun — VÍSPERA del 21-J. Apoyo oficial a De la Espriella (anunciado 1 jun). Se reunió con Álvaro Uribe el 12 jun para coordinar maquinaria del CD. Según encuestas, 76,4 % de sus votantes migrarían a De la Espriella en segunda vuelta."
+        "tendencia_texto": "21 jun — Fuera de la carrera (6,92% — 1,64 M votos en primera vuelta). Maquinaria del Centro Democrático activa hoy apoyando De la Espriella. Coordinó con Uribe el 12 jun. Según encuestas, 76,4% de sus votantes migrarían a De la Espriella en segunda vuelta. Sin actividad pública propia durante el silencio electoral (desde 17 jun)."
       }
     ]
   },
@@ -391,7 +295,7 @@
     "cepeda": 45.0,
     "fuente": "Guarumo/Ecoanalítica — 2da vuelta, encuesta final, 13 jun 2026",
     "tipo": "segunda_vuelta",
-    "nota": "ÚLTIMAS ENCUESTAS ANTES DE VEDA: Guarumo/Ecoanalítica (13 jun): De la Espriella 52,6 % vs Cepeda 45 % (+7,6 pts). AtlasIntel (5-10 jun, n=3.681, ±2 %): 52,2 % vs 44,5 % (+7,7 pts). CNC / Centro Nacional de Consultoría (15 jun, publicado durante veda): De la Espriella 48,6 % vs Cepeda 44,7 % (+3,9 pts). CELAG DATA (14 jun, Infobae): empate técnico — Cepeda 40,8 % vs De la Espriella 39,7 % (divergencia metodológica; incluye indecisos). CB Global Data (1-4 jun): 49,6 % vs 43,3 %. CONDOR promedio: De la Espriella +7,0 pts. VEDA ELECTORAL activa desde el 13 jun — sin nuevas mediciones hasta después del 21-J. RECHAZO: Cepeda 51,7 % vs De la Espriella 46,6 % (AtlasIntel). Aprobación Petro: 42,8 % (Guarumo, 13 jun). VOTO EN EXTERIOR: 15-21 jun."
+    "nota": "ÚLTIMAS ENCUESTAS ANTES DE VEDA: Guarumo/Ecoanalítica (13 jun): De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). AtlasIntel (5-10 jun, n=3.681, ±2%): 52,2% vs 44,5% (+7,7 pts). CNC / Centro Nacional de Consultoría (15 jun): De la Espriella 48,6% vs Cepeda 44,7% (+3,9 pts). CELAG DATA (14 jun, Infobae): empate técnico Cepeda 40,8% vs De la Espriella 39,7% (divergencia metodológica; incluye indecisos). CB Global Data (1-4 jun): 49,6% vs 43,3%. CONDOR promedio: De la Espriella +7,0 pts. VEDA ELECTORAL activa desde el 13 jun — sin nuevas mediciones publicables hasta después del 21-J. RECHAZO: Cepeda 51,7% vs De la Espriella 46,6% (AtlasIntel). RESULTADO: preconteo apunta a victoria de De la Espriella (Semana, 21 jun)."
   },
   "prediccion": {
     "primero": {
@@ -408,7 +312,7 @@
       "pct": 40.91,
       "fuente_encuesta": "CNE — escrutinio oficial 1ra vuelta (4 jun 2026)"
     },
-    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026 (MAÑANA). VÍSPERA ELECTORAL — 20 jun. LEY SECA activa desde 6 p.m. hoy; CIERRE DE FRONTERAS desde 6 p.m. (Decreto 0612) hasta 6 a.m. del 22 jun. CNE ratificó candidatura de De la Espriella cerrando controversia de doble ciudadanía. EEUU emitió alerta para sus ciudadanos ante posibles protestas. Transparencia por Colombia y 50+ organizaciones exigen reconocer resultados. Petro mantiene narrativa de fraude — Cepeda aceptó resultados. ENCUESTA FINAL mainstream Guarumo/Ecoanalítica (13 jun): De la Espriella 52,6 % vs Cepeda 45 % (+7,6 pts). CNC (15 jun): 48,6 % vs 44,7 % (+3,9 pts). CELAG DATA (14 jun): empate técnico Cepeda 40,8 % vs De la Espriella 39,7 %. ALIANZAS: Valencia + Uribe + CD + Conservadores + Liberales + Vargas Lleras + Trump → De la Espriella. Timochenko/Comunes + Barreras → Cepeda. Fajardo → voto en blanco. Petro no respaldó públicamente a Cepeda. VOTACIÓN: mañana 21 jun, 8 a.m. – 4 p.m., 41+ millones habilitados."
+    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026 (HOY). RESULTADO: preconteo apunta a VICTORIA DE ABELARDO DE LA ESPRIELLA (Semana, 21 jun). CRISIS INSTITUCIONAL: Cepeda y Petro no reconocen resultados preliminares — tormenta política. AUDITORÍA INTERNACIONAL ratificó que no hubo manipulación ni irregularidades en primera vuelta. Santos llamó a respetar instituciones sin apoyar candidato. ALIANZAS que apoyaron a De la Espriella: Valencia + Uribe + CD + Conservadores + Liberales + Vargas Lleras + Trump + Fenalco. Comunes + Barreras → Cepeda. Fajardo → voto en blanco. Petro no respaldó públicamente a Cepeda. ENCUESTA FINAL (Guarumo 13 jun): De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). CNC: +3,9 pts. AtlasIntel: +7,7 pts. Escrutinio oficial en curso. El ganador asume el 7 de agosto de 2026."
   },
-  "ultimo_deploy": "2026-06-20T00:00:00Z"
+  "ultimo_deploy": "2026-06-21T00:00:00Z"
 }
