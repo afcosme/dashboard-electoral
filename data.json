@@ -1,6 +1,6 @@
 {
-  "fecha": "21 de junio de 2026",
-  "modo": "segunda_vuelta",
+  "fecha": "22 de junio de 2026",
+  "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
     "cepeda": 40.91,
@@ -100,163 +100,259 @@
   "noticias": [
     {
       "filter": "espriella",
-      "fuente": "Infobae / Semana",
-      "fuente_color": "#e67e22",
-      "fecha": "21 jun 2026",
-      "tag": "2ª VUELTA · DÍA ELECTORAL",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "Colombia vota en segunda vuelta: De la Espriella vs. Cepeda deciden al sucesor de Petro",
-      "resumen": "Los colombianos acudieron hoy a las urnas en la segunda vuelta presidencial entre Abelardo de la Espriella (Defensores de la Patria) e Iván Cepeda (Pacto Histórico). 41+ millones de ciudadanos habilitados votaron de 8 a.m. a 4 p.m. La jornada transcurrió con normalidad y fuerte participación en la mayor parte del país, en medio de medidas de orden público: ley seca activa y fronteras cerradas desde el 20 jun. En primera vuelta De la Espriella obtuvo 43,74% y Cepeda 40,91%.",
-      "objetividad": 98,
-      "criterios": [
-        {"ok": true, "texto": "Jornada electoral del 21-J confirmada: urnas 8 a.m. – 4 p.m., 41+ millones habilitados"},
-        {"ok": true, "texto": "Ley seca y cierre de fronteras activos desde el 20 jun (Decreto 0612)"},
-        {"ok": true, "texto": "Resultado de primera vuelta (CNE escrutinio oficial): De la Espriella 43,74% — Cepeda 40,91%"},
-        {"ok": false, "texto": "Cifras de participación final aún no publicadas al cierre de edición"}
-      ],
-      "url": "https://www.infobae.com/colombia/2026/06/21/ivan-cepeda-elecciones-2026-en-vivo-apertura-de-mesas-y-reporte-de-orden-publico-en-colombia/",
-      "url_label": "Infobae – Elecciones 2026 EN VIVO: segunda vuelta presidencial, 21 de junio"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Semana",
+      "fuente": "El Tiempo / Semana",
       "fuente_color": "#27ae60",
       "fecha": "21 jun 2026",
-      "tag": "RESULTADO · Preconteo 21-J",
+      "tag": "RESULTADO · Presidente Electo",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Preconteo del 21-J apunta a victoria de De la Espriella — Cepeda y Petro no reconocen resultados: tormenta política",
-      "resumen": "Tras el cierre de urnas de la segunda vuelta, el preconteo apunta a victoria de Abelardo de la Espriella según Semana. Sin embargo, el candidato Iván Cepeda y el presidente Gustavo Petro no reconocieron los resultados preliminares, repitiendo el patrón del 31 de mayo. La negativa desató una 'tormenta política' y abrió el debate institucional sobre qué pasa si el gobierno saliente rechaza los resultados. El escrutinio formal continuará en los próximos días.",
-      "objetividad": 85,
+      "titulo": "Abelardo De la Espriella gana la segunda vuelta con 49,66% — será el nuevo presidente de Colombia",
+      "resumen": "Abelardo de la Espriella (Defensores de la Patria) derrotó a Iván Cepeda (Pacto Histórico) en la segunda vuelta del 21 de junio con 49,66% (12.959.515 votos) frente a 48,70% (12.708.695 votos), una diferencia de ~250.000 sufragios. El preconteo lo confirmó como presidente electo. Asumirá el 7 de agosto de 2026, sucediendo a Gustavo Petro. La jornada transcurrió con normalidad y fuerte participación.",
+      "objetividad": 97,
       "criterios": [
-        {"ok": true, "texto": "Titular de Semana confirma: 'Victoria de Abelardo de la Espriella y no reconocimiento de Cepeda y Petro desata tormenta política'"},
-        {"ok": true, "texto": "Patrón de no-reconocimiento de Petro/Cepeda documentado desde primera vuelta (31 may)"},
-        {"ok": false, "texto": "Porcentajes exactos del preconteo de 2da vuelta pendientes de publicación oficial"},
-        {"ok": false, "texto": "Escrutinio definitivo aún en curso — resultado preliminar, no vinculante"}
+        {
+          "ok": true,
+          "texto": "Resultado confirmado: De la Espriella 49,66% (12.959.515 v) vs Cepeda 48,70% (12.708.695 v)"
+        },
+        {
+          "ok": true,
+          "texto": "Diferencia de ~250.000 votos según preconteo (El Colombiano, Semana, La Nación)"
+        },
+        {
+          "ok": true,
+          "texto": "Posesión confirmada para el 7 de agosto de 2026"
+        },
+        {
+          "ok": false,
+          "texto": "Escrutinio oficial aún en curso — resultado vinculante pendiente"
+        }
       ],
-      "url": "https://www.semana.com/semana-tv/semana-el-debate/articulo/elecciones-2026-esperar-el-escrutinio-victoria-de-abelardo-de-la-espriella-y-no-reconocimiento-de-ivan-cepeda-y-gustavo-petro-desata-tormenta-politica/202608/",
-      "url_label": "Semana – Victoria de De la Espriella y no reconocimiento de Cepeda/Petro desata tormenta política"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-ultimas-noticias-apoyos-y-reacciones-a-la-segunda-vuelta-entre-abelardo-de-la-espriella-e-ivan-cepeda-3561681",
+      "url_label": "El Tiempo — Abelardo De la Espriella es el nuevo presidente electo de Colombia"
     },
     {
       "filter": "cepeda",
-      "fuente": "Semana",
+      "fuente": "El Espectador / Infobae",
       "fuente_color": "#c0392b",
       "fecha": "21 jun 2026",
       "tag": "CRISIS · No reconocimiento",
       "tag_color": "#c0392b",
       "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "'Se está alistando': alertaron en vivo lo que haría Petro si De la Espriella ganaba el 21-J",
-      "resumen": "En debate en vivo de Semana, analistas y congresistas alertaron sobre las posibles acciones del presidente Gustavo Petro ante la derrota de Iván Cepeda en la segunda vuelta. Petro ya había rechazado los resultados de la primera vuelta alegando 850.000 votantes irregulares — afirmación descartada por Registraduría, MOE, OEA y UE. La crisis de no-reconocimiento agrava la tensión institucional en los últimos días del gobierno.",
-      "objetividad": 82,
+      "titulo": "Cepeda no reconoce el preconteo e impugna 33.000 mesas — izquierda anuncia ir a escrutinios",
+      "resumen": "Tras conocerse los resultados preliminares, Iván Cepeda declaró que reconoce el preconteo 'como un dato aún no oficial ni vinculante' y anunció la impugnación de 33.000 mesas de votación. Congresistas del Pacto Histórico afirmaron: 'Iremos a los escrutinios para defender hasta el último voto', recordando que en 2022 recuperaron 500.000 votos en ese proceso. El escrutinio oficial continuará durante los próximos días.",
+      "objetividad": 94,
       "criterios": [
-        {"ok": true, "texto": "Debate Semana TV sobre posibles acciones de Petro — confirmado por titulares del 21-J"},
-        {"ok": true, "texto": "No-reconocimiento de primera vuelta por Petro documentado (Infobae, 1 jun 2026)"},
-        {"ok": false, "texto": "Acciones concretas de Petro post-21J no confirmadas al cierre de edición"},
-        {"ok": false, "texto": "Fuente de la frase 'Se está alistando' no atribuida nominalmente"}
+        {
+          "ok": true,
+          "texto": "Declaración de Cepeda confirmada: 'dato aún no oficial ni vinculante' (El Espectador, 21 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Impugnación de 33.000 mesas anunciada por el Pacto Histórico"
+        },
+        {
+          "ok": true,
+          "texto": "Referencia a recuperación de 500.000 votos en 2022 — hecho documentado"
+        },
+        {
+          "ok": false,
+          "texto": "Resultado del escrutinio oficial pendiente — aún no determinante"
+        }
       ],
-      "url": "https://www.semana.com/semana-tv/semana-el-debate/articulo/advierten-en-vivo-lo-que-haria-petro-si-abelardo-de-la-espriella-le-gana-a-ivan-cepeda-en-segunda-vuelta-se-esta-alistando/202649/",
-      "url_label": "Semana – Advierten lo que haría Petro si De la Espriella ganaba la segunda vuelta"
+      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/ivan-cepeda-segunda-vuelta-2026-resultados-discurso-e-impugnacion-de-mesas-en-la-sede-del-pacto-historico/?outputType=amp",
+      "url_label": "El Espectador — Cepeda: resultados, discurso e impugnación de mesas en sede del Pacto Histórico"
     },
     {
-      "filter": "cepeda",
-      "fuente": "El Tiempo",
+      "filter": "espriella",
+      "fuente": "El Colombiano",
+      "fuente_color": "#e67e22",
+      "fecha": "21 jun 2026",
+      "tag": "Espriella · Primer discurso",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella da su primer discurso como presidente electo desde Barranquilla",
+      "resumen": "Desde su ciudad natal Barranquilla, Abelardo de la Espriella se dirigió al país en su primer discurso como presidente electo: 'Con una gratitud infinita a Dios, comparezco ante ustedes para dar la noticia más importante: el pueblo colombiano me ha confiado para ser su próximo presidente'. También advirtió a sus rivales: 'Petro y Cepeda, absténganse de desatar un incendio social'. Celebró junto a miles de costeños su victoria.",
+      "objetividad": 95,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Discurso desde Barranquilla confirmado por El Colombiano (21 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Cita textual: 'gratitud infinita a Dios... pueblo colombiano me ha confiado'"
+        },
+        {
+          "ok": true,
+          "texto": "Advertencia a Petro y Cepeda confirmada por France 24 (21 jun)"
+        },
+        {
+          "ok": false,
+          "texto": "Transcripción completa del discurso no disponible en fuentes consultadas"
+        }
+      ],
+      "url": "https://www.elcolombiano.com/amp/colombia/discurso-abelardo-de-la-espriella-presidente-electo-colombia-IK38015481",
+      "url_label": "El Colombiano — De la Espriella da su primer discurso como presidente electo"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Semana",
       "fuente_color": "#2980b9",
       "fecha": "21 jun 2026",
-      "tag": "Santos · Instituciones",
+      "tag": "Reacciones · Políticos",
       "tag_color": "#2980b9",
       "tag_bg": "rgba(41,128,185,0.15)",
-      "titulo": "Santos el día del 21-J: 'No apoyo ninguna candidatura' — llama a respetar instituciones y resultados",
-      "resumen": "El expresidente Juan Manuel Santos se pronunció el mismo 21 de junio: no apoya ninguna candidatura y hace un llamado a respetar las instituciones y los resultados electorales. Su postura contrasta con el no-reconocimiento que mantiene el presidente Petro desde la primera vuelta. Santos fue el único exmandatario vivo que no tomó partido público por ninguno de los dos finalistas durante la segunda vuelta.",
-      "objetividad": 92,
+      "titulo": "Uribe, Duque, Char y el sector financiero felicitan a De la Espriella como nuevo presidente",
+      "resumen": "Las principales figuras del establecimiento político y económico celebraron la victoria de Abelardo de la Espriella. El expresidente Álvaro Uribe afirmó que De la Espriella 'tiene la capacidad de recuperar democráticamente al país'. Iván Duque felicitó al mandatario electo y a José Manuel Restrepo, nuevo vicepresidente. El alcalde de Barranquilla Alex Char declaró: 'Hoy ganó Colombia, ganó la democracia'. El sector financiero expresó su respaldo formal.",
+      "objetividad": 96,
       "criterios": [
-        {"ok": true, "texto": "Declaración de Santos confirmada por El Tiempo en el día del 21-J"},
-        {"ok": true, "texto": "Santos no respaldó ninguna candidatura durante toda la segunda vuelta — hecho documentado"},
-        {"ok": false, "texto": "Texto exacto de la declaración no transcrito en fuentes disponibles"},
-        {"ok": false, "texto": "Posible reunión de Santos con algún candidato no confirmada ni descartada"}
+        {
+          "ok": true,
+          "texto": "Declaraciones de Uribe, Duque y Char confirmadas por Semana y El País (21 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Respaldo del sector financiero confirmado (El País de Cali, 21 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Vicepresidente: José Manuel Restrepo — confirmado en múltiples fuentes"
+        },
+        {
+          "ok": false,
+          "texto": "Lista completa de figuras que felicitaron aún en consolidación"
+        }
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-ultimas-noticias-de-la-segunda-vuelta-presidencial-entre-ivan-cepeda-y-abelardo-de-la-espriella-3565410",
-      "url_label": "El Tiempo – Santos: 'No apoyo ninguna candidatura' y llama a respetar instituciones"
+      "url": "https://www.semana.com/nacion/articulo/asi-reaccionaron-las-figuras-politicas-al-triunfo-de-abelardo-de-la-espriella-nuevo-presidente-de-colombia-2026-al-2030/202602/",
+      "url_label": "Semana — Así reaccionaron las figuras políticas al triunfo de De la Espriella"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "France 24",
+      "fuente_color": "#c0392b",
+      "fecha": "21 jun 2026",
+      "tag": "Espriella · Advertencia",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella: 'Petro y Cepeda, absténganse de desatar un incendio social'",
+      "resumen": "Tras conocerse el preconteo, el presidente electo Abelardo de la Espriella lanzó una advertencia directa al gobierno saliente y al candidato Cepeda: 'Petro y Cepeda, absténganse de desatar un incendio social'. La advertencia anticipó las tensiones institucionales por el no-reconocimiento de resultados. El candidato ganador llamó a la unidad y al respeto de las instituciones democráticas ante la polarización electoral extrema.",
+      "objetividad": 93,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Frase confirmada por France 24 en cobertura en vivo del 21-J"
+        },
+        {
+          "ok": true,
+          "texto": "Contexto de no-reconocimiento de Petro/Cepeda documentado"
+        },
+        {
+          "ok": false,
+          "texto": "Respuesta oficial de Petro a esta advertencia no publicada al cierre de edición"
+        },
+        {
+          "ok": false,
+          "texto": "Canal exacto por el que se emitió la advertencia no especificado"
+        }
+      ],
+      "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260621-%F0%9F%94%B4-en-directo-colombia-elige-a-su-nuevo-presidente-en-un-balotaje-polarizado",
+      "url_label": "France 24 — En directo: Colombia elige su nuevo presidente en un balotaje polarizado"
     },
     {
       "filter": "espriella",
       "fuente": "El Tiempo",
       "fuente_color": "#27ae60",
-      "fecha": "21 jun 2026",
-      "tag": "Auditoría · Legitimidad",
+      "fecha": "22 jun 2026",
+      "tag": "Escrutinio · Resultado oficial",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Auditoría internacional ratifica: no hubo manipulación ni irregularidades en primera vuelta — refuerza legitimidad del 21-J",
-      "resumen": "Una auditoría electoral internacional publicó sus conclusiones definitivas en el día de la segunda vuelta: no hubo manipulación ni irregularidades en la primera vuelta del 31 de mayo. El hallazgo cierra la puerta a las denuncias del presidente Petro y refuerza la legitimidad del proceso electoral. La Registraduría, MOE, OEA y UE ya habían refutado esas denuncias previamente; la auditoría ratifica el consenso internacional.",
-      "objetividad": 93,
+      "titulo": "Escrutinio avanza tras triunfo de De la Espriella — resultado oficial esperado esta semana",
+      "resumen": "La Registraduría confirmó que el escrutinio oficial de la segunda vuelta avanza con normalidad tras el preconteo que dio como ganador a Abelardo de la Espriella. El resultado vinculante se espera antes del fin de esta semana. El proceso incluye la revisión de las 33.000 mesas impugnadas por el Pacto Histórico. Otros países ya se pronunciaron reconociendo la victoria del presidente electo.",
+      "objetividad": 95,
       "criterios": [
-        {"ok": true, "texto": "Conclusión de auditoría internacional confirmada por El Tiempo el día del 21-J"},
-        {"ok": true, "texto": "MOE, OEA y UE ya habían refutado las denuncias de Petro — consistente con este hallazgo"},
-        {"ok": false, "texto": "Nombre de la organización auditora no identificado en fuentes disponibles"},
-        {"ok": false, "texto": "Metodología detallada de la auditoría no publicada en los reportes"}
+        {
+          "ok": true,
+          "texto": "Avance del escrutinio confirmado por El Tiempo (22 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Pronunciamientos internacionales de reconocimiento documentados"
+        },
+        {
+          "ok": false,
+          "texto": "Fecha exacta del resultado vinculante no especificada"
+        },
+        {
+          "ok": false,
+          "texto": "Detalle de mesas impugnadas y su potencial impacto no calculado"
+        }
       ],
-      "url": "https://www.eltiempo.com/amp/politica/elecciones-colombia-2026/elecciones-colombia-2026-siga-la-jornada-de-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-para-este-proximo-domingo-21-de-junio-3565703",
-      "url_label": "El Tiempo – Auditoría internacional: no hubo manipulación en primera vuelta"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-colombia-2026-escrutinio-avanza-tras-triunfo-de-abelardo-de-la-espriella-y-esperan-resultado-oficial-esta-semana-3566030",
+      "url_label": "El Tiempo — Escrutinio avanza tras triunfo de De la Espriella — resultado oficial esta semana"
     },
     {
-      "filter": "espriella",
-      "fuente": "Semana",
-      "fuente_color": "#e67e22",
+      "filter": "valencia",
+      "fuente": "Infobae / El Colombiano",
+      "fuente_color": "#9b59b6",
       "fecha": "21 jun 2026",
-      "tag": "Espriella · Cierre final",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella a pocas horas del 21-J: 'No podemos pecar por exceso de confianza — hoy Colombia cambia su historia'",
-      "resumen": "En entrevista con Vicky Dávila en Semana horas antes de la apertura de urnas, Abelardo de la Espriella llamó a sus seguidores a movilizarse sin exceso de confianza pese a las encuestas favorables. Lanzó un 'contundente mensaje al petrismo' sobre la legitimidad del proceso electoral como única vía para el cambio. Las encuestas finales antes de la veda lo situaban con 52,6% frente a 45% de Cepeda (Guarumo, 13 jun).",
-      "objetividad": 92,
+      "tag": "Valencia · Victoria aliada",
+      "tag_color": "#9b59b6",
+      "tag_bg": "rgba(155,89,182,0.15)",
+      "titulo": "El apoyo de Paloma Valencia fue clave: 76% de sus votantes eligió a De la Espriella en la segunda vuelta",
+      "resumen": "El triunfo de Abelardo de la Espriella confirma la eficacia del respaldo de Paloma Valencia desde el 31 de mayo. Encuestas previas estimaban que 76,4% de sus 1,64 millones de votantes migrarían al candidato de Defensores de la Patria. Valencia declaró: 'Anuncio mi apoyo a Abelardo e invito a que derrotemos a Cepeda'. La maquinaria del Centro Democrático y el apoyo explícito de Álvaro Uribe cerraron filas en torno a De la Espriella.",
+      "objetividad": 90,
       "criterios": [
-        {"ok": true, "texto": "Entrevista con Vicky Dávila en Semana confirmada — publicada el mismo día 21-J"},
-        {"ok": true, "texto": "Cifras de encuesta Guarumo (13 jun): 52,6% vs Cepeda 45% — verificadas"},
-        {"ok": false, "texto": "Texto exacto de 'mensaje al petrismo' no transcrito en titulares disponibles"},
-        {"ok": false, "texto": "Participación final en urnas en el momento de la entrevista no conocida"}
+        {
+          "ok": true,
+          "texto": "Declaración de Valencia confirmada: 'Anuncio mi apoyo a Abelardo' (El Colombiano, 31 may)"
+        },
+        {
+          "ok": true,
+          "texto": "Estimación de migración de votos 76,4% documentada por Infobae (2 jun)"
+        },
+        {
+          "ok": false,
+          "texto": "Cifra exacta de votos transferidos aún no cuantificada con datos definitivos"
+        },
+        {
+          "ok": false,
+          "texto": "Declaración de Valencia post-resultado 21-J aún no publicada"
+        }
       ],
-      "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-habla-con-vicky-davila-a-horas-de-la-segunda-vuelta-no-podemos-pecar-por-exceso-de-confianza/202644/",
-      "url_label": "Semana – De la Espriella: 'No podemos pecar por exceso de confianza' a horas del 21-J"
+      "url": "https://www.elcolombiano.com/colombia/paloma-valencia-apoyo-abelardo-de-la-espriella-segunda-vuelta-junio-2026-ON37188701",
+      "url_label": "El Colombiano — Paloma Valencia anuncia apoyo a De la Espriella para la segunda vuelta"
     },
     {
       "filter": "espriella",
-      "fuente": "Semana",
-      "fuente_color": "#c0392b",
-      "fecha": "21 jun 2026",
-      "tag": "Espriella · Seguridad",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella vs. Petro: 'La ofensiva armada en Magdalena y La Guajira es una pelea entre bandidos'",
-      "resumen": "En los días previos al 21-J, Abelardo de la Espriella arremetió contra el presidente Gustavo Petro por la ofensiva de grupos armados en Magdalena y La Guajira, acusándolo de incapacidad para garantizar el orden público. La frase 'es una pelea entre bandidos' se viralizó en redes. El tema de la seguridad y el narcoparamilitarismo fue un eje central del debate de segunda vuelta, con De la Espriella proponiendo mano dura e inteligencia artificial para el orden público.",
-      "objetividad": 85,
-      "criterios": [
-        {"ok": true, "texto": "Frase 'pelea entre bandidos' confirmada por Semana en reportaje reciente al 21-J"},
-        {"ok": true, "texto": "Ofensiva armada en Magdalena y La Guajira documentada por múltiples fuentes en jun 2026"},
-        {"ok": false, "texto": "Conexión causal directa entre Petro y la ofensiva armada no establecida judicialmente"},
-        {"ok": false, "texto": "Impacto en intención de voto no cuantificable con veda electoral activa"}
-      ],
-      "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-arremete-contra-petro-por-ofensiva-en-magdalena-y-la-guajira-es-una-pelea-entre-bandidos/202656/",
-      "url_label": "Semana – De la Espriella: ofensiva en Magdalena y La Guajira 'es una pelea entre bandidos'"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Semana",
+      "fuente": "La Nación / Yahoo Noticias",
       "fuente_color": "#2980b9",
-      "fecha": "18 jun 2026",
-      "tag": "Espriella · Geopolítica",
+      "fecha": "21 jun 2026",
+      "tag": "Perfil · Presidente Electo",
       "tag_color": "#2980b9",
       "tag_bg": "rgba(41,128,185,0.15)",
-      "titulo": "De la Espriella a 3 días del 21-J envió mensaje a EEUU: 'Otro más a la lista' — giro geopolítico histórico",
-      "resumen": "A tres días de la segunda vuelta, Abelardo de la Espriella envió un mensaje geopolítico a Estados Unidos insinuando que Colombia sería 'otro más a la lista' de gobiernos aliados al círculo de Donald Trump en América Latina, junto a Argentina (Milei) y El Salvador (Bukele). El giro geopolítico anticiparía un cambio radical en las relaciones Colombia-EEUU y contrasta con la política exterior del gobierno Petro, que tuvo fricciones con Washington.",
-      "objetividad": 88,
+      "titulo": "'El Tigre' De la Espriella: abogado de 47 años, triple nacionalidad y aliado de Trump, nuevo presidente de Colombia",
+      "resumen": "Abelardo 'El Tigre' de la Espriella, 47 años, abogado y fundador de firma jurídica con sede en Colombia y Miami, asumirá la presidencia el 7 de agosto con triple nacionalidad colombiana, estadounidense e italiana. Su movimiento Defensores de la Patria representa un giro histórico a la derecha. Cuenta con el respaldo explícito de Donald Trump y de la congresista republicana María Elvira Salazar. Sucederá a Gustavo Petro marcando un cambio radical de rumbo para Colombia.",
+      "objetividad": 96,
       "criterios": [
-        {"ok": true, "texto": "Mensaje de De la Espriella a EEUU confirmado por Semana (18 jun 2026)"},
-        {"ok": true, "texto": "Apoyo de Trump a De la Espriella anunciado el 2 jun — consistente con la narrativa geopolítica"},
-        {"ok": false, "texto": "Canal diplomático del mensaje no especificado en la fuente disponible"},
-        {"ok": false, "texto": "Reacción oficial de Washington a la declaración no publicada al cierre de edición"}
+        {
+          "ok": true,
+          "texto": "Edad y perfil profesional confirmados: 47 años, abogado, firma en Colombia y Miami"
+        },
+        {
+          "ok": true,
+          "texto": "Triple nacionalidad (colombiana, estadounidense, italiana) confirmada por Primicias y La Nación"
+        },
+        {
+          "ok": true,
+          "texto": "Apoyo de Trump y María Elvira Salazar documentados en múltiples fuentes"
+        },
+        {
+          "ok": false,
+          "texto": "Detalles del plan de gobierno para los primeros 100 días aún no publicados"
+        }
       ],
-      "url": "https://www.semana.com/politica/articulo/a-tres-dias-de-la-segunda-vuelta-presidencial-abelardo-de-la-espriella-envio-mensaje-a-ee-uu-otro-mas-a-la-lista/202653/",
-      "url_label": "Semana – De la Espriella a EEUU: 'Otro más a la lista' a 3 días del 21-J"
+      "url": "https://www.lanacion.com.ar/estados-unidos/elecciones-en-colombia-2026-quien-es-abelardo-el-tigre-de-la-espriella-el-nuevo-presidente-aliado-de-nid21062026/",
+      "url_label": "La Nación — Quién es Abelardo 'El Tigre', el nuevo presidente de Colombia aliado de Trump"
     }
   ],
   "sentimiento": {
@@ -264,55 +360,55 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 67,
-        "negativo": 18,
-        "neutro": 15,
+        "positivo": 78,
+        "negativo": 11,
+        "neutro": 11,
         "tendencia": "up",
-        "tendencia_texto": "21 jun — DÍA DE LA SEGUNDA VUELTA. PRECONTEO: Semana confirma victoria de De la Espriella. Cepeda y Petro no reconocen resultados — tormenta política en curso. AUDITORÍA INTERNACIONAL ratificó limpieza de primera vuelta. ALIANZAS: Uribe + Valencia + CD + Trump + Conservadores + Liberales. Santos no apoyó a ningún candidato. ENCUESTA FINAL (Guarumo 13 jun): 52,6% vs Cepeda 45%. Escrutinio oficial en curso. El ganador asumirá el 7 de agosto."
+        "tendencia_texto": "22 jun — PRESIDENTE ELECTO. Ganó segunda vuelta con 49,66% vs 48,70% de Cepeda (diff: ~250K votos). Primer discurso desde Barranquilla: 'El pueblo colombiano me ha confiado'. Uribe, Duque, Char y sector financiero celebraron la victoria. Advirtió a Petro y Cepeda abstenerse de 'desatar un incendio social'. Escrutinio oficial en curso — resultado vinculante esperado esta semana. Posesión: 7 de agosto de 2026."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 28,
-        "negativo": 54,
-        "neutro": 18,
+        "positivo": 21,
+        "negativo": 64,
+        "neutro": 15,
         "tendencia": "down",
-        "tendencia_texto": "21 jun — DÍA DE LA SEGUNDA VUELTA. Pierde según preconteo del 21-J (Semana). Cepeda y Petro no reconocen resultados — crisis institucional. Rechazo ciudadano: 51,7% (AtlasIntel). Petro no respaldó públicamente a Cepeda durante la segunda vuelta. CELAG DATA (14 jun): empate técnico 40,8% vs De la Espriella 39,7% (metodología divergente). ENCUESTA FINAL (Guarumo 13 jun): 45% vs De la Espriella 52,6%."
+        "tendencia_texto": "22 jun — DERROTA en segunda vuelta (48,70% vs De la Espriella 49,66%). No reconoció preconteo: 'dato aún no oficial ni vinculante'. Impugnó 33.000 mesas. Pacto Histórico anuncia ir a escrutinios. Crisis institucional por no-reconocimiento de Petro/Cepeda agrava tensión post-electoral. Resultado oficial esperado esta semana."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 42,
-        "negativo": 38,
+        "positivo": 58,
+        "negativo": 22,
         "neutro": 20,
-        "tendencia": "neutral",
-        "tendencia_texto": "21 jun — Fuera de la carrera (6,92% — 1,64 M votos en primera vuelta). Maquinaria del Centro Democrático activa hoy apoyando De la Espriella. Coordinó con Uribe el 12 jun. Según encuestas, 76,4% de sus votantes migrarían a De la Espriella en segunda vuelta. Sin actividad pública propia durante el silencio electoral (desde 17 jun)."
+        "tendencia": "up",
+        "tendencia_texto": "22 jun — FUERA DE LA CARRERA pero su apoyo fue decisivo: 76% de sus 1,64M votantes migró a De la Espriella según estimaciones. El Centro Democrático celebra la victoria del candidato que respaldó. Su respaldo desde el 31 de mayo fue estratégico y refuerza su liderazgo al interior del partido."
       }
     ]
   },
   "encuestas": {
-    "espriella": 52.6,
-    "cepeda": 45.0,
-    "fuente": "Guarumo/Ecoanalítica — 2da vuelta, encuesta final, 13 jun 2026",
-    "tipo": "segunda_vuelta",
-    "nota": "ÚLTIMAS ENCUESTAS ANTES DE VEDA: Guarumo/Ecoanalítica (13 jun): De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). AtlasIntel (5-10 jun, n=3.681, ±2%): 52,2% vs 44,5% (+7,7 pts). CNC / Centro Nacional de Consultoría (15 jun): De la Espriella 48,6% vs Cepeda 44,7% (+3,9 pts). CELAG DATA (14 jun, Infobae): empate técnico Cepeda 40,8% vs De la Espriella 39,7% (divergencia metodológica; incluye indecisos). CB Global Data (1-4 jun): 49,6% vs 43,3%. CONDOR promedio: De la Espriella +7,0 pts. VEDA ELECTORAL activa desde el 13 jun — sin nuevas mediciones publicables hasta después del 21-J. RECHAZO: Cepeda 51,7% vs De la Espriella 46,6% (AtlasIntel). RESULTADO: preconteo apunta a victoria de De la Espriella (Semana, 21 jun)."
+    "espriella": 49.66,
+    "cepeda": 48.7,
+    "fuente": "Registraduría Nacional — preconteo segunda vuelta 21 jun 2026",
+    "tipo": "resultado_preconteo",
+    "nota": "RESULTADO SEGUNDA VUELTA (preconteo 21 jun): De la Espriella 49,66% (12.959.515 votos) vs Cepeda 48,70% (12.708.695 votos). Diferencia: ~250.000 votos. Escrutinio oficial en curso — resultado vinculante esperado esta semana. ENCUESTAS PREVIAS A VEDA: Guarumo/Ecoanalítica (13 jun): De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). AtlasIntel (5-10 jun): 52,2% vs 44,5% (+7,7 pts). CNC (15 jun): 48,6% vs 44,7% (+3,9 pts). Promedio CONDOR: +7,0 pts."
   },
   "prediccion": {
     "primero": {
       "nombre": "Abelardo De la Espriella",
-      "partido": "Salvación Nacional + Centro Democrático",
+      "partido": "Defensores de la Patria / Salvación Nacional + Centro Democrático",
       "color": "#e67e22",
-      "pct": 43.73,
-      "fuente_encuesta": "CNE — escrutinio oficial 1ra vuelta (4 jun 2026)"
+      "pct": 49.66,
+      "fuente_encuesta": "Registraduría — preconteo 2da vuelta 21 jun 2026"
     },
     "segundo": {
       "nombre": "Iván Cepeda",
       "partido": "Pacto Histórico",
       "color": "#27ae60",
-      "pct": 40.91,
-      "fuente_encuesta": "CNE — escrutinio oficial 1ra vuelta (4 jun 2026)"
+      "pct": 48.7,
+      "fuente_encuesta": "Registraduría — preconteo 2da vuelta 21 jun 2026"
     },
-    "resumen_analisis": "SEGUNDA VUELTA — 21 de junio de 2026 (HOY). RESULTADO: preconteo apunta a VICTORIA DE ABELARDO DE LA ESPRIELLA (Semana, 21 jun). CRISIS INSTITUCIONAL: Cepeda y Petro no reconocen resultados preliminares — tormenta política. AUDITORÍA INTERNACIONAL ratificó que no hubo manipulación ni irregularidades en primera vuelta. Santos llamó a respetar instituciones sin apoyar candidato. ALIANZAS que apoyaron a De la Espriella: Valencia + Uribe + CD + Conservadores + Liberales + Vargas Lleras + Trump + Fenalco. Comunes + Barreras → Cepeda. Fajardo → voto en blanco. Petro no respaldó públicamente a Cepeda. ENCUESTA FINAL (Guarumo 13 jun): De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). CNC: +3,9 pts. AtlasIntel: +7,7 pts. Escrutinio oficial en curso. El ganador asume el 7 de agosto de 2026."
+    "resumen_analisis": "RESULTADO SEGUNDA VUELTA — 21 de junio de 2026. GANADOR: Abelardo De la Espriella (49,66% / 12,9M votos) sobre Iván Cepeda (48,70% / 12,7M votos). Diferencia: ~250.000 votos. CRISIS POST-ELECTORAL: Cepeda y Petro no reconocen el preconteo — impugnan 33.000 mesas. Escrutinio oficial en curso. ALIANZAS ganadoras: Valencia + Uribe + CD + Conservadores + Liberales + Trump + Fenalco. POSESIÓN: 7 de agosto de 2026. De la Espriella sucederá a Gustavo Petro marcando giro histórico a la derecha."
   },
-  "ultimo_deploy": "2026-06-21T00:00:00Z"
+  "ultimo_deploy": "2026-06-22T12:00:00Z"
 }
