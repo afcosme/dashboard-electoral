@@ -1,5 +1,5 @@
 {
-  "fecha": "22 de junio de 2026",
+  "fecha": "23 de junio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -260,99 +260,99 @@
     },
     {
       "filter": "espriella",
-      "fuente": "El Tiempo",
+      "fuente": "El Tiempo / Noticias Caracol",
       "fuente_color": "#27ae60",
-      "fecha": "22 jun 2026",
-      "tag": "Escrutinio · Resultado oficial",
+      "fecha": "23 jun 2026",
+      "tag": "Escrutinio · Resultado oficial 24-25 jun",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Escrutinio avanza tras triunfo de De la Espriella — resultado oficial esperado esta semana",
-      "resumen": "La Registraduría confirmó que el escrutinio oficial de la segunda vuelta avanza con normalidad tras el preconteo que dio como ganador a Abelardo de la Espriella. El resultado vinculante se espera antes del fin de esta semana. El proceso incluye la revisión de las 33.000 mesas impugnadas por el Pacto Histórico. Otros países ya se pronunciaron reconociendo la victoria del presidente electo.",
-      "objetividad": 95,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Avance del escrutinio confirmado por El Tiempo (22 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Pronunciamientos internacionales de reconocimiento documentados"
-        },
-        {
-          "ok": false,
-          "texto": "Fecha exacta del resultado vinculante no especificada"
-        },
-        {
-          "ok": false,
-          "texto": "Detalle de mesas impugnadas y su potencial impacto no calculado"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-colombia-2026-escrutinio-avanza-tras-triunfo-de-abelardo-de-la-espriella-y-esperan-resultado-oficial-esta-semana-3566030",
-      "url_label": "El Tiempo — Escrutinio avanza tras triunfo de De la Espriella — resultado oficial esta semana"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "Infobae / El Colombiano",
-      "fuente_color": "#9b59b6",
-      "fecha": "21 jun 2026",
-      "tag": "Valencia · Victoria aliada",
-      "tag_color": "#9b59b6",
-      "tag_bg": "rgba(155,89,182,0.15)",
-      "titulo": "El apoyo de Paloma Valencia fue clave: 76% de sus votantes eligió a De la Espriella en la segunda vuelta",
-      "resumen": "El triunfo de Abelardo de la Espriella confirma la eficacia del respaldo de Paloma Valencia desde el 31 de mayo. Encuestas previas estimaban que 76,4% de sus 1,64 millones de votantes migrarían al candidato de Defensores de la Patria. Valencia declaró: 'Anuncio mi apoyo a Abelardo e invito a que derrotemos a Cepeda'. La maquinaria del Centro Democrático y el apoyo explícito de Álvaro Uribe cerraron filas en torno a De la Espriella.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaración de Valencia confirmada: 'Anuncio mi apoyo a Abelardo' (El Colombiano, 31 may)"
-        },
-        {
-          "ok": true,
-          "texto": "Estimación de migración de votos 76,4% documentada por Infobae (2 jun)"
-        },
-        {
-          "ok": false,
-          "texto": "Cifra exacta de votos transferidos aún no cuantificada con datos definitivos"
-        },
-        {
-          "ok": false,
-          "texto": "Declaración de Valencia post-resultado 21-J aún no publicada"
-        }
-      ],
-      "url": "https://www.elcolombiano.com/colombia/paloma-valencia-apoyo-abelardo-de-la-espriella-segunda-vuelta-junio-2026-ON37188701",
-      "url_label": "El Colombiano — Paloma Valencia anuncia apoyo a De la Espriella para la segunda vuelta"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "La Nación / Yahoo Noticias",
-      "fuente_color": "#2980b9",
-      "fecha": "21 jun 2026",
-      "tag": "Perfil · Presidente Electo",
-      "tag_color": "#2980b9",
-      "tag_bg": "rgba(41,128,185,0.15)",
-      "titulo": "'El Tigre' De la Espriella: abogado de 47 años, triple nacionalidad y aliado de Trump, nuevo presidente de Colombia",
-      "resumen": "Abelardo 'El Tigre' de la Espriella, 47 años, abogado y fundador de firma jurídica con sede en Colombia y Miami, asumirá la presidencia el 7 de agosto con triple nacionalidad colombiana, estadounidense e italiana. Su movimiento Defensores de la Patria representa un giro histórico a la derecha. Cuenta con el respaldo explícito de Donald Trump y de la congresista republicana María Elvira Salazar. Sucederá a Gustavo Petro marcando un cambio radical de rumbo para Colombia.",
+      "titulo": "Escrutinio al 93,92% — resultado oficial de De la Espriella esperado el 24 o 25 de junio",
+      "resumen": "La Registraduría reportó el 23 de junio que el escrutinio oficial avanza con 93,92% de las mesas revisadas (111.161 mesas). Los datos parciales confirman la ventaja de De la Espriella: 49,65% vs 48,70% de Cepeda, con diferencia de 247.129 votos. El resultado vinculante se espera entre el miércoles 24 y jueves 25 de junio. El proceso incluye la revisión de impugnaciones presentadas por el Pacto Histórico.",
       "objetividad": 96,
       "criterios": [
         {
           "ok": true,
-          "texto": "Edad y perfil profesional confirmados: 47 años, abogado, firma en Colombia y Miami"
+          "texto": "93,92% de mesas escrutadas confirmado por Registraduría (23 jun)"
         },
         {
           "ok": true,
-          "texto": "Triple nacionalidad (colombiana, estadounidense, italiana) confirmada por Primicias y La Nación"
+          "texto": "Diferencia 247.129 votos (49,65% vs 48,70%) — datos oficiales parciales"
         },
         {
           "ok": true,
-          "texto": "Apoyo de Trump y María Elvira Salazar documentados en múltiples fuentes"
+          "texto": "Resultado vinculante esperado 24-25 junio según El Colombiano"
         },
         {
           "ok": false,
-          "texto": "Detalles del plan de gobierno para los primeros 100 días aún no publicados"
+          "texto": "Escrutinio aún no concluido — resultado no es definitivo"
         }
       ],
-      "url": "https://www.lanacion.com.ar/estados-unidos/elecciones-en-colombia-2026-quien-es-abelardo-el-tigre-de-la-espriella-el-nuevo-presidente-aliado-de-nid21062026/",
-      "url_label": "La Nación — Quién es Abelardo 'El Tigre', el nuevo presidente de Colombia aliado de Trump"
+      "url": "https://www.noticiascaracol.com/politica/elecciones-colombia/como-va-el-escrutinio-en-colombia-datos-en-vivo-de-la-registraduria-nacional-rg10",
+      "url_label": "Noticias Caracol — ¿Cómo va el escrutinio en Colombia? Datos EN VIVO"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Tiempo / El Colombiano",
+      "fuente_color": "#2980b9",
+      "fecha": "22 jun 2026",
+      "tag": "Espriella · Gabinete en construcción",
+      "tag_color": "#2980b9",
+      "tag_bg": "rgba(41,128,185,0.15)",
+      "titulo": "De la Espriella arma su gabinete: Gómez Amín confirmado para Interior; Cabal suena para Defensa",
+      "resumen": "En su primer día como presidente electo, Abelardo de la Espriella convocó un cónclave para revisar hojas de vida de posibles ministros. Mauricio Gómez Amín, quien renunció al Senado y al Partido Liberal para dirigir su campaña, es el único confirmado: estará en el Ministerio del Interior. La exsenadora María Fernanda Cabal suena con fuerza para Defensa. Jaime Andrés Beltrán, exalcalde de Bucaramanga, está en lista para MinTIC. El vicepresidente José Manuel Restrepo también tendrá un papel relevante en la administración.",
+      "objetividad": 94,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Gómez Amín para Interior confirmado por El Tiempo y El Colombiano (22 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Cabal para Defensa y Beltrán para TIC citados en fuentes múltiples"
+        },
+        {
+          "ok": true,
+          "texto": "Cónclave de gabinete del 22 jun reportado por El Espectador"
+        },
+        {
+          "ok": false,
+          "texto": "Lista definitiva de ministros aún no anunciada oficialmente"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-nombres-que-suenan-para-el-proximo-gabinete-de-abelardo-de-la-espriella-3565969",
+      "url_label": "El Tiempo — Los nombres que suenan para el gabinete de De la Espriella"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Colombia.com / El Colombiano / El País",
+      "fuente_color": "#c0392b",
+      "fecha": "23 jun 2026",
+      "tag": "Jurídico · CNE frena impugnaciones",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "CNE frena al Pacto Histórico: 'Lo que no se solicita en la mesa ya no podrá pedirse'",
+      "resumen": "El Consejo Nacional Electoral advirtió el 23 de junio que varias etapas del calendario electoral ya vencieron, limitando el alcance de las impugnaciones del Pacto Histórico. La frase del CNE —'Lo que no se solicita en la mesa ya no podrá pedirse'— cierra la puerta a reclamaciones que debían presentarse en el momento de la votación. Cepeda insistió en pedir impugnación de más mesas, pero aseguró que reconocerá el resultado cuando se cierre el escrutinio oficial. Asesores jurídicos del equipo Cepeda, liderados por el exmagistrado Luis Guillermo Pérez, buscan rutas alternativas.",
+      "objetividad": 95,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Declaración del CNE confirmada por Colombia.com y El Colombiano (23 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Luis Guillermo Pérez lidera equipo jurídico — confirmado por Cambio Colombia"
+        },
+        {
+          "ok": true,
+          "texto": "Cepeda: 'Con el escrutinio final, reconoceremos el resultado' (El País, 23 jun)"
+        },
+        {
+          "ok": false,
+          "texto": "Decisión final del CNE sobre mesas impugnadas aún pendiente"
+        }
+      ],
+      "url": "https://www.colombia.com/elecciones/2026/cne-sobre-impugnacion-de-cepeda-que-etapas-ya-vencieron-y-que-puede-reclamarse-588884",
+      "url_label": "Colombia.com — CNE sobre impugnación de Cepeda: etapas vencidas y qué puede reclamarse"
     }
   ],
   "sentimiento": {
@@ -364,7 +364,7 @@
         "negativo": 11,
         "neutro": 11,
         "tendencia": "up",
-        "tendencia_texto": "22 jun — PRESIDENTE ELECTO. Ganó segunda vuelta con 49,66% vs 48,70% de Cepeda (diff: ~250K votos). Primer discurso desde Barranquilla: 'El pueblo colombiano me ha confiado'. Uribe, Duque, Char y sector financiero celebraron la victoria. Advirtió a Petro y Cepeda abstenerse de 'desatar un incendio social'. Escrutinio oficial en curso — resultado vinculante esperado esta semana. Posesión: 7 de agosto de 2026."
+        "tendencia_texto": "23 jun — PRESIDENTE ELECTO. Escrutinio al 93,92%: mantiene 49,65% vs 48,70% de Cepeda (247.129 votos de diferencia). Resultado oficial vinculante esperado 24-25 jun. Armando gabinete: Gómez Amín confirmado para Interior; Cabal suena para Defensa. Posesión: 7 de agosto de 2026."
       },
       {
         "nombre": "Cepeda",
@@ -373,7 +373,7 @@
         "negativo": 64,
         "neutro": 15,
         "tendencia": "down",
-        "tendencia_texto": "22 jun — DERROTA en segunda vuelta (48,70% vs De la Espriella 49,66%). No reconoció preconteo: 'dato aún no oficial ni vinculante'. Impugnó 33.000 mesas. Pacto Histórico anuncia ir a escrutinios. Crisis institucional por no-reconocimiento de Petro/Cepeda agrava tensión post-electoral. Resultado oficial esperado esta semana."
+        "tendencia_texto": "23 jun — DERROTA segunda vuelta (48,70% vs 49,65% De la Espriella). CNE frenó impugnaciones: 'Lo que no se solicita en la mesa ya no podrá pedirse'. Cepeda insiste en revisar 33.000 mesas pero prometió reconocer resultado al cierre del escrutinio oficial. Asesores jurídicos buscan rutas alternativas."
       },
       {
         "nombre": "Valencia",
@@ -382,7 +382,7 @@
         "negativo": 22,
         "neutro": 20,
         "tendencia": "up",
-        "tendencia_texto": "22 jun — FUERA DE LA CARRERA pero su apoyo fue decisivo: 76% de sus 1,64M votantes migró a De la Espriella según estimaciones. El Centro Democrático celebra la victoria del candidato que respaldó. Su respaldo desde el 31 de mayo fue estratégico y refuerza su liderazgo al interior del partido."
+        "tendencia_texto": "23 jun — FUERA de la carrera. Su apoyo a De la Espriella fue estratégico: estimaciones señalan que 76% de sus 1,64M votantes migró al ganador. Centro Democrático celebra la victoria. Negociación en curso para posiciones en el nuevo gabinete de De la Espriella."
       }
     ]
   },
@@ -410,5 +410,5 @@
     },
     "resumen_analisis": "RESULTADO SEGUNDA VUELTA — 21 de junio de 2026. GANADOR: Abelardo De la Espriella (49,66% / 12,9M votos) sobre Iván Cepeda (48,70% / 12,7M votos). Diferencia: ~250.000 votos. CRISIS POST-ELECTORAL: Cepeda y Petro no reconocen el preconteo — impugnan 33.000 mesas. Escrutinio oficial en curso. ALIANZAS ganadoras: Valencia + Uribe + CD + Conservadores + Liberales + Trump + Fenalco. POSESIÓN: 7 de agosto de 2026. De la Espriella sucederá a Gustavo Petro marcando giro histórico a la derecha."
   },
-  "ultimo_deploy": "2026-06-22T12:00:00Z"
+  "ultimo_deploy": "2026-06-23T00:00:00Z"
 }
