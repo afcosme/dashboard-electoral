@@ -1,5 +1,5 @@
 {
-  "fecha": "23 de junio de 2026",
+  "fecha": "24 de junio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -123,8 +123,8 @@
           "texto": "Posesión confirmada para el 7 de agosto de 2026"
         },
         {
-          "ok": false,
-          "texto": "Escrutinio oficial aún en curso — resultado vinculante pendiente"
+          "ok": true,
+          "texto": "Escrutinio de jueces concluido al 100% con 99,997% de coincidencia con preconteo (24 jun)"
         }
       ],
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-ultimas-noticias-apoyos-y-reacciones-a-la-segunda-vuelta-entre-abelardo-de-la-espriella-e-ivan-cepeda-3561681",
@@ -155,8 +155,8 @@
           "texto": "Referencia a recuperación de 500.000 votos en 2022 — hecho documentado"
         },
         {
-          "ok": false,
-          "texto": "Resultado del escrutinio oficial pendiente — aún no determinante"
+          "ok": true,
+          "texto": "Registraduría ratificó: escrutinio coincide 99,997% con preconteo — impugnaciones con impacto mínimo"
         }
       ],
       "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/ivan-cepeda-segunda-vuelta-2026-resultados-discurso-e-impugnacion-de-mesas-en-la-sede-del-pacto-historico/?outputType=amp",
@@ -260,67 +260,67 @@
     },
     {
       "filter": "espriella",
-      "fuente": "El Tiempo / Noticias Caracol",
+      "fuente": "Registraduría / Colombia.com / Semana",
       "fuente_color": "#27ae60",
-      "fecha": "23 jun 2026",
-      "tag": "Escrutinio · Resultado oficial 24-25 jun",
+      "fecha": "24 jun 2026",
+      "tag": "Escrutinio · 100% Concluido",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Escrutinio al 93,92% — resultado oficial de De la Espriella esperado el 24 o 25 de junio",
-      "resumen": "La Registraduría reportó el 23 de junio que el escrutinio oficial avanza con 93,92% de las mesas revisadas (111.161 mesas). Los datos parciales confirman la ventaja de De la Espriella: 49,65% vs 48,70% de Cepeda, con diferencia de 247.129 votos. El resultado vinculante se espera entre el miércoles 24 y jueves 25 de junio. El proceso incluye la revisión de impugnaciones presentadas por el Pacto Histórico.",
-      "objetividad": 96,
+      "titulo": "Registraduría da por terminado el escrutinio: coincide en 99,997% con el preconteo — De la Espriella ganó",
+      "resumen": "La Registraduría Nacional concluyó el escrutinio de primer nivel a cargo de los jueces de la República en las 118.350 mesas del territorio nacional. La coincidencia con el preconteo del 21 de junio es del 99,997%, ratificando la victoria de Abelardo de la Espriella. El presidente del CNE, Cristian Quiroz, indicó que aún no hay fecha para la declaración oficial del ganador, pero que se hará 'con igual o mayor celeridad que los 21 días anteriores'. El resultado no puede cambiar materialmente.",
+      "objetividad": 97,
       "criterios": [
         {
           "ok": true,
-          "texto": "93,92% de mesas escrutadas confirmado por Registraduría (23 jun)"
+          "texto": "100% del escrutinio de jueces concluido — confirmado por Registraduría (24 jun)"
         },
         {
           "ok": true,
-          "texto": "Diferencia 247.129 votos (49,65% vs 48,70%) — datos oficiales parciales"
+          "texto": "Coincidencia del 99,997% entre preconteo y escrutinio — Registraduría / Semana (24 jun)"
         },
         {
           "ok": true,
-          "texto": "Resultado vinculante esperado 24-25 junio según El Colombiano"
+          "texto": "118.350 mesas revisadas en todo el territorio nacional"
         },
         {
           "ok": false,
-          "texto": "Escrutinio aún no concluido — resultado no es definitivo"
+          "texto": "CNE aún no ha fijado fecha para declaración oficial del presidente electo"
         }
       ],
-      "url": "https://www.noticiascaracol.com/politica/elecciones-colombia/como-va-el-escrutinio-en-colombia-datos-en-vivo-de-la-registraduria-nacional-rg10",
-      "url_label": "Noticias Caracol — ¿Cómo va el escrutinio en Colombia? Datos EN VIVO"
+      "url": "https://www.colombia.com/elecciones/2026/registraduria-da-por-terminado-el-escrutinio-de-las-elecciones-presidenciales-589005",
+      "url_label": "Colombia.com — Registraduría da por terminado el escrutinio de las elecciones presidenciales"
     },
     {
       "filter": "espriella",
-      "fuente": "El Tiempo / El Colombiano",
+      "fuente": "El Tiempo / Vanguardia / El Colombiano",
       "fuente_color": "#2980b9",
-      "fecha": "22 jun 2026",
-      "tag": "Espriella · Gabinete en construcción",
+      "fecha": "23 jun 2026",
+      "tag": "Espriella · Gabinete ampliado",
       "tag_color": "#2980b9",
       "tag_bg": "rgba(41,128,185,0.15)",
-      "titulo": "De la Espriella arma su gabinete: Gómez Amín confirmado para Interior; Cabal suena para Defensa",
-      "resumen": "En su primer día como presidente electo, Abelardo de la Espriella convocó un cónclave para revisar hojas de vida de posibles ministros. Mauricio Gómez Amín, quien renunció al Senado y al Partido Liberal para dirigir su campaña, es el único confirmado: estará en el Ministerio del Interior. La exsenadora María Fernanda Cabal suena con fuerza para Defensa. Jaime Andrés Beltrán, exalcalde de Bucaramanga, está en lista para MinTIC. El vicepresidente José Manuel Restrepo también tendrá un papel relevante en la administración.",
-      "objetividad": 94,
+      "titulo": "Gabinete De la Espriella se amplía: Bessudo para Ambiente, Rodrigo Lara para Justicia y Hacienda tendría ministra",
+      "resumen": "El presidente electo avanza en la conformación de su gabinete con más de la mitad de las carteras definidas. Sandra Bessudo, bióloga marina de reconocimiento internacional, estaría al frente del Ministerio de Ambiente. Rodrigo Lara Restrepo suena para Justicia. El vicepresidente electo José Manuel Restrepo propone formalmente designar una mujer para el Ministerio de Hacienda por primera vez en la historia de Colombia, con una cartera de cinco candidatas de alto perfil técnico. Mauricio Gómez Amín para Interior y María Fernanda Cabal para Defensa se mantienen en el sonajero.",
+      "objetividad": 93,
       "criterios": [
         {
           "ok": true,
-          "texto": "Gómez Amín para Interior confirmado por El Tiempo y El Colombiano (22 jun)"
+          "texto": "Sandra Bessudo para Ambiente confirmada por múltiples fuentes (Pulzo, El Colombiano, 23 jun)"
         },
         {
           "ok": true,
-          "texto": "Cabal para Defensa y Beltrán para TIC citados en fuentes múltiples"
+          "texto": "Rodrigo Lara Restrepo para Justicia citado por Cambio Colombia y El Tiempo"
         },
         {
           "ok": true,
-          "texto": "Cónclave de gabinete del 22 jun reportado por El Espectador"
+          "texto": "Restrepo propone ministra para Hacienda — confirmado por Vanguardia (23 jun)"
         },
         {
           "ok": false,
-          "texto": "Lista definitiva de ministros aún no anunciada oficialmente"
+          "texto": "Lista definitiva de ministros aún no anunciada oficialmente por De la Espriella"
         }
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-nombres-que-suenan-para-el-proximo-gabinete-de-abelardo-de-la-espriella-3565969",
-      "url_label": "El Tiempo — Los nombres que suenan para el gabinete de De la Espriella"
+      "url": "https://www.vanguardia.com/colombia/2026/06/23/abelardo-de-la-espriella-avanza-en-la-conformacion-de-su-gabinete-y-ya-tendria-la-mitad-definida/",
+      "url_label": "Vanguardia — De la Espriella avanza en la conformación de su gabinete y ya tendría la mitad definida"
     },
     {
       "filter": "cepeda",
@@ -360,38 +360,38 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 78,
-        "negativo": 11,
-        "neutro": 11,
+        "positivo": 81,
+        "negativo": 9,
+        "neutro": 10,
         "tendencia": "up",
-        "tendencia_texto": "23 jun — PRESIDENTE ELECTO. Escrutinio al 93,92%: mantiene 49,65% vs 48,70% de Cepeda (247.129 votos de diferencia). Resultado oficial vinculante esperado 24-25 jun. Armando gabinete: Gómez Amín confirmado para Interior; Cabal suena para Defensa. Posesión: 7 de agosto de 2026."
+        "tendencia_texto": "24 jun — PRESIDENTE ELECTO CONFIRMADO. Registraduría concluye escrutinio al 100%: coincide 99,997% con preconteo (49,65% vs 48,70% Cepeda). CNE declarará ganador oficial próximos días. Gabinete avanza: Gómez Amín (Interior), Bessudo (Ambiente), Lara (Justicia), Cabal suena para Defensa, ministra mujer para Hacienda. Posesión: 7 de agosto de 2026."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 21,
-        "negativo": 64,
+        "positivo": 19,
+        "negativo": 66,
         "neutro": 15,
         "tendencia": "down",
-        "tendencia_texto": "23 jun — DERROTA segunda vuelta (48,70% vs 49,65% De la Espriella). CNE frenó impugnaciones: 'Lo que no se solicita en la mesa ya no podrá pedirse'. Cepeda insiste en revisar 33.000 mesas pero prometió reconocer resultado al cierre del escrutinio oficial. Asesores jurídicos buscan rutas alternativas."
+        "tendencia_texto": "24 jun — DERROTA RATIFICADA. Escrutinio al 100% confirma resultado: 48,70% vs 49,65% De la Espriella (diferencia ~250.000 votos, coincidencia 99,997%). CNE frenó impugnaciones. Cepeda comprometido a reconocer resultado oficial cuando CNE lo declare. Ruta jurídica alternativa con Luis Guillermo Pérez agotada."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 58,
-        "negativo": 22,
+        "positivo": 60,
+        "negativo": 20,
         "neutro": 20,
         "tendencia": "up",
-        "tendencia_texto": "23 jun — FUERA de la carrera. Su apoyo a De la Espriella fue estratégico: estimaciones señalan que 76% de sus 1,64M votantes migró al ganador. Centro Democrático celebra la victoria. Negociación en curso para posiciones en el nuevo gabinete de De la Espriella."
+        "tendencia_texto": "24 jun — FUERA de la carrera. Su apoyo a De la Espriella fue estratégico: estimaciones señalan que 76% de sus 1,64M votantes migró al ganador. Centro Democrático celebra la victoria. Negociación activa para posiciones en el gabinete de De la Espriella (Defensa y otras carteras en juego)."
       }
     ]
   },
   "encuestas": {
     "espriella": 49.66,
     "cepeda": 48.7,
-    "fuente": "Registraduría Nacional — preconteo segunda vuelta 21 jun 2026",
-    "tipo": "resultado_preconteo",
-    "nota": "RESULTADO SEGUNDA VUELTA (preconteo 21 jun): De la Espriella 49,66% (12.959.515 votos) vs Cepeda 48,70% (12.708.695 votos). Diferencia: ~250.000 votos. Escrutinio oficial en curso — resultado vinculante esperado esta semana. ENCUESTAS PREVIAS A VEDA: Guarumo/Ecoanalítica (13 jun): De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). AtlasIntel (5-10 jun): 52,2% vs 44,5% (+7,7 pts). CNC (15 jun): 48,6% vs 44,7% (+3,9 pts). Promedio CONDOR: +7,0 pts."
+    "fuente": "Registraduría Nacional — escrutinio oficial 100% concluido, 24 jun 2026",
+    "tipo": "resultado_oficial",
+    "nota": "RESULTADO CONFIRMADO (escrutinio 100%, 24 jun): Registraduría concluye revisión de 118.350 mesas — preconteo coincide en 99,997% con escrutinio de jueces. De la Espriella 49,66% (12.959.515 votos) vs Cepeda 48,70% (12.708.695 votos). Diferencia: ~250.000 votos. CNE declarará ganador oficial en los próximos días. ENCUESTAS PREVIAS A VEDA: Guarumo/Ecoanalítica (13 jun): De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). AtlasIntel (5-10 jun): 52,2% vs 44,5% (+7,7 pts). CNC (15 jun): 48,6% vs 44,7% (+3,9 pts). Promedio CONDOR: +7,0 pts."
   },
   "prediccion": {
     "primero": {
@@ -399,16 +399,16 @@
       "partido": "Defensores de la Patria / Salvación Nacional + Centro Democrático",
       "color": "#e67e22",
       "pct": 49.66,
-      "fuente_encuesta": "Registraduría — preconteo 2da vuelta 21 jun 2026"
+      "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
     "segundo": {
       "nombre": "Iván Cepeda",
       "partido": "Pacto Histórico",
       "color": "#27ae60",
       "pct": 48.7,
-      "fuente_encuesta": "Registraduría — preconteo 2da vuelta 21 jun 2026"
+      "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "RESULTADO SEGUNDA VUELTA — 21 de junio de 2026. GANADOR: Abelardo De la Espriella (49,66% / 12,9M votos) sobre Iván Cepeda (48,70% / 12,7M votos). Diferencia: ~250.000 votos. CRISIS POST-ELECTORAL: Cepeda y Petro no reconocen el preconteo — impugnan 33.000 mesas. Escrutinio oficial en curso. ALIANZAS ganadoras: Valencia + Uribe + CD + Conservadores + Liberales + Trump + Fenalco. POSESIÓN: 7 de agosto de 2026. De la Espriella sucederá a Gustavo Petro marcando giro histórico a la derecha."
+    "resumen_analisis": "RESULTADO OFICIAL RATIFICADO — 24 de junio de 2026. GANADOR: Abelardo De la Espriella (49,66% / 12,9M votos) sobre Iván Cepeda (48,70% / 12,7M votos). Diferencia: ~250.000 votos. ESCRUTINIO CONCLUIDO: Registraduría terminó revisión al 100% (118.350 mesas) con 99,997% de coincidencia con preconteo. CNE declarará ganador oficial próximos días. CRISIS POST-ELECTORAL EN RETROCESO: Impugnaciones del Pacto Histórico sin impacto material; CNE cerró etapas procesales clave. GABINETE EN CONSTRUCCIÓN: Bessudo (Ambiente), Lara (Justicia), Gómez Amín (Interior), Cabal (Defensa), ministra para Hacienda. POSESIÓN: 7 de agosto de 2026."
   },
-  "ultimo_deploy": "2026-06-23T00:00:00Z"
+  "ultimo_deploy": "2026-06-24T00:00:00Z"
 }
