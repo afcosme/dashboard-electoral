@@ -1,5 +1,5 @@
 {
-  "fecha": "24 de junio de 2026",
+  "fecha": "26 de junio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,163 +100,99 @@
   "noticias": [
     {
       "filter": "espriella",
-      "fuente": "El Tiempo / Semana",
+      "fuente": "El Tiempo / Infobae / Noticias Caracol",
       "fuente_color": "#27ae60",
-      "fecha": "21 jun 2026",
-      "tag": "RESULTADO · Presidente Electo",
+      "fecha": "25 jun 2026",
+      "tag": "OFICIAL · Credencial CNE",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Abelardo De la Espriella gana la segunda vuelta con 49,66% — será el nuevo presidente de Colombia",
-      "resumen": "Abelardo de la Espriella (Defensores de la Patria) derrotó a Iván Cepeda (Pacto Histórico) en la segunda vuelta del 21 de junio con 49,66% (12.959.515 votos) frente a 48,70% (12.708.695 votos), una diferencia de ~250.000 sufragios. El preconteo lo confirmó como presidente electo. Asumirá el 7 de agosto de 2026, sucediendo a Gustavo Petro. La jornada transcurrió con normalidad y fuerte participación.",
+      "titulo": "CNE entrega credencial oficial a De la Espriella — diferencia definitiva: 251.854 votos",
+      "resumen": "El Consejo Nacional Electoral entregó este 25 de junio en Corferias la credencial que oficializa a Abelardo de la Espriella como presidente electo de Colombia (2026-2030), acto presidido por el magistrado Cristian Quiroz. Las cifras definitivas del escrutinio: 12.960.166 votos (De la Espriella) frente a 12.708.312 (Cepeda), diferencia de 251.854 votos sobre 25.668.478 sufragios válidos. Restrepo recibió simultáneamente su credencial como vicepresidente electo. Tras el acto, De la Espriella visitó la Corte Constitucional y prometió 'respeto absoluto por la crítica y el disenso de todos los colombianos'. Posesión: 7 de agosto de 2026.",
+      "objetividad": 98,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Credencial entregada el 25 jun en Corferias — confirmado por El Tiempo, Infobae, Noticias Caracol"
+        },
+        {
+          "ok": true,
+          "texto": "Cifras definitivas: De la Espriella 12.960.166 vs Cepeda 12.708.312 (diferencia: 251.854)"
+        },
+        {
+          "ok": true,
+          "texto": "Total votos escrutados: 25.668.478 — confirmado por Colombia.com"
+        },
+        {
+          "ok": true,
+          "texto": "Promesa de 'respeto absoluto por la crítica y el disenso' — El Tiempo (25 jun)"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/06/25/abelardo-de-la-espriella-recibe-este-25-de-junio-la-credencial-como-presidente-electo-de-colombia-y-luego-ira-a-la-corte-constitucional/",
+      "url_label": "Infobae — De la Espriella recibe la credencial como presidente electo y visita la Corte Constitucional"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Semana / Infobae / El Colombiano",
+      "fuente_color": "#27ae60",
+      "fecha": "25 jun 2026",
+      "tag": "Cepeda · Reconocimiento oficial",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda reconoce a De la Espriella como presidente electo y acepta curul en el Senado",
+      "resumen": "Iván Cepeda reconoció formalmente a Abelardo de la Espriella como presidente electo de Colombia el 25 de junio, tras la entrega oficial de la credencial por parte del CNE. Junto a su fórmula vicepresidencial Aída Quilcué, aceptaron sus curules en el Congreso de la República: Cepeda en el Senado y Quilcué en la Cámara de Representantes. Harán oposición al gobierno entrante desde el poder legislativo. Con este acto, quedó formalmente cerrada la disputa electoral y las impugnaciones del Pacto Histórico.",
       "objetividad": 97,
       "criterios": [
         {
           "ok": true,
-          "texto": "Resultado confirmado: De la Espriella 49,66% (12.959.515 v) vs Cepeda 48,70% (12.708.695 v)"
+          "texto": "Reconocimiento de Cepeda confirmado por Semana ('Esto dijo', 25 jun)"
         },
         {
           "ok": true,
-          "texto": "Diferencia de ~250.000 votos según preconteo (El Colombiano, Semana, La Nación)"
+          "texto": "Aceptación de curules por Cepeda y Quilcué confirmada por Semana, Infobae y El Colombiano"
         },
         {
           "ok": true,
-          "texto": "Posesión confirmada para el 7 de agosto de 2026"
+          "texto": "Cepeda asumirá Senado, Quilcué la Cámara — estatuto de oposición"
         },
         {
           "ok": true,
-          "texto": "Escrutinio de jueces concluido al 100% con 99,997% de coincidencia con preconteo (24 jun)"
+          "texto": "CNE confirmó la decisión — Pulzo (25 jun)"
         }
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-ultimas-noticias-apoyos-y-reacciones-a-la-segunda-vuelta-entre-abelardo-de-la-espriella-e-ivan-cepeda-3561681",
-      "url_label": "El Tiempo — Abelardo De la Espriella es el nuevo presidente electo de Colombia"
+      "url": "https://www.semana.com/politica/articulo/ivan-cepeda-reconoce-a-abelardo-de-la-espriella-como-presidente-electo-de-colombia-esto-dijo/202626/",
+      "url_label": "Semana — Iván Cepeda reconoce a De la Espriella como presidente electo: esto dijo"
     },
     {
-      "filter": "cepeda",
-      "fuente": "El Espectador / Infobae",
-      "fuente_color": "#c0392b",
-      "fecha": "21 jun 2026",
-      "tag": "CRISIS · No reconocimiento",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "Cepeda no reconoce el preconteo e impugna 33.000 mesas — izquierda anuncia ir a escrutinios",
-      "resumen": "Tras conocerse los resultados preliminares, Iván Cepeda declaró que reconoce el preconteo 'como un dato aún no oficial ni vinculante' y anunció la impugnación de 33.000 mesas de votación. Congresistas del Pacto Histórico afirmaron: 'Iremos a los escrutinios para defender hasta el último voto', recordando que en 2022 recuperaron 500.000 votos en ese proceso. El escrutinio oficial continuará durante los próximos días.",
-      "objetividad": 94,
+      "filter": "valencia",
+      "fuente": "Pulzo / Semana / El Diario",
+      "fuente_color": "#9b59b6",
+      "fecha": "25 jun 2026",
+      "tag": "Valencia · Nuevo rol político",
+      "tag_color": "#9b59b6",
+      "tag_bg": "rgba(155,89,182,0.15)",
+      "titulo": "Valencia asume como vocera del Centro Democrático y se posiciona cerca del gobierno De la Espriella",
+      "resumen": "Paloma Valencia asumió un nuevo rol político tras su derrota en primera vuelta: se convierte en vocera política y programática principal del Centro Democrático, ubicándola muy cerca del gobierno entrante de Abelardo de la Espriella. Según Pulzo y Semana, también suena para directora del partido o embajadora de Colombia en España. El 23 de junio ya había entregado una propuesta programática al equipo De la Espriella-Restrepo. Sus 1,64 millones de votantes fueron considerados decisivos para la victoria por ~251.854 votos en segunda vuelta.",
+      "objetividad": 91,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaración de Cepeda confirmada: 'dato aún no oficial ni vinculante' (El Espectador, 21 jun)"
+          "texto": "Nuevo rol como vocera del CD — confirmado por Pulzo (25 jun) y El Diario"
         },
         {
           "ok": true,
-          "texto": "Impugnación de 33.000 mesas anunciada por el Pacto Histórico"
+          "texto": "Suena para directora del CD o embajadora a España — Semana / Pulzo"
         },
         {
           "ok": true,
-          "texto": "Referencia a recuperación de 500.000 votos en 2022 — hecho documentado"
-        },
-        {
-          "ok": true,
-          "texto": "Registraduría ratificó: escrutinio coincide 99,997% con preconteo — impugnaciones con impacto mínimo"
-        }
-      ],
-      "url": "https://www.elespectador.com/politica/elecciones-colombia-2026/ivan-cepeda-segunda-vuelta-2026-resultados-discurso-e-impugnacion-de-mesas-en-la-sede-del-pacto-historico/?outputType=amp",
-      "url_label": "El Espectador — Cepeda: resultados, discurso e impugnación de mesas en sede del Pacto Histórico"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Colombiano",
-      "fuente_color": "#e67e22",
-      "fecha": "21 jun 2026",
-      "tag": "Espriella · Primer discurso",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella da su primer discurso como presidente electo desde Barranquilla",
-      "resumen": "Desde su ciudad natal Barranquilla, Abelardo de la Espriella se dirigió al país en su primer discurso como presidente electo: 'Con una gratitud infinita a Dios, comparezco ante ustedes para dar la noticia más importante: el pueblo colombiano me ha confiado para ser su próximo presidente'. También advirtió a sus rivales: 'Petro y Cepeda, absténganse de desatar un incendio social'. Celebró junto a miles de costeños su victoria.",
-      "objetividad": 95,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Discurso desde Barranquilla confirmado por El Colombiano (21 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Cita textual: 'gratitud infinita a Dios... pueblo colombiano me ha confiado'"
-        },
-        {
-          "ok": true,
-          "texto": "Advertencia a Petro y Cepeda confirmada por France 24 (21 jun)"
+          "texto": "Propuesta programática entregada el 23 jun — confirmado por Infobae"
         },
         {
           "ok": false,
-          "texto": "Transcripción completa del discurso no disponible en fuentes consultadas"
+          "texto": "Cargo definitivo aún no anunciado oficialmente por el partido o el presidente electo"
         }
       ],
-      "url": "https://www.elcolombiano.com/amp/colombia/discurso-abelardo-de-la-espriella-presidente-electo-colombia-IK38015481",
-      "url_label": "El Colombiano — De la Espriella da su primer discurso como presidente electo"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Semana",
-      "fuente_color": "#2980b9",
-      "fecha": "21 jun 2026",
-      "tag": "Reacciones · Políticos",
-      "tag_color": "#2980b9",
-      "tag_bg": "rgba(41,128,185,0.15)",
-      "titulo": "Uribe, Duque, Char y el sector financiero felicitan a De la Espriella como nuevo presidente",
-      "resumen": "Las principales figuras del establecimiento político y económico celebraron la victoria de Abelardo de la Espriella. El expresidente Álvaro Uribe afirmó que De la Espriella 'tiene la capacidad de recuperar democráticamente al país'. Iván Duque felicitó al mandatario electo y a José Manuel Restrepo, nuevo vicepresidente. El alcalde de Barranquilla Alex Char declaró: 'Hoy ganó Colombia, ganó la democracia'. El sector financiero expresó su respaldo formal.",
-      "objetividad": 96,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaraciones de Uribe, Duque y Char confirmadas por Semana y El País (21 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Respaldo del sector financiero confirmado (El País de Cali, 21 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Vicepresidente: José Manuel Restrepo — confirmado en múltiples fuentes"
-        },
-        {
-          "ok": false,
-          "texto": "Lista completa de figuras que felicitaron aún en consolidación"
-        }
-      ],
-      "url": "https://www.semana.com/nacion/articulo/asi-reaccionaron-las-figuras-politicas-al-triunfo-de-abelardo-de-la-espriella-nuevo-presidente-de-colombia-2026-al-2030/202602/",
-      "url_label": "Semana — Así reaccionaron las figuras políticas al triunfo de De la Espriella"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "France 24",
-      "fuente_color": "#c0392b",
-      "fecha": "21 jun 2026",
-      "tag": "Espriella · Advertencia",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella: 'Petro y Cepeda, absténganse de desatar un incendio social'",
-      "resumen": "Tras conocerse el preconteo, el presidente electo Abelardo de la Espriella lanzó una advertencia directa al gobierno saliente y al candidato Cepeda: 'Petro y Cepeda, absténganse de desatar un incendio social'. La advertencia anticipó las tensiones institucionales por el no-reconocimiento de resultados. El candidato ganador llamó a la unidad y al respeto de las instituciones democráticas ante la polarización electoral extrema.",
-      "objetividad": 93,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Frase confirmada por France 24 en cobertura en vivo del 21-J"
-        },
-        {
-          "ok": true,
-          "texto": "Contexto de no-reconocimiento de Petro/Cepeda documentado"
-        },
-        {
-          "ok": false,
-          "texto": "Respuesta oficial de Petro a esta advertencia no publicada al cierre de edición"
-        },
-        {
-          "ok": false,
-          "texto": "Canal exacto por el que se emitió la advertencia no especificado"
-        }
-      ],
-      "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260621-%F0%9F%94%B4-en-directo-colombia-elige-a-su-nuevo-presidente-en-un-balotaje-polarizado",
-      "url_label": "France 24 — En directo: Colombia elige su nuevo presidente en un balotaje polarizado"
+      "url": "https://www.pulzo.com/elecciones-colombia-2026/paloma-valencia-nuevo-cargo-centro-democratico-cerca-espriella-PP5224247",
+      "url_label": "Pulzo — Paloma Valencia ya consiguió nuevo cargo y la verán cerca del Gobierno De la Espriella"
     },
     {
       "filter": "espriella",
@@ -267,8 +203,8 @@
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
       "titulo": "Registraduría da por terminado el escrutinio: coincide en 99,997% con el preconteo — De la Espriella ganó",
-      "resumen": "La Registraduría Nacional concluyó el escrutinio de primer nivel a cargo de los jueces de la República en las 118.350 mesas del territorio nacional. La coincidencia con el preconteo del 21 de junio es del 99,997%, ratificando la victoria de Abelardo de la Espriella. El presidente del CNE, Cristian Quiroz, indicó que aún no hay fecha para la declaración oficial del ganador, pero que se hará 'con igual o mayor celeridad que los 21 días anteriores'. El resultado no puede cambiar materialmente.",
-      "objetividad": 97,
+      "resumen": "La Registraduría Nacional concluyó el escrutinio de primer nivel a cargo de los jueces de la República en las 118.350 mesas del territorio nacional. La coincidencia con el preconteo del 21 de junio es del 99,997%, ratificando la victoria de Abelardo de la Espriella con 12.960.166 votos frente a 12.708.312 de Cepeda (diferencia definitiva: 251.854 votos). El CNE procedió a entregar credenciales el 25 de junio. El resultado no puede cambiar materialmente.",
+      "objetividad": 98,
       "criterios": [
         {
           "ok": true,
@@ -283,8 +219,8 @@
           "texto": "118.350 mesas revisadas en todo el territorio nacional"
         },
         {
-          "ok": false,
-          "texto": "CNE aún no ha fijado fecha para declaración oficial del presidente electo"
+          "ok": true,
+          "texto": "Diferencia definitiva: 251.854 votos — confirmada por Colombia.com (25 jun)"
         }
       ],
       "url": "https://www.colombia.com/elecciones/2026/registraduria-da-por-terminado-el-escrutinio-de-las-elecciones-presidenciales-589005",
@@ -331,7 +267,7 @@
       "tag_color": "#c0392b",
       "tag_bg": "rgba(192,57,43,0.15)",
       "titulo": "CNE frena al Pacto Histórico: 'Lo que no se solicita en la mesa ya no podrá pedirse'",
-      "resumen": "El Consejo Nacional Electoral advirtió el 23 de junio que varias etapas del calendario electoral ya vencieron, limitando el alcance de las impugnaciones del Pacto Histórico. La frase del CNE —'Lo que no se solicita en la mesa ya no podrá pedirse'— cierra la puerta a reclamaciones que debían presentarse en el momento de la votación. Cepeda insistió en pedir impugnación de más mesas, pero aseguró que reconocerá el resultado cuando se cierre el escrutinio oficial. Asesores jurídicos del equipo Cepeda, liderados por el exmagistrado Luis Guillermo Pérez, buscan rutas alternativas.",
+      "resumen": "El Consejo Nacional Electoral advirtió el 23 de junio que varias etapas del calendario electoral ya vencieron, limitando el alcance de las impugnaciones del Pacto Histórico. La frase del CNE —'Lo que no se solicita en la mesa ya no podrá pedirse'— cerró la puerta a reclamaciones que debían presentarse en el momento de la votación. El escrutinio final, con 99,997% de coincidencia con el preconteo, confirmó que las impugnaciones no tendrían impacto material. El 25 de junio Cepeda reconoció oficialmente su derrota.",
       "objetividad": 95,
       "criterios": [
         {
@@ -340,19 +276,83 @@
         },
         {
           "ok": true,
-          "texto": "Luis Guillermo Pérez lidera equipo jurídico — confirmado por Cambio Colombia"
+          "texto": "Luis Guillermo Pérez lideró equipo jurídico — confirmado por Cambio Colombia"
         },
         {
           "ok": true,
-          "texto": "Cepeda: 'Con el escrutinio final, reconoceremos el resultado' (El País, 23 jun)"
+          "texto": "Impugnaciones sin impacto material — escrutinio coincide 99,997% con preconteo"
         },
         {
-          "ok": false,
-          "texto": "Decisión final del CNE sobre mesas impugnadas aún pendiente"
+          "ok": true,
+          "texto": "Cepeda reconoció derrota el 25 jun tras entrega de credencial oficial del CNE"
         }
       ],
       "url": "https://www.colombia.com/elecciones/2026/cne-sobre-impugnacion-de-cepeda-que-etapas-ya-vencieron-y-que-puede-reclamarse-588884",
       "url_label": "Colombia.com — CNE sobre impugnación de Cepeda: etapas vencidas y qué puede reclamarse"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Tiempo / Semana",
+      "fuente_color": "#27ae60",
+      "fecha": "21 jun 2026",
+      "tag": "RESULTADO · Presidente Electo",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Abelardo De la Espriella gana la segunda vuelta con 49,66% — será el nuevo presidente de Colombia",
+      "resumen": "Abelardo de la Espriella (Defensores de la Patria) derrotó a Iván Cepeda (Pacto Histórico) en la segunda vuelta del 21 de junio con 49,66% (12.960.166 votos) frente a 48,70% (12.708.312 votos), una diferencia definitiva de 251.854 sufragios. El preconteo y el escrutinio oficial (99,997% de coincidencia) lo confirmaron como presidente electo. Asumirá el 7 de agosto de 2026, sucediendo a Gustavo Petro. El 25 de junio el CNE le entregó sus credenciales oficiales.",
+      "objetividad": 98,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Resultado confirmado: De la Espriella 49,66% (12.960.166 v) vs Cepeda 48,70% (12.708.312 v)"
+        },
+        {
+          "ok": true,
+          "texto": "Diferencia definitiva: 251.854 votos — escrutinio oficial al 100%"
+        },
+        {
+          "ok": true,
+          "texto": "Posesión confirmada para el 7 de agosto de 2026"
+        },
+        {
+          "ok": true,
+          "texto": "Credencial oficial entregada por CNE el 25 de junio de 2026"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-ultimas-noticias-apoyos-y-reacciones-a-la-segunda-vuelta-entre-abelardo-de-la-espriella-e-ivan-cepeda-3561681",
+      "url_label": "El Tiempo — Abelardo De la Espriella es el nuevo presidente electo de Colombia"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Colombiano",
+      "fuente_color": "#e67e22",
+      "fecha": "21 jun 2026",
+      "tag": "Espriella · Primer discurso",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella da su primer discurso como presidente electo desde Barranquilla",
+      "resumen": "Desde su ciudad natal Barranquilla, Abelardo de la Espriella se dirigió al país en su primer discurso como presidente electo: 'Con una gratitud infinita a Dios, comparezco ante ustedes para dar la noticia más importante: el pueblo colombiano me ha confiado para ser su próximo presidente'. También advirtió a sus rivales: 'Petro y Cepeda, absténganse de desatar un incendio social'. Celebró junto a miles de costeños su victoria. La crisis post-electoral quedó superada el 25 de junio con el reconocimiento formal de Cepeda.",
+      "objetividad": 95,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Discurso desde Barranquilla confirmado por El Colombiano (21 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Cita textual: 'gratitud infinita a Dios... pueblo colombiano me ha confiado'"
+        },
+        {
+          "ok": true,
+          "texto": "Advertencia a Petro y Cepeda confirmada por France 24 (21 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Crisis post-electoral superada: Cepeda reconoció derrota el 25 jun (Semana)"
+        }
+      ],
+      "url": "https://www.elcolombiano.com/amp/colombia/discurso-abelardo-de-la-espriella-presidente-electo-colombia-IK38015481",
+      "url_label": "El Colombiano — De la Espriella da su primer discurso como presidente electo"
     }
   ],
   "sentimiento": {
@@ -360,29 +360,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 81,
-        "negativo": 9,
-        "neutro": 10,
+        "positivo": 83,
+        "negativo": 8,
+        "neutro": 9,
         "tendencia": "up",
-        "tendencia_texto": "24 jun — PRESIDENTE ELECTO CONFIRMADO. Registraduría concluye escrutinio al 100%: coincide 99,997% con preconteo (49,65% vs 48,70% Cepeda). CNE declarará ganador oficial próximos días. Gabinete avanza: Gómez Amín (Interior), Bessudo (Ambiente), Lara (Justicia), Cabal suena para Defensa, ministra mujer para Hacienda. Posesión: 7 de agosto de 2026."
+        "tendencia_texto": "25 jun — CREDENCIAL OFICIAL. CNE entregó credenciales en Corferias: De la Espriella 12.960.166 votos, Cepeda 12.708.312, diferencia definitiva 251.854. Visitó Corte Constitucional. Prometió 'respeto absoluto por la crítica y el disenso'. Gabinete en construcción acelerada (Bessudo, Lara, Gómez Amín, Cabal, ministra Hacienda). Posesión: 7 de agosto de 2026."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 19,
-        "negativo": 66,
-        "neutro": 15,
-        "tendencia": "down",
-        "tendencia_texto": "24 jun — DERROTA RATIFICADA. Escrutinio al 100% confirma resultado: 48,70% vs 49,65% De la Espriella (diferencia ~250.000 votos, coincidencia 99,997%). CNE frenó impugnaciones. Cepeda comprometido a reconocer resultado oficial cuando CNE lo declare. Ruta jurídica alternativa con Luis Guillermo Pérez agotada."
+        "positivo": 23,
+        "negativo": 60,
+        "neutro": 17,
+        "tendencia": "stable",
+        "tendencia_texto": "25 jun — DERROTA RECONOCIDA OFICIALMENTE. Cepeda reconoció a De la Espriella como presidente electo y aceptó su curul en el Senado. Aída Quilcué aceptó curul en la Cámara. Harán oposición desde el Congreso. Cifras definitivas: 48,70% (12.708.312 votos), diferencia: 251.854 votos. Crisis post-electoral cerrada."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 60,
-        "negativo": 20,
-        "neutro": 20,
+        "positivo": 63,
+        "negativo": 18,
+        "neutro": 19,
         "tendencia": "up",
-        "tendencia_texto": "24 jun — FUERA de la carrera. Su apoyo a De la Espriella fue estratégico: estimaciones señalan que 76% de sus 1,64M votantes migró al ganador. Centro Democrático celebra la victoria. Negociación activa para posiciones en el gabinete de De la Espriella (Defensa y otras carteras en juego)."
+        "tendencia_texto": "25 jun — NUEVO ROL. Asume como vocera política y programática del Centro Democrático, posicionada muy cerca del gobierno De la Espriella. Suena para Directora del CD o embajadora a España. Entregó propuesta programática al gobierno electo. Su apoyo fue estratégico para la victoria por 251.854 votos."
       }
     ]
   },
@@ -391,7 +391,7 @@
     "cepeda": 48.7,
     "fuente": "Registraduría Nacional — escrutinio oficial 100% concluido, 24 jun 2026",
     "tipo": "resultado_oficial",
-    "nota": "RESULTADO CONFIRMADO (escrutinio 100%, 24 jun): Registraduría concluye revisión de 118.350 mesas — preconteo coincide en 99,997% con escrutinio de jueces. De la Espriella 49,66% (12.959.515 votos) vs Cepeda 48,70% (12.708.695 votos). Diferencia: ~250.000 votos. CNE declarará ganador oficial en los próximos días. ENCUESTAS PREVIAS A VEDA: Guarumo/Ecoanalítica (13 jun): De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). AtlasIntel (5-10 jun): 52,2% vs 44,5% (+7,7 pts). CNC (15 jun): 48,6% vs 44,7% (+3,9 pts). Promedio CONDOR: +7,0 pts."
+    "nota": "RESULTADO DEFINITIVO (escrutinio 100%, credencial CNE 25 jun): De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos). Diferencia oficial: 251.854 votos sobre 25.668.478 sufragios válidos. Registraduría: 118.350 mesas revisadas, coincidencia preconteo-escrutinio 99,997%. Cepeda reconoció derrota el 25 jun y aceptó curul en el Senado. ENCUESTAS PREVIAS A VEDA: Guarumo/Ecoanalítica (13 jun): De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). AtlasIntel (5-10 jun): 52,2% vs 44,5% (+7,7 pts). CNC (15 jun): 48,6% vs 44,7% (+3,9 pts). Promedio CONDOR: +7,0 pts."
   },
   "prediccion": {
     "primero": {
@@ -399,7 +399,7 @@
       "partido": "Defensores de la Patria / Salvación Nacional + Centro Democrático",
       "color": "#e67e22",
       "pct": 49.66,
-      "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
+      "fuente_encuesta": "Registraduría — escrutinio oficial 100%, credencial CNE 25 jun 2026"
     },
     "segundo": {
       "nombre": "Iván Cepeda",
@@ -408,7 +408,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "RESULTADO OFICIAL RATIFICADO — 24 de junio de 2026. GANADOR: Abelardo De la Espriella (49,66% / 12,9M votos) sobre Iván Cepeda (48,70% / 12,7M votos). Diferencia: ~250.000 votos. ESCRUTINIO CONCLUIDO: Registraduría terminó revisión al 100% (118.350 mesas) con 99,997% de coincidencia con preconteo. CNE declarará ganador oficial próximos días. CRISIS POST-ELECTORAL EN RETROCESO: Impugnaciones del Pacto Histórico sin impacto material; CNE cerró etapas procesales clave. GABINETE EN CONSTRUCCIÓN: Bessudo (Ambiente), Lara (Justicia), Gómez Amín (Interior), Cabal (Defensa), ministra para Hacienda. POSESIÓN: 7 de agosto de 2026."
+    "resumen_analisis": "ELECCIÓN CERRADA DEFINITIVAMENTE — 25 de junio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos) sobre Iván Cepeda (48,70% / 12.708.312 votos). Diferencia definitiva: 251.854 votos sobre 25.668.478 sufragios válidos. CREDENCIAL OFICIAL: CNE entregó credenciales el 25 jun en Corferias; De la Espriella visitó Corte Constitucional y prometió 'respeto absoluto por la crítica y el disenso'. RECONOCIMIENTO: Cepeda reconoció formalmente la derrota y aceptó curul en el Senado; Quilcué en la Cámara; harán oposición. VALENCIA: asume nuevo rol como vocera del Centro Democrático cercana al gobierno. GABINETE EN CONSTRUCCIÓN: Bessudo (Ambiente), Lara (Justicia), Gómez Amín (Interior), Cabal (Defensa), ministra para Hacienda. POSESIÓN: 7 de agosto de 2026."
   },
-  "ultimo_deploy": "2026-06-24T00:00:00Z"
+  "ultimo_deploy": "2026-06-26T00:00:00Z"
 }
