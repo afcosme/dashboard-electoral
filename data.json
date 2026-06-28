@@ -1,5 +1,5 @@
 {
-  "fecha": "26 de junio de 2026",
+  "fecha": "28 de junio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -98,6 +98,38 @@
     }
   ],
   "noticias": [
+    {
+      "filter": "espriella",
+      "fuente": "Semana / El Tiempo / La Silla Vacía / Infobae",
+      "fuente_color": "#27ae60",
+      "fecha": "26 jun 2026",
+      "tag": "GABINETE · Primer nombramiento oficial",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "De la Espriella anuncia su primer nombramiento: Rodrigo Lara Restrepo como Ministro del Interior",
+      "resumen": "El presidente electo Abelardo de la Espriella hizo su primer nombramiento oficial de gabinete el 26 de junio: Rodrigo Lara Restrepo como Ministro del Interior. El anuncio, hecho a través de un video generado con inteligencia artificial —al estilo de la campaña—, designa al exsenador (Cambio Radical, 2018-2022) como el encargado de las relaciones con el Congreso y la agenda legislativa del nuevo gobierno desde el 7 de agosto. Lara es abogado del Externado, estudió en Sciences Po París y se graduó de la ENA en Francia. Su padre, Rodrigo Lara Bonilla, fue asesinado en 1984 siendo Ministro de Justicia por enfrentarse al narcotráfico. El 27 de junio, De la Espriella también designó al vicepresidente electo José Manuel Restrepo como director del Empalme Anticorrupción, señalizando que la lucha contra la corrupción será eje central del gobierno.",
+      "objetividad": 98,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Nombramiento de Lara como Ministro del Interior — confirmado por Semana, El Tiempo, La Silla Vacía e Infobae (26 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Anuncio vía video con IA, al estilo de la campaña — Semana (26 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Restrepo como director del Empalme Anticorrupción — confirmado por Semana (27 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Es el primer nombramiento oficial del gabinete De la Espriella — La Patria / Pulzo (26 jun)"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/06/26/rodrigo-lara-restrepo-fue-elegido-como-ministro-del-interior-en-el-gobierno-de-abelardo-de-la-espriella/",
+      "url_label": "Infobae — Rodrigo Lara Restrepo elegido como ministro del Interior en el gobierno de De la Espriella"
+    },
     {
       "filter": "espriella",
       "fuente": "El Tiempo / Infobae / Noticias Caracol",
@@ -228,35 +260,35 @@
     },
     {
       "filter": "espriella",
-      "fuente": "El Tiempo / Vanguardia / El Colombiano",
+      "fuente": "El Tiempo / Semana / Bloomberg Línea / El Colombiano",
       "fuente_color": "#2980b9",
-      "fecha": "23 jun 2026",
-      "tag": "Espriella · Gabinete ampliado",
+      "fecha": "26 jun 2026",
+      "tag": "Espriella · Gabinete en construcción",
       "tag_color": "#2980b9",
       "tag_bg": "rgba(41,128,185,0.15)",
-      "titulo": "Gabinete De la Espriella se amplía: Bessudo para Ambiente, Rodrigo Lara para Justicia y Hacienda tendría ministra",
-      "resumen": "El presidente electo avanza en la conformación de su gabinete con más de la mitad de las carteras definidas. Sandra Bessudo, bióloga marina de reconocimiento internacional, estaría al frente del Ministerio de Ambiente. Rodrigo Lara Restrepo suena para Justicia. El vicepresidente electo José Manuel Restrepo propone formalmente designar una mujer para el Ministerio de Hacienda por primera vez en la historia de Colombia, con una cartera de cinco candidatas de alto perfil técnico. Mauricio Gómez Amín para Interior y María Fernanda Cabal para Defensa se mantienen en el sonajero.",
-      "objetividad": 93,
+      "titulo": "Gabinete De la Espriella toma forma: Bessudo (Ambiente), Gómez Amín (Interior/Presidencia) y ministra para Hacienda",
+      "resumen": "Además de Rodrigo Lara en el Ministerio del Interior, el presidente electo avanza en su gabinete con más nombres. Sandra Bessudo, bióloga marina de reconocimiento internacional, estaría al frente del Ministerio de Ambiente. Mauricio Gómez Amín, jefe de debate de campaña, tiene lugar garantizado en el gobierno según De la Espriella, aunque sin cartera definida aún. El vicepresidente electo José Manuel Restrepo propone designar por primera vez una mujer para el Ministerio de Hacienda. María Fernanda Cabal sigue sonando para Defensa. La selección de candidatos se hace revisando hojas de vida junto a Restrepo, según confirmó el propio presidente electo.",
+      "objetividad": 90,
       "criterios": [
         {
           "ok": true,
-          "texto": "Sandra Bessudo para Ambiente confirmada por múltiples fuentes (Pulzo, El Colombiano, 23 jun)"
+          "texto": "Sandra Bessudo para Ambiente confirmada por múltiples fuentes (Pulzo, El Colombiano, Jun)"
         },
         {
           "ok": true,
-          "texto": "Rodrigo Lara Restrepo para Justicia citado por Cambio Colombia y El Tiempo"
+          "texto": "Gómez Amín garantizado en gobierno — De la Espriella lo confirmó (Semana)"
         },
         {
           "ok": true,
-          "texto": "Restrepo propone ministra para Hacienda — confirmado por Vanguardia (23 jun)"
+          "texto": "Restrepo propone ministra para Hacienda — confirmado por Vanguardia"
         },
         {
           "ok": false,
-          "texto": "Lista definitiva de ministros aún no anunciada oficialmente por De la Espriella"
+          "texto": "Lista definitiva de ministros aún no anunciada oficialmente"
         }
       ],
-      "url": "https://www.vanguardia.com/colombia/2026/06/23/abelardo-de-la-espriella-avanza-en-la-conformacion-de-su-gabinete-y-ya-tendria-la-mitad-definida/",
-      "url_label": "Vanguardia — De la Espriella avanza en la conformación de su gabinete y ya tendría la mitad definida"
+      "url": "https://www.bloomberglinea.com/latinoamerica/colombia/cual-sera-el-gabinete-de-abelardo-de-la-espriella-los-nombres-que-se-perfilan-para-acompanarlo/",
+      "url_label": "Bloomberg Línea — ¿Cuál será el gabinete de Abelardo de la Espriella? Los nombres que se perfilan"
     },
     {
       "filter": "cepeda",
@@ -321,38 +353,6 @@
       ],
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-ultimas-noticias-apoyos-y-reacciones-a-la-segunda-vuelta-entre-abelardo-de-la-espriella-e-ivan-cepeda-3561681",
       "url_label": "El Tiempo — Abelardo De la Espriella es el nuevo presidente electo de Colombia"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Colombiano",
-      "fuente_color": "#e67e22",
-      "fecha": "21 jun 2026",
-      "tag": "Espriella · Primer discurso",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella da su primer discurso como presidente electo desde Barranquilla",
-      "resumen": "Desde su ciudad natal Barranquilla, Abelardo de la Espriella se dirigió al país en su primer discurso como presidente electo: 'Con una gratitud infinita a Dios, comparezco ante ustedes para dar la noticia más importante: el pueblo colombiano me ha confiado para ser su próximo presidente'. También advirtió a sus rivales: 'Petro y Cepeda, absténganse de desatar un incendio social'. Celebró junto a miles de costeños su victoria. La crisis post-electoral quedó superada el 25 de junio con el reconocimiento formal de Cepeda.",
-      "objetividad": 95,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Discurso desde Barranquilla confirmado por El Colombiano (21 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Cita textual: 'gratitud infinita a Dios... pueblo colombiano me ha confiado'"
-        },
-        {
-          "ok": true,
-          "texto": "Advertencia a Petro y Cepeda confirmada por France 24 (21 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Crisis post-electoral superada: Cepeda reconoció derrota el 25 jun (Semana)"
-        }
-      ],
-      "url": "https://www.elcolombiano.com/amp/colombia/discurso-abelardo-de-la-espriella-presidente-electo-colombia-IK38015481",
-      "url_label": "El Colombiano — De la Espriella da su primer discurso como presidente electo"
     }
   ],
   "sentimiento": {
@@ -360,11 +360,11 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 83,
-        "negativo": 8,
-        "neutro": 9,
+        "positivo": 85,
+        "negativo": 7,
+        "neutro": 8,
         "tendencia": "up",
-        "tendencia_texto": "25 jun — CREDENCIAL OFICIAL. CNE entregó credenciales en Corferias: De la Espriella 12.960.166 votos, Cepeda 12.708.312, diferencia definitiva 251.854. Visitó Corte Constitucional. Prometió 'respeto absoluto por la crítica y el disenso'. Gabinete en construcción acelerada (Bessudo, Lara, Gómez Amín, Cabal, ministra Hacienda). Posesión: 7 de agosto de 2026."
+        "tendencia_texto": "28 jun — GABINETE EN MARCHA. Primer nombramiento oficial: Rodrigo Lara Restrepo como Ministro del Interior (26 jun), anunciado vía video IA al estilo campaña. Restrepo designado director del Empalme Anticorrupción (27 jun). Gabinete avanza: Bessudo (Ambiente), Gómez Amín (cargo por definir), ministra para Hacienda, Cabal (Defensa). Credencial CNE entregada el 25 jun: 12.960.166 votos (49,66%), diferencia 251.854 sobre Cepeda. Posesión: 7 de agosto de 2026."
       },
       {
         "nombre": "Cepeda",
@@ -408,7 +408,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "ELECCIÓN CERRADA DEFINITIVAMENTE — 25 de junio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos) sobre Iván Cepeda (48,70% / 12.708.312 votos). Diferencia definitiva: 251.854 votos sobre 25.668.478 sufragios válidos. CREDENCIAL OFICIAL: CNE entregó credenciales el 25 jun en Corferias; De la Espriella visitó Corte Constitucional y prometió 'respeto absoluto por la crítica y el disenso'. RECONOCIMIENTO: Cepeda reconoció formalmente la derrota y aceptó curul en el Senado; Quilcué en la Cámara; harán oposición. VALENCIA: asume nuevo rol como vocera del Centro Democrático cercana al gobierno. GABINETE EN CONSTRUCCIÓN: Bessudo (Ambiente), Lara (Justicia), Gómez Amín (Interior), Cabal (Defensa), ministra para Hacienda. POSESIÓN: 7 de agosto de 2026."
+    "resumen_analisis": "ELECCIÓN CERRADA DEFINITIVAMENTE — 25 de junio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos) sobre Iván Cepeda (48,70% / 12.708.312 votos). Diferencia definitiva: 251.854 votos sobre 25.668.478 sufragios válidos. CREDENCIAL OFICIAL: CNE entregó credenciales el 25 jun en Corferias; De la Espriella visitó Corte Constitucional y prometió 'respeto absoluto por la crítica y el disenso'. RECONOCIMIENTO: Cepeda reconoció formalmente la derrota y aceptó curul en el Senado; Quilcué en la Cámara; harán oposición. VALENCIA: asume nuevo rol como vocera del Centro Democrático cercana al gobierno. GABINETE: Rodrigo Lara (Interior, 26 jun — primer nombramiento oficial), Restrepo como director Empalme Anticorrupción (27 jun), Bessudo (Ambiente), Gómez Amín (cargo por definir), ministra para Hacienda (primera mujer en ese rol), Cabal (Defensa). POSESIÓN: 7 de agosto de 2026."
   },
-  "ultimo_deploy": "2026-06-26T00:00:00Z"
+  "ultimo_deploy": "2026-06-28T00:00:00Z"
 }
