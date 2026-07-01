@@ -1,5 +1,5 @@
 {
-  "fecha": "28 de junio de 2026",
+  "fecha": "1 de julio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -260,67 +260,67 @@
     },
     {
       "filter": "espriella",
-      "fuente": "El Tiempo / Semana / Bloomberg Línea / El Colombiano",
-      "fuente_color": "#2980b9",
-      "fecha": "26 jun 2026",
-      "tag": "Espriella · Gabinete en construcción",
-      "tag_color": "#2980b9",
-      "tag_bg": "rgba(41,128,185,0.15)",
-      "titulo": "Gabinete De la Espriella toma forma: Bessudo (Ambiente), Gómez Amín (Interior/Presidencia) y ministra para Hacienda",
-      "resumen": "Además de Rodrigo Lara en el Ministerio del Interior, el presidente electo avanza en su gabinete con más nombres. Sandra Bessudo, bióloga marina de reconocimiento internacional, estaría al frente del Ministerio de Ambiente. Mauricio Gómez Amín, jefe de debate de campaña, tiene lugar garantizado en el gobierno según De la Espriella, aunque sin cartera definida aún. El vicepresidente electo José Manuel Restrepo propone designar por primera vez una mujer para el Ministerio de Hacienda. María Fernanda Cabal sigue sonando para Defensa. La selección de candidatos se hace revisando hojas de vida junto a Restrepo, según confirmó el propio presidente electo.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Sandra Bessudo para Ambiente confirmada por múltiples fuentes (Pulzo, El Colombiano, Jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Gómez Amín garantizado en gobierno — De la Espriella lo confirmó (Semana)"
-        },
-        {
-          "ok": true,
-          "texto": "Restrepo propone ministra para Hacienda — confirmado por Vanguardia"
-        },
-        {
-          "ok": false,
-          "texto": "Lista definitiva de ministros aún no anunciada oficialmente"
-        }
-      ],
-      "url": "https://www.bloomberglinea.com/latinoamerica/colombia/cual-sera-el-gabinete-de-abelardo-de-la-espriella-los-nombres-que-se-perfilan-para-acompanarlo/",
-      "url_label": "Bloomberg Línea — ¿Cuál será el gabinete de Abelardo de la Espriella? Los nombres que se perfilan"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Colombia.com / El Colombiano / El País",
-      "fuente_color": "#c0392b",
-      "fecha": "23 jun 2026",
-      "tag": "Jurídico · CNE frena impugnaciones",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "CNE frena al Pacto Histórico: 'Lo que no se solicita en la mesa ya no podrá pedirse'",
-      "resumen": "El Consejo Nacional Electoral advirtió el 23 de junio que varias etapas del calendario electoral ya vencieron, limitando el alcance de las impugnaciones del Pacto Histórico. La frase del CNE —'Lo que no se solicita en la mesa ya no podrá pedirse'— cerró la puerta a reclamaciones que debían presentarse en el momento de la votación. El escrutinio final, con 99,997% de coincidencia con el preconteo, confirmó que las impugnaciones no tendrían impacto material. El 25 de junio Cepeda reconoció oficialmente su derrota.",
+      "fuente": "Semana",
+      "fuente_color": "#27ae60",
+      "fecha": "30 jun 2026",
+      "tag": "GABINETE · Hacienda confirmada",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "De la Espriella confirma a Miguel Gómez Martínez como Ministro de Hacienda",
+      "resumen": "El presidente electo Abelardo de la Espriella confirmó a Miguel Gómez Martínez como su Ministro de Hacienda, según reveló Semana el 30 de junio. Gómez Martínez es economista y exembajador de Colombia en Francia, con amplia experiencia en política fiscal internacional. Su nombramiento es clave dado que el nuevo gobierno recibirá una crítica situación fiscal. El vicepresidente electo José Manuel Restrepo, quien revisa hojas de vida junto al presidente electo, refrendó la selección. Con este nombre confirmado, el gabinete De la Espriella suma a Rodrigo Lara (Interior) y avanza hacia la posesión del 7 de agosto.",
       "objetividad": 95,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaración del CNE confirmada por Colombia.com y El Colombiano (23 jun)"
+          "texto": "Miguel Gómez Martínez para Hacienda — confirmado por Semana (30 jun)"
         },
         {
           "ok": true,
-          "texto": "Luis Guillermo Pérez lideró equipo jurídico — confirmado por Cambio Colombia"
+          "texto": "Exembajador de Colombia en Francia, economista con perfil internacional"
         },
         {
           "ok": true,
-          "texto": "Impugnaciones sin impacto material — escrutinio coincide 99,997% con preconteo"
+          "texto": "Restrepo colidera la revisión de hojas de vida — confirmado por Semana"
         },
         {
           "ok": true,
-          "texto": "Cepeda reconoció derrota el 25 jun tras entrega de credencial oficial del CNE"
+          "texto": "Lara (Interior) ya era el primer nombramiento oficial desde el 26 jun"
         }
       ],
-      "url": "https://www.colombia.com/elecciones/2026/cne-sobre-impugnacion-de-cepeda-que-etapas-ya-vencieron-y-que-puede-reclamarse-588884",
-      "url_label": "Colombia.com — CNE sobre impugnación de Cepeda: etapas vencidas y qué puede reclamarse"
+      "url": "https://www.semana.com/politica/articulo/miguel-gomez-martinez-sera-el-ministro-de-hacienda-en-el-gobierno-de-abelardo-de-la-espriella/202655/",
+      "url_label": "Semana — Miguel Gómez Martínez será el ministro de Hacienda en el Gobierno de De la Espriella"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Colombiano / El Tiempo / El Espectador",
+      "fuente_color": "#2980b9",
+      "fecha": "30 jun 2026",
+      "tag": "Espriella · Sonajero ministerial",
+      "tag_color": "#2980b9",
+      "tag_bg": "rgba(41,128,185,0.15)",
+      "titulo": "Tres nuevos nombres suman al sonajero del gabinete: Beltrán para Defensa, más candidatos para Cancillería y Comercio",
+      "resumen": "El Colombiano, El Tiempo y El Espectador revelan el 29-30 de junio que tres nuevos nombres se suman al sonajero del gabinete de De la Espriella: Jaime Andrés Beltrán, exalcalde de Bucaramanga, es el más mencionado para el Ministerio de Defensa. María Claudia Lacouture, presidenta ejecutiva de la Cámara de Comercio Colombo Americana, suena para la Embajada en Washington. Mauricio Gómez Amín tiene cupo garantizado, posiblemente en Comercio Exterior. La definición del gabinete completo se espera para los días previos al 7 de agosto. De la Espriella deberá cumplir la Ley de Cuotas: mínimo 50% de cargos de alto nivel para mujeres.",
+      "objetividad": 88,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Beltrán para Defensa — reportado por El Colombiano y El Tiempo (29-30 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Lacouture suena para Embajada en Washington — El Espectador / Bloomberg Línea"
+        },
+        {
+          "ok": true,
+          "texto": "Gómez Amín garantizado en gobierno — De la Espriella lo confirmó previamente"
+        },
+        {
+          "ok": false,
+          "texto": "Lista definitiva del gabinete aún no anunciada oficialmente"
+        }
+      ],
+      "url": "https://www.elcolombiano.com/colombia/politica/nombres-sonajero-gabinete-ministerial-abelardo-de-la-espriella-CD38083001",
+      "url_label": "El Colombiano — Tres nuevos nombres se suman al sonajero del gabinete ministerial de De la Espriella"
     },
     {
       "filter": "espriella",
@@ -364,7 +364,7 @@
         "negativo": 7,
         "neutro": 8,
         "tendencia": "up",
-        "tendencia_texto": "28 jun — GABINETE EN MARCHA. Primer nombramiento oficial: Rodrigo Lara Restrepo como Ministro del Interior (26 jun), anunciado vía video IA al estilo campaña. Restrepo designado director del Empalme Anticorrupción (27 jun). Gabinete avanza: Bessudo (Ambiente), Gómez Amín (cargo por definir), ministra para Hacienda, Cabal (Defensa). Credencial CNE entregada el 25 jun: 12.960.166 votos (49,66%), diferencia 251.854 sobre Cepeda. Posesión: 7 de agosto de 2026."
+        "tendencia_texto": "1 jul — GABINETE TOMA FORMA. Miguel Gómez Martínez confirmado como Ministro de Hacienda (Semana, 30 jun). Rodrigo Lara: Ministro del Interior (primer nombramiento oficial, 26 jun). Nuevos nombres del sonajero: Jaime Andrés Beltrán para Defensa, Lacouture para Washington, Gómez Amín para Comercio. Restrepo como director del Empalme Anticorrupción. Posesión: 7 de agosto de 2026."
       },
       {
         "nombre": "Cepeda",
@@ -373,7 +373,7 @@
         "negativo": 60,
         "neutro": 17,
         "tendencia": "stable",
-        "tendencia_texto": "25 jun — DERROTA RECONOCIDA OFICIALMENTE. Cepeda reconoció a De la Espriella como presidente electo y aceptó su curul en el Senado. Aída Quilcué aceptó curul en la Cámara. Harán oposición desde el Congreso. Cifras definitivas: 48,70% (12.708.312 votos), diferencia: 251.854 votos. Crisis post-electoral cerrada."
+        "tendencia_texto": "1 jul — OPOSICIÓN EN EL SENADO. Cepeda asume su curul como jefe de oposición en el Senado. Reconoció la derrota el 25 jun (251.854 votos de diferencia). Quilcué asume en la Cámara. El Pacto Histórico se organiza para ser la principal bancada opositora al gobierno De la Espriella desde el 7 de agosto. Sin actividad de campaña; transición hacia rol legislativo."
       },
       {
         "nombre": "Valencia",
@@ -382,7 +382,7 @@
         "negativo": 18,
         "neutro": 19,
         "tendencia": "up",
-        "tendencia_texto": "25 jun — NUEVO ROL. Asume como vocera política y programática del Centro Democrático, posicionada muy cerca del gobierno De la Espriella. Suena para Directora del CD o embajadora a España. Entregó propuesta programática al gobierno electo. Su apoyo fue estratégico para la victoria por 251.854 votos."
+        "tendencia_texto": "1 jul — VOCERA DEL CD SIN CURUL. Valencia asumió como vocera política y programática del Centro Democrático. No tendrá curul en el Congreso desde el 20 de julio — su rol se centra en articular propuestas del CD al nuevo gobierno. Suena para directora del partido o embajadora a España. Sus 1,64 millones de votantes fueron estratégicos para la victoria por 251.854 votos."
       }
     ]
   },
@@ -408,7 +408,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "ELECCIÓN CERRADA DEFINITIVAMENTE — 25 de junio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos) sobre Iván Cepeda (48,70% / 12.708.312 votos). Diferencia definitiva: 251.854 votos sobre 25.668.478 sufragios válidos. CREDENCIAL OFICIAL: CNE entregó credenciales el 25 jun en Corferias; De la Espriella visitó Corte Constitucional y prometió 'respeto absoluto por la crítica y el disenso'. RECONOCIMIENTO: Cepeda reconoció formalmente la derrota y aceptó curul en el Senado; Quilcué en la Cámara; harán oposición. VALENCIA: asume nuevo rol como vocera del Centro Democrático cercana al gobierno. GABINETE: Rodrigo Lara (Interior, 26 jun — primer nombramiento oficial), Restrepo como director Empalme Anticorrupción (27 jun), Bessudo (Ambiente), Gómez Amín (cargo por definir), ministra para Hacienda (primera mujer en ese rol), Cabal (Defensa). POSESIÓN: 7 de agosto de 2026."
+    "resumen_analisis": "TRANSICIÓN EN MARCHA — 1 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos) sobre Iván Cepeda (48,70% / 12.708.312 votos). Diferencia definitiva: 251.854 votos. GABINETE AVANZA: Miguel Gómez Martínez (Hacienda, confirmado 30 jun), Rodrigo Lara (Interior, 26 jun — primer nombramiento oficial), Restrepo como director Empalme Anticorrupción; sonajero: Beltrán (Defensa), Lacouture (Washington), Gómez Amín (Comercio), Bessudo (Ambiente). OPOSICIÓN: Cepeda asume curul en Senado, Quilcué en Cámara — Pacto Histórico se organiza como principal bancada opositora. VALENCIA: vocera del CD sin curul desde el 20 jul, articulando agenda entre el partido y el nuevo gobierno. POSESIÓN: 7 de agosto de 2026."
   },
-  "ultimo_deploy": "2026-06-28T00:00:00Z"
+  "ultimo_deploy": "2026-07-01T00:00:00Z"
 }
