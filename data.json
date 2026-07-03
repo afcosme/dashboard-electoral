@@ -1,5 +1,5 @@
 {
-  "fecha": "1 de julio de 2026",
+  "fecha": "3 de julio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,163 +100,99 @@
   "noticias": [
     {
       "filter": "espriella",
-      "fuente": "Semana / El Tiempo / La Silla Vacía / Infobae",
-      "fuente_color": "#27ae60",
-      "fecha": "26 jun 2026",
-      "tag": "GABINETE · Primer nombramiento oficial",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "De la Espriella anuncia su primer nombramiento: Rodrigo Lara Restrepo como Ministro del Interior",
-      "resumen": "El presidente electo Abelardo de la Espriella hizo su primer nombramiento oficial de gabinete el 26 de junio: Rodrigo Lara Restrepo como Ministro del Interior. El anuncio, hecho a través de un video generado con inteligencia artificial —al estilo de la campaña—, designa al exsenador (Cambio Radical, 2018-2022) como el encargado de las relaciones con el Congreso y la agenda legislativa del nuevo gobierno desde el 7 de agosto. Lara es abogado del Externado, estudió en Sciences Po París y se graduó de la ENA en Francia. Su padre, Rodrigo Lara Bonilla, fue asesinado en 1984 siendo Ministro de Justicia por enfrentarse al narcotráfico. El 27 de junio, De la Espriella también designó al vicepresidente electo José Manuel Restrepo como director del Empalme Anticorrupción, señalizando que la lucha contra la corrupción será eje central del gobierno.",
-      "objetividad": 98,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Nombramiento de Lara como Ministro del Interior — confirmado por Semana, El Tiempo, La Silla Vacía e Infobae (26 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Anuncio vía video con IA, al estilo de la campaña — Semana (26 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Restrepo como director del Empalme Anticorrupción — confirmado por Semana (27 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Es el primer nombramiento oficial del gabinete De la Espriella — La Patria / Pulzo (26 jun)"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/06/26/rodrigo-lara-restrepo-fue-elegido-como-ministro-del-interior-en-el-gobierno-de-abelardo-de-la-espriella/",
-      "url_label": "Infobae — Rodrigo Lara Restrepo elegido como ministro del Interior en el gobierno de De la Espriella"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Tiempo / Infobae / Noticias Caracol",
-      "fuente_color": "#27ae60",
-      "fecha": "25 jun 2026",
-      "tag": "OFICIAL · Credencial CNE",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "CNE entrega credencial oficial a De la Espriella — diferencia definitiva: 251.854 votos",
-      "resumen": "El Consejo Nacional Electoral entregó este 25 de junio en Corferias la credencial que oficializa a Abelardo de la Espriella como presidente electo de Colombia (2026-2030), acto presidido por el magistrado Cristian Quiroz. Las cifras definitivas del escrutinio: 12.960.166 votos (De la Espriella) frente a 12.708.312 (Cepeda), diferencia de 251.854 votos sobre 25.668.478 sufragios válidos. Restrepo recibió simultáneamente su credencial como vicepresidente electo. Tras el acto, De la Espriella visitó la Corte Constitucional y prometió 'respeto absoluto por la crítica y el disenso de todos los colombianos'. Posesión: 7 de agosto de 2026.",
-      "objetividad": 98,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Credencial entregada el 25 jun en Corferias — confirmado por El Tiempo, Infobae, Noticias Caracol"
-        },
-        {
-          "ok": true,
-          "texto": "Cifras definitivas: De la Espriella 12.960.166 vs Cepeda 12.708.312 (diferencia: 251.854)"
-        },
-        {
-          "ok": true,
-          "texto": "Total votos escrutados: 25.668.478 — confirmado por Colombia.com"
-        },
-        {
-          "ok": true,
-          "texto": "Promesa de 'respeto absoluto por la crítica y el disenso' — El Tiempo (25 jun)"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/06/25/abelardo-de-la-espriella-recibe-este-25-de-junio-la-credencial-como-presidente-electo-de-colombia-y-luego-ira-a-la-corte-constitucional/",
-      "url_label": "Infobae — De la Espriella recibe la credencial como presidente electo y visita la Corte Constitucional"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Semana / Infobae / El Colombiano",
-      "fuente_color": "#27ae60",
-      "fecha": "25 jun 2026",
-      "tag": "Cepeda · Reconocimiento oficial",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda reconoce a De la Espriella como presidente electo y acepta curul en el Senado",
-      "resumen": "Iván Cepeda reconoció formalmente a Abelardo de la Espriella como presidente electo de Colombia el 25 de junio, tras la entrega oficial de la credencial por parte del CNE. Junto a su fórmula vicepresidencial Aída Quilcué, aceptaron sus curules en el Congreso de la República: Cepeda en el Senado y Quilcué en la Cámara de Representantes. Harán oposición al gobierno entrante desde el poder legislativo. Con este acto, quedó formalmente cerrada la disputa electoral y las impugnaciones del Pacto Histórico.",
-      "objetividad": 97,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Reconocimiento de Cepeda confirmado por Semana ('Esto dijo', 25 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Aceptación de curules por Cepeda y Quilcué confirmada por Semana, Infobae y El Colombiano"
-        },
-        {
-          "ok": true,
-          "texto": "Cepeda asumirá Senado, Quilcué la Cámara — estatuto de oposición"
-        },
-        {
-          "ok": true,
-          "texto": "CNE confirmó la decisión — Pulzo (25 jun)"
-        }
-      ],
-      "url": "https://www.semana.com/politica/articulo/ivan-cepeda-reconoce-a-abelardo-de-la-espriella-como-presidente-electo-de-colombia-esto-dijo/202626/",
-      "url_label": "Semana — Iván Cepeda reconoce a De la Espriella como presidente electo: esto dijo"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "Pulzo / Semana / El Diario",
-      "fuente_color": "#9b59b6",
-      "fecha": "25 jun 2026",
-      "tag": "Valencia · Nuevo rol político",
-      "tag_color": "#9b59b6",
-      "tag_bg": "rgba(155,89,182,0.15)",
-      "titulo": "Valencia asume como vocera del Centro Democrático y se posiciona cerca del gobierno De la Espriella",
-      "resumen": "Paloma Valencia asumió un nuevo rol político tras su derrota en primera vuelta: se convierte en vocera política y programática principal del Centro Democrático, ubicándola muy cerca del gobierno entrante de Abelardo de la Espriella. Según Pulzo y Semana, también suena para directora del partido o embajadora de Colombia en España. El 23 de junio ya había entregado una propuesta programática al equipo De la Espriella-Restrepo. Sus 1,64 millones de votantes fueron considerados decisivos para la victoria por ~251.854 votos en segunda vuelta.",
+      "fuente": "Infobae / Semana / El Tiempo",
+      "fuente_color": "#e74c3c",
+      "fecha": "3 jul 2026",
+      "tag": "GABINETE · Controversia Educación",
+      "tag_color": "#e74c3c",
+      "tag_bg": "rgba(231,76,60,0.15)",
+      "titulo": "País político 'estalló' por Viviane Morales en Educación: críticos dicen que 'le declara la guerra al carácter laico'",
+      "resumen": "El nombramiento de la exfiscal Viviane Morales como ministra de Educación generó una de las mayores controversias del período de transición. Organizaciones laicas, partidos de izquierda y centro, y sectores educativos rechazaron la designación el 3 de julio, argumentando que Morales —conocida por sus posiciones conservadoras y religiosas— representa un riesgo para la educación sexual, la perspectiva de género y el carácter laico del Estado colombiano. Desde el Centro Democrático y aliados de gobierno, el nombramiento fue celebrado como garantía de 'valores y familia'. Es la primera mujer del gabinete y la tercera carta ministerial anunciada, tras Rodrigo Lara (Interior) y Miguel Gómez Martínez (Hacienda).",
       "objetividad": 91,
       "criterios": [
         {
           "ok": true,
-          "texto": "Nuevo rol como vocera del CD — confirmado por Pulzo (25 jun) y El Diario"
+          "texto": "Nombramiento de Morales en Educación — confirmado por Semana, El Tiempo, El País, Pulzo, Infobae (2-3 jul)"
         },
         {
           "ok": true,
-          "texto": "Suena para directora del CD o embajadora a España — Semana / Pulzo"
+          "texto": "Reacciones de rechazo de sectores laicos y de izquierda — Infobae (3 jul)"
         },
         {
           "ok": true,
-          "texto": "Propuesta programática entregada el 23 jun — confirmado por Infobae"
+          "texto": "Es la primera mujer del gabinete De la Espriella — confirmado por múltiples medios"
         },
         {
-          "ok": false,
-          "texto": "Cargo definitivo aún no anunciado oficialmente por el partido o el presidente electo"
+          "ok": true,
+          "texto": "Morales es exfiscal general (2011-2012) y exsenadora — datos biográficos verificados"
         }
       ],
-      "url": "https://www.pulzo.com/elecciones-colombia-2026/paloma-valencia-nuevo-cargo-centro-democratico-cerca-espriella-PP5224247",
-      "url_label": "Pulzo — Paloma Valencia ya consiguió nuevo cargo y la verán cerca del Gobierno De la Espriella"
+      "url": "https://www.infobae.com/colombia/2026/07/03/el-pais-politico-estallo-ante-la-llegada-de-viviane-morales-al-gabinete-de-de-la-espriella-le-declara-la-guerra-al-caracter-laico/",
+      "url_label": "Infobae — El país político 'estalló' ante la llegada de Viviane Morales al gabinete de De la Espriella"
     },
     {
       "filter": "espriella",
-      "fuente": "Registraduría / Colombia.com / Semana",
+      "fuente": "El Tiempo / Semana / Cambio Colombia",
       "fuente_color": "#27ae60",
-      "fecha": "24 jun 2026",
-      "tag": "Escrutinio · 100% Concluido",
+      "fecha": "2 jul 2026",
+      "tag": "GABINETE · Triple nombramiento",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Registraduría da por terminado el escrutinio: coincide en 99,997% con el preconteo — De la Espriella ganó",
-      "resumen": "La Registraduría Nacional concluyó el escrutinio de primer nivel a cargo de los jueces de la República en las 118.350 mesas del territorio nacional. La coincidencia con el preconteo del 21 de junio es del 99,997%, ratificando la victoria de Abelardo de la Espriella con 12.960.166 votos frente a 12.708.312 de Cepeda (diferencia definitiva: 251.854 votos). El CNE procedió a entregar credenciales el 25 de junio. El resultado no puede cambiar materialmente.",
-      "objetividad": 98,
+      "titulo": "De la Espriella designa tres ministros en un día: Viviane Morales (Educación), Iván Cancino (Justicia) y Fabio Arjona (Ambiente)",
+      "resumen": "El presidente electo Abelardo de la Espriella realizó tres nombramientos ministeriales el 2 de julio: Viviane Morales Hoyos para Educación (exfiscal general 2011-2012, primera mujer del gabinete), Iván Cancino González para Justicia (abogado penalista que ya lidera el empalme en esa cartera) y Fabio Arjona Hincapié para Ambiente (biólogo marino y director de Conservation International Colombia). Con estos nombramientos el gabinete suma ya cinco carteras confirmadas, junto a Rodrigo Lara (Interior, 26 jun) y Miguel Gómez Martínez (Hacienda, 30 jun). Faltan aún Defensa, Cancillería, Salud, Educación Rural, Interior y otras carteras clave.",
+      "objetividad": 97,
       "criterios": [
         {
           "ok": true,
-          "texto": "100% del escrutinio de jueces concluido — confirmado por Registraduría (24 jun)"
+          "texto": "Viviane Morales en Educación — confirmado por Semana, El Tiempo, El País, Pulzo, Infobae (2 jul)"
         },
         {
           "ok": true,
-          "texto": "Coincidencia del 99,997% entre preconteo y escrutinio — Registraduría / Semana (24 jun)"
+          "texto": "Iván Cancino en Justicia — confirmado por Cambio Colombia y Colombia.com (2 jul)"
         },
         {
           "ok": true,
-          "texto": "118.350 mesas revisadas en todo el territorio nacional"
+          "texto": "Fabio Arjona en Ambiente — confirmado por El Tiempo y El Colombiano (2 jul)"
         },
         {
           "ok": true,
-          "texto": "Diferencia definitiva: 251.854 votos — confirmada por Colombia.com (25 jun)"
+          "texto": "Total gabinete confirmado: 5 carteras — verificado por múltiples medios"
         }
       ],
-      "url": "https://www.colombia.com/elecciones/2026/registraduria-da-por-terminado-el-escrutinio-de-las-elecciones-presidenciales-589005",
-      "url_label": "Colombia.com — Registraduría da por terminado el escrutinio de las elecciones presidenciales"
+      "url": "https://cambiocolombia.com/confirmado-ivan-cancino-sera-ministro-de-justicia-en-el-gobierno-de-abelardo-de-la-espriella",
+      "url_label": "Cambio Colombia — Iván Cancino será ministro de Justicia en el gobierno de De la Espriella"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Infobae",
+      "fuente_color": "#e74c3c",
+      "fecha": "1 jul 2026",
+      "tag": "Cepeda · Desobediencia civil rechazada",
+      "tag_color": "#e74c3c",
+      "tag_bg": "rgba(231,76,60,0.15)",
+      "titulo": "Presidente del Senado rechazó llamado de Cepeda a 'desobediencia civil' contra De la Espriella: 'quien resulta elegido merece respeto institucional'",
+      "resumen": "El senador Iván Cepeda realizó declaraciones el 30 de junio llamando a una posible 'desobediencia civil' contra el gobierno de Abelardo de la Espriella, cuestionando su doble nacionalidad colombo-estadounidense y sus presuntos vínculos con agencias de seguridad de EEUU. También acusó a De la Espriella de estar detrás de una posible persecución contra el presidente Gustavo Petro tras el 7 de agosto. El presidente del Senado, Lidio García, rechazó categóricamente el llamado el 1 de julio: 'quien resulta elegido merece respeto institucional; no puede condicionarse o desconocerse la autoridad de un presidente legítimamente elegido'. Cepeda también criticó el ingreso anunciado de Colombia al 'Shield of the Americas' como 'alineamiento militar extranjero'.",
+      "objetividad": 94,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Llamado de Cepeda a desobediencia civil — confirmado por Infobae (1 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Rechazo del presidente del Senado Lidio García — confirmado por Infobae (1 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Cepeda cuestiona doble nacionalidad y vínculos con EEUU de De la Espriella — confirmado"
+        },
+        {
+          "ok": true,
+          "texto": "Cepeda rechaza el 'Shield of the Americas' — confirmado"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/07/01/presidente-del-senado-rechazo-llamado-de-ivan-cepeda-a-una-desobediencia-civil-contra-abelardo-de-la-espriella-quien-resulta-elegido-merece-respeto-institucional/",
+      "url_label": "Infobae — Presidente del Senado rechazó llamado de Cepeda a una desobediencia civil contra De la Espriella"
     },
     {
       "filter": "espriella",
@@ -324,35 +260,99 @@
     },
     {
       "filter": "espriella",
-      "fuente": "El Tiempo / Semana",
+      "fuente": "Semana / El Tiempo / La Silla Vacía / Infobae",
       "fuente_color": "#27ae60",
-      "fecha": "21 jun 2026",
-      "tag": "RESULTADO · Presidente Electo",
+      "fecha": "26 jun 2026",
+      "tag": "GABINETE · Primer nombramiento oficial",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Abelardo De la Espriella gana la segunda vuelta con 49,66% — será el nuevo presidente de Colombia",
-      "resumen": "Abelardo de la Espriella (Defensores de la Patria) derrotó a Iván Cepeda (Pacto Histórico) en la segunda vuelta del 21 de junio con 49,66% (12.960.166 votos) frente a 48,70% (12.708.312 votos), una diferencia definitiva de 251.854 sufragios. El preconteo y el escrutinio oficial (99,997% de coincidencia) lo confirmaron como presidente electo. Asumirá el 7 de agosto de 2026, sucediendo a Gustavo Petro. El 25 de junio el CNE le entregó sus credenciales oficiales.",
+      "titulo": "De la Espriella anuncia su primer nombramiento: Rodrigo Lara Restrepo como Ministro del Interior",
+      "resumen": "El presidente electo Abelardo de la Espriella hizo su primer nombramiento oficial de gabinete el 26 de junio: Rodrigo Lara Restrepo como Ministro del Interior. El anuncio, hecho a través de un video generado con inteligencia artificial —al estilo de la campaña—, designa al exsenador (Cambio Radical, 2018-2022) como el encargado de las relaciones con el Congreso y la agenda legislativa del nuevo gobierno desde el 7 de agosto. Lara es abogado del Externado, estudió en Sciences Po París y se graduó de la ENA en Francia. Su padre, Rodrigo Lara Bonilla, fue asesinado en 1984 siendo Ministro de Justicia por enfrentarse al narcotráfico. El 27 de junio, De la Espriella también designó al vicepresidente electo José Manuel Restrepo como director del Empalme Anticorrupción, señalizando que la lucha contra la corrupción será eje central del gobierno.",
       "objetividad": 98,
       "criterios": [
         {
           "ok": true,
-          "texto": "Resultado confirmado: De la Espriella 49,66% (12.960.166 v) vs Cepeda 48,70% (12.708.312 v)"
+          "texto": "Nombramiento de Lara como Ministro del Interior — confirmado por Semana, El Tiempo, La Silla Vacía e Infobae (26 jun)"
         },
         {
           "ok": true,
-          "texto": "Diferencia definitiva: 251.854 votos — escrutinio oficial al 100%"
+          "texto": "Anuncio vía video con IA, al estilo de la campaña — Semana (26 jun)"
         },
         {
           "ok": true,
-          "texto": "Posesión confirmada para el 7 de agosto de 2026"
+          "texto": "Restrepo como director del Empalme Anticorrupción — confirmado por Semana (27 jun)"
         },
         {
           "ok": true,
-          "texto": "Credencial oficial entregada por CNE el 25 de junio de 2026"
+          "texto": "Es el primer nombramiento oficial del gabinete De la Espriella — La Patria / Pulzo (26 jun)"
         }
       ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-ultimas-noticias-apoyos-y-reacciones-a-la-segunda-vuelta-entre-abelardo-de-la-espriella-e-ivan-cepeda-3561681",
-      "url_label": "El Tiempo — Abelardo De la Espriella es el nuevo presidente electo de Colombia"
+      "url": "https://www.infobae.com/colombia/2026/06/26/rodrigo-lara-restrepo-fue-elegido-como-ministro-del-interior-en-el-gobierno-de-abelardo-de-la-espriella/",
+      "url_label": "Infobae — Rodrigo Lara Restrepo elegido como ministro del Interior en el gobierno de De la Espriella"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Semana / Infobae / El Colombiano",
+      "fuente_color": "#27ae60",
+      "fecha": "25 jun 2026",
+      "tag": "Cepeda · Reconocimiento oficial",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda reconoce a De la Espriella como presidente electo y acepta curul en el Senado",
+      "resumen": "Iván Cepeda reconoció formalmente a Abelardo de la Espriella como presidente electo de Colombia el 25 de junio, tras la entrega oficial de la credencial por parte del CNE. Junto a su fórmula vicepresidencial Aída Quilcué, aceptaron sus curules en el Congreso de la República: Cepeda en el Senado y Quilcué en la Cámara de Representantes. Harán oposición al gobierno entrante desde el poder legislativo. Con este acto, quedó formalmente cerrada la disputa electoral y las impugnaciones del Pacto Histórico.",
+      "objetividad": 97,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Reconocimiento de Cepeda confirmado por Semana ('Esto dijo', 25 jun)"
+        },
+        {
+          "ok": true,
+          "texto": "Aceptación de curules por Cepeda y Quilcué confirmada por Semana, Infobae y El Colombiano"
+        },
+        {
+          "ok": true,
+          "texto": "Cepeda asumirá Senado, Quilcué la Cámara — estatuto de oposición"
+        },
+        {
+          "ok": true,
+          "texto": "CNE confirmó la decisión — Pulzo (25 jun)"
+        }
+      ],
+      "url": "https://www.semana.com/politica/articulo/ivan-cepeda-reconoce-a-abelardo-de-la-espriella-como-presidente-electo-de-colombia-esto-dijo/202626/",
+      "url_label": "Semana — Iván Cepeda reconoce a De la Espriella como presidente electo: esto dijo"
+    },
+    {
+      "filter": "valencia",
+      "fuente": "Pulzo / Semana / El Diario",
+      "fuente_color": "#9b59b6",
+      "fecha": "25 jun 2026",
+      "tag": "Valencia · Nuevo rol político",
+      "tag_color": "#9b59b6",
+      "tag_bg": "rgba(155,89,182,0.15)",
+      "titulo": "Valencia asume como vocera del Centro Democrático y se posiciona cerca del gobierno De la Espriella",
+      "resumen": "Paloma Valencia asumió un nuevo rol político tras su derrota en primera vuelta: se convierte en vocera política y programática principal del Centro Democrático, ubicándola muy cerca del gobierno entrante de Abelardo de la Espriella. Según Pulzo y Semana, también suena para directora del partido o embajadora de Colombia en España. El 23 de junio ya había entregado una propuesta programática al equipo De la Espriella-Restrepo. Sus 1,64 millones de votantes fueron considerados decisivos para la victoria por ~251.854 votos en segunda vuelta.",
+      "objetividad": 91,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Nuevo rol como vocera del CD — confirmado por Pulzo (25 jun) y El Diario"
+        },
+        {
+          "ok": true,
+          "texto": "Suena para directora del CD o embajadora a España — Semana / Pulzo"
+        },
+        {
+          "ok": true,
+          "texto": "Propuesta programática entregada el 23 jun — confirmado por Infobae"
+        },
+        {
+          "ok": false,
+          "texto": "Cargo definitivo aún no anunciado oficialmente por el partido o el presidente electo"
+        }
+      ],
+      "url": "https://www.pulzo.com/elecciones-colombia-2026/paloma-valencia-nuevo-cargo-centro-democratico-cerca-espriella-PP5224247",
+      "url_label": "Pulzo — Paloma Valencia ya consiguió nuevo cargo y la verán cerca del Gobierno De la Espriella"
     }
   ],
   "sentimiento": {
@@ -360,29 +360,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 85,
-        "negativo": 7,
+        "positivo": 80,
+        "negativo": 12,
         "neutro": 8,
-        "tendencia": "up",
-        "tendencia_texto": "1 jul — GABINETE TOMA FORMA. Miguel Gómez Martínez confirmado como Ministro de Hacienda (Semana, 30 jun). Rodrigo Lara: Ministro del Interior (primer nombramiento oficial, 26 jun). Nuevos nombres del sonajero: Jaime Andrés Beltrán para Defensa, Lacouture para Washington, Gómez Amín para Comercio. Restrepo como director del Empalme Anticorrupción. Posesión: 7 de agosto de 2026."
+        "tendencia": "stable",
+        "tendencia_texto": "3 jul — CONTROVERSIA MORALES. El nombramiento de Viviane Morales en Educación desató un choque político: sectores laicos, izquierda y centro lo rechazaron; aliados del CD lo celebraron. Nuevos nombramientos el 2 jul: Morales (Educación), Iván Cancino (Justicia), Fabio Arjona (Ambiente). Gabinete ya suma 5 carteras confirmadas. Posesión: 7 de agosto de 2026."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 23,
-        "negativo": 60,
-        "neutro": 17,
-        "tendencia": "stable",
-        "tendencia_texto": "1 jul — OPOSICIÓN EN EL SENADO. Cepeda asume su curul como jefe de oposición en el Senado. Reconoció la derrota el 25 jun (251.854 votos de diferencia). Quilcué asume en la Cámara. El Pacto Histórico se organiza para ser la principal bancada opositora al gobierno De la Espriella desde el 7 de agosto. Sin actividad de campaña; transición hacia rol legislativo."
+        "positivo": 20,
+        "negativo": 65,
+        "neutro": 15,
+        "tendencia": "down",
+        "tendencia_texto": "3 jul — DESOBEDIENCIA CIVIL RECHAZADA. El presidente del Senado Lidio García rechazó el 1 jul el llamado de Cepeda a 'desobediencia civil' contra De la Espriella: 'quien resulta elegido merece respeto institucional'. Cepeda cuestiona la doble nacionalidad del presidente electo y acusa de posible persecución a Petro. Critica el ingreso al 'Shield of the Americas' como 'alineamiento militar extranjero'. Imagen bajo presión por tono confrontacional post-derrota."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 63,
-        "negativo": 18,
+        "positivo": 62,
+        "negativo": 19,
         "neutro": 19,
-        "tendencia": "up",
-        "tendencia_texto": "1 jul — VOCERA DEL CD SIN CURUL. Valencia asumió como vocera política y programática del Centro Democrático. No tendrá curul en el Congreso desde el 20 de julio — su rol se centra en articular propuestas del CD al nuevo gobierno. Suena para directora del partido o embajadora a España. Sus 1,64 millones de votantes fueron estratégicos para la victoria por 251.854 votos."
+        "tendencia": "stable",
+        "tendencia_texto": "3 jul — VOCERA DEL CD. Valencia mantiene rol como vocera política y programática del Centro Democrático, sin curul en el Congreso desde el 20 jul. Actúa como puente entre el partido y el gobierno De la Espriella. El nombramiento de Viviane Morales —una aliada cercana del CD— refuerza la influencia del partido en el gabinete. Sus 1,64 millones de votantes continúan siendo estratégicos para la coalición de gobierno."
       }
     ]
   },
@@ -408,7 +408,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "TRANSICIÓN EN MARCHA — 1 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos) sobre Iván Cepeda (48,70% / 12.708.312 votos). Diferencia definitiva: 251.854 votos. GABINETE AVANZA: Miguel Gómez Martínez (Hacienda, confirmado 30 jun), Rodrigo Lara (Interior, 26 jun — primer nombramiento oficial), Restrepo como director Empalme Anticorrupción; sonajero: Beltrán (Defensa), Lacouture (Washington), Gómez Amín (Comercio), Bessudo (Ambiente). OPOSICIÓN: Cepeda asume curul en Senado, Quilcué en Cámara — Pacto Histórico se organiza como principal bancada opositora. VALENCIA: vocera del CD sin curul desde el 20 jul, articulando agenda entre el partido y el nuevo gobierno. POSESIÓN: 7 de agosto de 2026."
+    "resumen_analisis": "TRANSICIÓN EN MARCHA — 3 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos) sobre Iván Cepeda (48,70% / 12.708.312 votos). Diferencia definitiva: 251.854 votos. GABINETE (5 carteras confirmadas): Rodrigo Lara (Interior, 26 jun), Miguel Gómez Martínez (Hacienda, 30 jun), Viviane Morales (Educación, 2 jul — primera mujer, genera controversia nacional), Iván Cancino (Justicia, 2 jul), Fabio Arjona (Ambiente, 2 jul). OPOSICIÓN: Cepeda llamó a 'desobediencia civil' (rechazado por Pdte del Senado Lidio García, 1 jul); asumirá curul en Senado. VALENCIA: vocera del CD sin curul desde el 20 jul. POSESIÓN: 7 de agosto de 2026."
   },
-  "ultimo_deploy": "2026-07-01T00:00:00Z"
+  "ultimo_deploy": "2026-07-03T00:00:00Z"
 }
