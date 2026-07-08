@@ -1,5 +1,5 @@
 {
-  "fecha": "3 de julio de 2026",
+  "fecha": "8 de julio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,6 +100,230 @@
   "noticias": [
     {
       "filter": "espriella",
+      "fuente": "Infobae",
+      "fuente_color": "#e74c3c",
+      "fecha": "8 jul 2026",
+      "tag": "GABINETE · Jefe de Gabinete",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella designa a Nicolás Gómez Arenas como jefe de gabinete y revela que tendrá familiares en el equipo ministerial",
+      "resumen": "El presidente electo Abelardo de la Espriella confirmó el 8 de julio a Nicolás Gómez Arenas, politólogo, como su jefe de gabinete. Infobae reveló además que De la Espriella tendrá familiares cercanos entre sus ministros y en el Congreso, lo que generó cuestionamientos sobre nepotismo. El gabinete suma ya 10 carteras confirmadas tras los seis nuevos nombramientos del 7 de julio: Elsa Noguera (Transporte), Mauricio Gómez Amín (Comercio), Juliana Gutiérrez, además de los ya conocidos Lara (Interior), Gómez Martínez (Hacienda), Morales (Educación), Cancino (Justicia) y Arjona (Ambiente). El equipo de transición sigue avanzando hacia la posesión del 7 de agosto.",
+      "objetividad": 90,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Nicolás Gómez Arenas como jefe de gabinete — confirmado por Infobae (8 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Familiares en ministerios y Congreso — reportado por Infobae (8 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Gabinete con 10 carteras confirmadas — verificado por Portafolio y El Tiempo (7 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Elsa Noguera en Transporte y Gómez Amín en Comercio — confirmados el 7 jul"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/07/08/abelardo-de-la-espriella-ya-escogio-al-que-sera-su-jefe-de-gabinete-tendra-familiares-en-el-grupo-de-ministros-y-en-el-congreso/",
+      "url_label": "Infobae — De la Espriella ya escogió al que será su jefe de gabinete"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Portafolio / El Tiempo",
+      "fuente_color": "#27ae60",
+      "fecha": "7 jul 2026",
+      "tag": "GABINETE · 10 ministros confirmados",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "De la Espriella anuncia seis nuevos ministros en un día: gabinete llega a 10 carteras; Elsa Noguera en Transporte y Gómez Amín en Comercio",
+      "resumen": "El presidente electo Abelardo de la Espriella realizó seis nuevos nombramientos el 7 de julio, llevando el gabinete a 10 carteras confirmadas. Las nuevas designaciones incluyen a Elsa Noguera (Transporte — economista, exgobernadora del Atlántico y primera mujer electa alcaldesa de Barranquilla, exministra de Vivienda de Santos), Mauricio Gómez Amín (Comercio — abogado barranquillero, exsenador y jefe de debate de la campaña) y Juliana Gutiérrez (cartera por confirmar). Con estos se suman a Lara (Interior), Gómez Martínez (Hacienda), Morales (Educación), Cancino (Justicia) y Arjona (Ambiente). El gabinete avanza en cumplimiento de la Ley de Cuotas del 50% femenino.",
+      "objetividad": 96,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Seis nuevos nombramientos el 7 jul — confirmado por Portafolio y El Tiempo"
+        },
+        {
+          "ok": true,
+          "texto": "Elsa Noguera en Transporte — exgobernadora Atlántico, primera mujer alcaldesa Barranquilla"
+        },
+        {
+          "ok": true,
+          "texto": "Mauricio Gómez Amín en Comercio — exsenador, jefe de debate campaña"
+        },
+        {
+          "ok": true,
+          "texto": "Total 10 carteras confirmadas — verificado por múltiples medios"
+        }
+      ],
+      "url": "https://www.portafolio.co/economia/gobierno/de-la-espriella-anuncia-seis-nuevos-ministros-y-le-da-forma-a-su-gobierno-asi-va-quedando-el-nuevo-gabinete-497701",
+      "url_label": "Portafolio — De la Espriella anuncia seis nuevos ministros y le da forma a su gobierno"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Infobae / Semana",
+      "fuente_color": "#e74c3c",
+      "fecha": "7 jul 2026",
+      "tag": "TRANSICIÓN · Empalme suspendido",
+      "tag_color": "#e74c3c",
+      "tag_bg": "rgba(231,76,60,0.15)",
+      "titulo": "De la Espriella suspende abruptamente el empalme con el Gobierno Petro en medio de tensión política inédita",
+      "resumen": "El proceso de empalme entre el equipo de transición de Abelardo de la Espriella y el Gobierno saliente de Gustavo Petro llegó a su fin de manera abrupta el 7 de julio, con De la Espriella ordenando su suspensión. La decisión ocurre en medio de tensión política inédita: el presidente Petro ha cuestionado los resultados electorales y confirmó que su mandato finaliza el 6 de agosto a medianoche. El movimiento de Sergio Fajardo aclaró que el CNE 'ha declarado a Abelardo De la Espriella como presidente' y que no desconocer los resultados es esencial para la estabilidad institucional. La posesión del nuevo gobierno está programada para el 7 de agosto de 2026.",
+      "objetividad": 92,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Suspensión abrupta del empalme — confirmado por múltiples medios (7 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Petro confirma mandato finaliza el 6 de agosto — Infobae (7 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Movimiento Fajardo respalda legitimidad de De la Espriella — Semana (7 jul)"
+        },
+        {
+          "ok": false,
+          "texto": "Causas específicas de la suspensión del empalme aún no confirmadas oficialmente"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/07/07/gustavo-petro-confirmo-que-su-mandato-finaliza-el-6-de-agosto-de-2026-el-proceso-de-entrega-del-gobierno-continua-de-cara-al-pais/",
+      "url_label": "Infobae — Petro confirmó que su mandato finaliza el 6 de agosto de 2026"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Infobae",
+      "fuente_color": "#2980b9",
+      "fecha": "7 jul 2026",
+      "tag": "Cepeda · CNE avala curul senado",
+      "tag_color": "#2980b9",
+      "tag_bg": "rgba(41,128,185,0.15)",
+      "titulo": "CNE avala que Cepeda asuma la curul de oposición en el Senado el 20 de julio, pese a que no reconoce a De la Espriella como presidente",
+      "resumen": "El Consejo Nacional Electoral (CNE) avaló el 7 de julio que Iván Cepeda asuma la curul de oposición en el Senado, derivada de su segundo lugar en las elecciones presidenciales del 21 de junio. Cepeda será senador 2026-2030 y asumirá el cargo el 20 de julio. La paradoja política es notable: ese mismo día, Cepeda mantuvo que no reconoce a Abelardo de la Espriella como presidente legítimo y defendió su llamado a 'desobediencia civil' durante un evento en Cali. Infobae destacó la importancia institucional de la curul de oposición para el sistema democrático colombiano.",
+      "objetividad": 94,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "CNE avala curul de oposición para Cepeda — Infobae (7 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Posesión como senador el 20 de julio — confirmado"
+        },
+        {
+          "ok": true,
+          "texto": "Cepeda persiste en no reconocer a De la Espriella — evento en Cali (7 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Escrutinio definitivo Senado: 103 curules, 19,47M votos válidos — Infobae (7 jul)"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/07/07/el-cne-avalo-que-ivan-cepeda-asuma-la-curul-de-oposicion-en-el-senado-cual-es-su-importancia/",
+      "url_label": "Infobae — El CNE avaló que Iván Cepeda asuma la curul de oposición en el Senado"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Portafolio",
+      "fuente_color": "#27ae60",
+      "fecha": "7 jul 2026",
+      "tag": "Cepeda · Reunión con Petro",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda se reúne con Petro y el Pacto Histórico en la Casa de Nariño para coordinar la oposición legislativa al gobierno De la Espriella",
+      "resumen": "El presidente Gustavo Petro convocó el 7 de julio a los congresistas electos del Pacto Histórico a una reunión en la Casa de Nariño, a la que asistió Iván Cepeda como futuro senador. Petro y el Pacto Histórico coordinaron su estrategia de oposición legislativa ante el gobierno entrante de De la Espriella. El escrutinio definitivo del Senado 2026-2030, fijado el mismo 7 de julio, confirmó 103 curules y 19,47 millones de votos válidos en las elecciones legislativas. La reunión se realizó mientras Colombia disputaba un partido contra Suiza en el Mundial de Fútbol 2026.",
+      "objetividad": 95,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Reunión Petro-Pacto Histórico en Casa de Nariño el 7 jul — Portafolio"
+        },
+        {
+          "ok": true,
+          "texto": "Cepeda participó como futuro senador — confirmado"
+        },
+        {
+          "ok": true,
+          "texto": "Escrutinio definitivo Senado: 103 curules, 19,47M votos válidos — Infobae (7 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Colombia vs Suiza en Mundial 2026 ese día — contexto verificado"
+        }
+      ],
+      "url": "https://www.portafolio.co/economia/gobierno/congresistas-electos-del-pacto-historico-se-reunen-con-el-presidente-gustavo-petro-esta-el-senador-ivan-cepeda-497720",
+      "url_label": "Portafolio — Congresistas electos del Pacto Histórico se reúnen con el presidente Gustavo Petro"
+    },
+    {
+      "filter": "valencia",
+      "fuente": "Infobae",
+      "fuente_color": "#9b59b6",
+      "fecha": "7 jul 2026",
+      "tag": "Valencia · Denuncia SENA",
+      "tag_color": "#9b59b6",
+      "tag_bg": "rgba(155,89,182,0.15)",
+      "titulo": "Valencia denuncia intento de asignar 129 cargos en el SENA antes del fin del Gobierno Petro; la entidad responde que el proceso fue transparente",
+      "resumen": "Paloma Valencia denunció el 7 de julio un intento de asignación de 129 cargos de directores regionales y subdirectores de centro en el SENA antes del fin del Gobierno Petro, cuestionando la transparencia del concurso. En respuesta, el SENA emitió un comunicado oficial aclarando que las tres pruebas fueron elaboradas y calificadas íntegramente por la Escuela Superior de Administración Pública (ESAP) con plena autonomía e independencia. Valencia, en su rol como vocera política del Centro Democrático, actúa como voz crítica de los movimientos del gobierno saliente, posicionándose como guardiana de la transición ordenada del poder.",
+      "objetividad": 93,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Denuncia de Valencia sobre 129 cargos SENA — Infobae (7 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Comunicado del SENA: proceso elaborado y calificado por ESAP con autonomía — Infobae (7 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Valencia como vocera del CD, rol de vigilancia en la transición — confirmado"
+        },
+        {
+          "ok": false,
+          "texto": "Resultado final del concurso SENA o acción disciplinaria aún no confirmados"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/07/07/tras-denuncia-de-paloma-valencia-por-129-cargos-que-buscarian-asignarse-en-el-sena-antes-del-fin-del-gobierno-petro-la-entidad-se-pronuncio/",
+      "url_label": "Infobae — Tras denuncia de Paloma Valencia por 129 cargos en el SENA, la entidad se pronunció"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Tiempo / Semana / Cambio Colombia",
+      "fuente_color": "#27ae60",
+      "fecha": "5 jul 2026",
+      "tag": "GABINETE · Ministros clave",
+      "tag_color": "#2980b9",
+      "tag_bg": "rgba(41,128,185,0.15)",
+      "titulo": "Así va quedando el gabinete De la Espriella: Vivienda, Deporte, Comercio y Transporte completan el equipo ministerial",
+      "resumen": "El Tiempo y Semana actualizaron el estado del gabinete del presidente electo con carteras clave tomando forma en los primeros días de julio. Se confirmaron nombramientos para Vivienda, Deporte, Comercio y Transporte, completando el equipo ministerial que acompañará al gobierno 2026-2030 desde el 7 de agosto. El análisis de medios españoles destaca los ministerios clave para las inversiones españolas en Colombia: Comercio, Hacienda y Relaciones Exteriores. La cancillería sigue siendo uno de los cargos sin confirmar, aunque María Claudia Lacouture suena para la embajada en Washington.",
+      "objetividad": 88,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Vivienda, Deporte, Comercio y Transporte en gabinete — El Tiempo (5 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Análisis inversiones españolas — Moncloa.com (5 jul)"
+        },
+        {
+          "ok": false,
+          "texto": "Lista definitiva del gabinete aún no completamente anunciada"
+        },
+        {
+          "ok": false,
+          "texto": "Cancillería y otros cargos pendientes de confirmación oficial"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-va-quedando-el-gabinete-del-presidente-electo-abelardo-de-la-espriella-ministro-del-interior-y-otras-carteras-anunciadas-3568243",
+      "url_label": "El Tiempo — Así va quedando el gabinete del presidente electo Abelardo de la Espriella"
+    },
+    {
+      "filter": "espriella",
       "fuente": "Infobae / Semana / El Tiempo",
       "fuente_color": "#e74c3c",
       "fecha": "3 jul 2026",
@@ -129,230 +353,6 @@
       ],
       "url": "https://www.infobae.com/colombia/2026/07/03/el-pais-politico-estallo-ante-la-llegada-de-viviane-morales-al-gabinete-de-de-la-espriella-le-declara-la-guerra-al-caracter-laico/",
       "url_label": "Infobae — El país político 'estalló' ante la llegada de Viviane Morales al gabinete de De la Espriella"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Tiempo / Semana / Cambio Colombia",
-      "fuente_color": "#27ae60",
-      "fecha": "2 jul 2026",
-      "tag": "GABINETE · Triple nombramiento",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "De la Espriella designa tres ministros en un día: Viviane Morales (Educación), Iván Cancino (Justicia) y Fabio Arjona (Ambiente)",
-      "resumen": "El presidente electo Abelardo de la Espriella realizó tres nombramientos ministeriales el 2 de julio: Viviane Morales Hoyos para Educación (exfiscal general 2011-2012, primera mujer del gabinete), Iván Cancino González para Justicia (abogado penalista que ya lidera el empalme en esa cartera) y Fabio Arjona Hincapié para Ambiente (biólogo marino y director de Conservation International Colombia). Con estos nombramientos el gabinete suma ya cinco carteras confirmadas, junto a Rodrigo Lara (Interior, 26 jun) y Miguel Gómez Martínez (Hacienda, 30 jun). Faltan aún Defensa, Cancillería, Salud, Educación Rural, Interior y otras carteras clave.",
-      "objetividad": 97,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Viviane Morales en Educación — confirmado por Semana, El Tiempo, El País, Pulzo, Infobae (2 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Iván Cancino en Justicia — confirmado por Cambio Colombia y Colombia.com (2 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Fabio Arjona en Ambiente — confirmado por El Tiempo y El Colombiano (2 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Total gabinete confirmado: 5 carteras — verificado por múltiples medios"
-        }
-      ],
-      "url": "https://cambiocolombia.com/confirmado-ivan-cancino-sera-ministro-de-justicia-en-el-gobierno-de-abelardo-de-la-espriella",
-      "url_label": "Cambio Colombia — Iván Cancino será ministro de Justicia en el gobierno de De la Espriella"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Infobae",
-      "fuente_color": "#e74c3c",
-      "fecha": "1 jul 2026",
-      "tag": "Cepeda · Desobediencia civil rechazada",
-      "tag_color": "#e74c3c",
-      "tag_bg": "rgba(231,76,60,0.15)",
-      "titulo": "Presidente del Senado rechazó llamado de Cepeda a 'desobediencia civil' contra De la Espriella: 'quien resulta elegido merece respeto institucional'",
-      "resumen": "El senador Iván Cepeda realizó declaraciones el 30 de junio llamando a una posible 'desobediencia civil' contra el gobierno de Abelardo de la Espriella, cuestionando su doble nacionalidad colombo-estadounidense y sus presuntos vínculos con agencias de seguridad de EEUU. También acusó a De la Espriella de estar detrás de una posible persecución contra el presidente Gustavo Petro tras el 7 de agosto. El presidente del Senado, Lidio García, rechazó categóricamente el llamado el 1 de julio: 'quien resulta elegido merece respeto institucional; no puede condicionarse o desconocerse la autoridad de un presidente legítimamente elegido'. Cepeda también criticó el ingreso anunciado de Colombia al 'Shield of the Americas' como 'alineamiento militar extranjero'.",
-      "objetividad": 94,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Llamado de Cepeda a desobediencia civil — confirmado por Infobae (1 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Rechazo del presidente del Senado Lidio García — confirmado por Infobae (1 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Cepeda cuestiona doble nacionalidad y vínculos con EEUU de De la Espriella — confirmado"
-        },
-        {
-          "ok": true,
-          "texto": "Cepeda rechaza el 'Shield of the Americas' — confirmado"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/07/01/presidente-del-senado-rechazo-llamado-de-ivan-cepeda-a-una-desobediencia-civil-contra-abelardo-de-la-espriella-quien-resulta-elegido-merece-respeto-institucional/",
-      "url_label": "Infobae — Presidente del Senado rechazó llamado de Cepeda a una desobediencia civil contra De la Espriella"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Semana",
-      "fuente_color": "#27ae60",
-      "fecha": "30 jun 2026",
-      "tag": "GABINETE · Hacienda confirmada",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "De la Espriella confirma a Miguel Gómez Martínez como Ministro de Hacienda",
-      "resumen": "El presidente electo Abelardo de la Espriella confirmó a Miguel Gómez Martínez como su Ministro de Hacienda, según reveló Semana el 30 de junio. Gómez Martínez es economista y exembajador de Colombia en Francia, con amplia experiencia en política fiscal internacional. Su nombramiento es clave dado que el nuevo gobierno recibirá una crítica situación fiscal. El vicepresidente electo José Manuel Restrepo, quien revisa hojas de vida junto al presidente electo, refrendó la selección. Con este nombre confirmado, el gabinete De la Espriella suma a Rodrigo Lara (Interior) y avanza hacia la posesión del 7 de agosto.",
-      "objetividad": 95,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Miguel Gómez Martínez para Hacienda — confirmado por Semana (30 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Exembajador de Colombia en Francia, economista con perfil internacional"
-        },
-        {
-          "ok": true,
-          "texto": "Restrepo colidera la revisión de hojas de vida — confirmado por Semana"
-        },
-        {
-          "ok": true,
-          "texto": "Lara (Interior) ya era el primer nombramiento oficial desde el 26 jun"
-        }
-      ],
-      "url": "https://www.semana.com/politica/articulo/miguel-gomez-martinez-sera-el-ministro-de-hacienda-en-el-gobierno-de-abelardo-de-la-espriella/202655/",
-      "url_label": "Semana — Miguel Gómez Martínez será el ministro de Hacienda en el Gobierno de De la Espriella"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Colombiano / El Tiempo / El Espectador",
-      "fuente_color": "#2980b9",
-      "fecha": "30 jun 2026",
-      "tag": "Espriella · Sonajero ministerial",
-      "tag_color": "#2980b9",
-      "tag_bg": "rgba(41,128,185,0.15)",
-      "titulo": "Tres nuevos nombres suman al sonajero del gabinete: Beltrán para Defensa, más candidatos para Cancillería y Comercio",
-      "resumen": "El Colombiano, El Tiempo y El Espectador revelan el 29-30 de junio que tres nuevos nombres se suman al sonajero del gabinete de De la Espriella: Jaime Andrés Beltrán, exalcalde de Bucaramanga, es el más mencionado para el Ministerio de Defensa. María Claudia Lacouture, presidenta ejecutiva de la Cámara de Comercio Colombo Americana, suena para la Embajada en Washington. Mauricio Gómez Amín tiene cupo garantizado, posiblemente en Comercio Exterior. La definición del gabinete completo se espera para los días previos al 7 de agosto. De la Espriella deberá cumplir la Ley de Cuotas: mínimo 50% de cargos de alto nivel para mujeres.",
-      "objetividad": 88,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Beltrán para Defensa — reportado por El Colombiano y El Tiempo (29-30 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Lacouture suena para Embajada en Washington — El Espectador / Bloomberg Línea"
-        },
-        {
-          "ok": true,
-          "texto": "Gómez Amín garantizado en gobierno — De la Espriella lo confirmó previamente"
-        },
-        {
-          "ok": false,
-          "texto": "Lista definitiva del gabinete aún no anunciada oficialmente"
-        }
-      ],
-      "url": "https://www.elcolombiano.com/colombia/politica/nombres-sonajero-gabinete-ministerial-abelardo-de-la-espriella-CD38083001",
-      "url_label": "El Colombiano — Tres nuevos nombres se suman al sonajero del gabinete ministerial de De la Espriella"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Semana / El Tiempo / La Silla Vacía / Infobae",
-      "fuente_color": "#27ae60",
-      "fecha": "26 jun 2026",
-      "tag": "GABINETE · Primer nombramiento oficial",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "De la Espriella anuncia su primer nombramiento: Rodrigo Lara Restrepo como Ministro del Interior",
-      "resumen": "El presidente electo Abelardo de la Espriella hizo su primer nombramiento oficial de gabinete el 26 de junio: Rodrigo Lara Restrepo como Ministro del Interior. El anuncio, hecho a través de un video generado con inteligencia artificial —al estilo de la campaña—, designa al exsenador (Cambio Radical, 2018-2022) como el encargado de las relaciones con el Congreso y la agenda legislativa del nuevo gobierno desde el 7 de agosto. Lara es abogado del Externado, estudió en Sciences Po París y se graduó de la ENA en Francia. Su padre, Rodrigo Lara Bonilla, fue asesinado en 1984 siendo Ministro de Justicia por enfrentarse al narcotráfico. El 27 de junio, De la Espriella también designó al vicepresidente electo José Manuel Restrepo como director del Empalme Anticorrupción, señalizando que la lucha contra la corrupción será eje central del gobierno.",
-      "objetividad": 98,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Nombramiento de Lara como Ministro del Interior — confirmado por Semana, El Tiempo, La Silla Vacía e Infobae (26 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Anuncio vía video con IA, al estilo de la campaña — Semana (26 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Restrepo como director del Empalme Anticorrupción — confirmado por Semana (27 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Es el primer nombramiento oficial del gabinete De la Espriella — La Patria / Pulzo (26 jun)"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/06/26/rodrigo-lara-restrepo-fue-elegido-como-ministro-del-interior-en-el-gobierno-de-abelardo-de-la-espriella/",
-      "url_label": "Infobae — Rodrigo Lara Restrepo elegido como ministro del Interior en el gobierno de De la Espriella"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Semana / Infobae / El Colombiano",
-      "fuente_color": "#27ae60",
-      "fecha": "25 jun 2026",
-      "tag": "Cepeda · Reconocimiento oficial",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda reconoce a De la Espriella como presidente electo y acepta curul en el Senado",
-      "resumen": "Iván Cepeda reconoció formalmente a Abelardo de la Espriella como presidente electo de Colombia el 25 de junio, tras la entrega oficial de la credencial por parte del CNE. Junto a su fórmula vicepresidencial Aída Quilcué, aceptaron sus curules en el Congreso de la República: Cepeda en el Senado y Quilcué en la Cámara de Representantes. Harán oposición al gobierno entrante desde el poder legislativo. Con este acto, quedó formalmente cerrada la disputa electoral y las impugnaciones del Pacto Histórico.",
-      "objetividad": 97,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Reconocimiento de Cepeda confirmado por Semana ('Esto dijo', 25 jun)"
-        },
-        {
-          "ok": true,
-          "texto": "Aceptación de curules por Cepeda y Quilcué confirmada por Semana, Infobae y El Colombiano"
-        },
-        {
-          "ok": true,
-          "texto": "Cepeda asumirá Senado, Quilcué la Cámara — estatuto de oposición"
-        },
-        {
-          "ok": true,
-          "texto": "CNE confirmó la decisión — Pulzo (25 jun)"
-        }
-      ],
-      "url": "https://www.semana.com/politica/articulo/ivan-cepeda-reconoce-a-abelardo-de-la-espriella-como-presidente-electo-de-colombia-esto-dijo/202626/",
-      "url_label": "Semana — Iván Cepeda reconoce a De la Espriella como presidente electo: esto dijo"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "Pulzo / Semana / El Diario",
-      "fuente_color": "#9b59b6",
-      "fecha": "25 jun 2026",
-      "tag": "Valencia · Nuevo rol político",
-      "tag_color": "#9b59b6",
-      "tag_bg": "rgba(155,89,182,0.15)",
-      "titulo": "Valencia asume como vocera del Centro Democrático y se posiciona cerca del gobierno De la Espriella",
-      "resumen": "Paloma Valencia asumió un nuevo rol político tras su derrota en primera vuelta: se convierte en vocera política y programática principal del Centro Democrático, ubicándola muy cerca del gobierno entrante de Abelardo de la Espriella. Según Pulzo y Semana, también suena para directora del partido o embajadora de Colombia en España. El 23 de junio ya había entregado una propuesta programática al equipo De la Espriella-Restrepo. Sus 1,64 millones de votantes fueron considerados decisivos para la victoria por ~251.854 votos en segunda vuelta.",
-      "objetividad": 91,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Nuevo rol como vocera del CD — confirmado por Pulzo (25 jun) y El Diario"
-        },
-        {
-          "ok": true,
-          "texto": "Suena para directora del CD o embajadora a España — Semana / Pulzo"
-        },
-        {
-          "ok": true,
-          "texto": "Propuesta programática entregada el 23 jun — confirmado por Infobae"
-        },
-        {
-          "ok": false,
-          "texto": "Cargo definitivo aún no anunciado oficialmente por el partido o el presidente electo"
-        }
-      ],
-      "url": "https://www.pulzo.com/elecciones-colombia-2026/paloma-valencia-nuevo-cargo-centro-democratico-cerca-espriella-PP5224247",
-      "url_label": "Pulzo — Paloma Valencia ya consiguió nuevo cargo y la verán cerca del Gobierno De la Espriella"
     }
   ],
   "sentimiento": {
@@ -360,29 +360,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 80,
-        "negativo": 12,
+        "positivo": 76,
+        "negativo": 16,
         "neutro": 8,
         "tendencia": "stable",
-        "tendencia_texto": "3 jul — CONTROVERSIA MORALES. El nombramiento de Viviane Morales en Educación desató un choque político: sectores laicos, izquierda y centro lo rechazaron; aliados del CD lo celebraron. Nuevos nombramientos el 2 jul: Morales (Educación), Iván Cancino (Justicia), Fabio Arjona (Ambiente). Gabinete ya suma 5 carteras confirmadas. Posesión: 7 de agosto de 2026."
+        "tendencia_texto": "8 jul — GABINETE 10 CARTERAS + JEFE DE GABINETE. Nicolás Gómez Arenas designado jefe de gabinete (8 jul). Seis nuevos nombramientos el 7 jul: Elsa Noguera (Transporte), Gómez Amín (Comercio) y otros. Gabinete suma ya 10 carteras confirmadas. Controversia: empalme con Petro suspendido abruptamente el 7 jul en medio de tensión política inédita. Cuestionamientos por posibles familiares en el equipo ministerial. Posesión: 7 de agosto de 2026."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 20,
-        "negativo": 65,
+        "positivo": 17,
+        "negativo": 68,
         "neutro": 15,
         "tendencia": "down",
-        "tendencia_texto": "3 jul — DESOBEDIENCIA CIVIL RECHAZADA. El presidente del Senado Lidio García rechazó el 1 jul el llamado de Cepeda a 'desobediencia civil' contra De la Espriella: 'quien resulta elegido merece respeto institucional'. Cepeda cuestiona la doble nacionalidad del presidente electo y acusa de posible persecución a Petro. Critica el ingreso al 'Shield of the Americas' como 'alineamiento militar extranjero'. Imagen bajo presión por tono confrontacional post-derrota."
+        "tendencia_texto": "8 jul — CURUL AVALADA / PERSISTE EN NO RECONOCER. CNE avaló el 7 jul la curul de oposición en el Senado; asumirá el 20 jul. Sin embargo, Cepeda se reafirmó en no reconocer a De la Espriella como presidente en evento en Cali. Se reunió con Petro y el Pacto Histórico en Casa de Nariño para coordinar estrategia legislativa. Imagen bajo presión por tono confrontacional post-derrota que genera críticas incluso desde sectores cercanos."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 62,
-        "negativo": 19,
-        "neutro": 19,
-        "tendencia": "stable",
-        "tendencia_texto": "3 jul — VOCERA DEL CD. Valencia mantiene rol como vocera política y programática del Centro Democrático, sin curul en el Congreso desde el 20 jul. Actúa como puente entre el partido y el gobierno De la Espriella. El nombramiento de Viviane Morales —una aliada cercana del CD— refuerza la influencia del partido en el gabinete. Sus 1,64 millones de votantes continúan siendo estratégicos para la coalición de gobierno."
+        "positivo": 65,
+        "negativo": 17,
+        "neutro": 18,
+        "tendencia": "up",
+        "tendencia_texto": "8 jul — VIGILANCIA DE TRANSICIÓN. Valencia activó su rol de control político al denunciar el 7 jul el intento de asignar 129 cargos en el SENA antes del fin del gobierno Petro. El SENA respondió con un comunicado de transparencia. Su posicionamiento como 'guardiana' de la transición ordenada refuerza su imagen dentro de la coalición. Mantiene influencia como vocera del Centro Democrático cercana al equipo De la Espriella."
       }
     ]
   },
@@ -408,7 +408,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "TRANSICIÓN EN MARCHA — 3 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos) sobre Iván Cepeda (48,70% / 12.708.312 votos). Diferencia definitiva: 251.854 votos. GABINETE (5 carteras confirmadas): Rodrigo Lara (Interior, 26 jun), Miguel Gómez Martínez (Hacienda, 30 jun), Viviane Morales (Educación, 2 jul — primera mujer, genera controversia nacional), Iván Cancino (Justicia, 2 jul), Fabio Arjona (Ambiente, 2 jul). OPOSICIÓN: Cepeda llamó a 'desobediencia civil' (rechazado por Pdte del Senado Lidio García, 1 jul); asumirá curul en Senado. VALENCIA: vocera del CD sin curul desde el 20 jul. POSESIÓN: 7 de agosto de 2026."
+    "resumen_analisis": "TRANSICIÓN EN MARCHA — 8 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). GABINETE (10 carteras confirmadas al 8 jul): Rodrigo Lara (Interior), Miguel Gómez Martínez (Hacienda), Viviane Morales (Educación), Iván Cancino (Justicia), Fabio Arjona (Ambiente), Elsa Noguera (Transporte), Mauricio Gómez Amín (Comercio), Juliana Gutiérrez y otras. Jefe de gabinete: Nicolás Gómez Arenas (8 jul). TENSIÓN: empalme con Petro suspendido abruptamente el 7 jul. Petro confirma mandato hasta el 6 ago. OPOSICIÓN: Cepeda con curul avalada por CNE (asume 20 jul) pero persiste en no reconocer a De la Espriella. VALENCIA: rol activo como vocera del CD y voz de control político en la transición (denuncia SENA). POSESIÓN: 7 de agosto de 2026."
   },
-  "ultimo_deploy": "2026-07-03T00:00:00Z"
+  "ultimo_deploy": "2026-07-08T00:00:00Z"
 }
