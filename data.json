@@ -1,5 +1,5 @@
 {
-  "fecha": "8 de julio de 2026",
+  "fecha": "9 de julio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -98,6 +98,102 @@
     }
   ],
   "noticias": [
+    {
+      "filter": "espriella",
+      "fuente": "Semana",
+      "fuente_color": "#e74c3c",
+      "fecha": "9 jul 2026",
+      "tag": "TRANSICIÓN · Gira regional + Diplomacia EEUU",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella en Chiquinquirá: se reúne con encargado de negocios de la Embajada de EEUU en su gira de transición regional",
+      "resumen": "El presidente electo Abelardo de la Espriella viajó el 9 de julio a Chiquinquirá (Boyacá) en el marco de su gira de 'transición regional'. Allí se reunió con Jarahn Hillsman, encargado de negocios de la Embajada de Estados Unidos en Colombia. El encuentro diplomatic refuerza la alianza estratégica con Washington que De la Espriella ha cultivado durante la campaña, en particular tras recibir el respaldo público de Donald Trump en segunda vuelta. El presidente electo continúa recorriendo regiones del país a menos de un mes de su posesión el 7 de agosto.",
+      "objetividad": 92,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Visita a Chiquinquirá el 9 jul — confirmado por Semana"
+        },
+        {
+          "ok": true,
+          "texto": "Reunión con Jarahn Hillsman, encargado de negocios de la Embajada EEUU — Semana (9 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Gira de 'transición regional' como parte del proceso preposesorio — confirmado"
+        },
+        {
+          "ok": false,
+          "texto": "Agenda completa de la visita y acuerdos concretos no divulgados oficialmente"
+        }
+      ],
+      "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-estara-este-jueves-en-chiquinquira-alli-se-reunira-con-un-importante-diplomatico-de-ee-uu/202615/",
+      "url_label": "Semana — De la Espriella estará en Chiquinquirá; allí se reunirá con un importante diplomático de EE. UU."
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Pravda ES / Mindefensa",
+      "fuente_color": "#c0392b",
+      "fecha": "9 jul 2026",
+      "tag": "SEGURIDAD · Vuelta a bombardeos aéreos",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "Ministro de Defensa designado anuncia retorno 'con fuerza' de bombardeos aéreos contra grupos armados: adiós a la 'Paz Total' de Petro",
+      "resumen": "El general retirado Jorge Eduardo Mora, designado ministro de Defensa por Abelardo de la Espriella, anunció el 9 de julio que bajo el nuevo gobierno volverán 'con fuerza' los bombardeos aéreos contra grupos armados en Colombia. La declaración marca el fin de la política de 'Paz Total' del presidente Petro y una transformación radical en la estrategia de seguridad nacional: se abandona el enfoque negociador en favor de la confrontación militar directa con guerrillas y grupos criminales. Analistas advierten sobre riesgos humanitarios; los sectores de derecha y el Centro Democrático aplaudieron el anuncio como un retorno a la doctrina del uso efectivo de la fuerza.",
+      "objetividad": 88,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "General Mora designado Ministro de Defensa — confirmado por múltiples medios"
+        },
+        {
+          "ok": true,
+          "texto": "Anuncio de retorno de bombardeos aéreos — Pravda ES (9 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Fin de la 'Paz Total' como política de seguridad — declaración pública de Mora"
+        },
+        {
+          "ok": false,
+          "texto": "Protocolo de operaciones y grupos específicos a combatir aún no detallados oficialmente"
+        }
+      ],
+      "url": "https://spanish.news-pravda.com/world/2026/07/09/1009827.html",
+      "url_label": "Pravda ES — De la Espriella promete volver a bombardear grupos armados"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "El Tiempo / El Espectador",
+      "fuente_color": "#2980b9",
+      "fecha": "9 jul 2026",
+      "tag": "Cepeda · Desobediencia civil bajo fuego",
+      "tag_color": "#2980b9",
+      "tag_bg": "rgba(41,128,185,0.15)",
+      "titulo": "Cepeda precisa alcances de su llamado a la desobediencia civil pero crecen las voces de rechazo; retoma gira regional para reorganizar la izquierda",
+      "resumen": "El senador electo Iván Cepeda aclaró el 9 de julio el alcance de su polémico llamado a la 'desobediencia civil' frente al futuro gobierno de De la Espriella: 'No vamos a obedecer decisiones que vayan contra el pueblo'. Pese a la aclaración, El Tiempo reportó que crecen las voces de rechazo, incluso desde sectores moderados, que cuestionan si un senador puede llamar a desconocer decisiones de un gobierno legítimamente electo. En paralelo, Cepeda retomó su gira regional para reorganizar a la izquierda y a la oposición, con visitas a territorios donde obtuvo alta votación como Quibdó (Chocó) y Cali (Valle del Cauca).",
+      "objetividad": 93,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Cepeda precisó alcances de desobediencia civil — El Tiempo (9 jul), URL 3569117"
+        },
+        {
+          "ok": true,
+          "texto": "Crecen voces de rechazo al llamado — El Tiempo (9 jul), URL 3568600"
+        },
+        {
+          "ok": true,
+          "texto": "Gira regional para reorganizar la izquierda — El Espectador"
+        },
+        {
+          "ok": true,
+          "texto": "Desobediencia civil pacífica, sin violencia — aclaración verificada"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/gobierno/ivan-cepeda-preciso-los-alcances-de-su-llamado-a-la-desobediencia-civil-no-vamos-a-obedecer-decisiones-que-vayan-contra-el-pueblo-3569117",
+      "url_label": "El Tiempo — Cepeda precisó los alcances de su llamado a la desobediencia civil"
+    },
     {
       "filter": "espriella",
       "fuente": "Infobae",
@@ -289,70 +385,6 @@
       ],
       "url": "https://www.infobae.com/colombia/2026/07/07/tras-denuncia-de-paloma-valencia-por-129-cargos-que-buscarian-asignarse-en-el-sena-antes-del-fin-del-gobierno-petro-la-entidad-se-pronuncio/",
       "url_label": "Infobae — Tras denuncia de Paloma Valencia por 129 cargos en el SENA, la entidad se pronunció"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Tiempo / Semana / Cambio Colombia",
-      "fuente_color": "#27ae60",
-      "fecha": "5 jul 2026",
-      "tag": "GABINETE · Ministros clave",
-      "tag_color": "#2980b9",
-      "tag_bg": "rgba(41,128,185,0.15)",
-      "titulo": "Así va quedando el gabinete De la Espriella: Vivienda, Deporte, Comercio y Transporte completan el equipo ministerial",
-      "resumen": "El Tiempo y Semana actualizaron el estado del gabinete del presidente electo con carteras clave tomando forma en los primeros días de julio. Se confirmaron nombramientos para Vivienda, Deporte, Comercio y Transporte, completando el equipo ministerial que acompañará al gobierno 2026-2030 desde el 7 de agosto. El análisis de medios españoles destaca los ministerios clave para las inversiones españolas en Colombia: Comercio, Hacienda y Relaciones Exteriores. La cancillería sigue siendo uno de los cargos sin confirmar, aunque María Claudia Lacouture suena para la embajada en Washington.",
-      "objetividad": 88,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Vivienda, Deporte, Comercio y Transporte en gabinete — El Tiempo (5 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Análisis inversiones españolas — Moncloa.com (5 jul)"
-        },
-        {
-          "ok": false,
-          "texto": "Lista definitiva del gabinete aún no completamente anunciada"
-        },
-        {
-          "ok": false,
-          "texto": "Cancillería y otros cargos pendientes de confirmación oficial"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-va-quedando-el-gabinete-del-presidente-electo-abelardo-de-la-espriella-ministro-del-interior-y-otras-carteras-anunciadas-3568243",
-      "url_label": "El Tiempo — Así va quedando el gabinete del presidente electo Abelardo de la Espriella"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae / Semana / El Tiempo",
-      "fuente_color": "#e74c3c",
-      "fecha": "3 jul 2026",
-      "tag": "GABINETE · Controversia Educación",
-      "tag_color": "#e74c3c",
-      "tag_bg": "rgba(231,76,60,0.15)",
-      "titulo": "País político 'estalló' por Viviane Morales en Educación: críticos dicen que 'le declara la guerra al carácter laico'",
-      "resumen": "El nombramiento de la exfiscal Viviane Morales como ministra de Educación generó una de las mayores controversias del período de transición. Organizaciones laicas, partidos de izquierda y centro, y sectores educativos rechazaron la designación el 3 de julio, argumentando que Morales —conocida por sus posiciones conservadoras y religiosas— representa un riesgo para la educación sexual, la perspectiva de género y el carácter laico del Estado colombiano. Desde el Centro Democrático y aliados de gobierno, el nombramiento fue celebrado como garantía de 'valores y familia'. Es la primera mujer del gabinete y la tercera carta ministerial anunciada, tras Rodrigo Lara (Interior) y Miguel Gómez Martínez (Hacienda).",
-      "objetividad": 91,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Nombramiento de Morales en Educación — confirmado por Semana, El Tiempo, El País, Pulzo, Infobae (2-3 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Reacciones de rechazo de sectores laicos y de izquierda — Infobae (3 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Es la primera mujer del gabinete De la Espriella — confirmado por múltiples medios"
-        },
-        {
-          "ok": true,
-          "texto": "Morales es exfiscal general (2011-2012) y exsenadora — datos biográficos verificados"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/07/03/el-pais-politico-estallo-ante-la-llegada-de-viviane-morales-al-gabinete-de-de-la-espriella-le-declara-la-guerra-al-caracter-laico/",
-      "url_label": "Infobae — El país político 'estalló' ante la llegada de Viviane Morales al gabinete de De la Espriella"
     }
   ],
   "sentimiento": {
@@ -363,8 +395,8 @@
         "positivo": 76,
         "negativo": 16,
         "neutro": 8,
-        "tendencia": "stable",
-        "tendencia_texto": "8 jul — GABINETE 10 CARTERAS + JEFE DE GABINETE. Nicolás Gómez Arenas designado jefe de gabinete (8 jul). Seis nuevos nombramientos el 7 jul: Elsa Noguera (Transporte), Gómez Amín (Comercio) y otros. Gabinete suma ya 10 carteras confirmadas. Controversia: empalme con Petro suspendido abruptamente el 7 jul en medio de tensión política inédita. Cuestionamientos por posibles familiares en el equipo ministerial. Posesión: 7 de agosto de 2026."
+        "tendencia": "up",
+        "tendencia_texto": "9 jul — DIPLOMACIA + SEGURIDAD. Visita a Chiquinquirá y reunión con encargado de negocios de la Embajada EEUU Jarahn Hillsman (9 jul). Ministro de Defensa designado General Mora anuncia retorno de bombardeos aéreos contra grupos armados, fin de la 'Paz Total'. Gira de transición regional en marcha. Gabinete con 10 carteras + Jefe de Gabinete Nicolás Gómez Arenas. Posesión: 7 de agosto de 2026."
       },
       {
         "nombre": "Cepeda",
@@ -373,7 +405,7 @@
         "negativo": 68,
         "neutro": 15,
         "tendencia": "down",
-        "tendencia_texto": "8 jul — CURUL AVALADA / PERSISTE EN NO RECONOCER. CNE avaló el 7 jul la curul de oposición en el Senado; asumirá el 20 jul. Sin embargo, Cepeda se reafirmó en no reconocer a De la Espriella como presidente en evento en Cali. Se reunió con Petro y el Pacto Histórico en Casa de Nariño para coordinar estrategia legislativa. Imagen bajo presión por tono confrontacional post-derrota que genera críticas incluso desde sectores cercanos."
+        "tendencia_texto": "9 jul — DESOBEDIENCIA CIVIL BAJO FUEGO. Cepeda aclaró que 'no vamos a obedecer decisiones que vayan contra el pueblo' (El Tiempo, 9 jul) pero crecen las voces de rechazo incluso desde sectores moderados. Retoma gira regional para reorganizar la izquierda (Quibdó, Cali). Curul de oposición en el Senado avalada por el CNE; asumirá el 20 jul. Imagen bajo presión por postura confrontacional que genera divisiones en la izquierda."
       },
       {
         "nombre": "Valencia",
@@ -382,7 +414,7 @@
         "negativo": 17,
         "neutro": 18,
         "tendencia": "up",
-        "tendencia_texto": "8 jul — VIGILANCIA DE TRANSICIÓN. Valencia activó su rol de control político al denunciar el 7 jul el intento de asignar 129 cargos en el SENA antes del fin del gobierno Petro. El SENA respondió con un comunicado de transparencia. Su posicionamiento como 'guardiana' de la transición ordenada refuerza su imagen dentro de la coalición. Mantiene influencia como vocera del Centro Democrático cercana al equipo De la Espriella."
+        "tendencia_texto": "9 jul — SIN MOVIMIENTO RELEVANTE HOY. La denuncia de los 129 cargos en el SENA del 7 jul sigue en agenda; el SENA respondió con un comunicado de transparencia. Valencia sale del Congreso el 20 jul (no renovó curul). Mantiene influencia como vocera del Centro Democrático y voz de control político en la transición, cercana al equipo De la Espriella. Sin declaraciones nuevas el 9 jul."
       }
     ]
   },
@@ -408,7 +440,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "TRANSICIÓN EN MARCHA — 8 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). GABINETE (10 carteras confirmadas al 8 jul): Rodrigo Lara (Interior), Miguel Gómez Martínez (Hacienda), Viviane Morales (Educación), Iván Cancino (Justicia), Fabio Arjona (Ambiente), Elsa Noguera (Transporte), Mauricio Gómez Amín (Comercio), Juliana Gutiérrez y otras. Jefe de gabinete: Nicolás Gómez Arenas (8 jul). TENSIÓN: empalme con Petro suspendido abruptamente el 7 jul. Petro confirma mandato hasta el 6 ago. OPOSICIÓN: Cepeda con curul avalada por CNE (asume 20 jul) pero persiste en no reconocer a De la Espriella. VALENCIA: rol activo como vocera del CD y voz de control político en la transición (denuncia SENA). POSESIÓN: 7 de agosto de 2026."
+    "resumen_analisis": "TRANSICIÓN EN MARCHA — 9 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). HOY: gira regional en Chiquinquirá (Boyacá); reunión con Jarahn Hillsman, encargado de negocios de la Embajada EEUU. SEGURIDAD: General Mora (Mindefensa designado) anuncia retorno de bombardeos aéreos, fin de la 'Paz Total'. GABINETE: 10 carteras confirmadas + Jefe de Gabinete Nicolás Gómez Arenas. OPOSICIÓN: Cepeda aclara 'desobediencia civil pacífica' pero crecen voces de rechazo; gira regional para reorganizar la izquierda; asume curul en Senado el 20 jul. VALENCIA: sin noticias nuevas; denuncia SENA del 7 jul sigue en agenda; sale del Congreso el 20 jul. POSESIÓN: 7 de agosto de 2026."
   },
-  "ultimo_deploy": "2026-07-08T00:00:00Z"
+  "ultimo_deploy": "2026-07-09T00:00:00Z"
 }
