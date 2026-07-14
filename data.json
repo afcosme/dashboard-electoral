@@ -1,5 +1,5 @@
 {
-  "fecha": "13 de julio de 2026",
+  "fecha": "14 de julio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -98,6 +98,102 @@
     }
   ],
   "noticias": [
+    {
+      "filter": "espriella",
+      "fuente": "Infobae",
+      "fuente_color": "#e74c3c",
+      "fecha": "14 jul 2026",
+      "tag": "ALOCUCIÓN · 'La majestad presidencial fue prostituida'",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella habla al país en su tercera alocución: 'La majestad presidencial fue prostituida' — lanza duras críticas al gobierno saliente de Petro",
+      "resumen": "El presidente electo Abelardo de la Espriella realizó el 13-14 de julio su tercera alocución como mandatario electo, en la que criticó duramente al gobierno saliente de Gustavo Petro: 'La majestad presidencial fue prostituida'. En el mensaje, De la Espriella anunció que desde el 7 de agosto se restablecerá la dignidad institucional de la Casa de Nariño, criticó el bloqueo del proceso de empalme y reiteró su compromiso con la lucha anticorrupción. La alocución incluyó además el anuncio de la invitación de 'don Luis Felipe', vendedor ambulante de Florencia (Caquetá) cuya historia se viralizó por diferencias políticas, a la posesión presidencial del 7 de agosto.",
+      "objetividad": 91,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Tercera alocución presidencial el 13-14 jul — Infobae, El País (Cali)"
+        },
+        {
+          "ok": true,
+          "texto": "'La majestad presidencial fue prostituida' — declaración pública verificada"
+        },
+        {
+          "ok": true,
+          "texto": "Invitación a 'don Luis Felipe' a posesión el 7 de agosto — Infobae (14 jul)"
+        },
+        {
+          "ok": false,
+          "texto": "Lugar definitivo de la posesión aún sin confirmar"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/07/14/aberlardo-de-la-espriella-le-hablo-nuevamente-al-pais-con-criticas-contra-petro-la-majestad-presidencial-fue-prostituida/",
+      "url_label": "Infobae — 'La majestad presidencial fue prostituida': De la Espriella habló al país"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Heraldo / El Tiempo",
+      "fuente_color": "#e74c3c",
+      "fecha": "14 jul 2026",
+      "tag": "REFORMA ESTADO · 229 cargos eliminados",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella anuncia eliminación de 229 cargos en la estructura de la Presidencia: desaparecerán consejerías de Paz, Reconciliación y Derechos Humanos",
+      "resumen": "El presidente electo Abelardo de la Espriella anunció el 14 de julio una reestructuración profunda de la Presidencia de la República que implicará la eliminación de 229 cargos, la supresión de consejerías como la de Reconciliación, la de Derechos Humanos y Derecho Internacional Humanitario, la Unidad de Implementación del Acuerdo Final y el cargo de Comisionado de Paz. Las funciones serán redistribuidas entre distintos ministerios. El ahorro estimado es de aproximadamente 10.000 millones de pesos anuales. Simultáneamente, De la Espriella designó a María Nohemí Arboleda, gerente de XM, como ministra de Minas y Energía, completando el gabinete ministerial.",
+      "objetividad": 93,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Eliminación de 229 cargos en la Presidencia — El Heraldo (14 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Supresión de Consejería para la Reconciliación, DDHH y cargo de Comisionado de Paz — confirmado"
+        },
+        {
+          "ok": true,
+          "texto": "Ahorro de 10.000 millones anuales — cifra oficial de la transición"
+        },
+        {
+          "ok": true,
+          "texto": "María Nohemí Arboleda designada ministra de Minas — El Tiempo (14 jul), URL 3570975"
+        }
+      ],
+      "url": "https://www.elheraldo.co/politica/2026/07/14/abelardo-de-la-espriella-anuncia-cambios-en-la-estructura-de-la-presidencia-desapareceran-varias-consejerias-y-oficinas/",
+      "url_label": "El Heraldo — De la Espriella anuncia cambios: desaparecerán varias consejerías y oficinas"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Tiempo",
+      "fuente_color": "#e74c3c",
+      "fecha": "14 jul 2026",
+      "tag": "EMPALME · Bucaramanga + Gabinete completo",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "Empalme De la Espriella: todos los ministros confirmados y los cargos que eliminará; el presidente electo se reunirá en Bucaramanga",
+      "resumen": "El Tiempo publicó el 14 de julio el balance completo del empalme de gobierno de Abelardo de la Espriella: ministros confirmados, cargos a eliminar y próxima reunión en Bucaramanga. El gabinete incluye a Rodrigo Lara (Interior), General Mora (Defensa), Miguel Gómez Martínez (Hacienda), Omar Bula Escobar (Cancillería), Viviane Morales (Educación), Iván Cancino (Justicia), Elsa Noguera (Transporte), Mauricio Gómez Amín (Comercio), Fabio Arjona (Ambiente), Jaime Andrés Beltrán (Vivienda), Juliana Gutiérrez (Deporte) y María Nohemí Arboleda (Minas). De la Espriella también anunció por primera vez en Colombia una plataforma digital de reclutamiento por méritos para cargos de gobierno.",
+      "objetividad": 95,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Gabinete completo listado por El Tiempo (14 jul), URL 3571011"
+        },
+        {
+          "ok": true,
+          "texto": "Plataforma digital de reclutamiento por méritos — primera vez en Colombia, confirmado"
+        },
+        {
+          "ok": true,
+          "texto": "Reunión en Bucaramanga en el marco de la gira regional de empalme — confirmado"
+        },
+        {
+          "ok": true,
+          "texto": "12 ministerios con titular designado — verificado por múltiples fuentes"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-del-gobierno-de-abelardo-de-la-espriella-todos-los-ministros-confirmados-y-los-cargos-que-el-presidente-electo-eliminara-3571011",
+      "url_label": "El Tiempo — Empalme De la Espriella: todos los ministros confirmados y los cargos que eliminará"
+    },
     {
       "filter": "espriella",
       "fuente": "Semana / Publimetro",
@@ -289,102 +385,6 @@
       ],
       "url": "https://www.eltiempo.com/politica/gobierno/ivan-cepeda-preciso-los-alcances-de-su-llamado-a-la-desobediencia-civil-no-vamos-a-obedecer-decisiones-que-vayan-contra-el-pueblo-3569117",
       "url_label": "El Tiempo — Cepeda precisó los alcances de su llamado a la desobediencia civil"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae",
-      "fuente_color": "#e74c3c",
-      "fecha": "8 jul 2026",
-      "tag": "GABINETE · Jefe de Gabinete",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella designa a Nicolás Gómez Arenas como jefe de gabinete y revela que tendrá familiares en el equipo ministerial",
-      "resumen": "El presidente electo Abelardo de la Espriella confirmó el 8 de julio a Nicolás Gómez Arenas, politólogo, como su jefe de gabinete. Infobae reveló además que De la Espriella tendrá familiares cercanos entre sus ministros y en el Congreso, lo que generó cuestionamientos sobre nepotismo. El gabinete suma ya 10 carteras confirmadas tras los seis nuevos nombramientos del 7 de julio: Elsa Noguera (Transporte), Mauricio Gómez Amín (Comercio), además de los ya conocidos Lara (Interior), Gómez Martínez (Hacienda), Morales (Educación), Cancino (Justicia) y Arjona (Ambiente).",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Nicolás Gómez Arenas como jefe de gabinete — confirmado por Infobae (8 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Familiares en ministerios y Congreso — reportado por Infobae (8 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Gabinete con 10 carteras confirmadas — verificado por Portafolio y El Tiempo (7 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Elsa Noguera en Transporte y Gómez Amín en Comercio — confirmados el 7 jul"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/07/08/abelardo-de-la-espriella-ya-escogio-al-que-sera-su-jefe-de-gabinete-tendra-familiares-en-el-grupo-de-ministros-y-en-el-congreso/",
-      "url_label": "Infobae — De la Espriella ya escogió al que será su jefe de gabinete"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Infobae",
-      "fuente_color": "#2980b9",
-      "fecha": "7 jul 2026",
-      "tag": "Cepeda · CNE avala curul senado",
-      "tag_color": "#2980b9",
-      "tag_bg": "rgba(41,128,185,0.15)",
-      "titulo": "CNE avala que Cepeda asuma la curul de oposición en el Senado el 20 de julio, pese a que no reconoce a De la Espriella como presidente",
-      "resumen": "El Consejo Nacional Electoral (CNE) avaló el 7 de julio que Iván Cepeda asuma la curul de oposición en el Senado, derivada de su segundo lugar en las elecciones presidenciales del 21 de junio. Cepeda será senador 2026-2030 y asumirá el cargo el 20 de julio. La paradoja política es notable: ese mismo día, Cepeda mantuvo que no reconoce a Abelardo de la Espriella como presidente legítimo y defendió su llamado a 'desobediencia civil' durante un evento en Cali. Infobae destacó la importancia institucional de la curul de oposición para el sistema democrático colombiano.",
-      "objetividad": 94,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "CNE avala curul de oposición para Cepeda — Infobae (7 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Posesión como senador el 20 de julio — confirmado"
-        },
-        {
-          "ok": true,
-          "texto": "Cepeda persiste en no reconocer a De la Espriella — evento en Cali (7 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Escrutinio definitivo Senado: 103 curules, 19,47M votos válidos — Infobae (7 jul)"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/07/07/el-cne-avalo-que-ivan-cepeda-asuma-la-curul-de-oposicion-en-el-senado-cual-es-su-importancia/",
-      "url_label": "Infobae — El CNE avaló que Iván Cepeda asuma la curul de oposición en el Senado"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "Infobae",
-      "fuente_color": "#9b59b6",
-      "fecha": "7 jul 2026",
-      "tag": "Valencia · Denuncia SENA",
-      "tag_color": "#9b59b6",
-      "tag_bg": "rgba(155,89,182,0.15)",
-      "titulo": "Valencia denuncia intento de asignar 129 cargos en el SENA antes del fin del Gobierno Petro; la entidad responde que el proceso fue transparente",
-      "resumen": "Paloma Valencia denunció el 7 de julio un intento de asignación de 129 cargos de directores regionales y subdirectores de centro en el SENA antes del fin del Gobierno Petro, cuestionando la transparencia del concurso. En respuesta, el SENA emitió un comunicado oficial aclarando que las tres pruebas fueron elaboradas y calificadas íntegramente por la ESAP con plena autonomía e independencia. Valencia, en su rol como vocera política del Centro Democrático, actúa como voz crítica de los movimientos del gobierno saliente. Sale definitivamente del Congreso el 20 de julio al no haber renovado su curul.",
-      "objetividad": 93,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Denuncia de Valencia sobre 129 cargos SENA — Infobae (7 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Comunicado del SENA: proceso elaborado y calificado por ESAP con autonomía — Infobae (7 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Valencia como vocera del CD, rol de vigilancia en la transición — confirmado"
-        },
-        {
-          "ok": false,
-          "texto": "Resultado final del concurso SENA o acción disciplinaria aún no confirmados"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/07/07/tras-denuncia-de-paloma-valencia-por-129-cargos-que-buscarian-asignarse-en-el-sena-antes-del-fin-del-gobierno-petro-la-entidad-se-pronuncio/",
-      "url_label": "Infobae — Tras denuncia de Paloma Valencia por 129 cargos en el SENA, la entidad se pronunció"
     }
   ],
   "sentimiento": {
@@ -392,29 +392,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 69,
-        "negativo": 23,
+        "positivo": 71,
+        "negativo": 21,
         "neutro": 8,
-        "tendencia": "stable",
-        "tendencia_texto": "13 jul — PULSO CON PETRO + PRIMER CONSEJO DE MINISTROS. Petro prohíbe posesión en cuartel militar (12-13 jul): genera debate constitucional y divide opinión, aunque galvaniza base de derecha. Primer Consejo de Ministros en Barranquilla (10-11 jul): 'Aquí no hay flojera', imagen ejecutiva consolidada. Gira regional en marcha (Boyacá, Caribe). Posesión programada 7 de agosto. Congreso nuevo se instala el 20 jul."
+        "tendencia": "up",
+        "tendencia_texto": "14 jul — TERCERA ALOCUCIÓN + REFORMAS ESTRUCTURALES. 'La majestad presidencial fue prostituida': duras críticas a Petro en alocución del 13-14 jul (Infobae). Anuncia 229 cargos eliminados en la Presidencia, supresión de consejerías de Paz y Reconciliación; ahorro de 10.000 millones anuales. Gabinete completo: 12 ministerios con titular, incluida María Nohemí Arboleda en Minas. Plataforma digital de méritos para reclutamiento: primera en Colombia. Gira de empalme llega a Bucaramanga. Posesión: 7 de agosto."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 22,
-        "negativo": 61,
-        "neutro": 17,
+        "positivo": 23,
+        "negativo": 59,
+        "neutro": 18,
         "tendencia": "up",
-        "tendencia_texto": "13 jul — GIRO A OPOSICIÓN INSTITUCIONAL. Cepeda declara 'oposición férrea a la extrema derecha' (Semana, 11 jul), tono más institucional que la polémica 'desobediencia civil'. Asume curul de senador el 20 jul. Leve mejora en imagen al moderar discurso, aunque Restrepo lo llamó 'absolutamente vergonzoso' por condicionar reconocimiento de De la Espriella. La izquierda se reagrupa en torno a su liderazgo."
+        "tendencia_texto": "14 jul — EN VÍSPERAS DE POSESIÓN SENATORIAL. Sin noticias nuevas hoy: Cepeda prepara su posesión como senador opositor el 20 de julio. Mantiene tono de 'oposición férrea a la extrema derecha' (Semana, 11 jul), más moderado que el polémico llamado a 'desobediencia civil'. El Pacto Histórico con 25 curules más la curul de oposición de Cepeda es el bloque mayoritario del Senado. Reorganización de la izquierda en marcha."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 62,
-        "negativo": 20,
+        "positivo": 60,
+        "negativo": 22,
         "neutro": 18,
         "tendencia": "stable",
-        "tendencia_texto": "13 jul — SIN NOTICIAS DESTACADAS. Denuncia SENA (7 jul) sigue en agenda sin resolución disciplinaria confirmada. Valencia sale del Congreso el 20 de julio (no renovó curul tras quedar tercera en primera vuelta). Mantiene influencia como vocera del Centro Democrático; cercana al equipo De la Espriella durante la transición. Sin declaraciones nuevas en los últimos días."
+        "tendencia_texto": "14 jul — SIN NOTICIAS DESTACADAS. Valencia sale definitivamente del Congreso el 20 de julio al no haber renovado su curul (tercera en primera vuelta con 6,92%). Sin declaraciones nuevas hoy. Mantiene influencia como vocera del Centro Democrático y como parte del espíritu de la coalición que respaldó a De la Espriella. Denuncia SENA (7 jul) sin resolución disciplinaria confirmada."
       }
     ]
   },
@@ -440,7 +440,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "TRANSICIÓN EN MARCHA — 13 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). HOY: Petro prohíbe que De la Espriella se posesione en cuartel militar (12-13 jul); el electo evaluaba bases en Popayán, Cali y Tolemaida. CONSEJO DE MINISTROS: primer encuentro en Barranquilla (10-11 jul), 'Aquí no hay flojera'. GABINETE: 10 carteras + Jefe de Gabinete Nicolás Gómez Arenas. SEGURIDAD: General Mora (Mindefensa) anuncia retorno de bombardeos aéreos, fin de 'Paz Total'. OPOSICIÓN: Cepeda declara 'oposición férrea' en el Senado (asume el 20 jul); modera tono de 'desobediencia civil'. VALENCIA: sale del Congreso el 20 jul; rol como vocera del CD en la transición. POSESIÓN: 7 de agosto de 2026."
+    "resumen_analisis": "TRANSICIÓN EN MARCHA — 14 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). HOY: tercera alocución del electo: 'La majestad presidencial fue prostituida', duras críticas a Petro. REFORMAS: anuncia eliminación de 229 cargos en la Presidencia y supresión de consejerías de Paz, Reconciliación y DDHH; ahorro de 10.000 millones anuales. GABINETE COMPLETO: 12 ministerios con titular, incluida Arboleda en Minas. EMPALME: gira regional llega a Bucaramanga; primera plataforma digital de méritos en Colombia. OPOSICIÓN: Cepeda se posesiona como senador el 20 de julio; Pacto Histórico es bancada mayoritaria. VALENCIA: sale del Congreso el 20 jul. POSESIÓN: 7 de agosto de 2026."
   },
-  "ultimo_deploy": "2026-07-13T00:00:00Z"
+  "ultimo_deploy": "2026-07-14T00:00:00Z"
 }
