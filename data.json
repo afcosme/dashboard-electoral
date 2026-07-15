@@ -1,5 +1,5 @@
 {
-  "fecha": "14 de julio de 2026",
+  "fecha": "15 de julio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -396,7 +396,7 @@
         "negativo": 21,
         "neutro": 8,
         "tendencia": "up",
-        "tendencia_texto": "14 jul — TERCERA ALOCUCIÓN + REFORMAS ESTRUCTURALES. 'La majestad presidencial fue prostituida': duras críticas a Petro en alocución del 13-14 jul (Infobae). Anuncia 229 cargos eliminados en la Presidencia, supresión de consejerías de Paz y Reconciliación; ahorro de 10.000 millones anuales. Gabinete completo: 12 ministerios con titular, incluida María Nohemí Arboleda en Minas. Plataforma digital de méritos para reclutamiento: primera en Colombia. Gira de empalme llega a Bucaramanga. Posesión: 7 de agosto."
+        "tendencia_texto": "15 jul — TRANSICIÓN AVANZA HACIA EL 7 DE AGOSTO. Sin nuevas alocuciones hoy; equipo de empalme mantiene gira regional (Bucaramanga). Vigentes: eliminación de 229 cargos presidenciales, supresión de consejerías de Paz, Reconciliación y DDHH; ahorro de 10.000 millones anuales. Gabinete completo: 12 ministerios con titular (incluida Arboleda en Minas). Plataforma digital de méritos: primera en Colombia. Pulso con Petro por sede de posesión aún sin resolver. Posesión: 7 de agosto."
       },
       {
         "nombre": "Cepeda",
@@ -405,7 +405,7 @@
         "negativo": 59,
         "neutro": 18,
         "tendencia": "up",
-        "tendencia_texto": "14 jul — EN VÍSPERAS DE POSESIÓN SENATORIAL. Sin noticias nuevas hoy: Cepeda prepara su posesión como senador opositor el 20 de julio. Mantiene tono de 'oposición férrea a la extrema derecha' (Semana, 11 jul), más moderado que el polémico llamado a 'desobediencia civil'. El Pacto Histórico con 25 curules más la curul de oposición de Cepeda es el bloque mayoritario del Senado. Reorganización de la izquierda en marcha."
+        "tendencia_texto": "15 jul — A 5 DÍAS DE POSESIÓN SENATORIAL. Cepeda se posesiona como senador opositor el 20 de julio. Mantiene tono de 'oposición férrea a la extrema derecha y a cualquier intento por acabar con las reformas sociales' (Semana, 11 jul). Sin nuevas declaraciones hoy. Pacto Histórico con 25 curules es el bloque mayoritario del Senado. Reorganización de la izquierda en marcha."
       },
       {
         "nombre": "Valencia",
@@ -414,7 +414,7 @@
         "negativo": 22,
         "neutro": 18,
         "tendencia": "stable",
-        "tendencia_texto": "14 jul — SIN NOTICIAS DESTACADAS. Valencia sale definitivamente del Congreso el 20 de julio al no haber renovado su curul (tercera en primera vuelta con 6,92%). Sin declaraciones nuevas hoy. Mantiene influencia como vocera del Centro Democrático y como parte del espíritu de la coalición que respaldó a De la Espriella. Denuncia SENA (7 jul) sin resolución disciplinaria confirmada."
+        "tendencia_texto": "15 jul — SIN NOTICIAS DESTACADAS. Valencia sale del Congreso el 20 de julio (no renovó curul; tercera en primera vuelta con 6,92%). Sin declaraciones nuevas hoy. Mantiene influencia como vocera del Centro Democrático en la coalición que respalda a De la Espriella. Denuncia SENA (7 jul) sin resolución disciplinaria confirmada."
       }
     ]
   },
@@ -440,7 +440,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "TRANSICIÓN EN MARCHA — 14 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). HOY: tercera alocución del electo: 'La majestad presidencial fue prostituida', duras críticas a Petro. REFORMAS: anuncia eliminación de 229 cargos en la Presidencia y supresión de consejerías de Paz, Reconciliación y DDHH; ahorro de 10.000 millones anuales. GABINETE COMPLETO: 12 ministerios con titular, incluida Arboleda en Minas. EMPALME: gira regional llega a Bucaramanga; primera plataforma digital de méritos en Colombia. OPOSICIÓN: Cepeda se posesiona como senador el 20 de julio; Pacto Histórico es bancada mayoritaria. VALENCIA: sale del Congreso el 20 jul. POSESIÓN: 7 de agosto de 2026."
+    "resumen_analisis": "TRANSICIÓN EN MARCHA — 15 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). HOY: sin nuevas alocuciones; equipo de empalme en gira regional. VIGENTES (14 jul): eliminación de 229 cargos en la Presidencia, supresión de consejerías de Paz, Reconciliación y DDHH; ahorro de 10.000 millones anuales. GABINETE COMPLETO: 12 ministerios con titular, incluida Arboleda en Minas. POSESIÓN: pulso con Petro por sede (cuartel militar) aún sin resolver; fecha: 7 de agosto de 2026. OPOSICIÓN: Cepeda se posesiona como senador el 20 de julio; Pacto Histórico es bancada mayoritaria. VALENCIA: sale del Congreso el 20 jul."
   },
-  "ultimo_deploy": "2026-07-14T00:00:00Z"
+  "ultimo_deploy": "2026-07-15T00:00:00Z"
 }
