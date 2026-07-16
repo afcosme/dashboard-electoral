@@ -1,5 +1,5 @@
 {
-  "fecha": "15 de julio de 2026",
+  "fecha": "16 de julio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,6 +100,70 @@
   "noticias": [
     {
       "filter": "espriella",
+      "fuente": "La Silla Vacía",
+      "fuente_color": "#e74c3c",
+      "fecha": "15 jul 2026",
+      "tag": "DIPLOMACIA · Restrepo-Rubio en Washington",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "VP electo Restrepo se reúne con Rubio en Washington y anuncia que Colombia ingresará al 'Escudo de las Américas'",
+      "resumen": "El vicepresidente electo José Manuel Restrepo se reunió el 15 de julio en Washington con el secretario de Estado Marco Rubio, en el marco de la gira de recomposición de relaciones con Estados Unidos. Restrepo, acompañado por los ministros designados de Defensa, Relaciones Exteriores y Comercio, anunció que Colombia buscará ingresar al 'Escudo de las Américas', el bloque de mandatarios de derecha latinoamericanos liderado por Donald Trump. Restrepo subrayó que el ingreso busca fortalecer la cooperación en seguridad y la erradicación de cultivos ilícitos, 'siempre con absoluto respeto por la soberanía nacional'. La visita consolida la alianza estratégica con Washington cultivada por De la Espriella durante la campaña.",
+      "objetividad": 92,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Reunión Restrepo-Rubio en Washington el 15 jul — La Silla Vacía, Fox News"
+        },
+        {
+          "ok": true,
+          "texto": "Ingreso al 'Escudo de las Américas' anunciado — declaración pública verificada"
+        },
+        {
+          "ok": true,
+          "texto": "Delegación incluyó ministros de Defensa, Cancillería y Comercio — confirmado"
+        },
+        {
+          "ok": false,
+          "texto": "Acuerdos concretos y compromisos formales aún no publicados oficialmente"
+        }
+      ],
+      "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-15-de-julio-de-2026/",
+      "url_label": "La Silla Vacía — Las movidas del 15 de julio de 2026"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "La Silla Vacía",
+      "fuente_color": "#e74c3c",
+      "fecha": "15 jul 2026",
+      "tag": "GABINETE · MinTIC designada vía video con IA",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "Alexandra Falla Zerrate designada ministra TIC: De la Espriella anuncia el cargo mediante video hecho con inteligencia artificial",
+      "resumen": "La comunicadora Alexandra Falla Zerrate fue designada el 15 de julio como ministra de Tecnologías de la Información y las Comunicaciones del gobierno de Abelardo de la Espriella, completando así el gabinete ministerial. El nombramiento se anunció de forma inédita mediante un video producido con inteligencia artificial en redes sociales. Falla Zerrate viene de dirigir por 11 años la Fundación Patrimonio Fílmico Colombiano y tiene experiencia previa en la junta de la ANTV, Canal Capital y Transmilenio. Con su designación, el equipo entrante cierra los 13 ministerios con titular confirmado antes de la posesión del 7 de agosto.",
+      "objetividad": 94,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Alexandra Falla Zerrate designada MinTIC — La Silla Vacía (15 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Anuncio mediante video con IA en redes sociales — método verificado"
+        },
+        {
+          "ok": true,
+          "texto": "11 años dirigiendo Fundación Patrimonio Fílmico Colombiano — hoja de vida confirmada"
+        },
+        {
+          "ok": true,
+          "texto": "Gabinete con 13 ministerios con titular designado — completado"
+        }
+      ],
+      "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-15-de-julio-de-2026/",
+      "url_label": "La Silla Vacía — Las movidas del 15 de julio de 2026"
+    },
+    {
+      "filter": "espriella",
       "fuente": "Infobae",
       "fuente_color": "#e74c3c",
       "fecha": "14 jul 2026",
@@ -156,7 +220,7 @@
         },
         {
           "ok": true,
-          "texto": "María Nohemí Arboleda designada ministra de Minas — El Tiempo (14 jul), URL 3570975"
+          "texto": "María Nohemí Arboleda designada ministra de Minas — El Tiempo (14 jul)"
         }
       ],
       "url": "https://www.elheraldo.co/politica/2026/07/14/abelardo-de-la-espriella-anuncia-cambios-en-la-estructura-de-la-presidencia-desapareceran-varias-consejerias-y-oficinas/",
@@ -170,13 +234,13 @@
       "tag": "EMPALME · Bucaramanga + Gabinete completo",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Empalme De la Espriella: todos los ministros confirmados y los cargos que eliminará; el presidente electo se reunirá en Bucaramanga",
+      "titulo": "Empalme De la Espriella: todos los ministros confirmados y los cargos que eliminará; el presidente electo se reúne en Bucaramanga",
       "resumen": "El Tiempo publicó el 14 de julio el balance completo del empalme de gobierno de Abelardo de la Espriella: ministros confirmados, cargos a eliminar y próxima reunión en Bucaramanga. El gabinete incluye a Rodrigo Lara (Interior), General Mora (Defensa), Miguel Gómez Martínez (Hacienda), Omar Bula Escobar (Cancillería), Viviane Morales (Educación), Iván Cancino (Justicia), Elsa Noguera (Transporte), Mauricio Gómez Amín (Comercio), Fabio Arjona (Ambiente), Jaime Andrés Beltrán (Vivienda), Juliana Gutiérrez (Deporte) y María Nohemí Arboleda (Minas). De la Espriella también anunció por primera vez en Colombia una plataforma digital de reclutamiento por méritos para cargos de gobierno.",
       "objetividad": 95,
       "criterios": [
         {
           "ok": true,
-          "texto": "Gabinete completo listado por El Tiempo (14 jul), URL 3571011"
+          "texto": "Gabinete completo listado por El Tiempo (14 jul)"
         },
         {
           "ok": true,
@@ -188,11 +252,43 @@
         },
         {
           "ok": true,
-          "texto": "12 ministerios con titular designado — verificado por múltiples fuentes"
+          "texto": "12 ministerios con titular designado ese día — verificado por múltiples fuentes"
         }
       ],
       "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-del-gobierno-de-abelardo-de-la-espriella-todos-los-ministros-confirmados-y-los-cargos-que-el-presidente-electo-eliminara-3571011",
       "url_label": "El Tiempo — Empalme De la Espriella: todos los ministros confirmados y los cargos que eliminará"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "El Tiempo",
+      "fuente_color": "#2980b9",
+      "fecha": "14 jul 2026",
+      "tag": "Cepeda · No recoge credenciales en persona",
+      "tag_color": "#2980b9",
+      "tag_bg": "rgba(41,128,185,0.15)",
+      "titulo": "Cepeda y Aída Quilcué no asisten a recibir credenciales como congresistas: envían a Erika Prieto en su representación",
+      "resumen": "Iván Cepeda y Aída Quilcué, su fórmula vicepresidencial durante la campaña de 2026, no asistieron el 14 de julio a la ceremonia oficial del Consejo Nacional Electoral para recibir sus credenciales como congresistas. En su lugar, designaron a Erika Prieto para recoger los documentos que los acreditan como senadores para el período 2026-2030. El gesto es leído por analistas como una distancia simbólica frente al proceso institucional post-derrota. Cepeda, que asumirá su curul el 20 de julio, mantiene su postura de 'oposición férrea' al gobierno entrante de De la Espriella.",
+      "objetividad": 93,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Cepeda y Quilcué no asistieron a ceremonia de credenciales el 14 jul — El Tiempo"
+        },
+        {
+          "ok": true,
+          "texto": "Erika Prieto recogió las credenciales en su nombre — confirmado"
+        },
+        {
+          "ok": true,
+          "texto": "Posesión como senador programada para el 20 de julio — confirmado por CNE"
+        },
+        {
+          "ok": false,
+          "texto": "Razones oficiales de la ausencia no explicadas públicamente por Cepeda"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-y-aida-quilcue-enviaron-a-otra-persona-a-recoger-credenciales-como-congresistas-tras-perder-elecciones-presidenciales-en-colombia-3571351",
+      "url_label": "El Tiempo — Cepeda y Quilcué enviaron a otra persona a recoger credenciales como congresistas"
     },
     {
       "filter": "espriella",
@@ -227,38 +323,6 @@
       "url_label": "Semana — De la Espriella no podrá posesionarse en una base militar: Petro rechazó la solicitud"
     },
     {
-      "filter": "espriella",
-      "fuente": "Infobae",
-      "fuente_color": "#e74c3c",
-      "fecha": "11 jul 2026",
-      "tag": "TRANSICIÓN · Primer Consejo de Ministros",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella adelanta primer Consejo de Ministros con su gabinete designado en Barranquilla: 'Aquí no hay flojera'",
-      "resumen": "El presidente electo Abelardo de la Espriella realizó el 10-11 de julio en Barranquilla el primer 'Consejo de Ministros' con las personas designadas para liderar las carteras de su futuro gobierno. El encuentro, de carácter preparatorio antes de la posesión del 7 de agosto, tuvo como sede la ciudad natal del mandatario electo. De la Espriella resumió el espíritu del encuentro con la frase 'Aquí no hay flojera', marcando el tono de lo que será su estilo de gobierno. El equipo de transición, encabezado por el vicepresidente electo José Manuel Restrepo, suma más de 1.300 personas. Las carteras hasta ahora confirmadas incluyen Interior (Rodrigo Lara), Defensa (General Mora), Hacienda (Miguel Gómez Martínez), Educación (Viviane Morales) y Justicia (Iván Cancino), entre otras.",
-      "objetividad": 95,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Primer Consejo de Ministros en Barranquilla el 10-11 jul — Infobae, El Tiempo"
-        },
-        {
-          "ok": true,
-          "texto": "Frase 'Aquí no hay flojera' — declaración pública de De la Espriella verificada"
-        },
-        {
-          "ok": true,
-          "texto": "Equipo de transición liderado por Restrepo, más de 1.300 personas — confirmado"
-        },
-        {
-          "ok": true,
-          "texto": "Gabinete con carteras confirmadas: Lara, Mora, Gómez Martínez, Morales, Cancino — verificado"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/07/11/abelardo-de-la-espriella-adelanto-el-primer-consejo-de-ministros-con-su-gabinete-designado-y-entrego-balance-del-encuentro-aqui-no-hay-flojera/",
-      "url_label": "Infobae — De la Espriella adelantó el primer Consejo de Ministros: 'Aquí no hay flojera'"
-    },
-    {
       "filter": "cepeda",
       "fuente": "Semana",
       "fuente_color": "#2980b9",
@@ -289,102 +353,6 @@
       ],
       "url": "https://www.semana.com/politica/articulo/hare-una-oposicion-ferrea-a-la-extrema-derecha-y-a-cualquier-intento-por-acabar-con-las-reformas-sociales-ivan-cepeda/202623/",
       "url_label": "Semana — 'Haré una oposición férrea a la extrema derecha': Iván Cepeda"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Semana",
-      "fuente_color": "#e74c3c",
-      "fecha": "9 jul 2026",
-      "tag": "TRANSICIÓN · Gira regional + Diplomacia EEUU",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella en Chiquinquirá: se reúne con encargado de negocios de la Embajada de EEUU en su gira de transición regional",
-      "resumen": "El presidente electo Abelardo de la Espriella viajó el 9 de julio a Chiquinquirá (Boyacá) en el marco de su gira de 'transición regional'. Allí se reunió con Jarahn Hillsman, encargado de negocios de la Embajada de Estados Unidos en Colombia. El encuentro refuerza la alianza estratégica con Washington que De la Espriella ha cultivado durante la campaña, en particular tras recibir el respaldo público de Donald Trump en segunda vuelta. El presidente electo continúa recorriendo regiones del país a menos de un mes de su posesión el 7 de agosto.",
-      "objetividad": 92,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Visita a Chiquinquirá el 9 jul — confirmado por Semana"
-        },
-        {
-          "ok": true,
-          "texto": "Reunión con Jarahn Hillsman, encargado de negocios de la Embajada EEUU — Semana (9 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Gira de 'transición regional' como parte del proceso preposesorio — confirmado"
-        },
-        {
-          "ok": false,
-          "texto": "Agenda completa de la visita y acuerdos concretos no divulgados oficialmente"
-        }
-      ],
-      "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-estara-este-jueves-en-chiquinquira-alli-se-reunira-con-un-importante-diplomatico-de-ee-uu/202615/",
-      "url_label": "Semana — De la Espriella estará en Chiquinquirá; allí se reunirá con un importante diplomático de EE. UU."
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Pravda ES / Mindefensa",
-      "fuente_color": "#c0392b",
-      "fecha": "9 jul 2026",
-      "tag": "SEGURIDAD · Vuelta a bombardeos aéreos",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "Ministro de Defensa designado anuncia retorno 'con fuerza' de bombardeos aéreos contra grupos armados: adiós a la 'Paz Total' de Petro",
-      "resumen": "El general retirado Jorge Eduardo Mora, designado ministro de Defensa por Abelardo de la Espriella, anunció el 9 de julio que bajo el nuevo gobierno volverán 'con fuerza' los bombardeos aéreos contra grupos armados en Colombia. La declaración marca el fin de la política de 'Paz Total' del presidente Petro y una transformación radical en la estrategia de seguridad nacional: se abandona el enfoque negociador en favor de la confrontación militar directa con guerrillas y grupos criminales. Analistas advierten sobre riesgos humanitarios; los sectores de derecha y el Centro Democrático aplaudieron el anuncio.",
-      "objetividad": 88,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "General Mora designado Ministro de Defensa — confirmado por múltiples medios"
-        },
-        {
-          "ok": true,
-          "texto": "Anuncio de retorno de bombardeos aéreos — Pravda ES (9 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Fin de la 'Paz Total' como política de seguridad — declaración pública de Mora"
-        },
-        {
-          "ok": false,
-          "texto": "Protocolo de operaciones y grupos específicos a combatir aún no detallados oficialmente"
-        }
-      ],
-      "url": "https://spanish.news-pravda.com/world/2026/07/09/1009827.html",
-      "url_label": "Pravda ES — De la Espriella promete volver a bombardear grupos armados"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "El Tiempo / El Espectador",
-      "fuente_color": "#2980b9",
-      "fecha": "9 jul 2026",
-      "tag": "Cepeda · Desobediencia civil bajo fuego",
-      "tag_color": "#2980b9",
-      "tag_bg": "rgba(41,128,185,0.15)",
-      "titulo": "Cepeda precisa alcances de su llamado a la desobediencia civil pero crecen las voces de rechazo; retoma gira regional para reorganizar la izquierda",
-      "resumen": "El senador electo Iván Cepeda aclaró el 9 de julio el alcance de su polémico llamado a la 'desobediencia civil' frente al futuro gobierno de De la Espriella: 'No vamos a obedecer decisiones que vayan contra el pueblo'. Pese a la aclaración, El Tiempo reportó que crecen las voces de rechazo, incluso desde sectores moderados, que cuestionan si un senador puede llamar a desconocer decisiones de un gobierno legítimamente electo. En paralelo, Cepeda retomó su gira regional para reorganizar a la izquierda y a la oposición.",
-      "objetividad": 93,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Cepeda precisó alcances de desobediencia civil — El Tiempo (9 jul), URL 3569117"
-        },
-        {
-          "ok": true,
-          "texto": "Crecen voces de rechazo al llamado — El Tiempo (9 jul), URL 3568600"
-        },
-        {
-          "ok": true,
-          "texto": "Gira regional para reorganizar la izquierda — El Espectador"
-        },
-        {
-          "ok": true,
-          "texto": "Desobediencia civil pacífica, sin violencia — aclaración verificada"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/gobierno/ivan-cepeda-preciso-los-alcances-de-su-llamado-a-la-desobediencia-civil-no-vamos-a-obedecer-decisiones-que-vayan-contra-el-pueblo-3569117",
-      "url_label": "El Tiempo — Cepeda precisó los alcances de su llamado a la desobediencia civil"
     }
   ],
   "sentimiento": {
@@ -392,20 +360,20 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 71,
-        "negativo": 21,
+        "positivo": 72,
+        "negativo": 20,
         "neutro": 8,
         "tendencia": "up",
-        "tendencia_texto": "15 jul — TRANSICIÓN AVANZA HACIA EL 7 DE AGOSTO. Sin nuevas alocuciones hoy; equipo de empalme mantiene gira regional (Bucaramanga). Vigentes: eliminación de 229 cargos presidenciales, supresión de consejerías de Paz, Reconciliación y DDHH; ahorro de 10.000 millones anuales. Gabinete completo: 12 ministerios con titular (incluida Arboleda en Minas). Plataforma digital de méritos: primera en Colombia. Pulso con Petro por sede de posesión aún sin resolver. Posesión: 7 de agosto."
+        "tendencia_texto": "16 jul — GIRA DIPLOMÁTICA EN WASHINGTON. Restrepo-Rubio: Colombia ingresará al 'Escudo de las Américas'. Gabinete COMPLETO: MinTIC Alexandra Falla Zerrate (13 ministerios con titular). Vigentes: eliminación de 229 cargos presidenciales; ahorro 10.000 millones anuales; supresión de consejerías de Paz, Reconciliación y DDHH. Pulso con Petro por sede posesión sin resolver. Posesión: 7 de agosto."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 23,
-        "negativo": 59,
+        "positivo": 22,
+        "negativo": 60,
         "neutro": 18,
-        "tendencia": "up",
-        "tendencia_texto": "15 jul — A 5 DÍAS DE POSESIÓN SENATORIAL. Cepeda se posesiona como senador opositor el 20 de julio. Mantiene tono de 'oposición férrea a la extrema derecha y a cualquier intento por acabar con las reformas sociales' (Semana, 11 jul). Sin nuevas declaraciones hoy. Pacto Histórico con 25 curules es el bloque mayoritario del Senado. Reorganización de la izquierda en marcha."
+        "tendencia": "stable",
+        "tendencia_texto": "16 jul — PREPOSESIÓN SENATORIAL (4 DÍAS). Cepeda y Quilcué no asistieron a recoger credenciales el 14 jul; delegaron en Erika Prieto. Se posesiona como senador el 20 de julio. Mantiene 'oposición férrea a la extrema derecha'. Pacto Histórico: 25 curules en Senado (bancada mayoritaria)."
       },
       {
         "nombre": "Valencia",
@@ -414,7 +382,7 @@
         "negativo": 22,
         "neutro": 18,
         "tendencia": "stable",
-        "tendencia_texto": "15 jul — SIN NOTICIAS DESTACADAS. Valencia sale del Congreso el 20 de julio (no renovó curul; tercera en primera vuelta con 6,92%). Sin declaraciones nuevas hoy. Mantiene influencia como vocera del Centro Democrático en la coalición que respalda a De la Espriella. Denuncia SENA (7 jul) sin resolución disciplinaria confirmada."
+        "tendencia_texto": "16 jul — SIN NOTICIAS DESTACADAS. Sin declaraciones nuevas en 48h. Sale del Congreso el 20 de julio (no renovó curul; obtuvo 6,92% en primera vuelta). Mantiene influencia como vocera del Centro Democrático en coalición De la Espriella. Seguimiento denuncia SENA (7 jul) pendiente."
       }
     ]
   },
@@ -440,7 +408,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "TRANSICIÓN EN MARCHA — 15 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). HOY: sin nuevas alocuciones; equipo de empalme en gira regional. VIGENTES (14 jul): eliminación de 229 cargos en la Presidencia, supresión de consejerías de Paz, Reconciliación y DDHH; ahorro de 10.000 millones anuales. GABINETE COMPLETO: 12 ministerios con titular, incluida Arboleda en Minas. POSESIÓN: pulso con Petro por sede (cuartel militar) aún sin resolver; fecha: 7 de agosto de 2026. OPOSICIÓN: Cepeda se posesiona como senador el 20 de julio; Pacto Histórico es bancada mayoritaria. VALENCIA: sale del Congreso el 20 jul."
+    "resumen_analisis": "TRANSICIÓN EN MARCHA — 16 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). HOY: Restrepo-Rubio en Washington; Colombia anuncia ingreso al 'Escudo de las Américas'. GABINETE COMPLETO: MinTIC Falla Zerrate completa los 13 ministerios. VIGENTES (14 jul): eliminación de 229 cargos presidenciales, supresión de consejerías de Paz, Reconciliación y DDHH; ahorro de 10.000 millones anuales. POSESIÓN: pulso con Petro por sede (cuartel militar) sin resolver; fecha: 7 de agosto de 2026. OPOSICIÓN: Cepeda se posesiona como senador el 20 de julio; no recogió credenciales en persona (14 jul). VALENCIA: sale del Congreso el 20 jul."
   },
-  "ultimo_deploy": "2026-07-15T00:00:00Z"
+  "ultimo_deploy": "2026-07-16T00:00:00Z"
 }
