@@ -1,5 +1,5 @@
 {
-  "fecha": "16 de julio de 2026",
+  "fecha": "17 de julio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,6 +100,102 @@
   "noticias": [
     {
       "filter": "espriella",
+      "fuente": "El Heraldo",
+      "fuente_color": "#e74c3c",
+      "fecha": "17 jul 2026",
+      "tag": "SEGURIDAD · Condena atentado Tibú + Empalme Neiva",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella condena atentado contra base militar en Tibú y avanza empalme regional en Neiva",
+      "resumen": "El presidente electo Abelardo de la Espriella condenó el 17 de julio el atentado terrorista contra una unidad del Ejército Nacional en Tibú, Norte de Santander, reiterando que la protección de la vida, la seguridad ciudadana y el restablecimiento del orden serán ejes centrales de su administración desde el 7 de agosto. Simultáneamente, De la Espriella avanza en su gira de empalmes regionales: este viernes realiza una reunión a puerta cerrada en la Gobernación de Neiva (Huila) a las 11:30 a.m., tras visitar ya Norte de Santander, Santander y Casanare. La siguiente parada será Antioquia. El atentado refuerza el discurso de 'seguridad total' que marcó su campaña.",
+      "objetividad": 93,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Condena atentado Tibú — El Heraldo (17 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Empalme en Neiva, Gobernación del Huila, 17 jul 11:30 a.m. — El Espectador"
+        },
+        {
+          "ok": true,
+          "texto": "Gira previa: Norte de Santander, Santander, Casanare — confirmado"
+        },
+        {
+          "ok": false,
+          "texto": "Detalles del atentado en Tibú (número de víctimas, autoría) aún sin confirmar oficialmente"
+        }
+      ],
+      "url": "https://www.elheraldo.co/colombia/2026/07/17/abelardo-de-la-espriella-condena-atentado-contra-base-militar-en-tibu-y-promete-reforzar-la-seguridad-nacional/",
+      "url_label": "El Heraldo — De la Espriella condena atentado contra base militar en Tibú"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Vanguardia",
+      "fuente_color": "#e74c3c",
+      "fecha": "16 jul 2026",
+      "tag": "POSESIÓN · Congreso abre puerta para guarnición militar",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "Congreso abre la puerta para que Abelardo de la Espriella se posesione en una guarnición militar",
+      "resumen": "El Congreso de Colombia abrió el 16 de julio la puerta legal para que el presidente electo Abelardo de la Espriella pueda celebrar su ceremonia de posesión del 7 de agosto en una guarnición militar, revirtiendo el bloqueo del presidente Gustavo Petro, quien había argumentado que las instalaciones militares permanecen bajo sus órdenes como comandante supremo hasta el momento del traspaso del mando. El equipo de De la Espriella había explorado sedes en Popayán (Brigada 20), Cali (Cantón Pichincha) y Tolemaida. La decisión legislativa desbloquea una de las tensiones más visibles del período de transición.",
+      "objetividad": 92,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Congreso abre puerta posesión en guarnición — Vanguardia (16 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Petro había prohibido uso de instalaciones militares — declaración pública verificada (12-13 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Sedes exploradas: Popayán, Cali, Tolemaida — Semana (13 jul)"
+        },
+        {
+          "ok": false,
+          "texto": "Sede definitiva de la posesión del 7 de agosto aún sin confirmar"
+        }
+      ],
+      "url": "https://www.vanguardia.com/colombia/2026/07/16/congreso-abre-la-puerta-para-que-abelardo-de-la-espriella-se-posesione-en-una-guarnicion-militar/",
+      "url_label": "Vanguardia — Congreso abre la puerta para posesión en guarnición militar"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Infobae",
+      "fuente_color": "#2980b9",
+      "fecha": "16 jul 2026",
+      "tag": "Cepeda · Credencial + diálogos con CD",
+      "tag_color": "#2980b9",
+      "tag_bg": "rgba(41,128,185,0.15)",
+      "titulo": "Cepeda ya tiene su credencial de senador y no descarta acuerdos con el Centro Democrático para mesas directivas del Congreso",
+      "resumen": "Iván Cepeda recibió el 16 de julio su credencial oficial como senador para el período 2026-2030, gracias al Estatuto de la Oposición que le asigna automáticamente un curul como candidato presidencial que obtuvo el segundo lugar. El documento fue recogido el 14 de julio por la activista Erika Prieto en nombre de Cepeda, ante su ausencia en la ceremonia del CNE, generando una 'tormenta política' y acusaciones de 'solemne golpista' desde el Centro Democrático. Sin embargo, en un giro notable, Cepeda declaró el 16 de julio que el Pacto Histórico 'no está cerrado a diálogos' con el Centro Democrático para la elección de presidentes de Senado y Cámara, señal de pragmatismo institucional. Se posesiona como senador el 20 de julio.",
+      "objetividad": 94,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Credencial senatorial en mano de Cepeda — Infobae (16 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Declaración 'No estamos cerrados a diálogos' con CD — Infobae (16 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Acusaciones de 'solemne golpista' tras ausencia en ceremonia CNE (14 jul) — verificado"
+        },
+        {
+          "ok": true,
+          "texto": "Posesión senatorial 20 jul — confirmado por CNE"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/07/16/ivan-cepeda-no-descarta-acuerdos-con-el-centro-democratico-para-la-eleccion-de-presidentes-de-senado-y-camara-no-estamos-cerrados-a-dialogos/",
+      "url_label": "Infobae — Cepeda no descarta acuerdos con el Centro Democrático para mesas directivas"
+    },
+    {
+      "filter": "espriella",
       "fuente": "La Silla Vacía",
       "fuente_color": "#e74c3c",
       "fecha": "15 jul 2026",
@@ -161,38 +257,6 @@
       ],
       "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-15-de-julio-de-2026/",
       "url_label": "La Silla Vacía — Las movidas del 15 de julio de 2026"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae",
-      "fuente_color": "#e74c3c",
-      "fecha": "14 jul 2026",
-      "tag": "ALOCUCIÓN · 'La majestad presidencial fue prostituida'",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella habla al país en su tercera alocución: 'La majestad presidencial fue prostituida' — lanza duras críticas al gobierno saliente de Petro",
-      "resumen": "El presidente electo Abelardo de la Espriella realizó el 13-14 de julio su tercera alocución como mandatario electo, en la que criticó duramente al gobierno saliente de Gustavo Petro: 'La majestad presidencial fue prostituida'. En el mensaje, De la Espriella anunció que desde el 7 de agosto se restablecerá la dignidad institucional de la Casa de Nariño, criticó el bloqueo del proceso de empalme y reiteró su compromiso con la lucha anticorrupción. La alocución incluyó además el anuncio de la invitación de 'don Luis Felipe', vendedor ambulante de Florencia (Caquetá) cuya historia se viralizó por diferencias políticas, a la posesión presidencial del 7 de agosto.",
-      "objetividad": 91,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Tercera alocución presidencial el 13-14 jul — Infobae, El País (Cali)"
-        },
-        {
-          "ok": true,
-          "texto": "'La majestad presidencial fue prostituida' — declaración pública verificada"
-        },
-        {
-          "ok": true,
-          "texto": "Invitación a 'don Luis Felipe' a posesión el 7 de agosto — Infobae (14 jul)"
-        },
-        {
-          "ok": false,
-          "texto": "Lugar definitivo de la posesión aún sin confirmar"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/07/14/aberlardo-de-la-espriella-le-hablo-nuevamente-al-pais-con-criticas-contra-petro-la-majestad-presidencial-fue-prostituida/",
-      "url_label": "Infobae — 'La majestad presidencial fue prostituida': De la Espriella habló al país"
     },
     {
       "filter": "espriella",
@@ -267,7 +331,7 @@
       "tag_color": "#2980b9",
       "tag_bg": "rgba(41,128,185,0.15)",
       "titulo": "Cepeda y Aída Quilcué no asisten a recibir credenciales como congresistas: envían a Erika Prieto en su representación",
-      "resumen": "Iván Cepeda y Aída Quilcué, su fórmula vicepresidencial durante la campaña de 2026, no asistieron el 14 de julio a la ceremonia oficial del Consejo Nacional Electoral para recibir sus credenciales como congresistas. En su lugar, designaron a Erika Prieto para recoger los documentos que los acreditan como senadores para el período 2026-2030. El gesto es leído por analistas como una distancia simbólica frente al proceso institucional post-derrota. Cepeda, que asumirá su curul el 20 de julio, mantiene su postura de 'oposición férrea' al gobierno entrante de De la Espriella.",
+      "resumen": "Iván Cepeda y Aída Quilcué, su fórmula vicepresidencial durante la campaña de 2026, no asistieron el 14 de julio a la ceremonia oficial del Consejo Nacional Electoral para recibir sus credenciales como congresistas. En su lugar, designaron a Erika Prieto para recoger los documentos que los acreditan como senadores para el período 2026-2030. El gesto desató una 'tormenta política' y acusaciones de 'solemne golpista' desde el Centro Democrático. El 16 de julio Cepeda ya tiene oficialmente la credencial en sus manos y declaró que el Pacto Histórico 'no está cerrado a diálogos' con el CD para las mesas directivas. Asume su curul el 20 de julio.",
       "objetividad": 93,
       "criterios": [
         {
@@ -280,79 +344,15 @@
         },
         {
           "ok": true,
-          "texto": "Posesión como senador programada para el 20 de julio — confirmado por CNE"
+          "texto": "Credencial en manos de Cepeda el 16 jul — Infobae (16 jul)"
         },
         {
-          "ok": false,
-          "texto": "Razones oficiales de la ausencia no explicadas públicamente por Cepeda"
+          "ok": true,
+          "texto": "Posesión como senador programada para el 20 de julio — confirmado por CNE"
         }
       ],
       "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-y-aida-quilcue-enviaron-a-otra-persona-a-recoger-credenciales-como-congresistas-tras-perder-elecciones-presidenciales-en-colombia-3571351",
       "url_label": "El Tiempo — Cepeda y Quilcué enviaron a otra persona a recoger credenciales como congresistas"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Semana / Publimetro",
-      "fuente_color": "#e74c3c",
-      "fecha": "13 jul 2026",
-      "tag": "POSESIÓN · Pulso con Petro por cuartel militar",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "Petro prohíbe que De la Espriella se posesione en un cuartel militar: 'Las guarniciones están bajo mis órdenes hasta el 7 de agosto'",
-      "resumen": "El presidente Gustavo Petro ordenó el 12-13 de julio que ningún establecimiento militar o policial sea usado para la posesión presidencial de Abelardo de la Espriella. El equipo de De la Espriella había explorado la viabilidad de posesionarse en instalaciones militares en Popayán (Brigada 20), Cali (Cantón Pichincha) y Tolemaida, en línea con su discurso de revalorización de la fuerza pública. Petro argumentó que las guarniciones permanecen bajo sus órdenes como comandante supremo de las Fuerzas Armadas hasta el momento en que De la Espriella jure como nuevo presidente. El mandatario electo aún evalúa el lugar definitivo de la ceremonia, programada para el 7 de agosto de 2026.",
-      "objetividad": 94,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Petro prohíbe uso de guarniciones militares para la posesión — Publimetro / El Universal (12-13 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Equipo De la Espriella exploró instalaciones en Popayán, Cali y Tolemaida — Semana (13 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Petro: 'las guarniciones están bajo mis órdenes hasta el momento de la posesión' — declaración pública"
-        },
-        {
-          "ok": false,
-          "texto": "Ubicación definitiva de la ceremonia de posesión aún no confirmada"
-        }
-      ],
-      "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-no-podra-posesionarse-en-una-base-militar-gobierno-petro-rechazo-la-solicitud-del-presidente-electo/202615/",
-      "url_label": "Semana — De la Espriella no podrá posesionarse en una base militar: Petro rechazó la solicitud"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Semana",
-      "fuente_color": "#2980b9",
-      "fecha": "11 jul 2026",
-      "tag": "Cepeda · Oposición férrea declarada",
-      "tag_color": "#2980b9",
-      "tag_bg": "rgba(41,128,185,0.15)",
-      "titulo": "'Haré una oposición férrea a la extrema derecha y a cualquier intento por acabar con las reformas sociales': Cepeda define su rol en el Senado",
-      "resumen": "Iván Cepeda definió su postura como senador opositor en una declaración difundida por Semana: 'Haré una oposición férrea a la extrema derecha y a cualquier intento por acabar con las reformas sociales que hemos construido'. Cepeda, que asumirá su curul el 20 de julio, marca un tono más institucional que el polémico llamado a 'desobediencia civil' de días anteriores, reforzando su papel de control político desde el Congreso. El vicepresidente electo José Manuel Restrepo calificó de 'absolutamente vergonzoso' el intento de Cepeda de condicionar el reconocimiento de De la Espriella a exigencias sobre su doble nacionalidad y vínculos con agencias de seguridad estadounidenses.",
-      "objetividad": 91,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaración 'oposición férrea a la extrema derecha' — Semana, verificado"
-        },
-        {
-          "ok": true,
-          "texto": "Cepeda asume curul de senador el 20 de julio — confirmado por CNE"
-        },
-        {
-          "ok": true,
-          "texto": "Restrepo calificó de 'absolutamente vergonzoso' la postura de Cepeda — declaración pública verificada"
-        },
-        {
-          "ok": false,
-          "texto": "Agenda legislativa concreta de la bancada opositora aún no detallada oficialmente"
-        }
-      ],
-      "url": "https://www.semana.com/politica/articulo/hare-una-oposicion-ferrea-a-la-extrema-derecha-y-a-cualquier-intento-por-acabar-con-las-reformas-sociales-ivan-cepeda/202623/",
-      "url_label": "Semana — 'Haré una oposición férrea a la extrema derecha': Iván Cepeda"
     }
   ],
   "sentimiento": {
@@ -364,16 +364,16 @@
         "negativo": 20,
         "neutro": 8,
         "tendencia": "up",
-        "tendencia_texto": "16 jul — GIRA DIPLOMÁTICA EN WASHINGTON. Restrepo-Rubio: Colombia ingresará al 'Escudo de las Américas'. Gabinete COMPLETO: MinTIC Alexandra Falla Zerrate (13 ministerios con titular). Vigentes: eliminación de 229 cargos presidenciales; ahorro 10.000 millones anuales; supresión de consejerías de Paz, Reconciliación y DDHH. Pulso con Petro por sede posesión sin resolver. Posesión: 7 de agosto."
+        "tendencia_texto": "17 jul — ATENTADO TIBÚ CONDENADO. Rechaza ataque al Ejército en Norte de Santander; refuerza discurso de 'seguridad total'. EMPALME REGIONAL: reunión en Neiva (Huila) hoy; gira continúa hacia Antioquia. CONGRESO (16 jul): abre puerta legal para posesión en guarnición militar. Restrepo-Rubio en Washington: Colombia anuncia ingreso al 'Escudo de las Américas'. Gabinete COMPLETO: 13 ministerios con titular designado. Posesión: 7 de agosto."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
         "positivo": 22,
-        "negativo": 60,
-        "neutro": 18,
+        "negativo": 58,
+        "neutro": 20,
         "tendencia": "stable",
-        "tendencia_texto": "16 jul — PREPOSESIÓN SENATORIAL (4 DÍAS). Cepeda y Quilcué no asistieron a recoger credenciales el 14 jul; delegaron en Erika Prieto. Se posesiona como senador el 20 de julio. Mantiene 'oposición férrea a la extrema derecha'. Pacto Histórico: 25 curules en Senado (bancada mayoritaria)."
+        "tendencia_texto": "17 jul — CREDENCIAL SENATORIAL EN MANO (16 jul). Pacto Histórico 'no está cerrado a diálogos' con Centro Democrático para mesas directivas del Congreso: giro pragmático notable. Ausencia en ceremonia CNE (14 jul) generó acusaciones de 'solemne golpista'. Se posesiona como senador el 20 de julio. Pacto Histórico: 25 curules en Senado (bancada mayoritaria)."
       },
       {
         "nombre": "Valencia",
@@ -382,7 +382,7 @@
         "negativo": 22,
         "neutro": 18,
         "tendencia": "stable",
-        "tendencia_texto": "16 jul — SIN NOTICIAS DESTACADAS. Sin declaraciones nuevas en 48h. Sale del Congreso el 20 de julio (no renovó curul; obtuvo 6,92% en primera vuelta). Mantiene influencia como vocera del Centro Democrático en coalición De la Espriella. Seguimiento denuncia SENA (7 jul) pendiente."
+        "tendencia_texto": "17 jul — SIN NOTICIAS DESTACADAS. Sin declaraciones nuevas en 48h. Sale del Congreso el 20 de julio (no renovó curul; obtuvo 6,92% en primera vuelta). Mantiene influencia como vocera del Centro Democrático en coalición De la Espriella. Seguimiento denuncia SENA (7 jul) pendiente."
       }
     ]
   },
@@ -408,7 +408,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "TRANSICIÓN EN MARCHA — 16 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). HOY: Restrepo-Rubio en Washington; Colombia anuncia ingreso al 'Escudo de las Américas'. GABINETE COMPLETO: MinTIC Falla Zerrate completa los 13 ministerios. VIGENTES (14 jul): eliminación de 229 cargos presidenciales, supresión de consejerías de Paz, Reconciliación y DDHH; ahorro de 10.000 millones anuales. POSESIÓN: pulso con Petro por sede (cuartel militar) sin resolver; fecha: 7 de agosto de 2026. OPOSICIÓN: Cepeda se posesiona como senador el 20 de julio; no recogió credenciales en persona (14 jul). VALENCIA: sale del Congreso el 20 jul."
+    "resumen_analisis": "TRANSICIÓN EN MARCHA — 17 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). HOY: Condena atentado terrorista en Tibú (Ejército); empalme regional en Neiva (Huila). CONGRESO (16 jul): abre puerta legal para posesión en guarnición militar. Restrepo-Rubio en Washington: Colombia anuncia ingreso al 'Escudo de las Américas'. GABINETE COMPLETO (13 ministerios con titular). 229 cargos presidenciales eliminados. OPOSICIÓN: Cepeda tiene credencial senatorial; abierto a diálogos con CD para mesas directivas. Posesión senatorial: 20 jul. VALENCIA: sale del Congreso el 20 jul. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026."
   },
-  "ultimo_deploy": "2026-07-16T00:00:00Z"
+  "ultimo_deploy": "2026-07-17T00:00:00Z"
 }
