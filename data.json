@@ -1,5 +1,5 @@
 {
-  "fecha": "17 de julio de 2026",
+  "fecha": "18 de julio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -99,6 +99,70 @@
   ],
   "noticias": [
     {
+      "filter": "cepeda",
+      "fuente": "Semana / Infobae",
+      "fuente_color": "#2980b9",
+      "fecha": "17 jul 2026",
+      "tag": "Cepeda · Desobediencia civil ratificada · No asistirá a posesión",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "Cepeda ratifica desobediencia civil: no asistirá a la posesión de De la Espriella y no lo reconoce 'en su legitimidad'",
+      "resumen": "Iván Cepeda ratificó el 17 de julio su postura de 'desobediencia civil' y confirmó que no asistirá a la ceremonia de posesión presidencial de Abelardo de la Espriella el 7 de agosto. Cepeda declaró que acepta el resultado electoral únicamente para efectos de posesionarse como senador el 20 de julio, pero que no reconoce a De la Espriella 'en su legitimidad'. Afirmó: 'El único camino de oposición hoy es la desobediencia civil'. La postura genera debate constitucional sobre si es compatible con el juramento institucional que hará ante el Senado.",
+      "objetividad": 91,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Ratifica desobediencia civil y no asistirá a posesión — Semana (17 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "No reconoce a De la Espriella 'en su legitimidad' — El Colombiano (17 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Acepta resultado para posesionarse como senador el 20 jul — Infobae (17 jul)"
+        },
+        {
+          "ok": false,
+          "texto": "Implicaciones jurídicas de la 'desobediencia civil' senatorial aún en debate"
+        }
+      ],
+      "url": "https://www.semana.com/politica/articulo/ivan-cepeda-ratifica-su-posicion-de-desobediencia-civil-y-no-asistira-a-la-posesion-de-abelardo-de-la-espriella/202653/",
+      "url_label": "Semana — Cepeda ratifica desobediencia civil y no asistirá a la posesión de De la Espriella"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Universal",
+      "fuente_color": "#e74c3c",
+      "fecha": "17 jul 2026",
+      "tag": "GABINETE · Paola Holguín · MinCultura",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella designa a Paola Holguín como ministra de Cultura; faltan 4 carteras por definir antes del 7 de agosto",
+      "resumen": "El presidente electo Abelardo de la Espriella anunció el 17 de julio la designación de Paola Holguín como ministra de Cultura para su gobierno (2026-2030). Con este nombramiento, 14 de los 18 ministerios ya cuentan con titular confirmado. Quedan por designar las carteras de Salud, Trabajo, Agricultura y Ciencia antes de la posesión del 7 de agosto. Holguín es exsenadora del Centro Democrático y figura cercana al uribismo; su designación consolida la alianza política entre De la Espriella y la maquinaria del CD.",
+      "objetividad": 93,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Paola Holguín designada ministra de Cultura — El Universal (17 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "14 ministerios con titular designado tras el anuncio — verificado"
+        },
+        {
+          "ok": true,
+          "texto": "Holguín: exsenadora del Centro Democrático — hoja de vida confirmada"
+        },
+        {
+          "ok": false,
+          "texto": "Carteras pendientes exactas aún por confirmar oficialmente"
+        }
+      ],
+      "url": "https://www.eluniversal.com.co/colombia/2026/07/17/abelardo-de-la-espriella-se-la-juega-con-paola-holguin-en-el-ministerio-de-cultura/",
+      "url_label": "El Universal — De la Espriella designa a Paola Holguín en el Ministerio de Cultura"
+    },
+    {
       "filter": "espriella",
       "fuente": "El Heraldo",
       "fuente_color": "#e74c3c",
@@ -107,7 +171,7 @@
       "tag_color": "#c0392b",
       "tag_bg": "rgba(192,57,43,0.15)",
       "titulo": "De la Espriella condena atentado contra base militar en Tibú y avanza empalme regional en Neiva",
-      "resumen": "El presidente electo Abelardo de la Espriella condenó el 17 de julio el atentado terrorista contra una unidad del Ejército Nacional en Tibú, Norte de Santander, reiterando que la protección de la vida, la seguridad ciudadana y el restablecimiento del orden serán ejes centrales de su administración desde el 7 de agosto. Simultáneamente, De la Espriella avanza en su gira de empalmes regionales: este viernes realiza una reunión a puerta cerrada en la Gobernación de Neiva (Huila) a las 11:30 a.m., tras visitar ya Norte de Santander, Santander y Casanare. La siguiente parada será Antioquia. El atentado refuerza el discurso de 'seguridad total' que marcó su campaña.",
+      "resumen": "El presidente electo Abelardo de la Espriella condenó el 17 de julio el atentado terrorista contra una unidad del Ejército Nacional en Tibú, Norte de Santander, reiterando que la protección de la vida, la seguridad ciudadana y el restablecimiento del orden serán ejes centrales de su administración desde el 7 de agosto. Simultáneamente, De la Espriella avanza en su gira de empalmes regionales: este viernes realiza una reunión a puerta cerrada en la Gobernación de Neiva (Huila), tras visitar ya Norte de Santander, Santander y Casanare. La siguiente parada será Antioquia.",
       "objetividad": 93,
       "criterios": [
         {
@@ -116,7 +180,7 @@
         },
         {
           "ok": true,
-          "texto": "Empalme en Neiva, Gobernación del Huila, 17 jul 11:30 a.m. — El Espectador"
+          "texto": "Empalme en Neiva, Gobernación del Huila, 17 jul — El Espectador"
         },
         {
           "ok": true,
@@ -124,7 +188,7 @@
         },
         {
           "ok": false,
-          "texto": "Detalles del atentado en Tibú (número de víctimas, autoría) aún sin confirmar oficialmente"
+          "texto": "Detalles del atentado en Tibú (víctimas, autoría) aún sin confirmar oficialmente"
         }
       ],
       "url": "https://www.elheraldo.co/colombia/2026/07/17/abelardo-de-la-espriella-condena-atentado-contra-base-militar-en-tibu-y-promete-reforzar-la-seguridad-nacional/",
@@ -148,7 +212,7 @@
         },
         {
           "ok": true,
-          "texto": "Petro había prohibido uso de instalaciones militares — declaración pública verificada (12-13 jul)"
+          "texto": "Petro había prohibido uso de instalaciones militares — declaración verificada (12-13 jul)"
         },
         {
           "ok": true,
@@ -163,6 +227,38 @@
       "url_label": "Vanguardia — Congreso abre la puerta para posesión en guarnición militar"
     },
     {
+      "filter": "valencia",
+      "fuente": "ChicaNoticias",
+      "fuente_color": "#9b59b6",
+      "fecha": "16 jul 2026",
+      "tag": "Valencia · CD exige presidencia del Congreso",
+      "tag_color": "#9b59b6",
+      "tag_bg": "rgba(155,89,182,0.15)",
+      "titulo": "Paloma Valencia: 'El Centro Democrático se ganó la Presidencia del Congreso con más de 3 millones de votos'",
+      "resumen": "Paloma Valencia defendió el 16 de julio la aspiración del Centro Democrático a liderar el Congreso en la nueva legislatura, argumentando que el partido obtuvo más de 3 millones de votos en las elecciones y tiene el mérito político para presidir Senado o Cámara. Valencia sostiene que la composición de las mesas directivas del Congreso debe responder a los acuerdos entre las mayorías legislativas. Es la última semana de Valencia en el Congreso como senadora del período anterior; sale el 20 de julio al no haber renovado curul para el período 2026-2030.",
+      "objetividad": 90,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Valencia exige presidencia del Congreso para el CD — ChicaNoticias (16 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "CD: más de 3 millones de votos en elecciones legislativas — cifra verificada"
+        },
+        {
+          "ok": true,
+          "texto": "Valencia sale del Congreso el 20 jul — no renovó curul para 2026-2030"
+        },
+        {
+          "ok": false,
+          "texto": "Definición de mesas directivas del Congreso aún pendiente"
+        }
+      ],
+      "url": "https://www.chicanoticias.com/2026/07/16/centro-democratico-paloma-valenci/",
+      "url_label": "ChicaNoticias — 'El CD se ganó la Presidencia del Congreso con más de 3 millones de votos'"
+    },
+    {
       "filter": "cepeda",
       "fuente": "Infobae",
       "fuente_color": "#2980b9",
@@ -171,12 +267,12 @@
       "tag_color": "#2980b9",
       "tag_bg": "rgba(41,128,185,0.15)",
       "titulo": "Cepeda ya tiene su credencial de senador y no descarta acuerdos con el Centro Democrático para mesas directivas del Congreso",
-      "resumen": "Iván Cepeda recibió el 16 de julio su credencial oficial como senador para el período 2026-2030, gracias al Estatuto de la Oposición que le asigna automáticamente un curul como candidato presidencial que obtuvo el segundo lugar. El documento fue recogido el 14 de julio por la activista Erika Prieto en nombre de Cepeda, ante su ausencia en la ceremonia del CNE, generando una 'tormenta política' y acusaciones de 'solemne golpista' desde el Centro Democrático. Sin embargo, en un giro notable, Cepeda declaró el 16 de julio que el Pacto Histórico 'no está cerrado a diálogos' con el Centro Democrático para la elección de presidentes de Senado y Cámara, señal de pragmatismo institucional. Se posesiona como senador el 20 de julio.",
+      "resumen": "Iván Cepeda recibió el 16 de julio su credencial oficial como senador para el período 2026-2030, gracias al Estatuto de la Oposición que le asigna automáticamente un curul como candidato presidencial que obtuvo el segundo lugar. El documento fue recogido el 14 de julio por la activista Erika Prieto en nombre de Cepeda, ante su ausencia en la ceremonia del CNE, generando acusaciones de 'solemne golpista' desde el Centro Democrático. Sin embargo, Cepeda declaró que el Pacto Histórico 'no está cerrado a diálogos' con el Centro Democrático para la elección de presidentes de Senado y Cámara. Se posesiona como senador el 20 de julio.",
       "objetividad": 94,
       "criterios": [
         {
           "ok": true,
-          "texto": "Credencial senatorial en mano de Cepeda — Infobae (16 jul)"
+          "texto": "Credencial senatorial en manos de Cepeda — Infobae (16 jul)"
         },
         {
           "ok": true,
@@ -184,7 +280,7 @@
         },
         {
           "ok": true,
-          "texto": "Acusaciones de 'solemne golpista' tras ausencia en ceremonia CNE (14 jul) — verificado"
+          "texto": "Acusaciones de 'solemne golpista' tras ausencia en ceremonia CNE (14 jul)"
         },
         {
           "ok": true,
@@ -203,7 +299,7 @@
       "tag_color": "#c0392b",
       "tag_bg": "rgba(192,57,43,0.15)",
       "titulo": "VP electo Restrepo se reúne con Rubio en Washington y anuncia que Colombia ingresará al 'Escudo de las Américas'",
-      "resumen": "El vicepresidente electo José Manuel Restrepo se reunió el 15 de julio en Washington con el secretario de Estado Marco Rubio, en el marco de la gira de recomposición de relaciones con Estados Unidos. Restrepo, acompañado por los ministros designados de Defensa, Relaciones Exteriores y Comercio, anunció que Colombia buscará ingresar al 'Escudo de las Américas', el bloque de mandatarios de derecha latinoamericanos liderado por Donald Trump. Restrepo subrayó que el ingreso busca fortalecer la cooperación en seguridad y la erradicación de cultivos ilícitos, 'siempre con absoluto respeto por la soberanía nacional'. La visita consolida la alianza estratégica con Washington cultivada por De la Espriella durante la campaña.",
+      "resumen": "El vicepresidente electo José Manuel Restrepo se reunió el 15 de julio en Washington con el secretario de Estado Marco Rubio, en el marco de la gira de recomposición de relaciones con Estados Unidos. Restrepo anunció que Colombia buscará ingresar al 'Escudo de las Américas', el bloque de mandatarios de derecha latinoamericanos liderado por Donald Trump, para fortalecer la cooperación en seguridad y erradicación de cultivos ilícitos, 'siempre con absoluto respeto por la soberanía nacional'.",
       "objetividad": 92,
       "criterios": [
         {
@@ -228,38 +324,6 @@
     },
     {
       "filter": "espriella",
-      "fuente": "La Silla Vacía",
-      "fuente_color": "#e74c3c",
-      "fecha": "15 jul 2026",
-      "tag": "GABINETE · MinTIC designada vía video con IA",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Alexandra Falla Zerrate designada ministra TIC: De la Espriella anuncia el cargo mediante video hecho con inteligencia artificial",
-      "resumen": "La comunicadora Alexandra Falla Zerrate fue designada el 15 de julio como ministra de Tecnologías de la Información y las Comunicaciones del gobierno de Abelardo de la Espriella, completando así el gabinete ministerial. El nombramiento se anunció de forma inédita mediante un video producido con inteligencia artificial en redes sociales. Falla Zerrate viene de dirigir por 11 años la Fundación Patrimonio Fílmico Colombiano y tiene experiencia previa en la junta de la ANTV, Canal Capital y Transmilenio. Con su designación, el equipo entrante cierra los 13 ministerios con titular confirmado antes de la posesión del 7 de agosto.",
-      "objetividad": 94,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Alexandra Falla Zerrate designada MinTIC — La Silla Vacía (15 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Anuncio mediante video con IA en redes sociales — método verificado"
-        },
-        {
-          "ok": true,
-          "texto": "11 años dirigiendo Fundación Patrimonio Fílmico Colombiano — hoja de vida confirmada"
-        },
-        {
-          "ok": true,
-          "texto": "Gabinete con 13 ministerios con titular designado — completado"
-        }
-      ],
-      "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-15-de-julio-de-2026/",
-      "url_label": "La Silla Vacía — Las movidas del 15 de julio de 2026"
-    },
-    {
-      "filter": "espriella",
       "fuente": "El Heraldo / El Tiempo",
       "fuente_color": "#e74c3c",
       "fecha": "14 jul 2026",
@@ -267,7 +331,7 @@
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
       "titulo": "De la Espriella anuncia eliminación de 229 cargos en la estructura de la Presidencia: desaparecerán consejerías de Paz, Reconciliación y Derechos Humanos",
-      "resumen": "El presidente electo Abelardo de la Espriella anunció el 14 de julio una reestructuración profunda de la Presidencia de la República que implicará la eliminación de 229 cargos, la supresión de consejerías como la de Reconciliación, la de Derechos Humanos y Derecho Internacional Humanitario, la Unidad de Implementación del Acuerdo Final y el cargo de Comisionado de Paz. Las funciones serán redistribuidas entre distintos ministerios. El ahorro estimado es de aproximadamente 10.000 millones de pesos anuales. Simultáneamente, De la Espriella designó a María Nohemí Arboleda, gerente de XM, como ministra de Minas y Energía, completando el gabinete ministerial.",
+      "resumen": "El presidente electo Abelardo de la Espriella anunció el 14 de julio una reestructuración profunda de la Presidencia de la República que implicará la eliminación de 229 cargos, la supresión de consejerías como la de Reconciliación, la de Derechos Humanos y Derecho Internacional Humanitario, la Unidad de Implementación del Acuerdo Final y el cargo de Comisionado de Paz. Las funciones serán redistribuidas entre distintos ministerios. El ahorro estimado es de aproximadamente 10.000 millones de pesos anuales.",
       "objetividad": 93,
       "criterios": [
         {
@@ -289,70 +353,6 @@
       ],
       "url": "https://www.elheraldo.co/politica/2026/07/14/abelardo-de-la-espriella-anuncia-cambios-en-la-estructura-de-la-presidencia-desapareceran-varias-consejerias-y-oficinas/",
       "url_label": "El Heraldo — De la Espriella anuncia cambios: desaparecerán varias consejerías y oficinas"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Tiempo",
-      "fuente_color": "#e74c3c",
-      "fecha": "14 jul 2026",
-      "tag": "EMPALME · Bucaramanga + Gabinete completo",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Empalme De la Espriella: todos los ministros confirmados y los cargos que eliminará; el presidente electo se reúne en Bucaramanga",
-      "resumen": "El Tiempo publicó el 14 de julio el balance completo del empalme de gobierno de Abelardo de la Espriella: ministros confirmados, cargos a eliminar y próxima reunión en Bucaramanga. El gabinete incluye a Rodrigo Lara (Interior), General Mora (Defensa), Miguel Gómez Martínez (Hacienda), Omar Bula Escobar (Cancillería), Viviane Morales (Educación), Iván Cancino (Justicia), Elsa Noguera (Transporte), Mauricio Gómez Amín (Comercio), Fabio Arjona (Ambiente), Jaime Andrés Beltrán (Vivienda), Juliana Gutiérrez (Deporte) y María Nohemí Arboleda (Minas). De la Espriella también anunció por primera vez en Colombia una plataforma digital de reclutamiento por méritos para cargos de gobierno.",
-      "objetividad": 95,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Gabinete completo listado por El Tiempo (14 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Plataforma digital de reclutamiento por méritos — primera vez en Colombia, confirmado"
-        },
-        {
-          "ok": true,
-          "texto": "Reunión en Bucaramanga en el marco de la gira regional de empalme — confirmado"
-        },
-        {
-          "ok": true,
-          "texto": "12 ministerios con titular designado ese día — verificado por múltiples fuentes"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-del-gobierno-de-abelardo-de-la-espriella-todos-los-ministros-confirmados-y-los-cargos-que-el-presidente-electo-eliminara-3571011",
-      "url_label": "El Tiempo — Empalme De la Espriella: todos los ministros confirmados y los cargos que eliminará"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "El Tiempo",
-      "fuente_color": "#2980b9",
-      "fecha": "14 jul 2026",
-      "tag": "Cepeda · No recoge credenciales en persona",
-      "tag_color": "#2980b9",
-      "tag_bg": "rgba(41,128,185,0.15)",
-      "titulo": "Cepeda y Aída Quilcué no asisten a recibir credenciales como congresistas: envían a Erika Prieto en su representación",
-      "resumen": "Iván Cepeda y Aída Quilcué, su fórmula vicepresidencial durante la campaña de 2026, no asistieron el 14 de julio a la ceremonia oficial del Consejo Nacional Electoral para recibir sus credenciales como congresistas. En su lugar, designaron a Erika Prieto para recoger los documentos que los acreditan como senadores para el período 2026-2030. El gesto desató una 'tormenta política' y acusaciones de 'solemne golpista' desde el Centro Democrático. El 16 de julio Cepeda ya tiene oficialmente la credencial en sus manos y declaró que el Pacto Histórico 'no está cerrado a diálogos' con el CD para las mesas directivas. Asume su curul el 20 de julio.",
-      "objetividad": 93,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Cepeda y Quilcué no asistieron a ceremonia de credenciales el 14 jul — El Tiempo"
-        },
-        {
-          "ok": true,
-          "texto": "Erika Prieto recogió las credenciales en su nombre — confirmado"
-        },
-        {
-          "ok": true,
-          "texto": "Credencial en manos de Cepeda el 16 jul — Infobae (16 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Posesión como senador programada para el 20 de julio — confirmado por CNE"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-y-aida-quilcue-enviaron-a-otra-persona-a-recoger-credenciales-como-congresistas-tras-perder-elecciones-presidenciales-en-colombia-3571351",
-      "url_label": "El Tiempo — Cepeda y Quilcué enviaron a otra persona a recoger credenciales como congresistas"
     }
   ],
   "sentimiento": {
@@ -360,29 +360,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 72,
-        "negativo": 20,
+        "positivo": 73,
+        "negativo": 19,
         "neutro": 8,
         "tendencia": "up",
-        "tendencia_texto": "17 jul — ATENTADO TIBÚ CONDENADO. Rechaza ataque al Ejército en Norte de Santander; refuerza discurso de 'seguridad total'. EMPALME REGIONAL: reunión en Neiva (Huila) hoy; gira continúa hacia Antioquia. CONGRESO (16 jul): abre puerta legal para posesión en guarnición militar. Restrepo-Rubio en Washington: Colombia anuncia ingreso al 'Escudo de las Américas'. Gabinete COMPLETO: 13 ministerios con titular designado. Posesión: 7 de agosto."
+        "tendencia_texto": "18 jul — GABINETE: Paola Holguín designada ministra de Cultura (17 jul); 14 de 18 ministerios con titular. SEGURIDAD (17 jul): Condena atentado Ejército en Tibú; refuerza discurso de 'seguridad total'. EMPALME: gira regional continúa en Neiva; próxima parada Antioquia. CONGRESO (16 jul): abre puerta legal para posesión en guarnición militar. Restrepo-Rubio en Washington: Colombia al 'Escudo de las Américas'. Posesión presidencial: 7 de agosto."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 22,
-        "negativo": 58,
-        "neutro": 20,
-        "tendencia": "stable",
-        "tendencia_texto": "17 jul — CREDENCIAL SENATORIAL EN MANO (16 jul). Pacto Histórico 'no está cerrado a diálogos' con Centro Democrático para mesas directivas del Congreso: giro pragmático notable. Ausencia en ceremonia CNE (14 jul) generó acusaciones de 'solemne golpista'. Se posesiona como senador el 20 de julio. Pacto Histórico: 25 curules en Senado (bancada mayoritaria)."
+        "positivo": 19,
+        "negativo": 63,
+        "neutro": 18,
+        "tendencia": "down",
+        "tendencia_texto": "18 jul — DESOBEDIENCIA CIVIL RATIFICADA (17 jul): Cepeda confirma que NO asistirá a la posesión del 7 de agosto y no reconoce a De la Espriella 'en su legitimidad'. Genera debate constitucional sobre compatibilidad con juramento senatorial del 20 jul. Credencial senatorial en mano (16 jul). Giro pragmático: 'No estamos cerrados a diálogos' con CD para mesas directivas. Pacto Histórico: 25 curules en Senado (bancada mayoritaria)."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 60,
-        "negativo": 22,
+        "positivo": 61,
+        "negativo": 21,
         "neutro": 18,
         "tendencia": "stable",
-        "tendencia_texto": "17 jul — SIN NOTICIAS DESTACADAS. Sin declaraciones nuevas en 48h. Sale del Congreso el 20 de julio (no renovó curul; obtuvo 6,92% en primera vuelta). Mantiene influencia como vocera del Centro Democrático en coalición De la Espriella. Seguimiento denuncia SENA (7 jul) pendiente."
+        "tendencia_texto": "18 jul — CD EXIGE PRESIDENCIA DEL CONGRESO (16 jul): Valencia defiende que el Centro Democrático merece liderar el Congreso con más de 3 millones de votos. Última semana como senadora del período anterior; sale el 20 de julio. Mantiene influencia como articuladora de la coalición De la Espriella. Seguimiento denuncia SENA (7 jul) pendiente."
       }
     ]
   },
@@ -408,7 +408,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "TRANSICIÓN EN MARCHA — 17 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). HOY: Condena atentado terrorista en Tibú (Ejército); empalme regional en Neiva (Huila). CONGRESO (16 jul): abre puerta legal para posesión en guarnición militar. Restrepo-Rubio en Washington: Colombia anuncia ingreso al 'Escudo de las Américas'. GABINETE COMPLETO (13 ministerios con titular). 229 cargos presidenciales eliminados. OPOSICIÓN: Cepeda tiene credencial senatorial; abierto a diálogos con CD para mesas directivas. Posesión senatorial: 20 jul. VALENCIA: sale del Congreso el 20 jul. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026."
+    "resumen_analisis": "TRANSICIÓN EN MARCHA — 18 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). GABINETE (17 jul): Paola Holguín designada ministra de Cultura; 14 de 18 ministerios confirmados. OPOSICIÓN (17 jul): Cepeda ratifica desobediencia civil; no asistirá a la posesión del 7 de agosto; no reconoce a De la Espriella 'en su legitimidad'. CONGRESO (16 jul): abre puerta legal para posesión en guarnición militar. Restrepo-Rubio en Washington: ingreso al 'Escudo de las Américas'. VALENCIA (16 jul): exige presidencia del Congreso para el Centro Democrático. POSESIONES SENATORIALES: 20 de julio. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026."
   },
-  "ultimo_deploy": "2026-07-17T00:00:00Z"
+  "ultimo_deploy": "2026-07-18T00:00:00Z"
 }
