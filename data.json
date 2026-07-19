@@ -1,5 +1,5 @@
 {
-  "fecha": "18 de julio de 2026",
+  "fecha": "19 de julio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -98,6 +98,70 @@
     }
   ],
   "noticias": [
+    {
+      "filter": "cepeda",
+      "fuente": "Infobae / Semana",
+      "fuente_color": "#2980b9",
+      "fecha": "19 jul 2026",
+      "tag": "Cepeda · Propone a Petro liderar el Pacto Histórico",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda propone que Petro asuma la presidencia del Pacto Histórico: 'Que lidere la izquierda hacia 2030'",
+      "resumen": "Iván Cepeda propuso el 19 de julio, durante un evento en Tunja (Boyacá), que el presidente saliente Gustavo Petro asuma la presidencia del Pacto Histórico como partido político una vez deje la Casa de Nariño el 7 de agosto. Cepeda declaró: 'Propongo que asuma la presidencia del Pacto Histórico como nuevo partido político' y definió a Petro como un 'auténtico jefe de Estado'. Según Cepeda, Petro debe continuar liderando el progresismo colombiano con miras a las elecciones de 2030. El anuncio se produce un día antes de que Cepeda se posesione como senador por el Estatuto de la Oposición (20 de julio).",
+      "objetividad": 92,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Propuesta hecha el 19 jul en Tunja, Boyacá — Infobae, El Colombiano, Semana"
+        },
+        {
+          "ok": true,
+          "texto": "Cita textual 'Propongo que asuma la presidencia del Pacto Histórico' — verificada"
+        },
+        {
+          "ok": true,
+          "texto": "Cepeda se posesiona como senador el 20 jul por Estatuto de la Oposición"
+        },
+        {
+          "ok": false,
+          "texto": "Respuesta de Petro a la propuesta aún no confirmada oficialmente"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/07/19/ivan-cepeda-propuso-que-gustavo-petro-presida-el-pacto-historico-tras-dejar-la-presidencia/",
+      "url_label": "Infobae — Cepeda propuso que Gustavo Petro presida el Pacto Histórico"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Infobae / El Tiempo",
+      "fuente_color": "#e74c3c",
+      "fecha": "19 jul 2026",
+      "tag": "GABINETE · Segundo consejo completo · 'No habrá improvisación'",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella muestra su gabinete completo por primera vez: 'No habrá espacio para la improvisación'",
+      "resumen": "El presidente electo Abelardo de la Espriella celebró el 18-19 de julio en Barranquilla el segundo consejo de ministros designados, el primero con el equipo de gobierno completo. Participaron el VP electo José Manuel Restrepo y los 16 ministros designados: Rodrigo Lara (Interior), Miguel Gómez (Hacienda), Gral. (r) Jorge Mora (Defensa), Iván Cancino (Justicia), Viviane Morales (Educación), Elsa Noguera (Transporte), Fabio Arjona (Ambiente), Omar Bula (Cancillería), Indalecio Dangond (Agricultura), María Arboleda (Minas), Alexandra Falla (TIC), Paola Holguín (Cultura), Mauricio Gómez (Comercio), Juliana Gutiérrez (Deporte) y Jaime Beltrán (Vivienda). De la Espriella afirmó: 'Aquí no hay flojera y no habrá espacio para la improvisación'.",
+      "objetividad": 94,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Segundo consejo completo en Barranquilla, 18-19 jul — El Heraldo, Infobae"
+        },
+        {
+          "ok": true,
+          "texto": "Cita 'No habrá espacio para la improvisación' — verificada en Infobae"
+        },
+        {
+          "ok": true,
+          "texto": "Lista de ministros con carteras confirmada — El Tiempo, Cambio Colombia"
+        },
+        {
+          "ok": false,
+          "texto": "Carteras de Salud, Trabajo y Ciencia aún no confirmadas oficialmente"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/07/19/en-segundo-consejo-de-ministros-de-la-espriella-reviso-la-hoja-de-ruta-y-aseguro-no-habra-espacio-para-la-improvisacion/",
+      "url_label": "Infobae — De la Espriella revisa hoja de ruta con gabinete completo: 'No habrá improvisación'"
+    },
     {
       "filter": "cepeda",
       "fuente": "Semana / Infobae",
@@ -289,70 +353,6 @@
       ],
       "url": "https://www.infobae.com/colombia/2026/07/16/ivan-cepeda-no-descarta-acuerdos-con-el-centro-democratico-para-la-eleccion-de-presidentes-de-senado-y-camara-no-estamos-cerrados-a-dialogos/",
       "url_label": "Infobae — Cepeda no descarta acuerdos con el Centro Democrático para mesas directivas"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "La Silla Vacía",
-      "fuente_color": "#e74c3c",
-      "fecha": "15 jul 2026",
-      "tag": "DIPLOMACIA · Restrepo-Rubio en Washington",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "VP electo Restrepo se reúne con Rubio en Washington y anuncia que Colombia ingresará al 'Escudo de las Américas'",
-      "resumen": "El vicepresidente electo José Manuel Restrepo se reunió el 15 de julio en Washington con el secretario de Estado Marco Rubio, en el marco de la gira de recomposición de relaciones con Estados Unidos. Restrepo anunció que Colombia buscará ingresar al 'Escudo de las Américas', el bloque de mandatarios de derecha latinoamericanos liderado por Donald Trump, para fortalecer la cooperación en seguridad y erradicación de cultivos ilícitos, 'siempre con absoluto respeto por la soberanía nacional'.",
-      "objetividad": 92,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Reunión Restrepo-Rubio en Washington el 15 jul — La Silla Vacía, Fox News"
-        },
-        {
-          "ok": true,
-          "texto": "Ingreso al 'Escudo de las Américas' anunciado — declaración pública verificada"
-        },
-        {
-          "ok": true,
-          "texto": "Delegación incluyó ministros de Defensa, Cancillería y Comercio — confirmado"
-        },
-        {
-          "ok": false,
-          "texto": "Acuerdos concretos y compromisos formales aún no publicados oficialmente"
-        }
-      ],
-      "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-15-de-julio-de-2026/",
-      "url_label": "La Silla Vacía — Las movidas del 15 de julio de 2026"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Heraldo / El Tiempo",
-      "fuente_color": "#e74c3c",
-      "fecha": "14 jul 2026",
-      "tag": "REFORMA ESTADO · 229 cargos eliminados",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella anuncia eliminación de 229 cargos en la estructura de la Presidencia: desaparecerán consejerías de Paz, Reconciliación y Derechos Humanos",
-      "resumen": "El presidente electo Abelardo de la Espriella anunció el 14 de julio una reestructuración profunda de la Presidencia de la República que implicará la eliminación de 229 cargos, la supresión de consejerías como la de Reconciliación, la de Derechos Humanos y Derecho Internacional Humanitario, la Unidad de Implementación del Acuerdo Final y el cargo de Comisionado de Paz. Las funciones serán redistribuidas entre distintos ministerios. El ahorro estimado es de aproximadamente 10.000 millones de pesos anuales.",
-      "objetividad": 93,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Eliminación de 229 cargos en la Presidencia — El Heraldo (14 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Supresión de Consejería para la Reconciliación, DDHH y cargo de Comisionado de Paz — confirmado"
-        },
-        {
-          "ok": true,
-          "texto": "Ahorro de 10.000 millones anuales — cifra oficial de la transición"
-        },
-        {
-          "ok": true,
-          "texto": "María Nohemí Arboleda designada ministra de Minas — El Tiempo (14 jul)"
-        }
-      ],
-      "url": "https://www.elheraldo.co/politica/2026/07/14/abelardo-de-la-espriella-anuncia-cambios-en-la-estructura-de-la-presidencia-desapareceran-varias-consejerias-y-oficinas/",
-      "url_label": "El Heraldo — De la Espriella anuncia cambios: desaparecerán varias consejerías y oficinas"
     }
   ],
   "sentimiento": {
@@ -360,29 +360,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 73,
-        "negativo": 19,
+        "positivo": 75,
+        "negativo": 17,
         "neutro": 8,
         "tendencia": "up",
-        "tendencia_texto": "18 jul — GABINETE: Paola Holguín designada ministra de Cultura (17 jul); 14 de 18 ministerios con titular. SEGURIDAD (17 jul): Condena atentado Ejército en Tibú; refuerza discurso de 'seguridad total'. EMPALME: gira regional continúa en Neiva; próxima parada Antioquia. CONGRESO (16 jul): abre puerta legal para posesión en guarnición militar. Restrepo-Rubio en Washington: Colombia al 'Escudo de las Américas'. Posesión presidencial: 7 de agosto."
+        "tendencia_texto": "19 jul — GABINETE COMPLETO (18-19 jul): segundo consejo de ministros con todo el equipo en Barranquilla; De la Espriella declara 'No habrá espacio para la improvisación'. 16 ministros designados confirmados. CULTURA (17 jul): Paola Holguín designada ministra. SEGURIDAD (17 jul): condena atentado Tibú; empalme en Neiva. CONGRESO (16 jul): abre puerta legal para posesión en guarnición militar. Posesión presidencial: 7 de agosto."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 19,
-        "negativo": 63,
+        "positivo": 21,
+        "negativo": 61,
         "neutro": 18,
-        "tendencia": "down",
-        "tendencia_texto": "18 jul — DESOBEDIENCIA CIVIL RATIFICADA (17 jul): Cepeda confirma que NO asistirá a la posesión del 7 de agosto y no reconoce a De la Espriella 'en su legitimidad'. Genera debate constitucional sobre compatibilidad con juramento senatorial del 20 jul. Credencial senatorial en mano (16 jul). Giro pragmático: 'No estamos cerrados a diálogos' con CD para mesas directivas. Pacto Histórico: 25 curules en Senado (bancada mayoritaria)."
+        "tendencia": "stable",
+        "tendencia_texto": "19 jul — PETRO COMO LÍDER DEL PACTO (19 jul): Cepeda propone en Tunja que Petro presida el Pacto Histórico como partido político y lo llama 'auténtico jefe de Estado'. Se posesiona como senador mañana 20 jul por Estatuto de la Oposición. DESOBEDIENCIA CIVIL (17 jul): no asistirá a la posesión del 7 de agosto; no reconoce a De la Espriella 'en su legitimidad'. Pacto Histórico: 25 curules en Senado."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 61,
-        "negativo": 21,
+        "positivo": 59,
+        "negativo": 23,
         "neutro": 18,
         "tendencia": "stable",
-        "tendencia_texto": "18 jul — CD EXIGE PRESIDENCIA DEL CONGRESO (16 jul): Valencia defiende que el Centro Democrático merece liderar el Congreso con más de 3 millones de votos. Última semana como senadora del período anterior; sale el 20 de julio. Mantiene influencia como articuladora de la coalición De la Espriella. Seguimiento denuncia SENA (7 jul) pendiente."
+        "tendencia_texto": "19 jul — ÚLTIMO DÍA EN CONGRESO: Valencia sale del Senado el 20 jul al no renovar curul para 2026-2030; pierde su tribuna parlamentaria. CD EXIGE PRESIDENCIA DEL CONGRESO (16 jul): defiende que el CD merece liderar el Congreso con más de 3 millones de votos. Mantiene influencia como articuladora de la coalición De la Espriella."
       }
     ]
   },
@@ -408,7 +408,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "TRANSICIÓN EN MARCHA — 18 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). GABINETE (17 jul): Paola Holguín designada ministra de Cultura; 14 de 18 ministerios confirmados. OPOSICIÓN (17 jul): Cepeda ratifica desobediencia civil; no asistirá a la posesión del 7 de agosto; no reconoce a De la Espriella 'en su legitimidad'. CONGRESO (16 jul): abre puerta legal para posesión en guarnición militar. Restrepo-Rubio en Washington: ingreso al 'Escudo de las Américas'. VALENCIA (16 jul): exige presidencia del Congreso para el Centro Democrático. POSESIONES SENATORIALES: 20 de julio. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026."
+    "resumen_analisis": "TRANSICIÓN EN MARCHA — 19 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). GABINETE COMPLETO (18-19 jul): segundo consejo de ministros en Barranquilla con todo el equipo; 'No habrá espacio para la improvisación'. OPOSICIÓN (19 jul): Cepeda propone a Petro presidir el Pacto Histórico como partido político con miras a 2030. DESOBEDIENCIA CIVIL (17 jul): Cepeda no asistirá a la posesión del 7 de agosto. CONGRESO: posesiones senatoriales mañana 20 de julio. VALENCIA: sale del Senado el 20 jul; CD exige presidencia del Congreso. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026."
   },
-  "ultimo_deploy": "2026-07-18T00:00:00Z"
+  "ultimo_deploy": "2026-07-19T00:00:00Z"
 }
