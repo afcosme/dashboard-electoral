@@ -1,5 +1,5 @@
 {
-  "fecha": "19 de julio de 2026",
+  "fecha": "20 de julio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -98,6 +98,46 @@
     }
   ],
   "noticias": [
+    {
+      "filter": "espriella",
+      "fuente": "Infobae / El País",
+      "fuente_color": "#e74c3c",
+      "fecha": "20 jul 2026",
+      "tag": "CONGRESO · Instalación del nuevo Legislativo 2026-2030",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "Nuevo Congreso de Colombia se instala en el Día de la Independencia: Petro da su último discurso y De la Espriella espera el 7 de agosto",
+      "resumen": "Colombia conmemora el 20 de julio los 216 años del Grito de Independencia con la instalación del nuevo Congreso 2026-2030 en sesión solemne desde las 3:00 p.m. en el Salón Elíptico del Capitolio Nacional. Los 103 nuevos senadores y 183 representantes a la Cámara toman posesión. El presidente saliente Gustavo Petro pronuncia su última alocución ante el Congreso como jefe de Estado. El Senado queda presidido por el Pacto Histórico (26 curules), Centro Democrático (17), Partido Liberal (13), Alianza por Colombia (11) y Partido Conservador (10). El presidente electo Abelardo de la Espriella completa la transición y aguarda la posesión presidencial del 7 de agosto.",
+      "objetividad": 95,
+      "criterios": [
+        { "ok": true, "texto": "Instalación Congreso 20 jul, 3 p.m., Capitolio Nacional — Infobae EN VIVO" },
+        { "ok": true, "texto": "103 senadores y 183 representantes toman posesión — CNE, El País" },
+        { "ok": true, "texto": "Último discurso de Petro ante el Congreso — confirmado" },
+        { "ok": true, "texto": "Composición del Senado 2026-2030 — CNE lista oficial (14 jul)" }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/07/20/instalacion-del-congreso-2026-en-vivo-siga-el-minuto-a-minuto-de-la-apertura-de-la-nueva-legislatura/",
+      "url_label": "Infobae EN VIVO — Instalación del Congreso 2026: minuto a minuto"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Infobae / Prensa Latina",
+      "fuente_color": "#2980b9",
+      "fecha": "20 jul 2026",
+      "tag": "Cepeda · SENADOR · Posesión por Estatuto de la Oposición",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Iván Cepeda se posesiona como senador: lidera la oposición al gobierno De la Espriella desde el Congreso",
+      "resumen": "Iván Cepeda Castro se posesionó el 20 de julio como senador para el período 2026-2030, en virtud del Estatuto de la Oposición que otorga automáticamente una curul al candidato presidencial que obtenga el segundo lugar. Cepeda tomó posesión en el Capitolio Nacional junto a los demás 102 senadores elegidos. El Pacto Histórico quedó con 26 curules en el Senado — la bancada más grande —, lo que posiciona a Cepeda como jefe de la oposición parlamentaria al presidente electo Abelardo de la Espriella, quien asume el 7 de agosto. Cepeda había ratificado el 17 de julio su 'desobediencia civil' y que no reconoce a De la Espriella 'en su legitimidad', pero aceptó la curul para ejercer la oposición desde el legislativo.",
+      "objetividad": 94,
+      "criterios": [
+        { "ok": true, "texto": "Posesión de Cepeda como senador el 20 jul — Estatuto de la Oposición, CNE" },
+        { "ok": true, "texto": "Pacto Histórico: 26 curules en el Senado 2026-2030 — bancada más grande" },
+        { "ok": true, "texto": "Capitolio Nacional, sesión solemne — Prensa Latina (20 jul)" },
+        { "ok": false, "texto": "Discurso de posesión de Cepeda aún pendiente de confirmación" }
+      ],
+      "url": "https://www.prensa-latina.cu/2026/07/20/nuevo-congreso-de-colombia-se-posesionara-en-capitolio-nacional/",
+      "url_label": "Prensa Latina — Nuevo Congreso de Colombia se posesionará en Capitolio Nacional"
+    },
     {
       "filter": "cepeda",
       "fuente": "Infobae / Semana",
@@ -364,7 +404,7 @@
         "negativo": 17,
         "neutro": 8,
         "tendencia": "up",
-        "tendencia_texto": "19 jul — GABINETE COMPLETO (18-19 jul): segundo consejo de ministros con todo el equipo en Barranquilla; De la Espriella declara 'No habrá espacio para la improvisación'. 16 ministros designados confirmados. CULTURA (17 jul): Paola Holguín designada ministra. SEGURIDAD (17 jul): condena atentado Tibú; empalme en Neiva. CONGRESO (16 jul): abre puerta legal para posesión en guarnición militar. Posesión presidencial: 7 de agosto."
+        "tendencia_texto": "20 jul — CONGRESO INSTALADO (20 jul): el nuevo Legislativo 2026-2030 se posesionó hoy en el Capitolio Nacional; 103 senadores y 183 representantes. Petro pronunció su último discurso ante el Congreso. GABINETE COMPLETO (18-19 jul): segundo consejo en Barranquilla con todo el equipo; 'No habrá espacio para la improvisación'. CULTURA (17 jul): Paola Holguín, ministra designada. Posesión presidencial: 7 de agosto."
       },
       {
         "nombre": "Cepeda",
@@ -373,7 +413,7 @@
         "negativo": 61,
         "neutro": 18,
         "tendencia": "stable",
-        "tendencia_texto": "19 jul — PETRO COMO LÍDER DEL PACTO (19 jul): Cepeda propone en Tunja que Petro presida el Pacto Histórico como partido político y lo llama 'auténtico jefe de Estado'. Se posesiona como senador mañana 20 jul por Estatuto de la Oposición. DESOBEDIENCIA CIVIL (17 jul): no asistirá a la posesión del 7 de agosto; no reconoce a De la Espriella 'en su legitimidad'. Pacto Histórico: 25 curules en Senado."
+        "tendencia_texto": "20 jul — SENADOR POSESIONADO (20 jul): Cepeda tomó posesión como senador 2026-2030 vía Estatuto de la Oposición; lidera la bancada del Pacto Histórico (26 curules, la más grande). PETRO COMO LÍDER DEL PACTO (19 jul): propuso en Tunja que Petro presida el Pacto Histórico con miras a 2030. DESOBEDIENCIA CIVIL (17 jul): no asistirá a la posesión del 7 de agosto; no reconoce a De la Espriella 'en su legitimidad'."
       },
       {
         "nombre": "Valencia",
@@ -382,7 +422,7 @@
         "negativo": 23,
         "neutro": 18,
         "tendencia": "stable",
-        "tendencia_texto": "19 jul — ÚLTIMO DÍA EN CONGRESO: Valencia sale del Senado el 20 jul al no renovar curul para 2026-2030; pierde su tribuna parlamentaria. CD EXIGE PRESIDENCIA DEL CONGRESO (16 jul): defiende que el CD merece liderar el Congreso con más de 3 millones de votos. Mantiene influencia como articuladora de la coalición De la Espriella."
+        "tendencia_texto": "20 jul — SALE DEL SENADO (20 jul): Valencia abandonó hoy el Congreso al vencer su mandato como senadora; no renovó curul para 2026-2030. CD EXIGE PRESIDENCIA DEL CONGRESO (16 jul): defendió que el partido merece liderar el Legislativo con más de 3 millones de votos. El CD quedó con 17 curules en el Senado 2026-2030. Mantiene influencia como articuladora de la coalición de gobierno."
       }
     ]
   },
@@ -408,7 +448,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "TRANSICIÓN EN MARCHA — 19 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). GABINETE COMPLETO (18-19 jul): segundo consejo de ministros en Barranquilla con todo el equipo; 'No habrá espacio para la improvisación'. OPOSICIÓN (19 jul): Cepeda propone a Petro presidir el Pacto Histórico como partido político con miras a 2030. DESOBEDIENCIA CIVIL (17 jul): Cepeda no asistirá a la posesión del 7 de agosto. CONGRESO: posesiones senatoriales mañana 20 de julio. VALENCIA: sale del Senado el 20 jul; CD exige presidencia del Congreso. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026."
+    "resumen_analisis": "TRANSICIÓN EN MARCHA — 20 de julio de 2026 (Día de la Independencia). PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). CONGRESO INSTALADO (20 jul): 103 senadores y 183 representantes tomaron posesión en el Capitolio; Petro pronunció su último discurso ante el Legislativo. SENADOR CEPEDA (20 jul): Iván Cepeda se posesionó como senador 2026-2030 vía Estatuto de la Oposición; lidera el Pacto Histórico (26 curules). VALENCIA: salió del Senado hoy; CD quedó con 17 curules. GABINETE COMPLETO (18-19 jul): De la Espriella presentó todo su equipo en Barranquilla. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026."
   },
-  "ultimo_deploy": "2026-07-19T00:00:00Z"
+  "ultimo_deploy": "2026-07-20T00:00:00Z"
 }
