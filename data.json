@@ -1,5 +1,5 @@
 {
-  "fecha": "20 de julio de 2026",
+  "fecha": "21 de julio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -103,20 +103,32 @@
       "fuente": "Infobae / El País",
       "fuente_color": "#e74c3c",
       "fecha": "20 jul 2026",
-      "tag": "CONGRESO · Instalación del nuevo Legislativo 2026-2030",
+      "tag": "CONGRESO · CD gana Presidencia Senado · Barguil en Cámara",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Nuevo Congreso de Colombia se instala en el Día de la Independencia: Petro da su último discurso y De la Espriella espera el 7 de agosto",
-      "resumen": "Colombia conmemora el 20 de julio los 216 años del Grito de Independencia con la instalación del nuevo Congreso 2026-2030 en sesión solemne desde las 3:00 p.m. en el Salón Elíptico del Capitolio Nacional. Los 103 nuevos senadores y 183 representantes a la Cámara toman posesión. El presidente saliente Gustavo Petro pronuncia su última alocución ante el Congreso como jefe de Estado. El Senado queda presidido por el Pacto Histórico (26 curules), Centro Democrático (17), Partido Liberal (13), Alianza por Colombia (11) y Partido Conservador (10). El presidente electo Abelardo de la Espriella completa la transición y aguarda la posesión presidencial del 7 de agosto.",
+      "titulo": "Centro Democrático gana la Presidencia del Senado: Honorio Henríquez elegido; Nicolás Barguil presidirá la Cámara",
+      "resumen": "Tras la instalación solemne del Congreso 2026-2030 en el Capitolio Nacional el 20 de julio, Honorio Henríquez (Centro Democrático) fue elegido presidente del Senado, imponiendo la voluntad del uribismo pese al intento del ministro designado del Interior Rodrigo Lara de reunir votos a favor de Alfredo Deluque (Partido de la U). En la Cámara de Representantes, Nicolás Barguil (Partido Conservador, Córdoba) fue elegido presidente con 180 de 181 votos, consolidando la coalición del presidente electo De la Espriella. La victoria del CD en el Senado se da en medio de tensiones internas con el futuro gabinete: el Centro Democrático acusó públicamente a Rodrigo Lara de intentar \"torpedear\" el acuerdo que le daba la presidencia al partido. Gustavo Petro pronunció su último discurso ante el Congreso. De la Espriella se posesiona el 7 de agosto.",
       "objetividad": 95,
       "criterios": [
-        { "ok": true, "texto": "Instalación Congreso 20 jul, 3 p.m., Capitolio Nacional — Infobae EN VIVO" },
-        { "ok": true, "texto": "103 senadores y 183 representantes toman posesión — CNE, El País" },
-        { "ok": true, "texto": "Último discurso de Petro ante el Congreso — confirmado" },
-        { "ok": true, "texto": "Composición del Senado 2026-2030 — CNE lista oficial (14 jul)" }
+        {
+          "ok": true,
+          "texto": "Honorio Henríquez (CD) elegido presidente del Senado — Infobae, Semana (20 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Nicolás Barguil elegido presidente de la Cámara con 180/181 votos — Semana (20 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Lara intentó reunir votos para Deluque; CD lo acusó de torpedo — Infobae (20 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Petro último discurso ante el Congreso — confirmado por múltiples fuentes"
+        }
       ],
       "url": "https://www.infobae.com/colombia/2026/07/20/instalacion-del-congreso-2026-en-vivo-siga-el-minuto-a-minuto-de-la-apertura-de-la-nueva-legislatura/",
-      "url_label": "Infobae EN VIVO — Instalación del Congreso 2026: minuto a minuto"
+      "url_label": "Infobae — Honorio Henríquez (CD) elegido presidente del Senado 2026-2030"
     },
     {
       "filter": "cepeda",
@@ -130,10 +142,22 @@
       "resumen": "Iván Cepeda Castro se posesionó el 20 de julio como senador para el período 2026-2030, en virtud del Estatuto de la Oposición que otorga automáticamente una curul al candidato presidencial que obtenga el segundo lugar. Cepeda tomó posesión en el Capitolio Nacional junto a los demás 102 senadores elegidos. El Pacto Histórico quedó con 26 curules en el Senado — la bancada más grande —, lo que posiciona a Cepeda como jefe de la oposición parlamentaria al presidente electo Abelardo de la Espriella, quien asume el 7 de agosto. Cepeda había ratificado el 17 de julio su 'desobediencia civil' y que no reconoce a De la Espriella 'en su legitimidad', pero aceptó la curul para ejercer la oposición desde el legislativo.",
       "objetividad": 94,
       "criterios": [
-        { "ok": true, "texto": "Posesión de Cepeda como senador el 20 jul — Estatuto de la Oposición, CNE" },
-        { "ok": true, "texto": "Pacto Histórico: 26 curules en el Senado 2026-2030 — bancada más grande" },
-        { "ok": true, "texto": "Capitolio Nacional, sesión solemne — Prensa Latina (20 jul)" },
-        { "ok": false, "texto": "Discurso de posesión de Cepeda aún pendiente de confirmación" }
+        {
+          "ok": true,
+          "texto": "Posesión de Cepeda como senador el 20 jul — Estatuto de la Oposición, CNE"
+        },
+        {
+          "ok": true,
+          "texto": "Pacto Histórico: 26 curules en el Senado 2026-2030 — bancada más grande"
+        },
+        {
+          "ok": true,
+          "texto": "Capitolio Nacional, sesión solemne — Prensa Latina (20 jul)"
+        },
+        {
+          "ok": false,
+          "texto": "Discurso de posesión de Cepeda aún pendiente de confirmación"
+        }
       ],
       "url": "https://www.prensa-latina.cu/2026/07/20/nuevo-congreso-de-colombia-se-posesionara-en-capitolio-nacional/",
       "url_label": "Prensa Latina — Nuevo Congreso de Colombia se posesionará en Capitolio Nacional"
@@ -332,67 +356,67 @@
     },
     {
       "filter": "valencia",
-      "fuente": "ChicaNoticias",
+      "fuente": "El Espectador / HSB Noticias",
       "fuente_color": "#9b59b6",
-      "fecha": "16 jul 2026",
-      "tag": "Valencia · CD exige presidencia del Congreso",
+      "fecha": "20 jul 2026",
+      "tag": "Valencia · Acusa a Rodrigo Lara de torpedear acuerdo del Senado",
       "tag_color": "#9b59b6",
       "tag_bg": "rgba(155,89,182,0.15)",
-      "titulo": "Paloma Valencia: 'El Centro Democrático se ganó la Presidencia del Congreso con más de 3 millones de votos'",
-      "resumen": "Paloma Valencia defendió el 16 de julio la aspiración del Centro Democrático a liderar el Congreso en la nueva legislatura, argumentando que el partido obtuvo más de 3 millones de votos en las elecciones y tiene el mérito político para presidir Senado o Cámara. Valencia sostiene que la composición de las mesas directivas del Congreso debe responder a los acuerdos entre las mayorías legislativas. Es la última semana de Valencia en el Congreso como senadora del período anterior; sale el 20 de julio al no haber renovado curul para el período 2026-2030.",
-      "objetividad": 90,
+      "titulo": "Paloma Valencia desde fuera del Congreso: \"El ministro Rodrigo Lara decidió torpedear el acuerdo\" del CD para presidir el Senado",
+      "resumen": "Desde su retiro del Senado tras tres períodos consecutivos (no renovó curul para 2026-2030), Paloma Valencia reaccionó a la elección de mesas directivas del Congreso acusando al ministro designado del Interior, Rodrigo Lara, de \"haber decidido torpedear el acuerdo que se había hecho en el Congreso\" para que el Centro Democrático presidiera el Senado. Pese al intento de Lara de reunir votos para Alfredo Deluque (Partido de la U), Honorio Henríquez del CD fue elegido presidente del Senado, lo que Valencia celebró como una victoria. Valencia también cuestionó a Alfredo Deluque por aceptar apoyos del Pacto Histórico de Petro para competir por la presidencia del Senado. La excandidata presidencial mantiene influencia informal en el uribismo desde fuera del legislativo.",
+      "objetividad": 89,
       "criterios": [
         {
           "ok": true,
-          "texto": "Valencia exige presidencia del Congreso para el CD — ChicaNoticias (16 jul)"
+          "texto": "Valencia acusa a Lara de torpedear el acuerdo — El Espectador (20 jul)"
         },
         {
           "ok": true,
-          "texto": "CD: más de 3 millones de votos en elecciones legislativas — cifra verificada"
+          "texto": "Valencia ya no es senadora desde el 20 jul — Infobae (2 jun 2026)"
         },
         {
           "ok": true,
-          "texto": "Valencia sale del Congreso el 20 jul — no renovó curul para 2026-2030"
+          "texto": "Henríquez elegido Pdte del Senado a pesar del intento de Lara — confirmado"
         },
         {
           "ok": false,
-          "texto": "Definición de mesas directivas del Congreso aún pendiente"
+          "texto": "Respuesta oficial de Rodrigo Lara a las acusaciones de Valencia aún pendiente"
         }
       ],
-      "url": "https://www.chicanoticias.com/2026/07/16/centro-democratico-paloma-valenci/",
-      "url_label": "ChicaNoticias — 'El CD se ganó la Presidencia del Congreso con más de 3 millones de votos'"
+      "url": "https://www.elespectador.com/politica/el-ministro-rodrigo-lara-ha-decidido-torpedear-el-acuerdo-que-se-habia-hecho-en-el-congreso-paloma-valencia/",
+      "url_label": "El Espectador — Valencia: \"Rodrigo Lara decidió torpedear el acuerdo\" del CD para presidir el Senado"
     },
     {
-      "filter": "cepeda",
-      "fuente": "Infobae",
-      "fuente_color": "#2980b9",
-      "fecha": "16 jul 2026",
-      "tag": "Cepeda · Credencial + diálogos con CD",
-      "tag_color": "#2980b9",
-      "tag_bg": "rgba(41,128,185,0.15)",
-      "titulo": "Cepeda ya tiene su credencial de senador y no descarta acuerdos con el Centro Democrático para mesas directivas del Congreso",
-      "resumen": "Iván Cepeda recibió el 16 de julio su credencial oficial como senador para el período 2026-2030, gracias al Estatuto de la Oposición que le asigna automáticamente un curul como candidato presidencial que obtuvo el segundo lugar. El documento fue recogido el 14 de julio por la activista Erika Prieto en nombre de Cepeda, ante su ausencia en la ceremonia del CNE, generando acusaciones de 'solemne golpista' desde el Centro Democrático. Sin embargo, Cepeda declaró que el Pacto Histórico 'no está cerrado a diálogos' con el Centro Democrático para la elección de presidentes de Senado y Cámara. Se posesiona como senador el 20 de julio.",
-      "objetividad": 94,
+      "filter": "espriella",
+      "fuente": "Infobae / BluRadio / La FM",
+      "fuente_color": "#e74c3c",
+      "fecha": "20 jul 2026",
+      "tag": "COALICIÓN · Tensión interna: Lara vs CD por presidencia Senado",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "Primera tensión interna en la coalición de De la Espriella: el ministro Lara quiso imponer al presidente del Senado, el Centro Democrático lo rechazó",
+      "resumen": "Antes de tomar posesión el 7 de agosto, el presidente electo Abelardo de la Espriella enfrenta su primera fisura interna visible: el ministro designado del Interior, Rodrigo Lara, trabajó activamente para que Alfredo Deluque (Partido de la U) fuera elegido presidente del Senado, chocando frontalmente con el Centro Democrático —principal partido aliado del gobierno electo—, que aspiraba a la presidencia del Senado con Honorio Henríquez. Lara advirtió que si el CD insistía, \"tendría que aliarse con el petrismo\" para conseguir los votos. El CD acusó a Lara de persuadir congresistas \"a última hora\". Finalmente, Henríquez (CD) ganó la presidencia del Senado, lo que representa un revés para Lara y sienta un precedente de tensión entre el ministerio del Interior y el CD en el arranque del gobierno.",
+      "objetividad": 91,
       "criterios": [
         {
           "ok": true,
-          "texto": "Credencial senatorial en manos de Cepeda — Infobae (16 jul)"
+          "texto": "Lara apoyó a Deluque sobre Henríquez del CD — Infobae, BluRadio (15-20 jul)"
         },
         {
           "ok": true,
-          "texto": "Declaración 'No estamos cerrados a diálogos' con CD — Infobae (16 jul)"
+          "texto": "CD acusó a Lara de maniobrar a última hora — Infobae (20 jul)"
         },
         {
           "ok": true,
-          "texto": "Acusaciones de 'solemne golpista' tras ausencia en ceremonia CNE (14 jul)"
+          "texto": "Henríquez (CD) ganó la presidencia del Senado — resultado final confirmado"
         },
         {
-          "ok": true,
-          "texto": "Posesión senatorial 20 jul — confirmado por CNE"
+          "ok": false,
+          "texto": "Impacto de la tensión en la gobernabilidad del gobierno De la Espriella por definir"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/07/16/ivan-cepeda-no-descarta-acuerdos-con-el-centro-democratico-para-la-eleccion-de-presidentes-de-senado-y-camara-no-estamos-cerrados-a-dialogos/",
-      "url_label": "Infobae — Cepeda no descarta acuerdos con el Centro Democrático para mesas directivas"
+      "url": "https://www.infobae.com/colombia/2026/07/20/eleccion-presidente-congreso-centro-democratico-acuso-a-rodrigo-lara-de-persuadir-a-los-congresistas-a-ultima-hora-para-que-voten-por-deluque/",
+      "url_label": "Infobae — CD acusó a Rodrigo Lara de persuadir congresistas para favorecer a Deluque"
     }
   ],
   "sentimiento": {
@@ -400,29 +424,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 75,
-        "negativo": 17,
+        "positivo": 72,
+        "negativo": 20,
         "neutro": 8,
-        "tendencia": "up",
-        "tendencia_texto": "20 jul — CONGRESO INSTALADO (20 jul): el nuevo Legislativo 2026-2030 se posesionó hoy en el Capitolio Nacional; 103 senadores y 183 representantes. Petro pronunció su último discurso ante el Congreso. GABINETE COMPLETO (18-19 jul): segundo consejo en Barranquilla con todo el equipo; 'No habrá espacio para la improvisación'. CULTURA (17 jul): Paola Holguín, ministra designada. Posesión presidencial: 7 de agosto."
+        "tendencia": "stable",
+        "tendencia_texto": "21 jul — CD GANA SENADO (20 jul): Honorio Henríquez (CD) elegido presidente del Senado pese al intento de Rodrigo Lara de imponer a Deluque; primera tensión interna visible de la coalición. Barguil (Conservador) presidirá la Cámara (180/181 votos). GABINETE COMPLETO (18-19 jul): segundo consejo en Barranquilla. Posesión presidencial: 7 de agosto."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 21,
-        "negativo": 61,
-        "neutro": 18,
+        "positivo": 22,
+        "negativo": 59,
+        "neutro": 19,
         "tendencia": "stable",
-        "tendencia_texto": "20 jul — SENADOR POSESIONADO (20 jul): Cepeda tomó posesión como senador 2026-2030 vía Estatuto de la Oposición; lidera la bancada del Pacto Histórico (26 curules, la más grande). PETRO COMO LÍDER DEL PACTO (19 jul): propuso en Tunja que Petro presida el Pacto Histórico con miras a 2030. DESOBEDIENCIA CIVIL (17 jul): no asistirá a la posesión del 7 de agosto; no reconoce a De la Espriella 'en su legitimidad'."
+        "tendencia_texto": "21 jul — SENADOR POSESIONADO (20 jul): Cepeda tomó posesión como senador 2026-2030 vía Estatuto de la Oposición; lidera bancada del Pacto Histórico (26 curules, la más grande del Senado). DESOBEDIENCIA CIVIL: no asistirá a la posesión del 7 de agosto. Propuso que Petro presida el Pacto Histórico hacia 2030. El Pacto Histórico no logró la presidencia del Senado (venció el CD con Henríquez)."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 59,
-        "negativo": 23,
-        "neutro": 18,
-        "tendencia": "stable",
-        "tendencia_texto": "20 jul — SALE DEL SENADO (20 jul): Valencia abandonó hoy el Congreso al vencer su mandato como senadora; no renovó curul para 2026-2030. CD EXIGE PRESIDENCIA DEL CONGRESO (16 jul): defendió que el partido merece liderar el Legislativo con más de 3 millones de votos. El CD quedó con 17 curules en el Senado 2026-2030. Mantiene influencia como articuladora de la coalición de gobierno."
+        "positivo": 63,
+        "negativo": 21,
+        "neutro": 16,
+        "tendencia": "up",
+        "tendencia_texto": "21 jul — CD GANA SENADO (20 jul): pese a las maniobras del ministro Lara, Honorio Henríquez (CD) fue elegido presidente del Senado, reivindicando la posición que Valencia exigió el 16 jul. SALIÓ DEL SENADO (20 jul): Valencia ya no es senadora; acusó a Lara de torpedear el acuerdo. CD mantiene 17 curules y la presidencia del Senado en la nueva legislatura."
       }
     ]
   },
@@ -448,7 +472,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "TRANSICIÓN EN MARCHA — 20 de julio de 2026 (Día de la Independencia). PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). CONGRESO INSTALADO (20 jul): 103 senadores y 183 representantes tomaron posesión en el Capitolio; Petro pronunció su último discurso ante el Legislativo. SENADOR CEPEDA (20 jul): Iván Cepeda se posesionó como senador 2026-2030 vía Estatuto de la Oposición; lidera el Pacto Histórico (26 curules). VALENCIA: salió del Senado hoy; CD quedó con 17 curules. GABINETE COMPLETO (18-19 jul): De la Espriella presentó todo su equipo en Barranquilla. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026."
+    "resumen_analisis": "TRANSICIÓN EN MARCHA — 21 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). CD GANA SENADO (20 jul): Honorio Henríquez (CD) elegido presidente del Senado pese al intento del ministro designado Rodrigo Lara de apoyar a Deluque — primera tensión interna de la coalición. CÁMARA: Nicolás Barguil (Conservador) con 180/181 votos. CEPEDA SENADOR (20 jul): Iván Cepeda se posesionó como senador; lidera Pacto Histórico (26 curules). VALENCIA: salió del Senado el 20 jul; acusa a Lara de torpedear acuerdo. GABINETE COMPLETO (18-19 jul). POSESIÓN PRESIDENCIAL: 7 de agosto de 2026."
   },
-  "ultimo_deploy": "2026-07-20T00:00:00Z"
+  "ultimo_deploy": "2026-07-21T00:00:00Z"
 }
