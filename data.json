@@ -1,5 +1,5 @@
 {
-  "fecha": "21 de julio de 2026",
+  "fecha": "22 de julio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -260,35 +260,35 @@
     },
     {
       "filter": "espriella",
-      "fuente": "El Universal",
+      "fuente": "Infobae / Semana / El Colombiano",
       "fuente_color": "#e74c3c",
-      "fecha": "17 jul 2026",
-      "tag": "GABINETE · Paola Holguín · MinCultura",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella designa a Paola Holguín como ministra de Cultura; faltan 4 carteras por definir antes del 7 de agosto",
-      "resumen": "El presidente electo Abelardo de la Espriella anunció el 17 de julio la designación de Paola Holguín como ministra de Cultura para su gobierno (2026-2030). Con este nombramiento, 14 de los 18 ministerios ya cuentan con titular confirmado. Quedan por designar las carteras de Salud, Trabajo, Agricultura y Ciencia antes de la posesión del 7 de agosto. Holguín es exsenadora del Centro Democrático y figura cercana al uribismo; su designación consolida la alianza política entre De la Espriella y la maquinaria del CD.",
-      "objetividad": 93,
+      "fecha": "21 jul 2026",
+      "tag": "NULIDAD · Petro divulga demanda · Consejo de Estado",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "Petro publica demanda de nulidad electoral contra la elección de De la Espriella: alega 'inverificabilidad estructural' del proceso",
+      "resumen": "El presidente Gustavo Petro publicó el 21 de julio una demanda de nulidad electoral de 61 páginas contra la elección de Abelardo De la Espriella y José Manuel Restrepo como presidente y vicepresidente, presentada ante la Sección Quinta del Consejo de Estado. La demanda, fechada el 17 de julio y respaldada según Petro por más de 70.000 ciudadanos, busca anular la Resolución E-3181 del 24 de junio del CNE. La acción judicial no alega fraude electoral sino 'inverificabilidad estructural' del proceso, basada en el trabajo de 'testigos digitales' que habrían detectado irregularidades en los metadatos del software de escrutinio. Constitucionalistas señalan que la demanda no suspende la posesión del 7 de agosto.",
+      "objetividad": 90,
       "criterios": [
         {
           "ok": true,
-          "texto": "Paola Holguín designada ministra de Cultura — El Universal (17 jul)"
+          "texto": "Petro publicó demanda el 21 jul — Infobae, Semana, El Colombiano"
         },
         {
           "ok": true,
-          "texto": "14 ministerios con titular designado tras el anuncio — verificado"
+          "texto": "61 páginas, ante Sección Quinta del Consejo de Estado — verificado"
         },
         {
           "ok": true,
-          "texto": "Holguín: exsenadora del Centro Democrático — hoja de vida confirmada"
+          "texto": "No alega fraude sino 'inverificabilidad estructural' — El Colombiano (21 jul)"
         },
         {
           "ok": false,
-          "texto": "Carteras pendientes exactas aún por confirmar oficialmente"
+          "texto": "Demanda aún no admitida por el Consejo de Estado — pendiente de trámite"
         }
       ],
-      "url": "https://www.eluniversal.com.co/colombia/2026/07/17/abelardo-de-la-espriella-se-la-juega-con-paola-holguin-en-el-ministerio-de-cultura/",
-      "url_label": "El Universal — De la Espriella designa a Paola Holguín en el Ministerio de Cultura"
+      "url": "https://www.infobae.com/colombia/2026/07/21/petro-publica-demanda-que-busca-tumbar-eleccion-de-abelardo-de-la-espriella/",
+      "url_label": "Infobae — Petro publica demanda que busca tumbar elección de De la Espriella"
     },
     {
       "filter": "espriella",
@@ -324,35 +324,35 @@
     },
     {
       "filter": "espriella",
-      "fuente": "Vanguardia",
+      "fuente": "La Linterna Azul / La Silla Vacía / El Heraldo",
       "fuente_color": "#e74c3c",
-      "fecha": "16 jul 2026",
-      "tag": "POSESIÓN · Congreso abre puerta para guarnición militar",
+      "fecha": "21 jul 2026",
+      "tag": "POSESIÓN · Desfile Medellín · Guarnición militar confirmada 7 ago",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Congreso abre la puerta para que Abelardo de la Espriella se posesione en una guarnición militar",
-      "resumen": "El Congreso de Colombia abrió el 16 de julio la puerta legal para que el presidente electo Abelardo de la Espriella pueda celebrar su ceremonia de posesión del 7 de agosto en una guarnición militar, revirtiendo el bloqueo del presidente Gustavo Petro, quien había argumentado que las instalaciones militares permanecen bajo sus órdenes como comandante supremo hasta el momento del traspaso del mando. El equipo de De la Espriella había explorado sedes en Popayán (Brigada 20), Cali (Cantón Pichincha) y Tolemaida. La decisión legislativa desbloquea una de las tensiones más visibles del período de transición.",
-      "objetividad": 92,
+      "titulo": "De la Espriella en el desfile del 20 de julio en Medellín: ratifica posesión en guarnición militar el 7 de agosto; La Silla Vacía confirma que ya hay sede escogida",
+      "resumen": "El presidente electo Abelardo De la Espriella participó en el desfile del 20 de julio en Medellín y ratificó que su posesión presidencial se realizará en una guarnición militar el 7 de agosto, pese a la oposición del presidente Gustavo Petro. Una proposición para permitir el traslado extraordinario del Congreso a la guarnición fue radicada el 20 de julio y será debatida en el nuevo Congreso. La Silla Vacía confirmó el 21 de julio que De la Espriella ya escogió la sede definitiva, aunque no se ha revelado públicamente cuál es. La pugna por la sede se suma a la tensión política de la demanda de nulidad electoral divulgada por Petro el mismo día.",
+      "objetividad": 91,
       "criterios": [
         {
           "ok": true,
-          "texto": "Congreso abre puerta posesión en guarnición — Vanguardia (16 jul)"
+          "texto": "De la Espriella en desfile de Medellín el 20 jul, ratifica guarnición — La Linterna Azul (21 jul)"
         },
         {
           "ok": true,
-          "texto": "Petro había prohibido uso de instalaciones militares — declaración verificada (12-13 jul)"
+          "texto": "Proposición radicada el 20 jul — Infobae (20 jul)"
         },
         {
           "ok": true,
-          "texto": "Sedes exploradas: Popayán, Cali, Tolemaida — Semana (13 jul)"
+          "texto": "La Silla Vacía: sede ya escogida — verificado (21 jul)"
         },
         {
           "ok": false,
-          "texto": "Sede definitiva de la posesión del 7 de agosto aún sin confirmar"
+          "texto": "Sede definitiva aún no confirmada públicamente"
         }
       ],
-      "url": "https://www.vanguardia.com/colombia/2026/07/16/congreso-abre-la-puerta-para-que-abelardo-de-la-espriella-se-posesione-en-una-guarnicion-militar/",
-      "url_label": "Vanguardia — Congreso abre la puerta para posesión en guarnición militar"
+      "url": "https://lalinternaazul2.wordpress.com/2026/07/21/presidente-electo-abelardo-de-la-espriella-hablo-en-el-desfile-del-20-de-julio-en-medellin-y-ratifico-que-se-posesionara-en-una-guarnicion-militar/",
+      "url_label": "La Linterna Azul — De la Espriella ratifica en Medellín que se posesionará en una guarnición militar"
     },
     {
       "filter": "valencia",
@@ -424,11 +424,11 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 72,
-        "negativo": 20,
-        "neutro": 8,
-        "tendencia": "stable",
-        "tendencia_texto": "21 jul — CD GANA SENADO (20 jul): Honorio Henríquez (CD) elegido presidente del Senado pese al intento de Rodrigo Lara de imponer a Deluque; primera tensión interna visible de la coalición. Barguil (Conservador) presidirá la Cámara (180/181 votos). GABINETE COMPLETO (18-19 jul): segundo consejo en Barranquilla. Posesión presidencial: 7 de agosto."
+        "positivo": 68,
+        "negativo": 23,
+        "neutro": 9,
+        "tendencia": "down",
+        "tendencia_texto": "22 jul — DEMANDA DE NULIDAD (21 jul): Petro publicó demanda de 61 páginas ante el Consejo de Estado buscando anular la elección; no alega fraude sino 'inverificabilidad estructural'. Constitucionalistas indican que no afecta la posesión del 7 de agosto. POSESIÓN EN GUARNICIÓN (21 jul): De la Espriella ratificó en desfile de Medellín que jurará en base militar; La Silla Vacía confirma que ya hay sede escogida. CD GANÓ SENADO (20 jul). Sentimiento bajó levemente por ruido político."
       },
       {
         "nombre": "Cepeda",
@@ -437,7 +437,7 @@
         "negativo": 59,
         "neutro": 19,
         "tendencia": "stable",
-        "tendencia_texto": "21 jul — SENADOR POSESIONADO (20 jul): Cepeda tomó posesión como senador 2026-2030 vía Estatuto de la Oposición; lidera bancada del Pacto Histórico (26 curules, la más grande del Senado). DESOBEDIENCIA CIVIL: no asistirá a la posesión del 7 de agosto. Propuso que Petro presida el Pacto Histórico hacia 2030. El Pacto Histórico no logró la presidencia del Senado (venció el CD con Henríquez)."
+        "tendencia_texto": "22 jul — SENADOR ACTIVO (20 jul): Cepeda posesionado como senador 2026-2030 vía Estatuto de la Oposición; lidera Pacto Histórico (26 curules). NULIDAD ELECTORAL (21 jul): Petro divulgó demanda ante Consejo de Estado cuestionando elección de De la Espriella — Cepeda respaldó la acción sin confirmar adhesión formal. DESOBEDIENCIA CIVIL: no asistirá a la posesión del 7 de agosto. Propuso que Petro presida el PH hacia 2030."
       },
       {
         "nombre": "Valencia",
@@ -472,7 +472,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "TRANSICIÓN EN MARCHA — 21 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). CD GANA SENADO (20 jul): Honorio Henríquez (CD) elegido presidente del Senado pese al intento del ministro designado Rodrigo Lara de apoyar a Deluque — primera tensión interna de la coalición. CÁMARA: Nicolás Barguil (Conservador) con 180/181 votos. CEPEDA SENADOR (20 jul): Iván Cepeda se posesionó como senador; lidera Pacto Histórico (26 curules). VALENCIA: salió del Senado el 20 jul; acusa a Lara de torpedear acuerdo. GABINETE COMPLETO (18-19 jul). POSESIÓN PRESIDENCIAL: 7 de agosto de 2026."
+    "resumen_analisis": "TRANSICIÓN EN MARCHA — 22 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). DEMANDA DE NULIDAD (21 jul): Petro divulgó demanda de 61 páginas ante el Consejo de Estado alegando 'inverificabilidad estructural' — no alega fraude; no suspende la posesión. POSESIÓN EN GUARNICIÓN (21 jul): De la Espriella ratificó en desfile de Medellín que jurará en base militar el 7 de agosto; sede ya escogida (no revelada). CD GANÓ SENADO (20 jul): Henríquez (CD) elegido Pdte del Senado pese a Rodrigo Lara. CEPEDA SENADOR (20 jul): lidera Pacto Histórico (26 curules). VALENCIA: fuera del Senado. GABINETE COMPLETO (18-19 jul). POSESIÓN PRESIDENCIAL: 7 de agosto de 2026."
   },
-  "ultimo_deploy": "2026-07-21T00:00:00Z"
+  "ultimo_deploy": "2026-07-22T00:00:00Z"
 }
