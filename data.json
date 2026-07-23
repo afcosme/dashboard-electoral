@@ -1,5 +1,5 @@
 {
-  "fecha": "22 de julio de 2026",
+  "fecha": "23 de julio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,6 +100,46 @@
   "noticias": [
     {
       "filter": "espriella",
+      "fuente": "Infobae / Semana / Vanguardia",
+      "fuente_color": "#e74c3c",
+      "fecha": "22 jul 2026",
+      "tag": "POSESIÓN · Senado aprueba Cauca · 55 a 32",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "Senado aprueba posesión de De la Espriella en el Cauca: 55 votos a favor, 32 en contra",
+      "resumen": "El pleno del Senado aprobó el 22 de julio la proposición para trasladar de manera extraordinaria la sede del Congreso al departamento del Cauca, permitiendo que el 7 de agosto el pleno del Congreso se reúna allí para dar posesión al presidente electo Abelardo de la Espriella. La votación fue de 55 votos a favor y 32 en contra. La decisión abre la posibilidad de que la ceremonia se realice en una guarnición militar en el Cauca, aunque la sede definitiva aún no ha sido revelada públicamente. La propuesta debe ser estudiada también por la Cámara de Representantes. El mismo 22 de julio, De la Espriella designó varios de sus funcionarios para representar a Colombia en la posesión del presidente peruano Kenji Fujimori.",
+      "objetividad": 95,
+      "criterios": [
+        {"ok": true, "texto": "Senado aprobó traslado al Cauca: 55 a 32 — Infobae, Semana, Vanguardia (22 jul)"},
+        {"ok": true, "texto": "Proposición radicada el 20 jul, aprobada el 22 jul en pleno"},
+        {"ok": true, "texto": "De la Espriella designó funcionarios para posesión Fujimori — El Tiempo (22 jul)"},
+        {"ok": false, "texto": "Sede definitiva en el Cauca aún no revelada públicamente"}
+      ],
+      "url": "https://www.infobae.com/colombia/2026/07/22/senado-dio-luz-verde-para-que-la-posesion-presidencial-de-abelardo-de-la-espriella-se-realice-en-cauca-sera-en-sede-militar/",
+      "url_label": "Infobae — Senado aprueba posesión de De la Espriella en el Cauca"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "El Universal / Infobae",
+      "fuente_color": "#2980b9",
+      "fecha": "22 jul 2026",
+      "tag": "Cepeda · Acto político Barranquilla · 7 de agosto",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda encabezará acto político en Barranquilla el 7 de agosto, mismo día de la posesión de De la Espriella",
+      "resumen": "El senador Iván Cepeda anunció el 22 de julio que encabezará un acto político en Barranquilla el 7 de agosto, el mismo día de la posesión presidencial de Abelardo de la Espriella. El acto es la primera acción concreta de su estrategia de 'desobediencia civil': Cepeda ratificó que no asistirá a la posesión y que organizará eventos alternativos como forma de oposición pacífica. El evento en Barranquilla es la acción inaugural del proyecto opositor que Cepeda liderará desde el Senado como jefe del Pacto Histórico (26 curules).",
+      "objetividad": 93,
+      "criterios": [
+        {"ok": true, "texto": "Cepeda anuncia acto en Barranquilla el 7 ago — El Universal (22 jul)"},
+        {"ok": true, "texto": "Ratifica desobediencia civil y no asistirá a posesión — Infobae (17 jul)"},
+        {"ok": true, "texto": "Lidera Pacto Histórico: 26 curules en el Senado 2026-2030"},
+        {"ok": false, "texto": "Sede y asistentes del acto en Barranquilla pendientes de confirmar"}
+      ],
+      "url": "https://www.eluniversal.com.co/colombia/2026/07/22/cepeda-reitero-que-no-asistira-a-la-posesion-de-abelardo-encabezara-acto-politico-en-barranquilla/",
+      "url_label": "El Universal — Cepeda encabezará acto político en Barranquilla el 7 de agosto"
+    },
+    {
+      "filter": "espriella",
       "fuente": "Infobae / El País",
       "fuente_color": "#e74c3c",
       "fecha": "20 jul 2026",
@@ -110,22 +150,10 @@
       "resumen": "Tras la instalación solemne del Congreso 2026-2030 en el Capitolio Nacional el 20 de julio, Honorio Henríquez (Centro Democrático) fue elegido presidente del Senado, imponiendo la voluntad del uribismo pese al intento del ministro designado del Interior Rodrigo Lara de reunir votos a favor de Alfredo Deluque (Partido de la U). En la Cámara de Representantes, Nicolás Barguil (Partido Conservador, Córdoba) fue elegido presidente con 180 de 181 votos, consolidando la coalición del presidente electo De la Espriella. La victoria del CD en el Senado se da en medio de tensiones internas con el futuro gabinete: el Centro Democrático acusó públicamente a Rodrigo Lara de intentar \"torpedear\" el acuerdo que le daba la presidencia al partido. Gustavo Petro pronunció su último discurso ante el Congreso. De la Espriella se posesiona el 7 de agosto.",
       "objetividad": 95,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Honorio Henríquez (CD) elegido presidente del Senado — Infobae, Semana (20 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Nicolás Barguil elegido presidente de la Cámara con 180/181 votos — Semana (20 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Lara intentó reunir votos para Deluque; CD lo acusó de torpedo — Infobae (20 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Petro último discurso ante el Congreso — confirmado por múltiples fuentes"
-        }
+        {"ok": true, "texto": "Honorio Henríquez (CD) elegido presidente del Senado — Infobae, Semana (20 jul)"},
+        {"ok": true, "texto": "Nicolás Barguil elegido presidente de la Cámara con 180/181 votos — Semana (20 jul)"},
+        {"ok": true, "texto": "Lara intentó reunir votos para Deluque; CD lo acusó de torpedo — Infobae (20 jul)"},
+        {"ok": true, "texto": "Petro último discurso ante el Congreso — confirmado por múltiples fuentes"}
       ],
       "url": "https://www.infobae.com/colombia/2026/07/20/instalacion-del-congreso-2026-en-vivo-siga-el-minuto-a-minuto-de-la-apertura-de-la-nueva-legislatura/",
       "url_label": "Infobae — Honorio Henríquez (CD) elegido presidente del Senado 2026-2030"
@@ -142,22 +170,10 @@
       "resumen": "Iván Cepeda Castro se posesionó el 20 de julio como senador para el período 2026-2030, en virtud del Estatuto de la Oposición que otorga automáticamente una curul al candidato presidencial que obtenga el segundo lugar. Cepeda tomó posesión en el Capitolio Nacional junto a los demás 102 senadores elegidos. El Pacto Histórico quedó con 26 curules en el Senado — la bancada más grande —, lo que posiciona a Cepeda como jefe de la oposición parlamentaria al presidente electo Abelardo de la Espriella, quien asume el 7 de agosto. Cepeda había ratificado el 17 de julio su 'desobediencia civil' y que no reconoce a De la Espriella 'en su legitimidad', pero aceptó la curul para ejercer la oposición desde el legislativo.",
       "objetividad": 94,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Posesión de Cepeda como senador el 20 jul — Estatuto de la Oposición, CNE"
-        },
-        {
-          "ok": true,
-          "texto": "Pacto Histórico: 26 curules en el Senado 2026-2030 — bancada más grande"
-        },
-        {
-          "ok": true,
-          "texto": "Capitolio Nacional, sesión solemne — Prensa Latina (20 jul)"
-        },
-        {
-          "ok": false,
-          "texto": "Discurso de posesión de Cepeda aún pendiente de confirmación"
-        }
+        {"ok": true, "texto": "Posesión de Cepeda como senador el 20 jul — Estatuto de la Oposición, CNE"},
+        {"ok": true, "texto": "Pacto Histórico: 26 curules en el Senado 2026-2030 — bancada más grande"},
+        {"ok": true, "texto": "Capitolio Nacional, sesión solemne — Prensa Latina (20 jul)"},
+        {"ok": false, "texto": "Discurso de posesión de Cepeda aún pendiente de confirmación"}
       ],
       "url": "https://www.prensa-latina.cu/2026/07/20/nuevo-congreso-de-colombia-se-posesionara-en-capitolio-nacional/",
       "url_label": "Prensa Latina — Nuevo Congreso de Colombia se posesionará en Capitolio Nacional"
@@ -174,22 +190,10 @@
       "resumen": "Iván Cepeda propuso el 19 de julio, durante un evento en Tunja (Boyacá), que el presidente saliente Gustavo Petro asuma la presidencia del Pacto Histórico como partido político una vez deje la Casa de Nariño el 7 de agosto. Cepeda declaró: 'Propongo que asuma la presidencia del Pacto Histórico como nuevo partido político' y definió a Petro como un 'auténtico jefe de Estado'. Según Cepeda, Petro debe continuar liderando el progresismo colombiano con miras a las elecciones de 2030. El anuncio se produce un día antes de que Cepeda se posesione como senador por el Estatuto de la Oposición (20 de julio).",
       "objetividad": 92,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Propuesta hecha el 19 jul en Tunja, Boyacá — Infobae, El Colombiano, Semana"
-        },
-        {
-          "ok": true,
-          "texto": "Cita textual 'Propongo que asuma la presidencia del Pacto Histórico' — verificada"
-        },
-        {
-          "ok": true,
-          "texto": "Cepeda se posesiona como senador el 20 jul por Estatuto de la Oposición"
-        },
-        {
-          "ok": false,
-          "texto": "Respuesta de Petro a la propuesta aún no confirmada oficialmente"
-        }
+        {"ok": true, "texto": "Propuesta hecha el 19 jul en Tunja, Boyacá — Infobae, El Colombiano, Semana"},
+        {"ok": true, "texto": "Cita textual 'Propongo que asuma la presidencia del Pacto Histórico' — verificada"},
+        {"ok": true, "texto": "Cepeda se posesiona como senador el 20 jul por Estatuto de la Oposición"},
+        {"ok": false, "texto": "Respuesta de Petro a la propuesta aún no confirmada oficialmente"}
       ],
       "url": "https://www.infobae.com/colombia/2026/07/19/ivan-cepeda-propuso-que-gustavo-petro-presida-el-pacto-historico-tras-dejar-la-presidencia/",
       "url_label": "Infobae — Cepeda propuso que Gustavo Petro presida el Pacto Histórico"
@@ -206,57 +210,13 @@
       "resumen": "El presidente electo Abelardo de la Espriella celebró el 18-19 de julio en Barranquilla el segundo consejo de ministros designados, el primero con el equipo de gobierno completo. Participaron el VP electo José Manuel Restrepo y los 16 ministros designados: Rodrigo Lara (Interior), Miguel Gómez (Hacienda), Gral. (r) Jorge Mora (Defensa), Iván Cancino (Justicia), Viviane Morales (Educación), Elsa Noguera (Transporte), Fabio Arjona (Ambiente), Omar Bula (Cancillería), Indalecio Dangond (Agricultura), María Arboleda (Minas), Alexandra Falla (TIC), Paola Holguín (Cultura), Mauricio Gómez (Comercio), Juliana Gutiérrez (Deporte) y Jaime Beltrán (Vivienda). De la Espriella afirmó: 'Aquí no hay flojera y no habrá espacio para la improvisación'.",
       "objetividad": 94,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Segundo consejo completo en Barranquilla, 18-19 jul — El Heraldo, Infobae"
-        },
-        {
-          "ok": true,
-          "texto": "Cita 'No habrá espacio para la improvisación' — verificada en Infobae"
-        },
-        {
-          "ok": true,
-          "texto": "Lista de ministros con carteras confirmada — El Tiempo, Cambio Colombia"
-        },
-        {
-          "ok": false,
-          "texto": "Carteras de Salud, Trabajo y Ciencia aún no confirmadas oficialmente"
-        }
+        {"ok": true, "texto": "Segundo consejo completo en Barranquilla, 18-19 jul — El Heraldo, Infobae"},
+        {"ok": true, "texto": "Cita 'No habrá espacio para la improvisación' — verificada en Infobae"},
+        {"ok": true, "texto": "Lista de ministros con carteras confirmada — El Tiempo, Cambio Colombia"},
+        {"ok": false, "texto": "Carteras de Salud, Trabajo y Ciencia aún no confirmadas oficialmente"}
       ],
       "url": "https://www.infobae.com/colombia/2026/07/19/en-segundo-consejo-de-ministros-de-la-espriella-reviso-la-hoja-de-ruta-y-aseguro-no-habra-espacio-para-la-improvisacion/",
       "url_label": "Infobae — De la Espriella revisa hoja de ruta con gabinete completo: 'No habrá improvisación'"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Semana / Infobae",
-      "fuente_color": "#2980b9",
-      "fecha": "17 jul 2026",
-      "tag": "Cepeda · Desobediencia civil ratificada · No asistirá a posesión",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "Cepeda ratifica desobediencia civil: no asistirá a la posesión de De la Espriella y no lo reconoce 'en su legitimidad'",
-      "resumen": "Iván Cepeda ratificó el 17 de julio su postura de 'desobediencia civil' y confirmó que no asistirá a la ceremonia de posesión presidencial de Abelardo de la Espriella el 7 de agosto. Cepeda declaró que acepta el resultado electoral únicamente para efectos de posesionarse como senador el 20 de julio, pero que no reconoce a De la Espriella 'en su legitimidad'. Afirmó: 'El único camino de oposición hoy es la desobediencia civil'. La postura genera debate constitucional sobre si es compatible con el juramento institucional que hará ante el Senado.",
-      "objetividad": 91,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Ratifica desobediencia civil y no asistirá a posesión — Semana (17 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "No reconoce a De la Espriella 'en su legitimidad' — El Colombiano (17 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Acepta resultado para posesionarse como senador el 20 jul — Infobae (17 jul)"
-        },
-        {
-          "ok": false,
-          "texto": "Implicaciones jurídicas de la 'desobediencia civil' senatorial aún en debate"
-        }
-      ],
-      "url": "https://www.semana.com/politica/articulo/ivan-cepeda-ratifica-su-posicion-de-desobediencia-civil-y-no-asistira-a-la-posesion-de-abelardo-de-la-espriella/202653/",
-      "url_label": "Semana — Cepeda ratifica desobediencia civil y no asistirá a la posesión de De la Espriella"
     },
     {
       "filter": "espriella",
@@ -270,57 +230,13 @@
       "resumen": "El presidente Gustavo Petro publicó el 21 de julio una demanda de nulidad electoral de 61 páginas contra la elección de Abelardo De la Espriella y José Manuel Restrepo como presidente y vicepresidente, presentada ante la Sección Quinta del Consejo de Estado. La demanda, fechada el 17 de julio y respaldada según Petro por más de 70.000 ciudadanos, busca anular la Resolución E-3181 del 24 de junio del CNE. La acción judicial no alega fraude electoral sino 'inverificabilidad estructural' del proceso, basada en el trabajo de 'testigos digitales' que habrían detectado irregularidades en los metadatos del software de escrutinio. Constitucionalistas señalan que la demanda no suspende la posesión del 7 de agosto.",
       "objetividad": 90,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Petro publicó demanda el 21 jul — Infobae, Semana, El Colombiano"
-        },
-        {
-          "ok": true,
-          "texto": "61 páginas, ante Sección Quinta del Consejo de Estado — verificado"
-        },
-        {
-          "ok": true,
-          "texto": "No alega fraude sino 'inverificabilidad estructural' — El Colombiano (21 jul)"
-        },
-        {
-          "ok": false,
-          "texto": "Demanda aún no admitida por el Consejo de Estado — pendiente de trámite"
-        }
+        {"ok": true, "texto": "Petro publicó demanda el 21 jul — Infobae, Semana, El Colombiano"},
+        {"ok": true, "texto": "61 páginas, ante Sección Quinta del Consejo de Estado — verificado"},
+        {"ok": true, "texto": "No alega fraude sino 'inverificabilidad estructural' — El Colombiano (21 jul)"},
+        {"ok": false, "texto": "Demanda aún no admitida por el Consejo de Estado — pendiente de trámite"}
       ],
       "url": "https://www.infobae.com/colombia/2026/07/21/petro-publica-demanda-que-busca-tumbar-eleccion-de-abelardo-de-la-espriella/",
       "url_label": "Infobae — Petro publica demanda que busca tumbar elección de De la Espriella"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Heraldo",
-      "fuente_color": "#e74c3c",
-      "fecha": "17 jul 2026",
-      "tag": "SEGURIDAD · Condena atentado Tibú + Empalme Neiva",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella condena atentado contra base militar en Tibú y avanza empalme regional en Neiva",
-      "resumen": "El presidente electo Abelardo de la Espriella condenó el 17 de julio el atentado terrorista contra una unidad del Ejército Nacional en Tibú, Norte de Santander, reiterando que la protección de la vida, la seguridad ciudadana y el restablecimiento del orden serán ejes centrales de su administración desde el 7 de agosto. Simultáneamente, De la Espriella avanza en su gira de empalmes regionales: este viernes realiza una reunión a puerta cerrada en la Gobernación de Neiva (Huila), tras visitar ya Norte de Santander, Santander y Casanare. La siguiente parada será Antioquia.",
-      "objetividad": 93,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Condena atentado Tibú — El Heraldo (17 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Empalme en Neiva, Gobernación del Huila, 17 jul — El Espectador"
-        },
-        {
-          "ok": true,
-          "texto": "Gira previa: Norte de Santander, Santander, Casanare — confirmado"
-        },
-        {
-          "ok": false,
-          "texto": "Detalles del atentado en Tibú (víctimas, autoría) aún sin confirmar oficialmente"
-        }
-      ],
-      "url": "https://www.elheraldo.co/colombia/2026/07/17/abelardo-de-la-espriella-condena-atentado-contra-base-militar-en-tibu-y-promete-reforzar-la-seguridad-nacional/",
-      "url_label": "El Heraldo — De la Espriella condena atentado contra base militar en Tibú"
     },
     {
       "filter": "espriella",
@@ -331,25 +247,13 @@
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
       "titulo": "De la Espriella en el desfile del 20 de julio en Medellín: ratifica posesión en guarnición militar el 7 de agosto; La Silla Vacía confirma que ya hay sede escogida",
-      "resumen": "El presidente electo Abelardo De la Espriella participó en el desfile del 20 de julio en Medellín y ratificó que su posesión presidencial se realizará en una guarnición militar el 7 de agosto, pese a la oposición del presidente Gustavo Petro. Una proposición para permitir el traslado extraordinario del Congreso a la guarnición fue radicada el 20 de julio y será debatida en el nuevo Congreso. La Silla Vacía confirmó el 21 de julio que De la Espriella ya escogió la sede definitiva, aunque no se ha revelado públicamente cuál es. La pugna por la sede se suma a la tensión política de la demanda de nulidad electoral divulgada por Petro el mismo día.",
+      "resumen": "El presidente electo Abelardo De la Espriella participó en el desfile del 20 de julio en Medellín y ratificó que su posesión presidencial se realizará en una guarnición militar el 7 de agosto, pese a la oposición del presidente Gustavo Petro. Una proposición para permitir el traslado extraordinario del Congreso a la guarnición fue radicada el 20 de julio y aprobada por el Senado el 22 de julio (55 a 32). La Silla Vacía confirmó el 21 de julio que De la Espriella ya escogió la sede definitiva, aunque no se ha revelado públicamente cuál es. La pugna por la sede se suma a la tensión política de la demanda de nulidad electoral divulgada por Petro el mismo día.",
       "objetividad": 91,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "De la Espriella en desfile de Medellín el 20 jul, ratifica guarnición — La Linterna Azul (21 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Proposición radicada el 20 jul — Infobae (20 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "La Silla Vacía: sede ya escogida — verificado (21 jul)"
-        },
-        {
-          "ok": false,
-          "texto": "Sede definitiva aún no confirmada públicamente"
-        }
+        {"ok": true, "texto": "De la Espriella en desfile de Medellín el 20 jul, ratifica guarnición — La Linterna Azul (21 jul)"},
+        {"ok": true, "texto": "Proposición radicada el 20 jul, aprobada Senado 22 jul — confirmado"},
+        {"ok": true, "texto": "La Silla Vacía: sede ya escogida — verificado (21 jul)"},
+        {"ok": false, "texto": "Sede definitiva aún no confirmada públicamente"}
       ],
       "url": "https://lalinternaazul2.wordpress.com/2026/07/21/presidente-electo-abelardo-de-la-espriella-hablo-en-el-desfile-del-20-de-julio-en-medellin-y-ratifico-que-se-posesionara-en-una-guarnicion-militar/",
       "url_label": "La Linterna Azul — De la Espriella ratifica en Medellín que se posesionará en una guarnición militar"
@@ -366,22 +270,10 @@
       "resumen": "Desde su retiro del Senado tras tres períodos consecutivos (no renovó curul para 2026-2030), Paloma Valencia reaccionó a la elección de mesas directivas del Congreso acusando al ministro designado del Interior, Rodrigo Lara, de \"haber decidido torpedear el acuerdo que se había hecho en el Congreso\" para que el Centro Democrático presidiera el Senado. Pese al intento de Lara de reunir votos para Alfredo Deluque (Partido de la U), Honorio Henríquez del CD fue elegido presidente del Senado, lo que Valencia celebró como una victoria. Valencia también cuestionó a Alfredo Deluque por aceptar apoyos del Pacto Histórico de Petro para competir por la presidencia del Senado. La excandidata presidencial mantiene influencia informal en el uribismo desde fuera del legislativo.",
       "objetividad": 89,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Valencia acusa a Lara de torpedear el acuerdo — El Espectador (20 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Valencia ya no es senadora desde el 20 jul — Infobae (2 jun 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Henríquez elegido Pdte del Senado a pesar del intento de Lara — confirmado"
-        },
-        {
-          "ok": false,
-          "texto": "Respuesta oficial de Rodrigo Lara a las acusaciones de Valencia aún pendiente"
-        }
+        {"ok": true, "texto": "Valencia acusa a Lara de torpedear el acuerdo — El Espectador (20 jul)"},
+        {"ok": true, "texto": "Valencia ya no es senadora desde el 20 jul — Infobae (2 jun 2026)"},
+        {"ok": true, "texto": "Henríquez elegido Pdte del Senado a pesar del intento de Lara — confirmado"},
+        {"ok": false, "texto": "Respuesta oficial de Rodrigo Lara a las acusaciones de Valencia aún pendiente"}
       ],
       "url": "https://www.elespectador.com/politica/el-ministro-rodrigo-lara-ha-decidido-torpedear-el-acuerdo-que-se-habia-hecho-en-el-congreso-paloma-valencia/",
       "url_label": "El Espectador — Valencia: \"Rodrigo Lara decidió torpedear el acuerdo\" del CD para presidir el Senado"
@@ -398,22 +290,10 @@
       "resumen": "Antes de tomar posesión el 7 de agosto, el presidente electo Abelardo de la Espriella enfrenta su primera fisura interna visible: el ministro designado del Interior, Rodrigo Lara, trabajó activamente para que Alfredo Deluque (Partido de la U) fuera elegido presidente del Senado, chocando frontalmente con el Centro Democrático —principal partido aliado del gobierno electo—, que aspiraba a la presidencia del Senado con Honorio Henríquez. Lara advirtió que si el CD insistía, \"tendría que aliarse con el petrismo\" para conseguir los votos. El CD acusó a Lara de persuadir congresistas \"a última hora\". Finalmente, Henríquez (CD) ganó la presidencia del Senado, lo que representa un revés para Lara y sienta un precedente de tensión entre el ministerio del Interior y el CD en el arranque del gobierno.",
       "objetividad": 91,
       "criterios": [
-        {
-          "ok": true,
-          "texto": "Lara apoyó a Deluque sobre Henríquez del CD — Infobae, BluRadio (15-20 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "CD acusó a Lara de maniobrar a última hora — Infobae (20 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Henríquez (CD) ganó la presidencia del Senado — resultado final confirmado"
-        },
-        {
-          "ok": false,
-          "texto": "Impacto de la tensión en la gobernabilidad del gobierno De la Espriella por definir"
-        }
+        {"ok": true, "texto": "Lara apoyó a Deluque sobre Henríquez del CD — Infobae, BluRadio (15-20 jul)"},
+        {"ok": true, "texto": "CD acusó a Lara de maniobrar a última hora — Infobae (20 jul)"},
+        {"ok": true, "texto": "Henríquez (CD) ganó la presidencia del Senado — resultado final confirmado"},
+        {"ok": false, "texto": "Impacto de la tensión en la gobernabilidad del gobierno De la Espriella por definir"}
       ],
       "url": "https://www.infobae.com/colombia/2026/07/20/eleccion-presidente-congreso-centro-democratico-acuso-a-rodrigo-lara-de-persuadir-a-los-congresistas-a-ultima-hora-para-que-voten-por-deluque/",
       "url_label": "Infobae — CD acusó a Rodrigo Lara de persuadir congresistas para favorecer a Deluque"
@@ -424,20 +304,20 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 68,
-        "negativo": 23,
+        "positivo": 70,
+        "negativo": 21,
         "neutro": 9,
-        "tendencia": "down",
-        "tendencia_texto": "22 jul — DEMANDA DE NULIDAD (21 jul): Petro publicó demanda de 61 páginas ante el Consejo de Estado buscando anular la elección; no alega fraude sino 'inverificabilidad estructural'. Constitucionalistas indican que no afecta la posesión del 7 de agosto. POSESIÓN EN GUARNICIÓN (21 jul): De la Espriella ratificó en desfile de Medellín que jurará en base militar; La Silla Vacía confirma que ya hay sede escogida. CD GANÓ SENADO (20 jul). Sentimiento bajó levemente por ruido político."
+        "tendencia": "up",
+        "tendencia_texto": "23 jul — SENADO APRUEBA CAUCA (22 jul): El pleno del Senado aprobó por 55 a 32 el traslado de la posesión presidencial al Cauca, consolidando el plan de inauguration en guarnición militar el 7 de agosto. FUJIMORI (22 jul): De la Espriella designó funcionarios para representar a Colombia en la posesión de Fujimori en Perú, señal de alineamiento con la nueva derecha latinoamericana. CD GANÓ SENADO (20 jul): Henríquez (CD) elegido presidente del Senado. Sentimiento sube levemente: coalición alineada y posesión encaminada pese a demanda de nulidad de Petro (21 jul)."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
         "positivo": 22,
-        "negativo": 59,
-        "neutro": 19,
+        "negativo": 58,
+        "neutro": 20,
         "tendencia": "stable",
-        "tendencia_texto": "22 jul — SENADOR ACTIVO (20 jul): Cepeda posesionado como senador 2026-2030 vía Estatuto de la Oposición; lidera Pacto Histórico (26 curules). NULIDAD ELECTORAL (21 jul): Petro divulgó demanda ante Consejo de Estado cuestionando elección de De la Espriella — Cepeda respaldó la acción sin confirmar adhesión formal. DESOBEDIENCIA CIVIL: no asistirá a la posesión del 7 de agosto. Propuso que Petro presida el PH hacia 2030."
+        "tendencia_texto": "23 jul — ACTO EN BARRANQUILLA (22 jul): Cepeda anuncia acto político el 7 de agosto en Barranquilla como alternativa a la posesión de De la Espriella — primera acción concreta de su desobediencia civil. SENADOR ACTIVO (20 jul): posesionado como senador 2026-2030 vía Estatuto de la Oposición; lidera Pacto Histórico (26 curules). NULIDAD (21 jul): respaldó la demanda de Petro ante el Consejo de Estado. Sentimiento estable: oposición activa desde el Senado pero sin incidencia en la transición."
       },
       {
         "nombre": "Valencia",
@@ -445,8 +325,8 @@
         "positivo": 63,
         "negativo": 21,
         "neutro": 16,
-        "tendencia": "up",
-        "tendencia_texto": "21 jul — CD GANA SENADO (20 jul): pese a las maniobras del ministro Lara, Honorio Henríquez (CD) fue elegido presidente del Senado, reivindicando la posición que Valencia exigió el 16 jul. SALIÓ DEL SENADO (20 jul): Valencia ya no es senadora; acusó a Lara de torpedear el acuerdo. CD mantiene 17 curules y la presidencia del Senado en la nueva legislatura."
+        "tendencia": "stable",
+        "tendencia_texto": "23 jul — Sin noticias nuevas en las últimas 48h. SENADO (20 jul): CD ganó la presidencia del Senado, reivindicando la postura que Valencia exigió el 16 jul. Acusó a Rodrigo Lara de torpedear el acuerdo (20 jul). Valencia se mantiene como voz influyente del uribismo desde fuera del Congreso, sin curul para 2026-2030. Sentimiento estable: influencia informal sin plataforma legislativa."
       }
     ]
   },
@@ -472,7 +352,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "TRANSICIÓN EN MARCHA — 22 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). DEMANDA DE NULIDAD (21 jul): Petro divulgó demanda de 61 páginas ante el Consejo de Estado alegando 'inverificabilidad estructural' — no alega fraude; no suspende la posesión. POSESIÓN EN GUARNICIÓN (21 jul): De la Espriella ratificó en desfile de Medellín que jurará en base militar el 7 de agosto; sede ya escogida (no revelada). CD GANÓ SENADO (20 jul): Henríquez (CD) elegido Pdte del Senado pese a Rodrigo Lara. CEPEDA SENADOR (20 jul): lidera Pacto Histórico (26 curules). VALENCIA: fuera del Senado. GABINETE COMPLETO (18-19 jul). POSESIÓN PRESIDENCIAL: 7 de agosto de 2026."
+    "resumen_analisis": "TRANSICIÓN EN MARCHA — 23 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). POSESIÓN EN CAUCA (22 jul): Senado aprobó por 55 a 32 el traslado de la posesión al Cauca; se realizará en guarnición militar el 7 de agosto — sede aún no revelada. CEPEDA: encabezará acto político en Barranquilla el 7 de agosto como oposición a la posesión. DEMANDA DE NULIDAD (21 jul): Petro divulgó demanda de 61 páginas ante el Consejo de Estado alegando 'inverificabilidad estructural' — no suspende la posesión. CD GANÓ SENADO (20 jul): Henríquez elegido pese a Rodrigo Lara. CEPEDA SENADOR (20 jul): lidera Pacto Histórico (26 curules). VALENCIA: fuera del Senado. GABINETE COMPLETO (18-19 jul). POSESIÓN PRESIDENCIAL: 7 de agosto de 2026 en Cauca."
   },
-  "ultimo_deploy": "2026-07-22T00:00:00Z"
+  "ultimo_deploy": "2026-07-23T00:00:00Z"
 }
