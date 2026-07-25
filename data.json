@@ -1,5 +1,5 @@
 {
-  "fecha": "24 de julio de 2026",
+  "fecha": "25 de julio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -98,6 +98,90 @@
     }
   ],
   "noticias": [
+    {
+      "filter": "espriella",
+      "fuente": "Infobae",
+      "fuente_color": "#e74c3c",
+      "fecha": "25 jul 2026",
+      "tag": "POSESIÓN · Legal · Procuraduría",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.12)",
+      "titulo": "Abogado de Petro pide a la Procuraduría intervenir: cuestiona constitucionalidad de posesión de De la Espriella en guarnición militar",
+      "resumen": "Un abogado cercano al gobierno Petro publicó el 25 de julio un análisis jurídico cuestionando la constitucionalidad de realizar la posesión presidencial del 7 de agosto en una guarnición militar y solicitó formalmente la intervención de la Procuraduría General. Argumenta que la toma de posesión es un acto civil-constitucional y que celebrarlo en instalaciones castrenses vulnera el principio de separación entre el poder civil y las Fuerzas Militares. Constitucionalistas señalaron que el recurso no detiene la posesión del 7 de agosto.",
+      "objetividad": 88,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Abogado cuestionó legalidad posesión en guarnición — Infobae (25 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Pidió intervención de la Procuraduría formalmente — verificado"
+        },
+        {
+          "ok": false,
+          "texto": "Procuraduría no ha respondido aún — pendiente"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/07/25/abogado-de-petro-cuestiono-la-legalidad-de-la-posesion-de-abelardo-de-la-espriella-en-una-guarnicion-militar-pidio-intervencion-de-la-procuraduria/",
+      "url_label": "Infobae — Abogado de Petro pide a la Procuraduría intervenir en la posesión"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Semana / Infobae",
+      "fuente_color": "#2980b9",
+      "fecha": "24 jul 2026",
+      "tag": "Cepeda · Petro 2030 · Valledupar",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda desde Valledupar: Petro liderará el Pacto Histórico y 'serán Gobierno en 2030'",
+      "resumen": "El senador Iván Cepeda reveló el 24 de julio desde Valledupar el papel que desempeñará Gustavo Petro tras dejar la Casa de Nariño el 7 de agosto: presidirá el Pacto Histórico como partido de oposición con miras a las elecciones de 2030. Cepeda afirmó que el progresismo colombiano 'obedece la voluntad del pueblo' y declaró que 'serán Gobierno en 2030'. El senador reafirmó que no asistirá a la posesión de Abelardo de la Espriella.",
+      "objetividad": 91,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Declaración de Cepeda en Valledupar el 24 jul — Semana"
+        },
+        {
+          "ok": true,
+          "texto": "Cita 'serán Gobierno en 2030' verificada"
+        },
+        {
+          "ok": false,
+          "texto": "Respuesta de Petro a la propuesta no confirmada"
+        }
+      ],
+      "url": "https://www.semana.com/politica/articulo/ivan-cepeda-revelo-el-papel-que-tendra-gustavo-petro-luego-del-7-de-agosto-y-afirmo-que-seran-gobierno-en-2030/202638/",
+      "url_label": "Semana — Cepeda: Petro liderará Pacto Histórico y 'serán Gobierno en 2030'"
+    },
+    {
+      "filter": "valencia",
+      "fuente": "Infobae / Semana",
+      "fuente_color": "#9b59b6",
+      "fecha": "23 jul 2026",
+      "tag": "Valencia · Decreto Petro · Propiedad privada",
+      "tag_color": "#8e44ad",
+      "tag_bg": "rgba(142,68,173,0.12)",
+      "titulo": "Valencia alerta: decreto de Petro sobre reforma agraria amenaza la propiedad privada y 'salta a jueces y registradores'",
+      "resumen": "La excandidata presidencial Paloma Valencia denunció el 23 de julio el Decreto 0765 expedido por el gobierno Petro, que otorga poderes a la Agencia Nacional de Tierras (ANT) para cancelar gravámenes y tomar posesión inmediata de predios declarados de utilidad pública para reforma agraria sin pasar por jueces ni registradores. Valencia calificó el decreto de 'ilegal e inconstitucional' y advirtió que, aunque caerá en el Consejo de Estado, en el ínterin puede generar transferencias patrimoniales difíciles de revertir antes del 7 de agosto.",
+      "objetividad": 89,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Valencia denunció Decreto 0765 del 15 jul — Infobae, Semana (23 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Plazo del decreto: 25 de julio de 2026 — verificado"
+        },
+        {
+          "ok": false,
+          "texto": "Respuesta del gobierno Petro al decreto no recibida"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/07/23/paloma-valencia-alerto-que-un-decreto-del-gobierno-petro-pone-en-riesgo-la-propiedad-privada-en-colombia-saltarse-a-jueces-y-registradores/",
+      "url_label": "Infobae — Valencia: decreto Petro pone en riesgo la propiedad privada"
+    },
     {
       "filter": "espriella",
       "fuente": "El Heraldo",
@@ -220,134 +304,6 @@
     },
     {
       "filter": "espriella",
-      "fuente": "Infobae / El País",
-      "fuente_color": "#e74c3c",
-      "fecha": "20 jul 2026",
-      "tag": "CONGRESO · CD gana Presidencia Senado · Barguil en Cámara",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Centro Democrático gana la Presidencia del Senado: Honorio Henríquez elegido; Nicolás Barguil presidirá la Cámara",
-      "resumen": "Tras la instalación solemne del Congreso 2026-2030 en el Capitolio Nacional el 20 de julio, Honorio Henríquez (Centro Democrático) fue elegido presidente del Senado, imponiendo la voluntad del uribismo pese al intento del ministro designado del Interior Rodrigo Lara de reunir votos a favor de Alfredo Deluque (Partido de la U). En la Cámara de Representantes, Nicolás Barguil (Partido Conservador, Córdoba) fue elegido presidente con 180 de 181 votos, consolidando la coalición del presidente electo De la Espriella. La victoria del CD en el Senado se da en medio de tensiones internas con el futuro gabinete: el Centro Democrático acusó públicamente a Rodrigo Lara de intentar \"torpedear\" el acuerdo que le daba la presidencia al partido. Gustavo Petro pronunció su último discurso ante el Congreso. De la Espriella se posesiona el 7 de agosto.",
-      "objetividad": 95,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Honorio Henríquez (CD) elegido presidente del Senado — Infobae, Semana (20 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Nicolás Barguil elegido presidente de la Cámara con 180/181 votos — Semana (20 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Lara intentó reunir votos para Deluque; CD lo acusó de torpedo — Infobae (20 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Petro último discurso ante el Congreso — confirmado por múltiples fuentes"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/07/20/instalacion-del-congreso-2026-en-vivo-siga-el-minuto-a-minuto-de-la-apertura-de-la-nueva-legislatura/",
-      "url_label": "Infobae — Honorio Henríquez (CD) elegido presidente del Senado 2026-2030"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Infobae / Prensa Latina",
-      "fuente_color": "#2980b9",
-      "fecha": "20 jul 2026",
-      "tag": "Cepeda · SENADOR · Posesión por Estatuto de la Oposición",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Iván Cepeda se posesiona como senador: lidera la oposición al gobierno De la Espriella desde el Congreso",
-      "resumen": "Iván Cepeda Castro se posesionó el 20 de julio como senador para el período 2026-2030, en virtud del Estatuto de la Oposición que otorga automáticamente una curul al candidato presidencial que obtenga el segundo lugar. Cepeda tomó posesión en el Capitolio Nacional junto a los demás 102 senadores elegidos. El Pacto Histórico quedó con 26 curules en el Senado — la bancada más grande —, lo que posiciona a Cepeda como jefe de la oposición parlamentaria al presidente electo Abelardo de la Espriella, quien asume el 7 de agosto. Cepeda había ratificado el 17 de julio su 'desobediencia civil' y que no reconoce a De la Espriella 'en su legitimidad', pero aceptó la curul para ejercer la oposición desde el legislativo.",
-      "objetividad": 94,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Posesión de Cepeda como senador el 20 jul — Estatuto de la Oposición, CNE"
-        },
-        {
-          "ok": true,
-          "texto": "Pacto Histórico: 26 curules en el Senado 2026-2030 — bancada más grande"
-        },
-        {
-          "ok": true,
-          "texto": "Capitolio Nacional, sesión solemne — Prensa Latina (20 jul)"
-        },
-        {
-          "ok": false,
-          "texto": "Discurso de posesión de Cepeda aún pendiente de confirmación"
-        }
-      ],
-      "url": "https://www.prensa-latina.cu/2026/07/20/nuevo-congreso-de-colombia-se-posesionara-en-capitolio-nacional/",
-      "url_label": "Prensa Latina — Nuevo Congreso de Colombia se posesionará en Capitolio Nacional"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Infobae / Semana",
-      "fuente_color": "#2980b9",
-      "fecha": "19 jul 2026",
-      "tag": "Cepeda · Propone a Petro liderar el Pacto Histórico",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda propone que Petro asuma la presidencia del Pacto Histórico: 'Que lidere la izquierda hacia 2030'",
-      "resumen": "Iván Cepeda propuso el 19 de julio, durante un evento en Tunja (Boyacá), que el presidente saliente Gustavo Petro asuma la presidencia del Pacto Histórico como partido político una vez deje la Casa de Nariño el 7 de agosto. Cepeda declaró: 'Propongo que asuma la presidencia del Pacto Histórico como nuevo partido político' y definió a Petro como un 'auténtico jefe de Estado'. Según Cepeda, Petro debe continuar liderando el progresismo colombiano con miras a las elecciones de 2030. El anuncio se produce un día antes de que Cepeda se posesione como senador por el Estatuto de la Oposición (20 de julio).",
-      "objetividad": 92,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Propuesta hecha el 19 jul en Tunja, Boyacá — Infobae, El Colombiano, Semana"
-        },
-        {
-          "ok": true,
-          "texto": "Cita textual 'Propongo que asuma la presidencia del Pacto Histórico' — verificada"
-        },
-        {
-          "ok": true,
-          "texto": "Cepeda se posesiona como senador el 20 jul por Estatuto de la Oposición"
-        },
-        {
-          "ok": false,
-          "texto": "Respuesta de Petro a la propuesta aún no confirmada oficialmente"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/07/19/ivan-cepeda-propuso-que-gustavo-petro-presida-el-pacto-historico-tras-dejar-la-presidencia/",
-      "url_label": "Infobae — Cepeda propuso que Gustavo Petro presida el Pacto Histórico"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae / El Tiempo",
-      "fuente_color": "#e74c3c",
-      "fecha": "19 jul 2026",
-      "tag": "GABINETE · Segundo consejo completo · 'No habrá improvisación'",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella muestra su gabinete completo por primera vez: 'No habrá espacio para la improvisación'",
-      "resumen": "El presidente electo Abelardo de la Espriella celebró el 18-19 de julio en Barranquilla el segundo consejo de ministros designados, el primero con el equipo de gobierno completo. Participaron el VP electo José Manuel Restrepo y los 16 ministros designados: Rodrigo Lara (Interior), Miguel Gómez (Hacienda), Gral. (r) Jorge Mora (Defensa), Iván Cancino (Justicia), Viviane Morales (Educación), Elsa Noguera (Transporte), Fabio Arjona (Ambiente), Omar Bula (Cancillería), Indalecio Dangond (Agricultura), María Arboleda (Minas), Alexandra Falla (TIC), Paola Holguín (Cultura), Mauricio Gómez (Comercio), Juliana Gutiérrez (Deporte) y Jaime Beltrán (Vivienda). De la Espriella afirmó: 'Aquí no hay flojera y no habrá espacio para la improvisación'.",
-      "objetividad": 94,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Segundo consejo completo en Barranquilla, 18-19 jul — El Heraldo, Infobae"
-        },
-        {
-          "ok": true,
-          "texto": "Cita 'No habrá espacio para la improvisación' — verificada en Infobae"
-        },
-        {
-          "ok": true,
-          "texto": "Lista de ministros con carteras confirmada — El Tiempo, Cambio Colombia"
-        },
-        {
-          "ok": false,
-          "texto": "Carteras de Salud, Trabajo y Ciencia aún no confirmadas oficialmente"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/07/19/en-segundo-consejo-de-ministros-de-la-espriella-reviso-la-hoja-de-ruta-y-aseguro-no-habra-espacio-para-la-improvisacion/",
-      "url_label": "Infobae — De la Espriella revisa hoja de ruta con gabinete completo: 'No habrá improvisación'"
-    },
-    {
-      "filter": "espriella",
       "fuente": "Infobae / Semana / El Colombiano",
       "fuente_color": "#e74c3c",
       "fecha": "21 jul 2026",
@@ -377,38 +333,6 @@
       ],
       "url": "https://www.infobae.com/colombia/2026/07/21/petro-publica-demanda-que-busca-tumbar-eleccion-de-abelardo-de-la-espriella/",
       "url_label": "Infobae — Petro publica demanda que busca tumbar elección de De la Espriella"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "La Linterna Azul / La Silla Vacía / El Heraldo",
-      "fuente_color": "#e74c3c",
-      "fecha": "21 jul 2026",
-      "tag": "POSESIÓN · Desfile Medellín · Guarnición militar confirmada 7 ago",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella en el desfile del 20 de julio en Medellín: ratifica posesión en guarnición militar el 7 de agosto; La Silla Vacía confirma que ya hay sede escogida",
-      "resumen": "El presidente electo Abelardo De la Espriella participó en el desfile del 20 de julio en Medellín y ratificó que su posesión presidencial se realizará en una guarnición militar el 7 de agosto, pese a la oposición del presidente Gustavo Petro. Una proposición para permitir el traslado extraordinario del Congreso a la guarnición fue radicada el 20 de julio y aprobada por el Senado el 22 de julio (55 a 32). La Silla Vacía confirmó el 21 de julio que De la Espriella ya escogió la sede definitiva, aunque no se ha revelado públicamente cuál es. La pugna por la sede se suma a la tensión política de la demanda de nulidad electoral divulgada por Petro el mismo día.",
-      "objetividad": 91,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "De la Espriella en desfile de Medellín el 20 jul, ratifica guarnición — La Linterna Azul (21 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Proposición radicada el 20 jul, aprobada Senado 22 jul — confirmado"
-        },
-        {
-          "ok": true,
-          "texto": "La Silla Vacía: sede ya escogida — verificado (21 jul)"
-        },
-        {
-          "ok": false,
-          "texto": "Sede definitiva aún no confirmada públicamente"
-        }
-      ],
-      "url": "https://lalinternaazul2.wordpress.com/2026/07/21/presidente-electo-abelardo-de-la-espriella-hablo-en-el-desfile-del-20-de-julio-en-medellin-y-ratifico-que-se-posesionara-en-una-guarnicion-militar/",
-      "url_label": "La Linterna Azul — De la Espriella ratifica en Medellín que se posesionará en una guarnición militar"
     }
   ],
   "sentimiento": {
@@ -416,29 +340,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 68,
-        "negativo": 23,
+        "positivo": 66,
+        "negativo": 25,
         "neutro": 9,
-        "tendencia": "stable",
-        "tendencia_texto": "24 jul — POSESIÓN EN POPAYÁN (23 jul): De la Espriella celebra la aprobación del Senado (55-32) para la posesión en la Casa de los Héroes de la Patria en Popayán el 7 de agosto; escribe en X 'Acuerdos por la patria, acuerdos para los ciudadanos'. FISURA EN CD (23 jul): Rafael Nieto condiciona su asistencia — no irá si la sede es un batallón, segunda grieta interna del Centro Democrático tras la tensión Lara-CD del 20 jul. Sentimiento baja levemente (70→68): coalición alineada pero controversia sobre sede de posesión genera ruido político en la recta final hacia el 7 de agosto."
+        "tendencia": "down",
+        "tendencia_texto": "25 jul — LEGALIDAD EN CUESTIÓN: Abogado de Petro pidió a la Procuraduría intervenir en la posesión del 7 de agosto en guarnición militar, argumentando vulneración del principio de separación civil-militar. POSESIÓN EN CAUCA: aprobada por el Senado (55-32 el 22 jul); cámara pendiente de ratificar. FISURA CD (23 jul): Nieto condiciona asistencia si la sede es un batallón. Sentimiento baja levemente (68→66): cuestionamientos jurídicos se acumulan aunque no detienen la posesión."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 22,
-        "negativo": 58,
+        "positivo": 24,
+        "negativo": 56,
         "neutro": 20,
-        "tendencia": "stable",
-        "tendencia_texto": "24 jul — Sin noticias nuevas en las últimas 48h. ACTO BARRANQUILLA (22 jul): Cepeda ratifica acto político el 7 de agosto en Barranquilla en paralelo a la posesión de De la Espriella. SENADOR ACTIVO (20 jul): posesionado como senador 2026-2030 vía Estatuto de la Oposición; lidera Pacto Histórico (26 curules). NULIDAD (21 jul): respaldó demanda de Petro ante el Consejo de Estado. Sentimiento estable: oposición activa desde el Senado pero sin incidencia en la transición."
+        "tendencia": "up",
+        "tendencia_texto": "25 jul — PROYECTO 2030 (24 jul): Cepeda desde Valledupar anunció que Petro presidirá el Pacto Histórico y 'serán Gobierno en 2030', consolidando la narrativa opositora de mediano plazo. BARRANQUILLA (22 jul): ratificó acto político el 7 agosto en paralelo a la posesión. SENADOR ACTIVO (20 jul): lidera Pacto Histórico (26 curules). Sentimiento leve mejora (22→24): propuesta de Gobierno 2030 genera expectativas en la base petrista."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 63,
-        "negativo": 21,
-        "neutro": 16,
-        "tendencia": "stable",
-        "tendencia_texto": "24 jul — Sin noticias nuevas en las últimas 48h. FISURA CD (23 jul): Nieto condiciona asistencia a posesión, mostrando que el uribismo sigue dividido. SENADO (20 jul): CD ganó la presidencia del Senado, reivindicando la postura que Valencia exigió el 16 jul. Valencia se mantiene como voz influyente del uribismo fuera del Congreso, sin curul 2026-2030. Sentimiento estable: influencia informal sin plataforma legislativa."
+        "positivo": 65,
+        "negativo": 20,
+        "neutro": 15,
+        "tendencia": "up",
+        "tendencia_texto": "25 jul — PROPIEDAD PRIVADA (23 jul): Valencia denunció con fuerza el Decreto 0765 de Petro que otorga a la ANT poderes de posesión de tierras 'saltándose jueces y registradores', con plazo hasta hoy 25 jul. Mantiene su rol como voz opositora y defensora de garantías constitucionales fuera del Senado. Sentimiento sube (63→65): denuncia del decreto refuerza su imagen de defensora de la propiedad privada."
       }
     ]
   },
@@ -464,7 +388,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "TRANSICIÓN EN MARCHA — 23 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). POSESIÓN EN CAUCA (22 jul): Senado aprobó por 55 a 32 el traslado de la posesión al Cauca; se realizará en guarnición militar el 7 de agosto — sede aún no revelada. CEPEDA: encabezará acto político en Barranquilla el 7 de agosto como oposición a la posesión. DEMANDA DE NULIDAD (21 jul): Petro divulgó demanda de 61 páginas ante el Consejo de Estado alegando 'inverificabilidad estructural' — no suspende la posesión. CD GANÓ SENADO (20 jul): Henríquez elegido pese a Rodrigo Lara. CEPEDA SENADOR (20 jul): lidera Pacto Histórico (26 curules). VALENCIA: fuera del Senado. GABINETE COMPLETO (18-19 jul). POSESIÓN PRESIDENCIAL: 7 de agosto de 2026 en Cauca."
+    "resumen_analisis": "TRANSICIÓN EN MARCHA — 25 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). CONTROVERSIA JURÍDICA (25 jul): Abogado de Petro pidió a la Procuraduría intervenir en posesión en guarnición militar — no detiene el 7 de agosto. POSESIÓN EN CAUCA (22 jul): Senado aprobó 55-32; Cámara pendiente. CEPEDA EN BARRANQUILLA (24 jul): confirmó acto político el 7 ago, prometió 'serán Gobierno en 2030'. VALENCIA (23 jul): denuncia decreto Petro que amenaza propiedad privada. CD GANÓ SENADO (20 jul). POSESIÓN PRESIDENCIAL: 7 de agosto de 2026 en Cauca."
   },
-  "ultimo_deploy": "24 de julio de 2026"
+  "ultimo_deploy": "25 de julio de 2026"
 }
