@@ -1,5 +1,5 @@
 {
-  "fecha": "25 de julio de 2026",
+  "fecha": "26 de julio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -99,6 +99,90 @@
   ],
   "noticias": [
     {
+      "filter": "cepeda",
+      "fuente": "Semana / Pulzo",
+      "fuente_color": "#2980b9",
+      "fecha": "26 jul 2026",
+      "tag": "Cepeda · Tunja · Elecciones atípicas Boyacá",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda en Tunja apoya candidatos del Pacto Histórico en elecciones atípicas y reitera: Petro será jefe de la oposición",
+      "resumen": "El senador Iván Cepeda participó el 26 de julio en un acto político en Tunja (Boyacá) para respaldar al candidato del Pacto Histórico en las elecciones atípicas de ese municipio. Cepeda reiteró que Gustavo Petro asumirá la presidencia del Pacto Histórico una vez deje la Casa de Nariño el 7 de agosto, convirtiéndose en el 'jefe máximo de la oposición' al gobierno De la Espriella. Afirmó que la estrategia territorial del progresismo continuará en todo el país con miras a las elecciones de 2030.",
+      "objetividad": 91,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Cepeda participó en evento en Tunja el 26 jul — Semana, Pulzo"
+        },
+        {
+          "ok": true,
+          "texto": "Reitera propuesta de Petro al frente del PH — verificado múltiples fuentes"
+        },
+        {
+          "ok": false,
+          "texto": "Resultado de las elecciones atípicas pendiente de conteo"
+        }
+      ],
+      "url": "https://www.pulzo.com/nacion/gustavo-petro-podria-liderar-el-pacto-historico-tras-su-presidencia-propone-ivan-cepeda-en-tunja-PP5250150A",
+      "url_label": "Pulzo — Cepeda en Tunja: Petro será jefe de la oposición"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Tiempo",
+      "fuente_color": "#e74c3c",
+      "fecha": "25 jul 2026",
+      "tag": "GABINETE · Banco de Talentos · 260.000 CV",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "Gobierno electo recibió más de 260.000 hojas de vida para el 'Banco de Talentos': De la Espriella acelera conformación del gabinete",
+      "resumen": "El equipo de transición del presidente electo Abelardo de la Espriella informó el 25 de julio que el 'Banco de Talentos' recibió más de 260.000 hojas de vida de colombianos interesados en sumarse a la administración 2026-2030. De la Espriella señaló que el equipo revisará perfiles y experiencia para los cargos pendientes. Aún faltan por definir cuatro ministerios: Salud, Trabajo, Cultura y Ciencia. El vicepresidente electo José Manuel Restrepo calificó la respuesta como 'muestra del entusiasmo ciudadano con el cambio'.",
+      "objetividad": 90,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Más de 260.000 CV recibidos — El Tiempo (25 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "4 ministerios sin titular confirmados: Salud, Trabajo, Cultura, Ciencia"
+        },
+        {
+          "ok": false,
+          "texto": "Plazos de designación de los 4 ministerios restantes no informados"
+        }
+      ],
+      "url": "https://www.eltiempo.com/amp/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hoy-25-de-julio-minuto-a-minuto-de-las-decisiones-sobre-el-gabinete-el-empalme-y-la-transicion-presidencial-3573780",
+      "url_label": "El Tiempo — De la Espriella: más de 260.000 CV para el Banco de Talentos"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "La FM",
+      "fuente_color": "#e74c3c",
+      "fecha": "25 jul 2026",
+      "tag": "POSESIÓN · Costo $5.900M · Ceremonia",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "Revelan el costo de la posesión de De la Espriella: supera los $5.900 millones de pesos",
+      "resumen": "Se revelaron el 25 de julio los contratos para la ceremonia de posesión del presidente electo Abelardo de la Espriella el 7 de agosto en el Cauca: superan los $5.900 millones de pesos. El vicepresidente electo José Manuel Restrepo había calificado el evento de 'simple y austero', por lo que la cifra generó debate en redes sociales y críticas de la oposición. Los contratos cubren logística, seguridad y adecuación del espacio en la sede del Cauca donde se realizará el acto.",
+      "objetividad": 88,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Costo supera $5.900 millones — La FM (25 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Restrepo calificó el evento como 'simple y austero' — verificado"
+        },
+        {
+          "ok": false,
+          "texto": "Desglose detallado de contratos no publicado"
+        }
+      ],
+      "url": "https://www.lafm.com.co/politica/posesion-abelardo-de-la-espriella-precio-contratos-ceremonia-7-de-agosto-2026-405959",
+      "url_label": "La FM — Revelan costo de la posesión de De la Espriella: supera $5.900 millones"
+    },
+    {
       "filter": "espriella",
       "fuente": "Infobae",
       "fuente_color": "#e74c3c",
@@ -191,7 +275,7 @@
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
       "titulo": "De la Espriella celebra aprobación de posesión en Cauca: 'Acuerdos por la patria, acuerdos para los ciudadanos'",
-      "resumen": "El presidente electo Abelardo de la Espriella celebró el 23 de julio la aprobación del Senado (55-32) para trasladar la sede del Congreso al Cauca, donde tomará posesión el 7 de agosto. En X escribió: 'El Senado de la República, en ejercicio de su autonomía, votó para aprobar la posesión en Popayán, en la Casa de los Héroes de la Patria'. Persiste la incertidumbre sobre si el acto será en la Casa de los Héroes o en una guarnición militar del Cauca, pues el gobierno Petro advirtió que una base militar requiere aprobación adicional del Congreso.",
+      "resumen": "El presidente electo Abelardo de la Espriella celebró el 23 de julio la aprobación del Senado (55-32) para trasladar la sede del Congreso al Cauca, donde tomará posesión el 7 de agosto. En X escribió: 'El Senado de la República, en ejercicio de su autonomía, votó para aprobar la posesión en Popayán, en la Casa de los Héroes de la Patria'. Persiste la incertidumbre sobre si el acto será en la Casa de los Héroes o en una guarnición militar del Cauca. La Cámara de Representantes debatirá la proposición el 27 de julio.",
       "objetividad": 92,
       "criterios": [
         {
@@ -204,7 +288,7 @@
         },
         {
           "ok": false,
-          "texto": "Sede definitiva (Casa de los Héroes vs. batallón) aún sin confirmar oficialmente"
+          "texto": "Cámara aún pendiente de votar el 27 jul — sede definitiva sin confirmar"
         }
       ],
       "url": "https://www.elheraldo.co/colombia/2026/07/23/de-la-espriella-celebra-aprobacion-de-la-posesion-en-cauca-acuerdos-por-la-patria-acuerdos-para-los-ciudadanos/",
@@ -237,102 +321,6 @@
       ],
       "url": "https://www.vanguardia.com/colombia/2026/07/23/rafael-nieto-condiciona-su-asistencia-a-la-posesion-de-de-la-espriella-no-ira-si-el-acto-es-en-un-batallon/",
       "url_label": "Vanguardia — Nieto no irá si posesión es en un batallón"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae / Semana / Vanguardia",
-      "fuente_color": "#e74c3c",
-      "fecha": "22 jul 2026",
-      "tag": "POSESIÓN · Senado aprueba Cauca · 55 a 32",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Senado aprueba posesión de De la Espriella en el Cauca: 55 votos a favor, 32 en contra",
-      "resumen": "El pleno del Senado aprobó el 22 de julio la proposición para trasladar de manera extraordinaria la sede del Congreso al departamento del Cauca, permitiendo que el 7 de agosto el pleno del Congreso se reúna allí para dar posesión al presidente electo Abelardo de la Espriella. La votación fue de 55 votos a favor y 32 en contra. La decisión abre la posibilidad de que la ceremonia se realice en una guarnición militar en el Cauca, aunque la sede definitiva aún no ha sido revelada públicamente. La propuesta debe ser estudiada también por la Cámara de Representantes. El mismo 22 de julio, De la Espriella designó varios de sus funcionarios para representar a Colombia en la posesión del presidente peruano Kenji Fujimori.",
-      "objetividad": 95,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Senado aprobó traslado al Cauca: 55 a 32 — Infobae, Semana, Vanguardia (22 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Proposición radicada el 20 jul, aprobada el 22 jul en pleno"
-        },
-        {
-          "ok": true,
-          "texto": "De la Espriella designó funcionarios para posesión Fujimori — El Tiempo (22 jul)"
-        },
-        {
-          "ok": false,
-          "texto": "Sede definitiva en el Cauca aún no revelada públicamente"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/07/22/senado-dio-luz-verde-para-que-la-posesion-presidencial-de-abelardo-de-la-espriella-se-realice-en-cauca-sera-en-sede-militar/",
-      "url_label": "Infobae — Senado aprueba posesión de De la Espriella en el Cauca"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "El Universal / Infobae",
-      "fuente_color": "#2980b9",
-      "fecha": "22 jul 2026",
-      "tag": "Cepeda · Acto político Barranquilla · 7 de agosto",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda encabezará acto político en Barranquilla el 7 de agosto, mismo día de la posesión de De la Espriella",
-      "resumen": "El senador Iván Cepeda anunció el 22 de julio que encabezará un acto político en Barranquilla el 7 de agosto, el mismo día de la posesión presidencial de Abelardo de la Espriella. El acto es la primera acción concreta de su estrategia de 'desobediencia civil': Cepeda ratificó que no asistirá a la posesión y que organizará eventos alternativos como forma de oposición pacífica. El evento en Barranquilla es la acción inaugural del proyecto opositor que Cepeda liderará desde el Senado como jefe del Pacto Histórico (26 curules).",
-      "objetividad": 93,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Cepeda anuncia acto en Barranquilla el 7 ago — El Universal (22 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Ratifica desobediencia civil y no asistirá a posesión — Infobae (17 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Lidera Pacto Histórico: 26 curules en el Senado 2026-2030"
-        },
-        {
-          "ok": false,
-          "texto": "Sede y asistentes del acto en Barranquilla pendientes de confirmar"
-        }
-      ],
-      "url": "https://www.eluniversal.com.co/colombia/2026/07/22/cepeda-reitero-que-no-asistira-a-la-posesion-de-abelardo-encabezara-acto-politico-en-barranquilla/",
-      "url_label": "El Universal — Cepeda encabezará acto político en Barranquilla el 7 de agosto"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae / Semana / El Colombiano",
-      "fuente_color": "#e74c3c",
-      "fecha": "21 jul 2026",
-      "tag": "NULIDAD · Petro divulga demanda · Consejo de Estado",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "Petro publica demanda de nulidad electoral contra la elección de De la Espriella: alega 'inverificabilidad estructural' del proceso",
-      "resumen": "El presidente Gustavo Petro publicó el 21 de julio una demanda de nulidad electoral de 61 páginas contra la elección de Abelardo De la Espriella y José Manuel Restrepo como presidente y vicepresidente, presentada ante la Sección Quinta del Consejo de Estado. La demanda, fechada el 17 de julio y respaldada según Petro por más de 70.000 ciudadanos, busca anular la Resolución E-3181 del 24 de junio del CNE. La acción judicial no alega fraude electoral sino 'inverificabilidad estructural' del proceso, basada en el trabajo de 'testigos digitales' que habrían detectado irregularidades en los metadatos del software de escrutinio. Constitucionalistas señalan que la demanda no suspende la posesión del 7 de agosto.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Petro publicó demanda el 21 jul — Infobae, Semana, El Colombiano"
-        },
-        {
-          "ok": true,
-          "texto": "61 páginas, ante Sección Quinta del Consejo de Estado — verificado"
-        },
-        {
-          "ok": true,
-          "texto": "No alega fraude sino 'inverificabilidad estructural' — El Colombiano (21 jul)"
-        },
-        {
-          "ok": false,
-          "texto": "Demanda aún no admitida por el Consejo de Estado — pendiente de trámite"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/07/21/petro-publica-demanda-que-busca-tumbar-eleccion-de-abelardo-de-la-espriella/",
-      "url_label": "Infobae — Petro publica demanda que busca tumbar elección de De la Espriella"
     }
   ],
   "sentimiento": {
@@ -340,20 +328,20 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 66,
-        "negativo": 25,
+        "positivo": 65,
+        "negativo": 26,
         "neutro": 9,
         "tendencia": "down",
-        "tendencia_texto": "25 jul — LEGALIDAD EN CUESTIÓN: Abogado de Petro pidió a la Procuraduría intervenir en la posesión del 7 de agosto en guarnición militar, argumentando vulneración del principio de separación civil-militar. POSESIÓN EN CAUCA: aprobada por el Senado (55-32 el 22 jul); cámara pendiente de ratificar. FISURA CD (23 jul): Nieto condiciona asistencia si la sede es un batallón. Sentimiento baja levemente (68→66): cuestionamientos jurídicos se acumulan aunque no detienen la posesión."
+        "tendencia_texto": "26 jul — BANCO DE TALENTOS (25 jul): 260.000 CV recibidos; gobierno electo evalúa perfiles para los 4 ministerios sin titular (Salud, Trabajo, Cultura, Ciencia). COSTO POSESIÓN (25 jul): $5.900 millones generan debate — Restrepo la había llamado 'austera'. CÁMARA VOTA MAÑANA (27 jul): pendiente ratificación del traslado al Cauca. CUESTIONAMIENTO JURÍDICO (25 jul): abogado Petro pidió a Procuraduría intervenir — sin efecto práctico sobre el 7 de agosto. Sentimiento baja levemente (66→65): costo posesión suma ruido mediático a los cuestionamientos jurídicos acumulados."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 24,
-        "negativo": 56,
+        "positivo": 25,
+        "negativo": 55,
         "neutro": 20,
         "tendencia": "up",
-        "tendencia_texto": "25 jul — PROYECTO 2030 (24 jul): Cepeda desde Valledupar anunció que Petro presidirá el Pacto Histórico y 'serán Gobierno en 2030', consolidando la narrativa opositora de mediano plazo. BARRANQUILLA (22 jul): ratificó acto político el 7 agosto en paralelo a la posesión. SENADOR ACTIVO (20 jul): lidera Pacto Histórico (26 curules). Sentimiento leve mejora (22→24): propuesta de Gobierno 2030 genera expectativas en la base petrista."
+        "tendencia_texto": "26 jul — TUNJA (26 jul): Cepeda apoyó candidatos del Pacto Histórico en elecciones atípicas de Boyacá, consolidando la red territorial opositora. PROYECTO 2030 (24 jul): Petro presidirá el PH como partido de oposición; Cepeda reitera la narrativa 'serán Gobierno en 2030'. BARRANQUILLA (22 jul): acto político confirmado para el 7 ago en paralelo a la posesión. Sentimiento mejora levemente (24→25): actividad territorial refuerza el perfil de opositor activo."
       },
       {
         "nombre": "Valencia",
@@ -361,8 +349,8 @@
         "positivo": 65,
         "negativo": 20,
         "neutro": 15,
-        "tendencia": "up",
-        "tendencia_texto": "25 jul — PROPIEDAD PRIVADA (23 jul): Valencia denunció con fuerza el Decreto 0765 de Petro que otorga a la ANT poderes de posesión de tierras 'saltándose jueces y registradores', con plazo hasta hoy 25 jul. Mantiene su rol como voz opositora y defensora de garantías constitucionales fuera del Senado. Sentimiento sube (63→65): denuncia del decreto refuerza su imagen de defensora de la propiedad privada."
+        "tendencia": "stable",
+        "tendencia_texto": "26 jul — Sin noticias mayores nuevas hoy para Valencia. DECRETO 0765 (23 jul): su denuncia sobre la amenaza a la propiedad privada sigue siendo el tema poselectoral más resonante de la excandidata. Mantiene perfil activo en redes sociales y medios especializados. Sentimiento estable (65): sin eventos que muevan la aguja en la jornada."
       }
     ]
   },
@@ -388,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "TRANSICIÓN EN MARCHA — 25 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). CONTROVERSIA JURÍDICA (25 jul): Abogado de Petro pidió a la Procuraduría intervenir en posesión en guarnición militar — no detiene el 7 de agosto. POSESIÓN EN CAUCA (22 jul): Senado aprobó 55-32; Cámara pendiente. CEPEDA EN BARRANQUILLA (24 jul): confirmó acto político el 7 ago, prometió 'serán Gobierno en 2030'. VALENCIA (23 jul): denuncia decreto Petro que amenaza propiedad privada. CD GANÓ SENADO (20 jul). POSESIÓN PRESIDENCIAL: 7 de agosto de 2026 en Cauca."
+    "resumen_analisis": "TRANSICIÓN EN MARCHA — 26 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). BANCO DE TALENTOS (25 jul): 260.000 CV recibidos; 4 ministerios aún sin definir. COSTO POSESIÓN (25 jul): $5.900 millones generan debate. CÁMARA VOTA MAÑANA (27 jul): pendiente ratificación del traslado al Cauca. CEPEDA EN TUNJA (26 jul): campaña territorial para elecciones atípicas en Boyacá, consolida oposición. ACTO BARRANQUILLA (7 ago): confirmado en paralelo a posesión. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026 en el Cauca."
   },
-  "ultimo_deploy": "25 de julio de 2026"
+  "ultimo_deploy": "26 de julio de 2026"
 }
