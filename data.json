@@ -1,5 +1,5 @@
 {
-  "fecha": "26 de julio de 2026",
+  "fecha": "27 de julio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -99,6 +99,34 @@
   ],
   "noticias": [
     {
+      "filter": "espriella",
+      "fuente": "Vanguardia",
+      "fuente_color": "#e74c3c",
+      "fecha": "27 jul 2026",
+      "tag": "POSESIÓN · CALI vs POPAYÁN · Giro de última hora",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella pide al Congreso trasladar posesión de Popayán a Cali por 'condiciones climáticas'",
+      "resumen": "En un giro de última hora, el presidente electo Abelardo de la Espriella solicitó el 27 de julio al Congreso que cambie la sede de su posesión del 7 de agosto: ya no sería en Popayán (Cauca) —que el Senado aprobó 55-32 el 22 de julio— sino en Cali. El argumento oficial es que las condiciones climáticas en Popayán comprometen la logística del evento. La solicitud llega apenas días antes de la ceremonia y reabre el debate sobre la sede definitiva, que deberá ser aprobada por la Cámara de Representantes. La oposición calificó el cambio de 'improvisación' e incoherencia dado que el propio equipo de transición había promovido la elección de Popayán.",
+      "objetividad": 90,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Solicitud de cambio a Cali confirmada — Vanguardia (27 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Senado aprobó Popayán el 22 jul (55-32) — verificado múltiples fuentes"
+        },
+        {
+          "ok": false,
+          "texto": "Cámara aún debe votar el cambio — resultado pendiente"
+        }
+      ],
+      "url": "https://www.vanguardia.com/colombia/2026/07/27/de-la-espriella-le-pide-al-congreso-que-su-posesion-sea-en-cali-y-no-en-popayan-por-condiciones-climaticas/",
+      "url_label": "Vanguardia — De la Espriella pide posesión en Cali, no en Popayán"
+    },
+    {
       "filter": "cepeda",
       "fuente": "Semana / Pulzo",
       "fuente_color": "#2980b9",
@@ -125,6 +153,34 @@
       ],
       "url": "https://www.pulzo.com/nacion/gustavo-petro-podria-liderar-el-pacto-historico-tras-su-presidencia-propone-ivan-cepeda-en-tunja-PP5250150A",
       "url_label": "Pulzo — Cepeda en Tunja: Petro será jefe de la oposición"
+    },
+    {
+      "filter": "valencia",
+      "fuente": "El Dinamo",
+      "fuente_color": "#9b59b6",
+      "fecha": "26 jul 2026",
+      "tag": "Valencia · Perfil · Post-campaña",
+      "tag_color": "#8e44ad",
+      "tag_bg": "rgba(142,68,173,0.12)",
+      "titulo": "Perfil: 'Paloma Valencia, la mujer que decidió dar la batalla' — su futuro político tras dejar el Senado y la candidatura",
+      "resumen": "El medio El Dinamo publicó el 26 de julio un perfil extenso sobre Paloma Valencia, quien el 20 de julio dejó el Senado tras tres períodos consecutivos. El análisis destaca su trayectoria como defensora del uribismo y su candidatura presidencial en 2026, en la que obtuvo 1.638.338 votos (6,92%) en primera vuelta. Valencia ya había anunciado el 16 de julio que el Centro Democrático 'se ganó' la Presidencia del Senado y exigió que 'se la respeten'. El perfil señala que la excandidata continúa activa en política y articula el rol del CD en la coalición de gobierno De la Espriella.",
+      "objetividad": 88,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Perfil publicado en El Dinamo el 26 jul — verificado"
+        },
+        {
+          "ok": true,
+          "texto": "Valencia dejó el Senado el 20 jul tras tres términos — confirmado"
+        },
+        {
+          "ok": false,
+          "texto": "Cargo o rol definitivo de Valencia en la nueva administración sin confirmar"
+        }
+      ],
+      "url": "https://www.eldinamo.cl/mujeres-d/2026/07/26/paloma-valencia-la-mujer-que-decidio-dar-la-batalla/",
+      "url_label": "El Dinamo — Paloma Valencia: la mujer que decidió dar la batalla"
     },
     {
       "filter": "espriella",
@@ -212,31 +268,31 @@
     },
     {
       "filter": "cepeda",
-      "fuente": "Semana / Infobae",
+      "fuente": "Infobae",
       "fuente_color": "#2980b9",
-      "fecha": "24 jul 2026",
-      "tag": "Cepeda · Petro 2030 · Valledupar",
+      "fecha": "22 jul 2026",
+      "tag": "Cepeda · Desobediencia civil · 7 de agosto",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda desde Valledupar: Petro liderará el Pacto Histórico y 'serán Gobierno en 2030'",
-      "resumen": "El senador Iván Cepeda reveló el 24 de julio desde Valledupar el papel que desempeñará Gustavo Petro tras dejar la Casa de Nariño el 7 de agosto: presidirá el Pacto Histórico como partido de oposición con miras a las elecciones de 2030. Cepeda afirmó que el progresismo colombiano 'obedece la voluntad del pueblo' y declaró que 'serán Gobierno en 2030'. El senador reafirmó que no asistirá a la posesión de Abelardo de la Espriella.",
-      "objetividad": 91,
+      "titulo": "Cepeda convoca acto de 'desobediencia civil' en Barranquilla el 7 de agosto, paralelo a la posesión de De la Espriella",
+      "resumen": "El senador Iván Cepeda anunció el 22 de julio que encabezará un acto político en Barranquilla el 7 de agosto, a la misma hora en que Abelardo de la Espriella tome posesión como presidente. Cepeda calificó el evento de 'desobediencia civil' y ratificó que no reconoce la legitimidad del proceso electoral ni asistirá a la ceremonia de investidura. Invitó a ciudadanos y fuerzas del Pacto Histórico a acompañarle en lo que llama 'la jornada inaugural de la oposición'. Eligió Barranquilla por ser la ciudad donde el PH obtuvo mayor respaldo en segunda vuelta.",
+      "objetividad": 92,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaración de Cepeda en Valledupar el 24 jul — Semana"
+          "texto": "Anuncio del acto en Barranquilla el 7 ago — Infobae (22 jul)"
         },
         {
           "ok": true,
-          "texto": "Cita 'serán Gobierno en 2030' verificada"
+          "texto": "Cepeda no reconoce legitimidad electoral — reiterado desde jun 2026"
         },
         {
           "ok": false,
-          "texto": "Respuesta de Petro a la propuesta no confirmada"
+          "texto": "Convocatoria ciudadana aún no cuantificada — pendiente"
         }
       ],
-      "url": "https://www.semana.com/politica/articulo/ivan-cepeda-revelo-el-papel-que-tendra-gustavo-petro-luego-del-7-de-agosto-y-afirmo-que-seran-gobierno-en-2030/202638/",
-      "url_label": "Semana — Cepeda: Petro liderará Pacto Histórico y 'serán Gobierno en 2030'"
+      "url": "https://www.infobae.com/colombia/2026/07/22/ivan-cepeda-realizara-acto-publico-en-barranquilla-el-7-de-agosto-paralelo-a-la-posesion-de-abelardo-de-la-espriella-desobediencia-civil/",
+      "url_label": "Infobae — Cepeda: acto de desobediencia civil en Barranquilla el 7 de agosto"
     },
     {
       "filter": "valencia",
@@ -265,62 +321,6 @@
       ],
       "url": "https://www.infobae.com/colombia/2026/07/23/paloma-valencia-alerto-que-un-decreto-del-gobierno-petro-pone-en-riesgo-la-propiedad-privada-en-colombia-saltarse-a-jueces-y-registradores/",
       "url_label": "Infobae — Valencia: decreto Petro pone en riesgo la propiedad privada"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Heraldo",
-      "fuente_color": "#e74c3c",
-      "fecha": "23 jul 2026",
-      "tag": "POSESIÓN · Cauca · 'Acuerdos por la patria'",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella celebra aprobación de posesión en Cauca: 'Acuerdos por la patria, acuerdos para los ciudadanos'",
-      "resumen": "El presidente electo Abelardo de la Espriella celebró el 23 de julio la aprobación del Senado (55-32) para trasladar la sede del Congreso al Cauca, donde tomará posesión el 7 de agosto. En X escribió: 'El Senado de la República, en ejercicio de su autonomía, votó para aprobar la posesión en Popayán, en la Casa de los Héroes de la Patria'. Persiste la incertidumbre sobre si el acto será en la Casa de los Héroes o en una guarnición militar del Cauca. La Cámara de Representantes debatirá la proposición el 27 de julio.",
-      "objetividad": 92,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "De la Espriella publicó mensaje en X sobre aprobación en Popayán — El Heraldo (23 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Senado aprobó traslado al Cauca: 55 a 32 — confirmado 22 jul"
-        },
-        {
-          "ok": false,
-          "texto": "Cámara aún pendiente de votar el 27 jul — sede definitiva sin confirmar"
-        }
-      ],
-      "url": "https://www.elheraldo.co/colombia/2026/07/23/de-la-espriella-celebra-aprobacion-de-la-posesion-en-cauca-acuerdos-por-la-patria-acuerdos-para-los-ciudadanos/",
-      "url_label": "El Heraldo — De la Espriella celebra posesión en Cauca"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Vanguardia",
-      "fuente_color": "#e74c3c",
-      "fecha": "23 jul 2026",
-      "tag": "CD · Nieto · Posesión en batallón",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.12)",
-      "titulo": "Rafael Nieto condiciona su asistencia a la posesión de De la Espriella: no irá si el acto es en un batallón",
-      "resumen": "El exsenador Rafael Nieto Loaiza (Centro Democrático) declaró el 23 de julio que condicionará su asistencia a la posesión presidencial del 7 de agosto: si la ceremonia se realiza en una guarnición o batallón militar, no asistirá. Nieto considera inapropiado que un acto civil y constitucional se celebre en recintos militares. La declaración evidencia una nueva fisura al interior del CD y la coalición de De la Espriella, luego de la tensión por el nombramiento de Rodrigo Lara como ministro del Interior.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Nieto condicionó asistencia si sede es un batallón — Vanguardia (23 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Tensión CD ya existente (Lara vs. partido) — confirmado por múltiples fuentes"
-        },
-        {
-          "ok": false,
-          "texto": "Impacto real en la coalición difícil de cuantificar por ahora"
-        }
-      ],
-      "url": "https://www.vanguardia.com/colombia/2026/07/23/rafael-nieto-condiciona-su-asistencia-a-la-posesion-de-de-la-espriella-no-ira-si-el-acto-es-en-un-batallon/",
-      "url_label": "Vanguardia — Nieto no irá si posesión es en un batallón"
     }
   ],
   "sentimiento": {
@@ -328,11 +328,11 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 65,
-        "negativo": 26,
+        "positivo": 62,
+        "negativo": 29,
         "neutro": 9,
         "tendencia": "down",
-        "tendencia_texto": "26 jul — BANCO DE TALENTOS (25 jul): 260.000 CV recibidos; gobierno electo evalúa perfiles para los 4 ministerios sin titular (Salud, Trabajo, Cultura, Ciencia). COSTO POSESIÓN (25 jul): $5.900 millones generan debate — Restrepo la había llamado 'austera'. CÁMARA VOTA MAÑANA (27 jul): pendiente ratificación del traslado al Cauca. CUESTIONAMIENTO JURÍDICO (25 jul): abogado Petro pidió a Procuraduría intervenir — sin efecto práctico sobre el 7 de agosto. Sentimiento baja levemente (66→65): costo posesión suma ruido mediático a los cuestionamientos jurídicos acumulados."
+        "tendencia_texto": "27 jul — CALI vs POPAYÁN (27 jul): De la Espriella pidió al Congreso mover la posesión de Popayán a Cali por 'condiciones climáticas', apenas 5 días después de que el Senado aprobara Popayán (55-32). La oposición calificó el cambio de improvisación. BANCO DE TALENTOS (25 jul): 260.000 CV; 4 ministerios sin titular (Salud, Trabajo, Cultura, Ciencia). COSTO POSESIÓN (25 jul): $5.900 millones generan debate. CUESTIONAMIENTO JURÍDICO (25 jul): abogado Petro pidió a Procuraduría intervenir. Sentimiento baja levemente (65→62): el cambio de sede a última hora suma confusión a la ya cuestionada logística de la posesión."
       },
       {
         "nombre": "Cepeda",
@@ -340,8 +340,8 @@
         "positivo": 25,
         "negativo": 55,
         "neutro": 20,
-        "tendencia": "up",
-        "tendencia_texto": "26 jul — TUNJA (26 jul): Cepeda apoyó candidatos del Pacto Histórico en elecciones atípicas de Boyacá, consolidando la red territorial opositora. PROYECTO 2030 (24 jul): Petro presidirá el PH como partido de oposición; Cepeda reitera la narrativa 'serán Gobierno en 2030'. BARRANQUILLA (22 jul): acto político confirmado para el 7 ago en paralelo a la posesión. Sentimiento mejora levemente (24→25): actividad territorial refuerza el perfil de opositor activo."
+        "tendencia": "stable",
+        "tendencia_texto": "27 jul — Sin noticias nuevas de Cepeda hoy. TUNJA (26 jul): respaldó candidatos del Pacto Histórico en elecciones atípicas de Boyacá, consolidando red territorial opositora. BARRANQUILLA 7 AGO (22 jul): acto de 'desobediencia civil' confirmado para el 7 de agosto en paralelo a la posesión de De la Espriella. PROYECTO 2030 (24 jul): Petro presidirá el PH como partido de oposición. Sentimiento estable (25): perfil de opositor activo se consolida sin grandes variaciones esta jornada."
       },
       {
         "nombre": "Valencia",
@@ -350,7 +350,7 @@
         "negativo": 20,
         "neutro": 15,
         "tendencia": "stable",
-        "tendencia_texto": "26 jul — Sin noticias mayores nuevas hoy para Valencia. DECRETO 0765 (23 jul): su denuncia sobre la amenaza a la propiedad privada sigue siendo el tema poselectoral más resonante de la excandidata. Mantiene perfil activo en redes sociales y medios especializados. Sentimiento estable (65): sin eventos que muevan la aguja en la jornada."
+        "tendencia_texto": "27 jul — PERFIL EL DINAMO (26 jul): amplio perfil post-campaña destacó su 'batalla' política durante tres períodos en el Senado y su candidatura presidencial. Dejó el Senado el 20 de julio tras doce años. PRESIDENCIA CD (16 jul): exigió que el Centro Democrático sea reconocido como jefe de debates del Senado en el nuevo Congreso, dada su votación. DECRETO 0765 (23 jul): su denuncia sobre el riesgo a la propiedad privada sigue siendo resonante. Sentimiento estable (65): reconocimiento mediático post-campaña mantiene perfil positivo sin novedades que lo muevan."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "TRANSICIÓN EN MARCHA — 26 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). BANCO DE TALENTOS (25 jul): 260.000 CV recibidos; 4 ministerios aún sin definir. COSTO POSESIÓN (25 jul): $5.900 millones generan debate. CÁMARA VOTA MAÑANA (27 jul): pendiente ratificación del traslado al Cauca. CEPEDA EN TUNJA (26 jul): campaña territorial para elecciones atípicas en Boyacá, consolida oposición. ACTO BARRANQUILLA (7 ago): confirmado en paralelo a posesión. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026 en el Cauca."
+    "resumen_analisis": "TRANSICIÓN EN MARCHA — 27 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). GIRO POSESIÓN (27 jul): De la Espriella pidió mover la sede de Popayán a Cali por 'condiciones climáticas', días después de que el Senado aprobara Popayán (55-32); la Cámara debe ratificar el nuevo cambio. BANCO DE TALENTOS (25 jul): 260.000 CV; 4 ministerios sin definir. COSTO POSESIÓN (25 jul): $5.900 millones generan debate. CEPEDA EN TUNJA (26 jul): campaña territorial para elecciones atípicas en Boyacá, consolida oposición. ACTO BARRANQUILLA (7 ago): desobediencia civil confirmada en paralelo a posesión. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026."
   },
-  "ultimo_deploy": "26 de julio de 2026"
+  "ultimo_deploy": "27 de julio de 2026"
 }
