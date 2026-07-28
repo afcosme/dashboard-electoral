@@ -1,5 +1,5 @@
 {
-  "fecha": "27 de julio de 2026",
+  "fecha": "28 de julio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,31 +100,31 @@
   "noticias": [
     {
       "filter": "espriella",
-      "fuente": "Vanguardia",
+      "fuente": "El Espectador / Infobae",
       "fuente_color": "#e74c3c",
-      "fecha": "27 jul 2026",
-      "tag": "POSESIÓN · CALI vs POPAYÁN · Giro de última hora",
+      "fecha": "28 jul 2026",
+      "tag": "POSESIÓN · Cámara vota HOY · Cali vs Cauca",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella pide al Congreso trasladar posesión de Popayán a Cali por 'condiciones climáticas'",
-      "resumen": "En un giro de última hora, el presidente electo Abelardo de la Espriella solicitó el 27 de julio al Congreso que cambie la sede de su posesión del 7 de agosto: ya no sería en Popayán (Cauca) —que el Senado aprobó 55-32 el 22 de julio— sino en Cali. El argumento oficial es que las condiciones climáticas en Popayán comprometen la logística del evento. La solicitud llega apenas días antes de la ceremonia y reabre el debate sobre la sede definitiva, que deberá ser aprobada por la Cámara de Representantes. La oposición calificó el cambio de 'improvisación' e incoherencia dado que el propio equipo de transición había promovido la elección de Popayán.",
-      "objetividad": 90,
+      "titulo": "Cámara de Representantes vota hoy el traslado de la posesión de Popayán a Cali",
+      "resumen": "El 28 de julio el Congreso retomó el debate sobre la sede de posesión de Abelardo de la Espriella: la Cámara tiene plenaria programada para hoy en la que decidirá si autoriza el traslado a Cali; el Senado también deberá votar nuevamente, pues su autorización previa (55-32 del 22 jul) cubría el Cauca en general, no específicamente Cali. El argumento oficial: el volcán Puracé ha mantenido cerrado el aeropuerto de Popayán más de un tercio del tiempo en las últimas semanas, complicando la llegada de delegaciones internacionales. La decisión de ambas cámaras determinará la sede definitiva para la ceremonia del 7 de agosto.",
+      "objetividad": 93,
       "criterios": [
         {
           "ok": true,
-          "texto": "Solicitud de cambio a Cali confirmada — Vanguardia (27 jul)"
+          "texto": "Cámara programa plenaria para hoy 28 jul — El Espectador, Infobae"
         },
         {
           "ok": true,
-          "texto": "Senado aprobó Popayán el 22 jul (55-32) — verificado múltiples fuentes"
+          "texto": "Senado también deberá votar nuevamente sobre el cambio — El Colombiano"
         },
         {
           "ok": false,
-          "texto": "Cámara aún debe votar el cambio — resultado pendiente"
+          "texto": "Resultado de la votación pendiente al cierre de esta edición"
         }
       ],
-      "url": "https://www.vanguardia.com/colombia/2026/07/27/de-la-espriella-le-pide-al-congreso-que-su-posesion-sea-en-cali-y-no-en-popayan-por-condiciones-climaticas/",
-      "url_label": "Vanguardia — De la Espriella pide posesión en Cali, no en Popayán"
+      "url": "https://www.elespectador.com/politica/posesion-de-abelardo-de-la-espriella-vuelve-al-congreso-el-debate-para-trasladarla-a-cali-noticias-hoy/",
+      "url_label": "El Espectador — Posesión de De la Espriella vuelve al Congreso: Cali o Cauca"
     },
     {
       "filter": "cepeda",
@@ -328,11 +328,11 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 62,
-        "negativo": 29,
-        "neutro": 9,
+        "positivo": 60,
+        "negativo": 30,
+        "neutro": 10,
         "tendencia": "down",
-        "tendencia_texto": "27 jul — CALI vs POPAYÁN (27 jul): De la Espriella pidió al Congreso mover la posesión de Popayán a Cali por 'condiciones climáticas', apenas 5 días después de que el Senado aprobara Popayán (55-32). La oposición calificó el cambio de improvisación. BANCO DE TALENTOS (25 jul): 260.000 CV; 4 ministerios sin titular (Salud, Trabajo, Cultura, Ciencia). COSTO POSESIÓN (25 jul): $5.900 millones generan debate. CUESTIONAMIENTO JURÍDICO (25 jul): abogado Petro pidió a Procuraduría intervenir. Sentimiento baja levemente (65→62): el cambio de sede a última hora suma confusión a la ya cuestionada logística de la posesión."
+        "tendencia_texto": "28 jul — CÁMARA VOTA HOY (28 jul): plenaria de la Cámara de Representantes decide si traslada la posesión de Popayán a Cali; Senado también deberá votar nuevamente. Argumento oficial: el volcán Puracé ha cerrado el aeropuerto de Popayán más de un tercio del tiempo en las últimas semanas. CALI vs POPAYÁN (27 jul): el giro de última hora generó críticas de 'improvisación'. BANCO DE TALENTOS (25 jul): 260.000 CV; 4 ministerios sin titular (Salud, Trabajo, Cultura, Ciencia). COSTO POSESIÓN (25 jul): $5.900 millones generan debate. Sentimiento baja levemente (62→60): la controversia de la sede acumula ya tres días dominando la agenda y erosiona levemente la imagen de organización del equipo de transición."
       },
       {
         "nombre": "Cepeda",
@@ -341,7 +341,7 @@
         "negativo": 55,
         "neutro": 20,
         "tendencia": "stable",
-        "tendencia_texto": "27 jul — Sin noticias nuevas de Cepeda hoy. TUNJA (26 jul): respaldó candidatos del Pacto Histórico en elecciones atípicas de Boyacá, consolidando red territorial opositora. BARRANQUILLA 7 AGO (22 jul): acto de 'desobediencia civil' confirmado para el 7 de agosto en paralelo a la posesión de De la Espriella. PROYECTO 2030 (24 jul): Petro presidirá el PH como partido de oposición. Sentimiento estable (25): perfil de opositor activo se consolida sin grandes variaciones esta jornada."
+        "tendencia_texto": "28 jul — Sin noticias nuevas de Cepeda hoy. TUNJA (26 jul): respaldó candidatos del Pacto Histórico en elecciones atípicas de Boyacá, consolidando red territorial opositora. BARRANQUILLA 7 AGO (22 jul): acto de 'desobediencia civil' confirmado para el 7 de agosto en paralelo a la posesión de De la Espriella. PROYECTO 2030: Petro presidirá el PH como partido de oposición. Sentimiento estable (25): perfil de opositor activo se consolida sin grandes variaciones."
       },
       {
         "nombre": "Valencia",
@@ -350,7 +350,7 @@
         "negativo": 20,
         "neutro": 15,
         "tendencia": "stable",
-        "tendencia_texto": "27 jul — PERFIL EL DINAMO (26 jul): amplio perfil post-campaña destacó su 'batalla' política durante tres períodos en el Senado y su candidatura presidencial. Dejó el Senado el 20 de julio tras doce años. PRESIDENCIA CD (16 jul): exigió que el Centro Democrático sea reconocido como jefe de debates del Senado en el nuevo Congreso, dada su votación. DECRETO 0765 (23 jul): su denuncia sobre el riesgo a la propiedad privada sigue siendo resonante. Sentimiento estable (65): reconocimiento mediático post-campaña mantiene perfil positivo sin novedades que lo muevan."
+        "tendencia_texto": "28 jul — Sin noticias nuevas de Valencia hoy. PERFIL EL DINAMO (26 jul): amplio perfil post-campaña destacó su 'batalla' política durante tres períodos en el Senado y su candidatura presidencial. Dejó el Senado el 20 de julio tras doce años. PRESIDENCIA CD (16 jul): exigió que el Centro Democrático sea reconocido como jefe de debates del Senado en el nuevo Congreso. DECRETO 0765 (23 jul): su denuncia sobre el riesgo a la propiedad privada sigue siendo resonante. Sentimiento estable (65): reconocimiento mediático post-campaña mantiene perfil positivo."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "TRANSICIÓN EN MARCHA — 27 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). GIRO POSESIÓN (27 jul): De la Espriella pidió mover la sede de Popayán a Cali por 'condiciones climáticas', días después de que el Senado aprobara Popayán (55-32); la Cámara debe ratificar el nuevo cambio. BANCO DE TALENTOS (25 jul): 260.000 CV; 4 ministerios sin definir. COSTO POSESIÓN (25 jul): $5.900 millones generan debate. CEPEDA EN TUNJA (26 jul): campaña territorial para elecciones atípicas en Boyacá, consolida oposición. ACTO BARRANQUILLA (7 ago): desobediencia civil confirmada en paralelo a posesión. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026."
+    "resumen_analisis": "TRANSICIÓN EN MARCHA — 28 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). CÁMARA VOTA HOY (28 jul): la plenaria de la Cámara decide si aprueba el traslado de la posesión de Popayán a Cali; el Senado también deberá votar nuevamente. Argumento oficial: el volcán Puracé ha cerrado el aeropuerto de Popayán más de un tercio del tiempo en las últimas semanas. BANCO DE TALENTOS (25 jul): 260.000 CV; 4 ministerios sin definir (Salud, Trabajo, Cultura, Ciencia). CEPEDA EN TUNJA (26 jul): campaña territorial, consolida oposición. ACTO BARRANQUILLA (7 ago): desobediencia civil confirmada en paralelo a posesión. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026."
   },
-  "ultimo_deploy": "27 de julio de 2026"
+  "ultimo_deploy": "28 de julio de 2026"
 }
