@@ -1,5 +1,5 @@
 {
-  "fecha": "28 de julio de 2026",
+  "fecha": "29 de julio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,31 +100,31 @@
   "noticias": [
     {
       "filter": "espriella",
-      "fuente": "El Espectador / Infobae",
+      "fuente": "Semana / Publimetro / El Colombiano",
       "fuente_color": "#e74c3c",
-      "fecha": "28 jul 2026",
-      "tag": "POSESIÓN · Cámara vota HOY · Cali vs Cauca",
+      "fecha": "29 jul 2026",
+      "tag": "POSESIÓN · SENADO VOTA HOY · Cali confirmada por Cámara",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Cámara de Representantes vota hoy el traslado de la posesión de Popayán a Cali",
-      "resumen": "El 28 de julio el Congreso retomó el debate sobre la sede de posesión de Abelardo de la Espriella: la Cámara tiene plenaria programada para hoy en la que decidirá si autoriza el traslado a Cali; el Senado también deberá votar nuevamente, pues su autorización previa (55-32 del 22 jul) cubría el Cauca en general, no específicamente Cali. El argumento oficial: el volcán Puracé ha mantenido cerrado el aeropuerto de Popayán más de un tercio del tiempo en las últimas semanas, complicando la llegada de delegaciones internacionales. La decisión de ambas cámaras determinará la sede definitiva para la ceremonia del 7 de agosto.",
-      "objetividad": 93,
+      "titulo": "Senado vota hoy la posesión de De la Espriella en Cali: Cámara ya aprobó con 117-7 el traslado desde Bogotá",
+      "resumen": "El 28 de julio la Cámara de Representantes aprobó con 117 votos a favor y 7 en contra el traslado de la posesión presidencial de Abelardo de la Espriella a Cali (Arena USC), rechazando además la propuesta del Pacto Histórico que pretendía bloquearlo (114-6 en contra). El Senado debe dar el 'pase definitivo' en la plenaria del miércoles 29 de julio para que Cali quede como sede oficial del 7 de agosto. Según Semana, el Senado sesiona hoy con mayoría favorable a la aprobación. Sería la primera posesión presidencial fuera del Congreso en Bogotá en la historia reciente de Colombia.",
+      "objetividad": 95,
       "criterios": [
         {
           "ok": true,
-          "texto": "Cámara programa plenaria para hoy 28 jul — El Espectador, Infobae"
+          "texto": "Cámara aprobó 117-7 el traslado a Cali el 28 jul — Publimetro, El Colombiano, Bloomberg Línea"
         },
         {
           "ok": true,
-          "texto": "Senado también deberá votar nuevamente sobre el cambio — El Colombiano"
+          "texto": "PH bloqueó propuesta alternativa 114-6 en contra — El País de Cali"
         },
         {
           "ok": false,
-          "texto": "Resultado de la votación pendiente al cierre de esta edición"
+          "texto": "Senado vota hoy — resultado pendiente al cierre de esta edición"
         }
       ],
-      "url": "https://www.elespectador.com/politica/posesion-de-abelardo-de-la-espriella-vuelve-al-congreso-el-debate-para-trasladarla-a-cali-noticias-hoy/",
-      "url_label": "El Espectador — Posesión de De la Espriella vuelve al Congreso: Cali o Cauca"
+      "url": "https://www.semana.com/politica/articulo/el-senado-dara-este-miercoles-el-pase-definitivo-a-abelardo-de-la-espriella-para-posesionarse-en-cali-un-escudo-antidrones-blindara-el-acto/202610/",
+      "url_label": "Semana — Senado da hoy el pase definitivo para posesión en Cali; escudo antidrones blindará el acto"
     },
     {
       "filter": "cepeda",
@@ -239,32 +239,32 @@
       "url_label": "La FM — Revelan costo de la posesión de De la Espriella: supera $5.900 millones"
     },
     {
-      "filter": "espriella",
-      "fuente": "Infobae",
-      "fuente_color": "#e74c3c",
-      "fecha": "25 jul 2026",
-      "tag": "POSESIÓN · Legal · Procuraduría",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.12)",
-      "titulo": "Abogado de Petro pide a la Procuraduría intervenir: cuestiona constitucionalidad de posesión de De la Espriella en guarnición militar",
-      "resumen": "Un abogado cercano al gobierno Petro publicó el 25 de julio un análisis jurídico cuestionando la constitucionalidad de realizar la posesión presidencial del 7 de agosto en una guarnición militar y solicitó formalmente la intervención de la Procuraduría General. Argumenta que la toma de posesión es un acto civil-constitucional y que celebrarlo en instalaciones castrenses vulnera el principio de separación entre el poder civil y las Fuerzas Militares. Constitucionalistas señalaron que el recurso no detiene la posesión del 7 de agosto.",
-      "objetividad": 88,
+      "filter": "cepeda",
+      "fuente": "El Heraldo / Infobae",
+      "fuente_color": "#2980b9",
+      "fecha": "29 jul 2026",
+      "tag": "Cepeda · Pacto Histórico · Viáticos Cali · Posesión",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Pacto Histórico radica en el Senado propuesta para que congresistas paguen sus propios viáticos a la posesión en Cali",
+      "resumen": "El 29 de julio el Pacto Histórico radicó en el Senado una proposición para que los congresistas que decidan asistir a la posesión de De la Espriella en Cali el 7 de agosto cubran sus propios gastos de desplazamiento, en lugar de que los pague el Congreso. La iniciativa busca presionar políticamente el debate sobre el costo del traslado de la ceremonia fuera de Bogotá. En paralelo, Infobae advirtió que Cepeda podría incurrir en una falta disciplinaria si no asiste a la sesión plenaria solemne del 7 de agosto: la Constitución obliga a los congresistas a estar presentes en las sesiones solemnes salvo causal justificada.",
+      "objetividad": 90,
       "criterios": [
         {
           "ok": true,
-          "texto": "Abogado cuestionó legalidad posesión en guarnición — Infobae (25 jul)"
+          "texto": "PH radicó proposición sobre viáticos en Senado el 29 jul — El Heraldo"
         },
         {
           "ok": true,
-          "texto": "Pidió intervención de la Procuraduría formalmente — verificado"
+          "texto": "Alerta disciplinaria a Cepeda por ausencia en sesión solemne — Infobae (23 jul)"
         },
         {
           "ok": false,
-          "texto": "Procuraduría no ha respondido aún — pendiente"
+          "texto": "Resultado del debate de la proposición viáticos pendiente"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/07/25/abogado-de-petro-cuestiono-la-legalidad-de-la-posesion-de-abelardo-de-la-espriella-en-una-guarnicion-militar-pidio-intervencion-de-la-procuraduria/",
-      "url_label": "Infobae — Abogado de Petro pide a la Procuraduría intervenir en la posesión"
+      "url": "https://www.elheraldo.co/politica/2026/07/29/pacto-historico-radico-proposicion-con-la-que-pretenden-que-congresistas-paguen-sus-viaticos-para-posesion-en-cali/",
+      "url_label": "El Heraldo — PH radica propuesta para que congresistas paguen viáticos a Cali"
     },
     {
       "filter": "cepeda",
@@ -328,11 +328,11 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 60,
-        "negativo": 30,
+        "positivo": 63,
+        "negativo": 27,
         "neutro": 10,
-        "tendencia": "down",
-        "tendencia_texto": "28 jul — CÁMARA VOTA HOY (28 jul): plenaria de la Cámara de Representantes decide si traslada la posesión de Popayán a Cali; Senado también deberá votar nuevamente. Argumento oficial: el volcán Puracé ha cerrado el aeropuerto de Popayán más de un tercio del tiempo en las últimas semanas. CALI vs POPAYÁN (27 jul): el giro de última hora generó críticas de 'improvisación'. BANCO DE TALENTOS (25 jul): 260.000 CV; 4 ministerios sin titular (Salud, Trabajo, Cultura, Ciencia). COSTO POSESIÓN (25 jul): $5.900 millones generan debate. Sentimiento baja levemente (62→60): la controversia de la sede acumula ya tres días dominando la agenda y erosiona levemente la imagen de organización del equipo de transición."
+        "tendencia": "up",
+        "tendencia_texto": "29 jul — CÁMARA APROBÓ CALI (28 jul): 117-7 a favor; PH intentó bloquearlo y fue rechazado 114-6. SENADO VOTA HOY (29 jul, miércoles): plenaria dará el pase definitivo para que la posesión del 7 ago sea en la Arena USC de Cali. Semana anticipa mayoría favorable. ESCUDO ANTIDRONES: la Policía blindará el acto en Cali. BANCO DE TALENTOS (25 jul): 260.000 CV; 4 ministerios aún sin titular (Salud, Trabajo, Cultura, Ciencia). Sentimiento sube (60→63): la aprobación de Cali por la Cámara disipa incertidumbre sobre la sede y mejora imagen de decisión del equipo de transición."
       },
       {
         "nombre": "Cepeda",
@@ -341,7 +341,7 @@
         "negativo": 55,
         "neutro": 20,
         "tendencia": "stable",
-        "tendencia_texto": "28 jul — Sin noticias nuevas de Cepeda hoy. TUNJA (26 jul): respaldó candidatos del Pacto Histórico en elecciones atípicas de Boyacá, consolidando red territorial opositora. BARRANQUILLA 7 AGO (22 jul): acto de 'desobediencia civil' confirmado para el 7 de agosto en paralelo a la posesión de De la Espriella. PROYECTO 2030: Petro presidirá el PH como partido de oposición. Sentimiento estable (25): perfil de opositor activo se consolida sin grandes variaciones."
+        "tendencia_texto": "29 jul — VIÁTICOS CALI (29 jul): el PH radicó en el Senado propuesta para que los congresistas paguen sus propios gastos de desplazamiento a la posesión en Cali — iniciativa de presión política. ALERTA DISCIPLINARIA: Infobae advirtió que Cepeda podría incurrir en falta si no asiste a la sesión solemne del 7 ago. BARRANQUILLA 7 AGO (22 jul): acto de 'desobediencia civil' confirmado en paralelo a la posesión. SENADO (22 jul): votó por Honorio Henríquez como presidente del Senado con apoyo del PH y el CD, generando polémica por 'diálogo'. Sentimiento estable (25): la presión con la propuesta de viáticos mantiene perfil opositor combativo."
       },
       {
         "nombre": "Valencia",
@@ -350,7 +350,7 @@
         "negativo": 20,
         "neutro": 15,
         "tendencia": "stable",
-        "tendencia_texto": "28 jul — Sin noticias nuevas de Valencia hoy. PERFIL EL DINAMO (26 jul): amplio perfil post-campaña destacó su 'batalla' política durante tres períodos en el Senado y su candidatura presidencial. Dejó el Senado el 20 de julio tras doce años. PRESIDENCIA CD (16 jul): exigió que el Centro Democrático sea reconocido como jefe de debates del Senado en el nuevo Congreso. DECRETO 0765 (23 jul): su denuncia sobre el riesgo a la propiedad privada sigue siendo resonante. Sentimiento estable (65): reconocimiento mediático post-campaña mantiene perfil positivo."
+        "tendencia_texto": "29 jul — Sin noticias nuevas de Valencia hoy. PERFIL EL DINAMO (26 jul): amplio perfil post-campaña destacó su trayectoria política y candidatura presidencial de 2026. Dejó el Senado el 20 de julio. PRESIDENCIA CD (16 jul): exigió que el Centro Democrático sea reconocido como jefe de debates del Senado en el nuevo Congreso. DECRETO 0765 (23 jul): su denuncia sobre el Decreto Petro de reforma agraria sigue resonando en medios. Sentimiento estable (65): alta visibilidad positiva post-campaña se mantiene."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "TRANSICIÓN EN MARCHA — 28 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). CÁMARA VOTA HOY (28 jul): la plenaria de la Cámara decide si aprueba el traslado de la posesión de Popayán a Cali; el Senado también deberá votar nuevamente. Argumento oficial: el volcán Puracé ha cerrado el aeropuerto de Popayán más de un tercio del tiempo en las últimas semanas. BANCO DE TALENTOS (25 jul): 260.000 CV; 4 ministerios sin definir (Salud, Trabajo, Cultura, Ciencia). CEPEDA EN TUNJA (26 jul): campaña territorial, consolida oposición. ACTO BARRANQUILLA (7 ago): desobediencia civil confirmada en paralelo a posesión. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026."
+    "resumen_analisis": "TRANSICIÓN EN MARCHA — 29 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). SEDE CALI CASI CONFIRMADA: Cámara aprobó traslado 117-7 el 28 jul; SENADO VOTA HOY (29 jul, 2pm) para dar el aval definitivo — mayoría favorable anticipada. ARENA USC CALI: primera posesión presidencial fuera de Bogotá en la historia reciente. ESCUDO ANTIDRONES: Policía blindará el evento el 7 ago. GABINETE: 14 de 18 ministerios confirmados; faltan Salud, Trabajo, Cultura y Ciencia. OPOSICIÓN (PH): radicó propuesta para que congresistas paguen viáticos a Cali; Cepeda organiza acto paralelo en Barranquilla el 7 ago. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026."
   },
-  "ultimo_deploy": "28 de julio de 2026"
+  "ultimo_deploy": "29 de julio de 2026"
 }
