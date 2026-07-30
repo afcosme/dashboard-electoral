@@ -1,5 +1,5 @@
 {
-  "fecha": "29 de julio de 2026",
+  "fecha": "30 de julio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,31 +100,143 @@
   "noticias": [
     {
       "filter": "espriella",
-      "fuente": "Semana / Publimetro / El Colombiano",
+      "fuente": "El Tiempo",
       "fuente_color": "#e74c3c",
-      "fecha": "29 jul 2026",
-      "tag": "POSESIÓN · SENADO VOTA HOY · Cali confirmada por Cámara",
+      "fecha": "30 jul 2026",
+      "tag": "ESPRIELLA · Política exterior · 'No saldré del país'",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Senado vota hoy la posesión de De la Espriella en Cali: Cámara ya aprobó con 117-7 el traslado desde Bogotá",
-      "resumen": "El 28 de julio la Cámara de Representantes aprobó con 117 votos a favor y 7 en contra el traslado de la posesión presidencial de Abelardo de la Espriella a Cali (Arena USC), rechazando además la propuesta del Pacto Histórico que pretendía bloquearlo (114-6 en contra). El Senado debe dar el 'pase definitivo' en la plenaria del miércoles 29 de julio para que Cali quede como sede oficial del 7 de agosto. Según Semana, el Senado sesiona hoy con mayoría favorable a la aprobación. Sería la primera posesión presidencial fuera del Congreso en Bogotá en la historia reciente de Colombia.",
+      "titulo": "De la Espriella: 'No saldré del país durante mi gobierno' — Cali se alista a 8 días de la posesión",
+      "resumen": "El presidente electo Abelardo de la Espriella afirmó el 30 de julio que durante su mandato no realizará viajes al exterior, comprometiéndose a gobernar desde Colombia. La declaración llega mientras Cali ultimas los preparativos de la posesión del 7 de agosto en la Arena USC (10:00 a.m.). El rey Felipe VI de España, el presidente argentino Javier Milei y el paraguayo Santiago Peña confirmaron asistencia. El vicepresidente electo José Manuel Restrepo viajó a Lima para asistir a la posesión de Keiko Fujimori como gesto diplomático.",
+      "objetividad": 93,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Declaración 'no saldré del país' — El Tiempo (30 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Asistentes internacionales confirmados: Felipe VI, Milei, Santiago Peña"
+        },
+        {
+          "ok": false,
+          "texto": "Gabinete aún incompleto: Salud, Trabajo, Cultura y Ciencia sin titular"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-siga-las-ultimas-noticias-de-la-posesion-presidencial-del-7-de-agosto-gabinete-agenda-y-anuncios-del-gobierno-entrante-3574863",
+      "url_label": "El Tiempo — De la Espriella: 'No saldré del país'; Cali se alista a 8 días de la posesión"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Heraldo / Infobae",
+      "fuente_color": "#e74c3c",
+      "fecha": "29 jul 2026",
+      "tag": "POSESIÓN · SENADO APROBÓ · Hora: 10 a.m. Arena USC",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "Senado aprobó posesión de De la Espriella en Cali: el 7 de agosto a las 10 a.m. en la Arena USC de la Universidad Santiago de Cali",
+      "resumen": "El Senado aprobó el 29 de julio el traslado de la posesión presidencial a Cali, confirmando la Arena USC como sede oficial. La ceremonia será el 7 de agosto a las 10:00 a.m., seguida de un reconocimiento a las tropas en la Tercera Brigada a las 2:00 p.m., y el primer consejo de seguridad del gobierno el 8 de agosto. El Congreso en pleno se trasladará a Cali. Es la primera posesión presidencial fuera de Bogotá en la historia reciente de Colombia.",
+      "objetividad": 96,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Senado aprobó posesión en Cali — El Heraldo (29 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Hora confirmada: 10:00 a.m. el 7 de agosto, Arena USC — Infobae (29 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Agenda post-posesión: homenaje a militares 2 p.m. y primer consejo de seguridad el 8 ago"
+        }
+      ],
+      "url": "https://www.elheraldo.co/colombia/2026/07/29/se-confirma-la-hora-del-acto-de-posesion-de-abelardo-de-la-espriella-como-presidente-el-proximo-7-de-agosto/",
+      "url_label": "El Heraldo — Confirmada la hora de posesión de De la Espriella: 10 a.m. del 7 de agosto en Cali"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "La Jornada / El Tiempo",
+      "fuente_color": "#e74c3c",
+      "fecha": "26 jul 2026",
+      "tag": "ESPRIELLA · Política exterior · Cuba · Nicaragua",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella romperá relaciones con Cuba y Nicaragua al asumir: cierra 15 consulados y 14 embajadas",
+      "resumen": "El presidente electo Abelardo de la Espriella anunció el 26 de julio que su gobierno romperá las relaciones diplomáticas con Cuba y Nicaragua al asumir el poder el 7 de agosto. Además, anunció el cierre de 15 consulados y 14 embajadas en el mundo como medida de 'austeridad y redefinición de prioridades'. Declaró: 'En mi gobierno no habrá vínculo con tiranías', en referencia directa a los regímenes de Díaz-Canel y Ortega.",
       "objetividad": 95,
       "criterios": [
         {
           "ok": true,
-          "texto": "Cámara aprobó 117-7 el traslado a Cali el 28 jul — Publimetro, El Colombiano, Bloomberg Línea"
+          "texto": "Ruptura diplomática con Cuba y Nicaragua — La Jornada, El Tiempo (26 jul)"
         },
         {
           "ok": true,
-          "texto": "PH bloqueó propuesta alternativa 114-6 en contra — El País de Cali"
+          "texto": "Cierre de 15 consulados y 14 embajadas confirmado"
         },
         {
           "ok": false,
-          "texto": "Senado vota hoy — resultado pendiente al cierre de esta edición"
+          "texto": "Fecha exacta de la nota diplomática de ruptura por definir"
         }
       ],
-      "url": "https://www.semana.com/politica/articulo/el-senado-dara-este-miercoles-el-pase-definitivo-a-abelardo-de-la-espriella-para-posesionarse-en-cali-un-escudo-antidrones-blindara-el-acto/202610/",
-      "url_label": "Semana — Senado da hoy el pase definitivo para posesión en Cali; escudo antidrones blindará el acto"
+      "url": "https://www.jornada.com.mx/noticia/2026/07/26/mundo/espriella-presidente-electo-de-colombia-rompera-relaciones-con-cuba-y-nicaragua-al-asumir-el-cargo",
+      "url_label": "La Jornada — De la Espriella romperá relaciones con Cuba y Nicaragua al asumir"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Tiempo",
+      "fuente_color": "#e74c3c",
+      "fecha": "25 jul 2026",
+      "tag": "GABINETE · Banco de Talentos · 260.000 CV",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "Gobierno electo recibió más de 260.000 hojas de vida para el 'Banco de Talentos': De la Espriella acelera conformación del gabinete",
+      "resumen": "El equipo de transición del presidente electo Abelardo de la Espriella informó el 25 de julio que el 'Banco de Talentos' recibió más de 260.000 hojas de vida de colombianos interesados en sumarse a la administración 2026-2030. Aún faltan por definir cuatro ministerios: Salud, Trabajo, Cultura y Ciencia. El vicepresidente electo José Manuel Restrepo calificó la respuesta como 'muestra del entusiasmo ciudadano con el cambio'.",
+      "objetividad": 90,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Más de 260.000 CV recibidos — El Tiempo (25 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "4 ministerios sin titular: Salud, Trabajo, Cultura, Ciencia"
+        },
+        {
+          "ok": false,
+          "texto": "Plazos de designación de los 4 ministerios restantes no informados"
+        }
+      ],
+      "url": "https://www.eltiempo.com/amp/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hoy-25-de-julio-minuto-a-minuto-de-las-decisiones-sobre-el-gabinete-el-empalme-y-la-transicion-presidencial-3573780",
+      "url_label": "El Tiempo — De la Espriella: más de 260.000 CV para el Banco de Talentos"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "El Heraldo / Infobae",
+      "fuente_color": "#2980b9",
+      "fecha": "29 jul 2026",
+      "tag": "Cepeda · Pacto Histórico · Viáticos Cali · Posesión",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Pacto Histórico radica en el Senado propuesta para que congresistas paguen sus propios viáticos a la posesión en Cali",
+      "resumen": "El 29 de julio el Pacto Histórico radicó en el Senado una proposición para que los congresistas que decidan asistir a la posesión de De la Espriella en Cali cubran sus propios gastos de desplazamiento. La iniciativa busca presionar políticamente el debate sobre el costo del traslado. En paralelo, Infobae advirtió que Cepeda podría incurrir en falta disciplinaria si no asiste a la sesión solemne del 7 de agosto, pues la Constitución obliga a los congresistas a estar presentes en las sesiones solemnes.",
+      "objetividad": 90,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "PH radicó proposición sobre viáticos en Senado el 29 jul — El Heraldo"
+        },
+        {
+          "ok": true,
+          "texto": "Alerta disciplinaria a Cepeda por posible ausencia — Infobae (23 jul)"
+        },
+        {
+          "ok": false,
+          "texto": "Resultado del debate de la proposición de viáticos pendiente"
+        }
+      ],
+      "url": "https://www.elheraldo.co/politica/2026/07/29/pacto-historico-radico-proposicion-con-la-que-pretenden-que-congresistas-paguen-sus-viaticos-para-posesion-en-cali/",
+      "url_label": "El Heraldo — PH radica propuesta para que congresistas paguen viáticos a Cali"
     },
     {
       "filter": "cepeda",
@@ -135,7 +247,7 @@
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
       "titulo": "Cepeda en Tunja apoya candidatos del Pacto Histórico en elecciones atípicas y reitera: Petro será jefe de la oposición",
-      "resumen": "El senador Iván Cepeda participó el 26 de julio en un acto político en Tunja (Boyacá) para respaldar al candidato del Pacto Histórico en las elecciones atípicas de ese municipio. Cepeda reiteró que Gustavo Petro asumirá la presidencia del Pacto Histórico una vez deje la Casa de Nariño el 7 de agosto, convirtiéndose en el 'jefe máximo de la oposición' al gobierno De la Espriella. Afirmó que la estrategia territorial del progresismo continuará en todo el país con miras a las elecciones de 2030.",
+      "resumen": "El senador Iván Cepeda participó el 26 de julio en un acto político en Tunja (Boyacá) para respaldar al candidato del Pacto Histórico en las elecciones atípicas del municipio. Cepeda reiteró que Gustavo Petro asumirá la presidencia del Pacto Histórico una vez deje la Casa de Nariño, convirtiéndose en el 'jefe máximo de la oposición' al gobierno De la Espriella.",
       "objetividad": 91,
       "criterios": [
         {
@@ -155,118 +267,6 @@
       "url_label": "Pulzo — Cepeda en Tunja: Petro será jefe de la oposición"
     },
     {
-      "filter": "valencia",
-      "fuente": "El Dinamo",
-      "fuente_color": "#9b59b6",
-      "fecha": "26 jul 2026",
-      "tag": "Valencia · Perfil · Post-campaña",
-      "tag_color": "#8e44ad",
-      "tag_bg": "rgba(142,68,173,0.12)",
-      "titulo": "Perfil: 'Paloma Valencia, la mujer que decidió dar la batalla' — su futuro político tras dejar el Senado y la candidatura",
-      "resumen": "El medio El Dinamo publicó el 26 de julio un perfil extenso sobre Paloma Valencia, quien el 20 de julio dejó el Senado tras tres períodos consecutivos. El análisis destaca su trayectoria como defensora del uribismo y su candidatura presidencial en 2026, en la que obtuvo 1.638.338 votos (6,92%) en primera vuelta. Valencia ya había anunciado el 16 de julio que el Centro Democrático 'se ganó' la Presidencia del Senado y exigió que 'se la respeten'. El perfil señala que la excandidata continúa activa en política y articula el rol del CD en la coalición de gobierno De la Espriella.",
-      "objetividad": 88,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Perfil publicado en El Dinamo el 26 jul — verificado"
-        },
-        {
-          "ok": true,
-          "texto": "Valencia dejó el Senado el 20 jul tras tres términos — confirmado"
-        },
-        {
-          "ok": false,
-          "texto": "Cargo o rol definitivo de Valencia en la nueva administración sin confirmar"
-        }
-      ],
-      "url": "https://www.eldinamo.cl/mujeres-d/2026/07/26/paloma-valencia-la-mujer-que-decidio-dar-la-batalla/",
-      "url_label": "El Dinamo — Paloma Valencia: la mujer que decidió dar la batalla"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Tiempo",
-      "fuente_color": "#e74c3c",
-      "fecha": "25 jul 2026",
-      "tag": "GABINETE · Banco de Talentos · 260.000 CV",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Gobierno electo recibió más de 260.000 hojas de vida para el 'Banco de Talentos': De la Espriella acelera conformación del gabinete",
-      "resumen": "El equipo de transición del presidente electo Abelardo de la Espriella informó el 25 de julio que el 'Banco de Talentos' recibió más de 260.000 hojas de vida de colombianos interesados en sumarse a la administración 2026-2030. De la Espriella señaló que el equipo revisará perfiles y experiencia para los cargos pendientes. Aún faltan por definir cuatro ministerios: Salud, Trabajo, Cultura y Ciencia. El vicepresidente electo José Manuel Restrepo calificó la respuesta como 'muestra del entusiasmo ciudadano con el cambio'.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Más de 260.000 CV recibidos — El Tiempo (25 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "4 ministerios sin titular confirmados: Salud, Trabajo, Cultura, Ciencia"
-        },
-        {
-          "ok": false,
-          "texto": "Plazos de designación de los 4 ministerios restantes no informados"
-        }
-      ],
-      "url": "https://www.eltiempo.com/amp/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hoy-25-de-julio-minuto-a-minuto-de-las-decisiones-sobre-el-gabinete-el-empalme-y-la-transicion-presidencial-3573780",
-      "url_label": "El Tiempo — De la Espriella: más de 260.000 CV para el Banco de Talentos"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "La FM",
-      "fuente_color": "#e74c3c",
-      "fecha": "25 jul 2026",
-      "tag": "POSESIÓN · Costo $5.900M · Ceremonia",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Revelan el costo de la posesión de De la Espriella: supera los $5.900 millones de pesos",
-      "resumen": "Se revelaron el 25 de julio los contratos para la ceremonia de posesión del presidente electo Abelardo de la Espriella el 7 de agosto en el Cauca: superan los $5.900 millones de pesos. El vicepresidente electo José Manuel Restrepo había calificado el evento de 'simple y austero', por lo que la cifra generó debate en redes sociales y críticas de la oposición. Los contratos cubren logística, seguridad y adecuación del espacio en la sede del Cauca donde se realizará el acto.",
-      "objetividad": 88,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Costo supera $5.900 millones — La FM (25 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Restrepo calificó el evento como 'simple y austero' — verificado"
-        },
-        {
-          "ok": false,
-          "texto": "Desglose detallado de contratos no publicado"
-        }
-      ],
-      "url": "https://www.lafm.com.co/politica/posesion-abelardo-de-la-espriella-precio-contratos-ceremonia-7-de-agosto-2026-405959",
-      "url_label": "La FM — Revelan costo de la posesión de De la Espriella: supera $5.900 millones"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "El Heraldo / Infobae",
-      "fuente_color": "#2980b9",
-      "fecha": "29 jul 2026",
-      "tag": "Cepeda · Pacto Histórico · Viáticos Cali · Posesión",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Pacto Histórico radica en el Senado propuesta para que congresistas paguen sus propios viáticos a la posesión en Cali",
-      "resumen": "El 29 de julio el Pacto Histórico radicó en el Senado una proposición para que los congresistas que decidan asistir a la posesión de De la Espriella en Cali el 7 de agosto cubran sus propios gastos de desplazamiento, en lugar de que los pague el Congreso. La iniciativa busca presionar políticamente el debate sobre el costo del traslado de la ceremonia fuera de Bogotá. En paralelo, Infobae advirtió que Cepeda podría incurrir en una falta disciplinaria si no asiste a la sesión plenaria solemne del 7 de agosto: la Constitución obliga a los congresistas a estar presentes en las sesiones solemnes salvo causal justificada.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "PH radicó proposición sobre viáticos en Senado el 29 jul — El Heraldo"
-        },
-        {
-          "ok": true,
-          "texto": "Alerta disciplinaria a Cepeda por ausencia en sesión solemne — Infobae (23 jul)"
-        },
-        {
-          "ok": false,
-          "texto": "Resultado del debate de la proposición viáticos pendiente"
-        }
-      ],
-      "url": "https://www.elheraldo.co/politica/2026/07/29/pacto-historico-radico-proposicion-con-la-que-pretenden-que-congresistas-paguen-sus-viaticos-para-posesion-en-cali/",
-      "url_label": "El Heraldo — PH radica propuesta para que congresistas paguen viáticos a Cali"
-    },
-    {
       "filter": "cepeda",
       "fuente": "Infobae",
       "fuente_color": "#2980b9",
@@ -275,7 +275,7 @@
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
       "titulo": "Cepeda convoca acto de 'desobediencia civil' en Barranquilla el 7 de agosto, paralelo a la posesión de De la Espriella",
-      "resumen": "El senador Iván Cepeda anunció el 22 de julio que encabezará un acto político en Barranquilla el 7 de agosto, a la misma hora en que Abelardo de la Espriella tome posesión como presidente. Cepeda calificó el evento de 'desobediencia civil' y ratificó que no reconoce la legitimidad del proceso electoral ni asistirá a la ceremonia de investidura. Invitó a ciudadanos y fuerzas del Pacto Histórico a acompañarle en lo que llama 'la jornada inaugural de la oposición'. Eligió Barranquilla por ser la ciudad donde el PH obtuvo mayor respaldo en segunda vuelta.",
+      "resumen": "El senador Iván Cepeda anunció el 22 de julio que encabezará un acto político en Barranquilla el 7 de agosto, a la misma hora en que De la Espriella tome posesión en Cali. Calificó el evento de 'desobediencia civil' y ratificó que no reconoce la legitimidad del proceso electoral ni asistirá a la ceremonia de investidura. Eligió Barranquilla por ser la ciudad donde el PH obtuvo mayor respaldo en segunda vuelta.",
       "objetividad": 92,
       "criterios": [
         {
@@ -296,31 +296,31 @@
     },
     {
       "filter": "valencia",
-      "fuente": "Infobae / Semana",
+      "fuente": "El Tiempo / Infobae",
       "fuente_color": "#9b59b6",
-      "fecha": "23 jul 2026",
-      "tag": "Valencia · Decreto Petro · Propiedad privada",
+      "fecha": "29 jul 2026",
+      "tag": "Valencia · Fiscalía · Coronel Dávila · Angie Rodríguez",
       "tag_color": "#8e44ad",
       "tag_bg": "rgba(142,68,173,0.12)",
-      "titulo": "Valencia alerta: decreto de Petro sobre reforma agraria amenaza la propiedad privada y 'salta a jueces y registradores'",
-      "resumen": "La excandidata presidencial Paloma Valencia denunció el 23 de julio el Decreto 0765 expedido por el gobierno Petro, que otorga poderes a la Agencia Nacional de Tierras (ANT) para cancelar gravámenes y tomar posesión inmediata de predios declarados de utilidad pública para reforma agraria sin pasar por jueces ni registradores. Valencia calificó el decreto de 'ilegal e inconstitucional' y advirtió que, aunque caerá en el Consejo de Estado, en el ínterin puede generar transferencias patrimoniales difíciles de revertir antes del 7 de agosto.",
-      "objetividad": 89,
+      "titulo": "Valencia exige a la Fiscalía investigar la muerte del coronel Óscar Dávila: 'Sumamente grave' tras declaraciones de Angie Rodríguez",
+      "resumen": "La excandidata presidencial Paloma Valencia exigió el 29 de julio a la Fiscalía General una investigación exhaustiva y transparente sobre la muerte del coronel Óscar Dávila, luego de que Angie Rodríguez (directora del Fondo de Adaptación) revelara en Blu Radio que recibió advertencias policiales al llegar al cargo y expresara temor de hablar sobre los hechos del gobierno Petro. Valencia escribió en X: 'Angie Rodríguez afirma que la muerte del coronel Dávila no fue suicidio, sino asesinato para silenciarlo', y exigió garantías para quienes aporten información a las autoridades.",
+      "objetividad": 88,
       "criterios": [
         {
           "ok": true,
-          "texto": "Valencia denunció Decreto 0765 del 15 jul — Infobae, Semana (23 jul)"
+          "texto": "Declaraciones de Angie Rodríguez en Blu Radio el 28 jul — verificado"
         },
         {
           "ok": true,
-          "texto": "Plazo del decreto: 25 de julio de 2026 — verificado"
+          "texto": "Valencia exigió investigación en X y medios el 29 jul — El Tiempo, Infobae"
         },
         {
           "ok": false,
-          "texto": "Respuesta del gobierno Petro al decreto no recibida"
+          "texto": "Respuesta de la Fiscalía a la solicitud de Valencia pendiente"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/07/23/paloma-valencia-alerto-que-un-decreto-del-gobierno-petro-pone-en-riesgo-la-propiedad-privada-en-colombia-saltarse-a-jueces-y-registradores/",
-      "url_label": "Infobae — Valencia: decreto Petro pone en riesgo la propiedad privada"
+      "url": "https://www.infobae.com/colombia/2026/07/29/paloma-valencia-exigio-a-la-fiscalia-una-investigacion-a-fondo-por-la-muerte-del-coronel-oscar-davila-tras-revelaciones-de-angie-rodriguez/",
+      "url_label": "Infobae — Valencia exige a la Fiscalía investigar muerte del coronel Dávila"
     }
   ],
   "sentimiento": {
@@ -328,29 +328,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 63,
-        "negativo": 27,
-        "neutro": 10,
+        "positivo": 65,
+        "negativo": 26,
+        "neutro": 9,
         "tendencia": "up",
-        "tendencia_texto": "29 jul — CÁMARA APROBÓ CALI (28 jul): 117-7 a favor; PH intentó bloquearlo y fue rechazado 114-6. SENADO VOTA HOY (29 jul, miércoles): plenaria dará el pase definitivo para que la posesión del 7 ago sea en la Arena USC de Cali. Semana anticipa mayoría favorable. ESCUDO ANTIDRONES: la Policía blindará el acto en Cali. BANCO DE TALENTOS (25 jul): 260.000 CV; 4 ministerios aún sin titular (Salud, Trabajo, Cultura, Ciencia). Sentimiento sube (60→63): la aprobación de Cali por la Cámara disipa incertidumbre sobre la sede y mejora imagen de decisión del equipo de transición."
+        "tendencia_texto": "30 jul — NO SALE DEL PAÍS (30 jul): declaró que durante su gobierno no realizará viajes al exterior, señal de compromiso doméstico que refuerza imagen. POSESIÓN CONFIRMADA (29 jul): Senado aprobó la posesión en Cali el 7 ago, Arena USC, 10:00 a.m.; asistentes confirmados: rey Felipe VI, Milei, Santiago Peña. POLÍTICA EXTERIOR (26 jul): ruptura de relaciones con Cuba y Nicaragua impacta positivamente en base de apoyo de derecha. Sentimiento sube (63→65): posesión 100% organizada y decisiones de gobierno generan expectativa positiva."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 25,
-        "negativo": 55,
-        "neutro": 20,
-        "tendencia": "stable",
-        "tendencia_texto": "29 jul — VIÁTICOS CALI (29 jul): el PH radicó en el Senado propuesta para que los congresistas paguen sus propios gastos de desplazamiento a la posesión en Cali — iniciativa de presión política. ALERTA DISCIPLINARIA: Infobae advirtió que Cepeda podría incurrir en falta si no asiste a la sesión solemne del 7 ago. BARRANQUILLA 7 AGO (22 jul): acto de 'desobediencia civil' confirmado en paralelo a la posesión. SENADO (22 jul): votó por Honorio Henríquez como presidente del Senado con apoyo del PH y el CD, generando polémica por 'diálogo'. Sentimiento estable (25): la presión con la propuesta de viáticos mantiene perfil opositor combativo."
+        "positivo": 24,
+        "negativo": 57,
+        "neutro": 19,
+        "tendencia": "down",
+        "tendencia_texto": "30 jul — RIESGO DISCIPLINARIO (30 jul): alerta vigente de falta disciplinaria si no asiste al Congreso en Cali el 7 ago persiste sin respuesta de Cepeda. VIÁTICOS (29 jul): propuesta del PH sobre viáticos es vista como maniobra política menor, no como oposición constructiva. BARRANQUILLA 7 AGO: acto de 'desobediencia civil' simultáneo a la posesión aumenta narrativa de no reconocimiento electoral. Sentimiento baja levemente (25→24): actitud opositora percibida como obstruccionista mientras país se enfoca en la transición."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 65,
-        "negativo": 20,
+        "positivo": 66,
+        "negativo": 19,
         "neutro": 15,
-        "tendencia": "stable",
-        "tendencia_texto": "29 jul — Sin noticias nuevas de Valencia hoy. PERFIL EL DINAMO (26 jul): amplio perfil post-campaña destacó su trayectoria política y candidatura presidencial de 2026. Dejó el Senado el 20 de julio. PRESIDENCIA CD (16 jul): exigió que el Centro Democrático sea reconocido como jefe de debates del Senado en el nuevo Congreso. DECRETO 0765 (23 jul): su denuncia sobre el Decreto Petro de reforma agraria sigue resonando en medios. Sentimiento estable (65): alta visibilidad positiva post-campaña se mantiene."
+        "tendencia": "up",
+        "tendencia_texto": "30 jul — CORONEL DÁVILA (29 jul): su exigencia de investigación a la Fiscalía por muerte del coronel Dávila tras revelaciones de Angie Rodríguez le da alta visibilidad en agenda de accountability. Muestra liderazgo en control político post-campaña. DECRETO PETRO (23 jul): denuncia del Decreto 0765 sobre propiedad privada sigue resonando. Sentimiento sube (65→66): actividad política vigorosa post-candidatura consolida perfil de liderazgo en la oposición de derecha."
       }
     ]
   },
@@ -378,5 +378,5 @@
     },
     "resumen_analisis": "TRANSICIÓN EN MARCHA — 29 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). SEDE CALI CASI CONFIRMADA: Cámara aprobó traslado 117-7 el 28 jul; SENADO VOTA HOY (29 jul, 2pm) para dar el aval definitivo — mayoría favorable anticipada. ARENA USC CALI: primera posesión presidencial fuera de Bogotá en la historia reciente. ESCUDO ANTIDRONES: Policía blindará el evento el 7 ago. GABINETE: 14 de 18 ministerios confirmados; faltan Salud, Trabajo, Cultura y Ciencia. OPOSICIÓN (PH): radicó propuesta para que congresistas paguen viáticos a Cali; Cepeda organiza acto paralelo en Barranquilla el 7 ago. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026."
   },
-  "ultimo_deploy": "29 de julio de 2026"
+  "ultimo_deploy": "30 de julio de 2026"
 }
