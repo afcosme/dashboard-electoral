@@ -1,5 +1,5 @@
 {
-  "fecha": "30 de julio de 2026",
+  "fecha": "31 de julio de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,6 +100,34 @@
   "noticias": [
     {
       "filter": "espriella",
+      "fuente": "Semana / Vanguardia",
+      "fuente_color": "#e74c3c",
+      "fecha": "31 jul 2026",
+      "tag": "ESPRIELLA · Retiro espiritual · Tercer consejo ministros",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella: 'Ya falta poco para que cese la horrible noche' — retiro espiritual con gabinete en Barranquilla y nuevos nombramientos",
+      "resumen": "El presidente electo Abelardo De la Espriella celebró el 31 de julio su tercer consejo de ministros designados y envió un mensaje a los colombianos: 'Ya falta poco para que cese la horrible noche'. Anunció un retiro espiritual este fin de semana en Barranquilla con todo su gabinete como preparación previa a la posesión del 7 de agosto en la Arena USC de Cali. Nuevos nombramientos: Ricardo Ayerbe como director de la ANI, Sandra Bessudo en Parques Nacionales y Marco Acosta en el Fondo Nacional del Ahorro. Faltan por designar los ministerios de Salud, Trabajo, Cultura y Ciencia.",
+      "objetividad": 92,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Tercer consejo de ministros designados — Semana (31 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Retiro espiritual en Barranquilla este fin de semana — Vanguardia, El Universal (30-31 jul)"
+        },
+        {
+          "ok": false,
+          "texto": "Ministerios de Salud, Trabajo, Cultura y Ciencia aún sin titular"
+        }
+      ],
+      "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-envio-mensaje-a-colombia-tras-su-tercer-consejo-de-ministros-designados-ya-falta-poco/202630/",
+      "url_label": "Semana — De la Espriella: 'Ya falta poco'; retiro espiritual con todo el gabinete en Barranquilla"
+    },
+    {
+      "filter": "espriella",
       "fuente": "El Tiempo",
       "fuente_color": "#e74c3c",
       "fecha": "30 jul 2026",
@@ -181,34 +209,6 @@
       ],
       "url": "https://www.jornada.com.mx/noticia/2026/07/26/mundo/espriella-presidente-electo-de-colombia-rompera-relaciones-con-cuba-y-nicaragua-al-asumir-el-cargo",
       "url_label": "La Jornada — De la Espriella romperá relaciones con Cuba y Nicaragua al asumir"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Tiempo",
-      "fuente_color": "#e74c3c",
-      "fecha": "25 jul 2026",
-      "tag": "GABINETE · Banco de Talentos · 260.000 CV",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Gobierno electo recibió más de 260.000 hojas de vida para el 'Banco de Talentos': De la Espriella acelera conformación del gabinete",
-      "resumen": "El equipo de transición del presidente electo Abelardo de la Espriella informó el 25 de julio que el 'Banco de Talentos' recibió más de 260.000 hojas de vida de colombianos interesados en sumarse a la administración 2026-2030. Aún faltan por definir cuatro ministerios: Salud, Trabajo, Cultura y Ciencia. El vicepresidente electo José Manuel Restrepo calificó la respuesta como 'muestra del entusiasmo ciudadano con el cambio'.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Más de 260.000 CV recibidos — El Tiempo (25 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "4 ministerios sin titular: Salud, Trabajo, Cultura, Ciencia"
-        },
-        {
-          "ok": false,
-          "texto": "Plazos de designación de los 4 ministerios restantes no informados"
-        }
-      ],
-      "url": "https://www.eltiempo.com/amp/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hoy-25-de-julio-minuto-a-minuto-de-las-decisiones-sobre-el-gabinete-el-empalme-y-la-transicion-presidencial-3573780",
-      "url_label": "El Tiempo — De la Espriella: más de 260.000 CV para el Banco de Talentos"
     },
     {
       "filter": "cepeda",
@@ -328,11 +328,11 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 65,
+        "positivo": 66,
         "negativo": 26,
-        "neutro": 9,
+        "neutro": 8,
         "tendencia": "up",
-        "tendencia_texto": "30 jul — NO SALE DEL PAÍS (30 jul): declaró que durante su gobierno no realizará viajes al exterior, señal de compromiso doméstico que refuerza imagen. POSESIÓN CONFIRMADA (29 jul): Senado aprobó la posesión en Cali el 7 ago, Arena USC, 10:00 a.m.; asistentes confirmados: rey Felipe VI, Milei, Santiago Peña. POLÍTICA EXTERIOR (26 jul): ruptura de relaciones con Cuba y Nicaragua impacta positivamente en base de apoyo de derecha. Sentimiento sube (63→65): posesión 100% organizada y decisiones de gobierno generan expectativa positiva."
+        "tendencia_texto": "31 jul — RETIRO ESPIRITUAL (31 jul): convocó a todo el gabinete a un retiro en Barranquilla previo a la posesión, señal de cohesión del equipo de gobierno. MENSAJE ESPERANZADOR: \"Ya falta poco para que cese la horrible noche\" — tercer consejo de ministros completado. NUEVOS CARGOS: Ayerbe (ANI), Bessudo (Parques Nacionales), Acosta (FNA). Sentimiento sube (65→66): imagen de preparación y liderazgo consolidada a 7 días de la posesión."
       },
       {
         "nombre": "Cepeda",
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "TRANSICIÓN EN MARCHA — 29 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). SEDE CALI CASI CONFIRMADA: Cámara aprobó traslado 117-7 el 28 jul; SENADO VOTA HOY (29 jul, 2pm) para dar el aval definitivo — mayoría favorable anticipada. ARENA USC CALI: primera posesión presidencial fuera de Bogotá en la historia reciente. ESCUDO ANTIDRONES: Policía blindará el evento el 7 ago. GABINETE: 14 de 18 ministerios confirmados; faltan Salud, Trabajo, Cultura y Ciencia. OPOSICIÓN (PH): radicó propuesta para que congresistas paguen viáticos a Cali; Cepeda organiza acto paralelo en Barranquilla el 7 ago. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026."
+    "resumen_analisis": "TRANSICIÓN EN MARCHA — 31 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). A 7 DÍAS DE LA POSESIÓN: ceremonia el 7 de agosto, 10:00 a.m., Arena USC de Cali — primera posesión fuera de Bogotá en la historia reciente. RETIRO ESPIRITUAL: De la Espriella convocó todo su gabinete a Barranquilla este fin de semana como preparación. MENSAJE: \"Ya falta poco para que cese la horrible noche\". GABINETE: pendientes Salud, Trabajo, Cultura y Ciencia. OPOSICIÓN (PH): Cepeda organiza acto de \"desobediencia civil\" en Barranquilla el 7 ago simultáneo a la posesión. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026 en Cali."
   },
-  "ultimo_deploy": "30 de julio de 2026"
+  "ultimo_deploy": "31 de julio de 2026"
 }
