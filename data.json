@@ -1,5 +1,5 @@
 {
-  "fecha": "31 de julio de 2026",
+  "fecha": "1 de agosto de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,31 +100,59 @@
   "noticias": [
     {
       "filter": "espriella",
-      "fuente": "Semana / Vanguardia",
+      "fuente": "GS Noticias / El Colombiano",
       "fuente_color": "#e74c3c",
-      "fecha": "31 jul 2026",
-      "tag": "ESPRIELLA · Retiro espiritual · Tercer consejo ministros",
+      "fecha": "1 ago 2026",
+      "tag": "ESPRIELLA · Gabinete completo · Retiro espiritual",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella: 'Ya falta poco para que cese la horrible noche' — retiro espiritual con gabinete en Barranquilla y nuevos nombramientos",
-      "resumen": "El presidente electo Abelardo De la Espriella celebró el 31 de julio su tercer consejo de ministros designados y envió un mensaje a los colombianos: 'Ya falta poco para que cese la horrible noche'. Anunció un retiro espiritual este fin de semana en Barranquilla con todo su gabinete como preparación previa a la posesión del 7 de agosto en la Arena USC de Cali. Nuevos nombramientos: Ricardo Ayerbe como director de la ANI, Sandra Bessudo en Parques Nacionales y Marco Acosta en el Fondo Nacional del Ahorro. Faltan por designar los ministerios de Salud, Trabajo, Cultura y Ciencia.",
-      "objetividad": 92,
+      "titulo": "De la Espriella completa su gabinete y concluye retiro espiritual en Barranquilla — 6 días para la posesión en Cali",
+      "resumen": "El presidente electo Abelardo De la Espriella completó la designación de su gabinete ministerial, cubriendo las últimas carteras pendientes (Salud, Trabajo, Cultura y Ciencia). Simultáneamente concluyó el retiro espiritual en Barranquilla con todo el equipo de gobierno: un espacio de reflexión, unidad y preparación espiritual colectiva antes de asumir el poder el 7 de agosto en la Arena USC de Cali. Es la primera vez en la historia reciente de Colombia que un presidente electo convoca a su gabinete completo a un retiro de este tipo previo a la posesión.",
+      "objetividad": 91,
       "criterios": [
         {
           "ok": true,
-          "texto": "Tercer consejo de ministros designados — Semana (31 jul)"
+          "texto": "Gabinete completo confirmado — GS Noticias (1 ago)"
         },
         {
           "ok": true,
-          "texto": "Retiro espiritual en Barranquilla este fin de semana — Vanguardia, El Universal (30-31 jul)"
+          "texto": "Retiro espiritual en Barranquilla concluido este fin de semana — El Colombiano (30-31 jul)"
         },
         {
           "ok": false,
-          "texto": "Ministerios de Salud, Trabajo, Cultura y Ciencia aún sin titular"
+          "texto": "Nombres exactos de los últimos ministros designados por confirmar oficialmente"
         }
       ],
-      "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-envio-mensaje-a-colombia-tras-su-tercer-consejo-de-ministros-designados-ya-falta-poco/202630/",
-      "url_label": "Semana — De la Espriella: 'Ya falta poco'; retiro espiritual con todo el gabinete en Barranquilla"
+      "url": "https://gsnoticias.com/abelardo-de-la-espriella-completa-su-gabinete-y-alista-retiro-espiritual/",
+      "url_label": "GS Noticias — De la Espriella completa gabinete y concluye retiro espiritual en Barranquilla"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Universal",
+      "fuente_color": "#e74c3c",
+      "fecha": "31 jul 2026",
+      "tag": "ESPRIELLA · Cumpleaños 48 · Transición",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella festeja su cumpleaños número 48 en la antesala de su posesión presidencial",
+      "resumen": "Abelardo de la Espriella celebró el 31 de julio su cumpleaños número 48 mientras lideraba el retiro espiritual de su gabinete en Barranquilla y ultimaba los detalles de la transición presidencial. Llega a la primera magistratura a los 48 años, siendo uno de los presidentes más jóvenes de la historia reciente del país. La fecha fue celebrada de forma discreta en el contexto de la intensa agenda previa a la posesión del 7 de agosto en la Arena USC de Cali. Colombia y la comunidad internacional aguardan la inauguración a una semana.",
+      "objetividad": 95,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Cumpleaños número 48 el 31 de julio — El Universal (31 jul)"
+        },
+        {
+          "ok": true,
+          "texto": "Coincide con retiro espiritual del gabinete en Barranquilla"
+        },
+        {
+          "ok": false,
+          "texto": "Actividades específicas de celebración no detalladas en medios"
+        }
+      ],
+      "url": "https://www.eluniversal.com.co/colombia/2026/07/31/abelardo-de-la-espriella-festeja-su-cumpleanos-previo-a-su-posesion-presidencial/",
+      "url_label": "El Universal — De la Espriella festeja su cumpleaños número 48 previo a su posesión presidencial"
     },
     {
       "filter": "espriella",
@@ -148,67 +176,39 @@
         },
         {
           "ok": false,
-          "texto": "Gabinete aún incompleto: Salud, Trabajo, Cultura y Ciencia sin titular"
+          "texto": "Gabinete en proceso de completarse al momento de la nota"
         }
       ],
       "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-siga-las-ultimas-noticias-de-la-posesion-presidencial-del-7-de-agosto-gabinete-agenda-y-anuncios-del-gobierno-entrante-3574863",
       "url_label": "El Tiempo — De la Espriella: 'No saldré del país'; Cali se alista a 8 días de la posesión"
     },
     {
-      "filter": "espriella",
-      "fuente": "El Heraldo / Infobae",
-      "fuente_color": "#e74c3c",
-      "fecha": "29 jul 2026",
-      "tag": "POSESIÓN · SENADO APROBÓ · Hora: 10 a.m. Arena USC",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Senado aprobó posesión de De la Espriella en Cali: el 7 de agosto a las 10 a.m. en la Arena USC de la Universidad Santiago de Cali",
-      "resumen": "El Senado aprobó el 29 de julio el traslado de la posesión presidencial a Cali, confirmando la Arena USC como sede oficial. La ceremonia será el 7 de agosto a las 10:00 a.m., seguida de un reconocimiento a las tropas en la Tercera Brigada a las 2:00 p.m., y el primer consejo de seguridad del gobierno el 8 de agosto. El Congreso en pleno se trasladará a Cali. Es la primera posesión presidencial fuera de Bogotá en la historia reciente de Colombia.",
-      "objetividad": 96,
+      "filter": "cepeda",
+      "fuente": "Infobae",
+      "fuente_color": "#2980b9",
+      "fecha": "30 jul 2026",
+      "tag": "Cepeda · Rick Scott · Desobediencia civil · EE.UU.",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Senador Rick Scott cuestiona a Cepeda y Petro por desobediencia civil: 'Solo les importa el poder'",
+      "resumen": "El senador republicano estadounidense Rick Scott cuestionó el 30 de julio el llamado de Iván Cepeda y Gustavo Petro a la desobediencia civil contra el gobierno electo de Abelardo de la Espriella, asegurando que sus acciones 'no buscan vindicar los derechos de los colombianos, sino que responden a intereses egoístas'. En entrevista con Caracol Radio declaró: 'Solo les importa el poder.' Scott expresó además su confianza en De la Espriella como presidente. La presión internacional suma un nuevo frente crítico a la postura de Cepeda, quien ya enfrenta riesgo disciplinario por no asistir a la posesión en Cali.",
+      "objetividad": 90,
       "criterios": [
         {
           "ok": true,
-          "texto": "Senado aprobó posesión en Cali — El Heraldo (29 jul)"
+          "texto": "Declaraciones de Rick Scott en Caracol Radio el 30 jul — Infobae"
         },
         {
           "ok": true,
-          "texto": "Hora confirmada: 10:00 a.m. el 7 de agosto, Arena USC — Infobae (29 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Agenda post-posesión: homenaje a militares 2 p.m. y primer consejo de seguridad el 8 ago"
-        }
-      ],
-      "url": "https://www.elheraldo.co/colombia/2026/07/29/se-confirma-la-hora-del-acto-de-posesion-de-abelardo-de-la-espriella-como-presidente-el-proximo-7-de-agosto/",
-      "url_label": "El Heraldo — Confirmada la hora de posesión de De la Espriella: 10 a.m. del 7 de agosto en Cali"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "La Jornada / El Tiempo",
-      "fuente_color": "#e74c3c",
-      "fecha": "26 jul 2026",
-      "tag": "ESPRIELLA · Política exterior · Cuba · Nicaragua",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella romperá relaciones con Cuba y Nicaragua al asumir: cierra 15 consulados y 14 embajadas",
-      "resumen": "El presidente electo Abelardo de la Espriella anunció el 26 de julio que su gobierno romperá las relaciones diplomáticas con Cuba y Nicaragua al asumir el poder el 7 de agosto. Además, anunció el cierre de 15 consulados y 14 embajadas en el mundo como medida de 'austeridad y redefinición de prioridades'. Declaró: 'En mi gobierno no habrá vínculo con tiranías', en referencia directa a los regímenes de Díaz-Canel y Ortega.",
-      "objetividad": 95,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Ruptura diplomática con Cuba y Nicaragua — La Jornada, El Tiempo (26 jul)"
-        },
-        {
-          "ok": true,
-          "texto": "Cierre de 15 consulados y 14 embajadas confirmado"
+          "texto": "Cuestionó tanto a Cepeda como a Petro por la desobediencia civil"
         },
         {
           "ok": false,
-          "texto": "Fecha exacta de la nota diplomática de ruptura por definir"
+          "texto": "Respuesta de Cepeda o el PH a las declaraciones de Scott no reportada"
         }
       ],
-      "url": "https://www.jornada.com.mx/noticia/2026/07/26/mundo/espriella-presidente-electo-de-colombia-rompera-relaciones-con-cuba-y-nicaragua-al-asumir-el-cargo",
-      "url_label": "La Jornada — De la Espriella romperá relaciones con Cuba y Nicaragua al asumir"
+      "url": "https://www.infobae.com/colombia/2026/07/30/rick-scott-senador-estadounidense-cuestiono-el-llamado-de-ivan-cepeda-y-gustavo-petro-a-una-desobediencia-civil-solo-les-importa-el-poder/",
+      "url_label": "Infobae — Rick Scott: 'Solo les importa el poder' — cuestiona desobediencia civil de Cepeda y Petro"
     },
     {
       "filter": "cepeda",
@@ -240,42 +240,14 @@
     },
     {
       "filter": "cepeda",
-      "fuente": "Semana / Pulzo",
-      "fuente_color": "#2980b9",
-      "fecha": "26 jul 2026",
-      "tag": "Cepeda · Tunja · Elecciones atípicas Boyacá",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda en Tunja apoya candidatos del Pacto Histórico en elecciones atípicas y reitera: Petro será jefe de la oposición",
-      "resumen": "El senador Iván Cepeda participó el 26 de julio en un acto político en Tunja (Boyacá) para respaldar al candidato del Pacto Histórico en las elecciones atípicas del municipio. Cepeda reiteró que Gustavo Petro asumirá la presidencia del Pacto Histórico una vez deje la Casa de Nariño, convirtiéndose en el 'jefe máximo de la oposición' al gobierno De la Espriella.",
-      "objetividad": 91,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Cepeda participó en evento en Tunja el 26 jul — Semana, Pulzo"
-        },
-        {
-          "ok": true,
-          "texto": "Reitera propuesta de Petro al frente del PH — verificado múltiples fuentes"
-        },
-        {
-          "ok": false,
-          "texto": "Resultado de las elecciones atípicas pendiente de conteo"
-        }
-      ],
-      "url": "https://www.pulzo.com/nacion/gustavo-petro-podria-liderar-el-pacto-historico-tras-su-presidencia-propone-ivan-cepeda-en-tunja-PP5250150A",
-      "url_label": "Pulzo — Cepeda en Tunja: Petro será jefe de la oposición"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Infobae",
+      "fuente": "Infobae / HSB Noticias",
       "fuente_color": "#2980b9",
       "fecha": "22 jul 2026",
       "tag": "Cepeda · Desobediencia civil · 7 de agosto",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
       "titulo": "Cepeda convoca acto de 'desobediencia civil' en Barranquilla el 7 de agosto, paralelo a la posesión de De la Espriella",
-      "resumen": "El senador Iván Cepeda anunció el 22 de julio que encabezará un acto político en Barranquilla el 7 de agosto, a la misma hora en que De la Espriella tome posesión en Cali. Calificó el evento de 'desobediencia civil' y ratificó que no reconoce la legitimidad del proceso electoral ni asistirá a la ceremonia de investidura. Eligió Barranquilla por ser la ciudad donde el PH obtuvo mayor respaldo en segunda vuelta.",
+      "resumen": "El senador Iván Cepeda anunció el 22 de julio que encabezará un acto político en Barranquilla el 7 de agosto, a la misma hora en que De la Espriella tome posesión en Cali. Calificó el evento de 'desobediencia civil' y ratificó que no reconoce la legitimidad del proceso electoral ni asistirá a la ceremonia de investidura. Eligió Barranquilla por ser la ciudad donde el PH obtuvo mayor respaldo en segunda vuelta. El senador podría incurrir en falta disciplinaria por no asistir al Congreso en Cali.",
       "objetividad": 92,
       "criterios": [
         {
@@ -293,6 +265,34 @@
       ],
       "url": "https://www.infobae.com/colombia/2026/07/22/ivan-cepeda-realizara-acto-publico-en-barranquilla-el-7-de-agosto-paralelo-a-la-posesion-de-abelardo-de-la-espriella-desobediencia-civil/",
       "url_label": "Infobae — Cepeda: acto de desobediencia civil en Barranquilla el 7 de agosto"
+    },
+    {
+      "filter": "valencia",
+      "fuente": "Infobae / Seguimiento.co",
+      "fuente_color": "#9b59b6",
+      "fecha": "29 jul 2026",
+      "tag": "Valencia · Caicedo · Corrupción · Condena 9 años",
+      "tag_color": "#8e44ad",
+      "tag_bg": "rgba(142,68,173,0.12)",
+      "titulo": "Valencia celebra condena de 9 años al exgobernador Carlos Caicedo y lanza duro mensaje al Pacto Histórico",
+      "resumen": "Paloma Valencia celebró el 29 de julio la condena de nueve años de prisión impuesta por el Juzgado Noveno Penal de Bogotá al exgobernador del Magdalena Carlos Caicedo, por un contrato sin requisitos legales en concurso heterogéneo con peculado por apropiación. Valencia declaró: 'Es una buena noticia para Colombia. Las penas para los corruptos deben ser cada vez más duras y ejemplarizantes. La corrupción no puede seguir drenando a Colombia.' Caicedo había respaldado la candidatura de Iván Cepeda en la segunda vuelta presidencial.",
+      "objetividad": 91,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Condena de 9 años confirmada por el Juzgado Noveno Penal de Bogotá el 29 jul"
+        },
+        {
+          "ok": true,
+          "texto": "Declaraciones de Valencia en medios el 29 jul — Infobae, Seguimiento.co"
+        },
+        {
+          "ok": false,
+          "texto": "Posible apelación de Caicedo a la condena pendiente de definirse"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/07/29/paloma-valencia-celebro-la-condena-de-nueve-anos-de-prision-contra-carlos-caicedo-y-lanzo-duro-mensaje-al-pacto-historico/",
+      "url_label": "Infobae — Valencia celebra condena de 9 años a Caicedo: 'Las penas para los corruptos deben ser más duras'"
     },
     {
       "filter": "valencia",
@@ -328,20 +328,20 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 66,
-        "negativo": 26,
+        "positivo": 67,
+        "negativo": 25,
         "neutro": 8,
         "tendencia": "up",
-        "tendencia_texto": "31 jul — RETIRO ESPIRITUAL (31 jul): convocó a todo el gabinete a un retiro en Barranquilla previo a la posesión, señal de cohesión del equipo de gobierno. MENSAJE ESPERANZADOR: \"Ya falta poco para que cese la horrible noche\" — tercer consejo de ministros completado. NUEVOS CARGOS: Ayerbe (ANI), Bessudo (Parques Nacionales), Acosta (FNA). Sentimiento sube (65→66): imagen de preparación y liderazgo consolidada a 7 días de la posesión."
+        "tendencia_texto": "1 ago — GABINETE COMPLETO (1 ago): De la Espriella completa todos los ministerios y concluye retiro espiritual con cohesión total del equipo de gobierno. CUMPLEAÑOS 48 (31 jul): festeja en plena transición, imagen de liderazgo activo a días del poder. CALI A 6 DÍAS: Felipe VI, Milei y Peña confirmados en la posesión del 7 de agosto. Sentimiento sube (66→67): gabinete completo + retiro espiritual consolidan imagen de preparación y unidad antes de la posesión."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 24,
-        "negativo": 57,
-        "neutro": 19,
+        "positivo": 23,
+        "negativo": 59,
+        "neutro": 18,
         "tendencia": "down",
-        "tendencia_texto": "30 jul — RIESGO DISCIPLINARIO (30 jul): alerta vigente de falta disciplinaria si no asiste al Congreso en Cali el 7 ago persiste sin respuesta de Cepeda. VIÁTICOS (29 jul): propuesta del PH sobre viáticos es vista como maniobra política menor, no como oposición constructiva. BARRANQUILLA 7 AGO: acto de 'desobediencia civil' simultáneo a la posesión aumenta narrativa de no reconocimiento electoral. Sentimiento baja levemente (25→24): actitud opositora percibida como obstruccionista mientras país se enfoca en la transición."
+        "tendencia_texto": "30 jul — RICK SCOTT (30 jul): el senador republicano de EEUU criticó públicamente la llamada a desobediencia civil de Cepeda y Petro, 'Solo les importa el poder', sumando presión internacional a la postura del PH. RIESGO DISCIPLINARIO: alerta vigente por posible ausencia al Congreso en Cali el 7 ago. BARRANQUILLA 7 AGO: acto de 'desobediencia civil' simultáneo a la posesión mantiene narrativa de no reconocimiento. Sentimiento baja (57→59): crítica internacional añade legitimidad negativa adicional a la postura opositora."
       },
       {
         "nombre": "Valencia",
@@ -350,7 +350,7 @@
         "negativo": 19,
         "neutro": 15,
         "tendencia": "up",
-        "tendencia_texto": "30 jul — CORONEL DÁVILA (29 jul): su exigencia de investigación a la Fiscalía por muerte del coronel Dávila tras revelaciones de Angie Rodríguez le da alta visibilidad en agenda de accountability. Muestra liderazgo en control político post-campaña. DECRETO PETRO (23 jul): denuncia del Decreto 0765 sobre propiedad privada sigue resonando. Sentimiento sube (65→66): actividad política vigorosa post-candidatura consolida perfil de liderazgo en la oposición de derecha."
+        "tendencia_texto": "29 jul — CAICEDO CONDENA (29 jul): celebró la condena de 9 años al exgobernador Caicedo por corrupción, lanzando duro mensaje al PH sobre la justicia y la lucha anticorrupción. CORONEL DÁVILA (29 jul): exige investigación de la Fiscalía tras revelaciones de Angie Rodríguez. Mantiene actividad política intensa post-campaña como líder de control político. Sentimiento estable (66): perfil de oposición consolidado con liderazgo en agenda de accountability."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "TRANSICIÓN EN MARCHA — 31 de julio de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). A 7 DÍAS DE LA POSESIÓN: ceremonia el 7 de agosto, 10:00 a.m., Arena USC de Cali — primera posesión fuera de Bogotá en la historia reciente. RETIRO ESPIRITUAL: De la Espriella convocó todo su gabinete a Barranquilla este fin de semana como preparación. MENSAJE: \"Ya falta poco para que cese la horrible noche\". GABINETE: pendientes Salud, Trabajo, Cultura y Ciencia. OPOSICIÓN (PH): Cepeda organiza acto de \"desobediencia civil\" en Barranquilla el 7 ago simultáneo a la posesión. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026 en Cali."
+    "resumen_analisis": "TRANSICIÓN FINAL — 1 de agosto de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). A 6 DÍAS DE LA POSESIÓN: ceremonia el 7 de agosto, 10:00 a.m., Arena USC de Cali — primera posesión fuera de Bogotá en la historia reciente. GABINETE COMPLETO: retiro espiritual en Barranquilla concluye este fin de semana con todo el equipo unido y lista la nómina ministerial. CUMPLEAÑOS: De la Espriella cumplió 48 años el 31 de julio. INTERNACIONALES CONFIRMADOS: Felipe VI (España), Milei (Argentina), Santiago Peña (Paraguay). OPOSICIÓN (PH): Cepeda organiza 'desobediencia civil' en Barranquilla el 7 ago; Rick Scott (EEUU) lo critica: 'Solo les importa el poder'. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026 en Cali."
   },
-  "ultimo_deploy": "31 de julio de 2026"
+  "ultimo_deploy": "1 de agosto de 2026"
 }
