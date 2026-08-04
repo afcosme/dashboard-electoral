@@ -1,5 +1,5 @@
 {
-  "fecha": "3 de agosto de 2026",
+  "fecha": "4 de agosto de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -156,31 +156,31 @@
     },
     {
       "filter": "espriella",
-      "fuente": "El Universal / El Tiempo",
+      "fuente": "La Linterna Azul / El Tiempo",
       "fuente_color": "#e74c3c",
-      "fecha": "2 ago 2026",
-      "tag": "ESPRIELLA · Posesión Cali · Mensaje al país",
+      "fecha": "4 ago 2026",
+      "tag": "ESPRIELLA · Posesión Cali · Samper · Santos · Protocolo",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella defiende posesión en Cali: 'Todo listo para iniciar una nueva etapa para Colombia'",
-      "resumen": "El presidente electo Abelardo de la Espriella defendió el 2 de agosto la decisión de posesionarse en Cali el 7 de agosto, reafirmando que la ceremonia marcará el inicio de 'una nueva etapa' para Colombia. Agradeció al Congreso —Cámara 117-7 y Senado 58-30— por aprobar el traslado histórico a la capital del Valle del Cauca. El Tiempo confirmó que Cali está preparada con operativos de seguridad y logística para los miles de asistentes esperados. Líderes internacionales como el rey Felipe VI de España, Javier Milei (Argentina) y Santiago Peña (Paraguay) ya confirmaron su asistencia.",
-      "objetividad": 94,
+      "titulo": "De la Espriella excluye a Samper y Santos de su posesión en Cali",
+      "resumen": "A tres días de la posesión presidencial en la Arena USC de Cali, trascendió que Abelardo de la Espriella instruyó directamente a su equipo de protocolo para que los expresidentes Ernesto Samper y Juan Manuel Santos no fueran invitados a la ceremonia del 7 de agosto. La decisión marca un contraste con el protocolo diplomático habitual y genera controversia. El presidente electo mantiene la invitación a mandatarios internacionales: el rey Felipe VI de España, Javier Milei (Argentina), Daniel Noboa (Ecuador), José Antonio Kast (Chile) y Rodrigo Paz (Bolivia). La ceremonia está programada para las 3:00 p. m. en la Arena USC.",
+      "objetividad": 91,
       "criterios": [
         {
           "ok": true,
-          "texto": "Defensa posesión en Cali — El Universal (2 ago)"
+          "texto": "Exclusión de Samper y Santos confirmada — La Linterna Azul (4 ago)"
         },
         {
           "ok": true,
-          "texto": "Congreso aprobó traslado: 117-7 Cámara, 58-30 Senado — verificado"
+          "texto": "Mandatarios internacionales confirmados: Felipe VI, Milei, Noboa, Kast, Paz"
         },
         {
           "ok": false,
-          "texto": "Lista final de asistentes internacionales en actualización permanente"
+          "texto": "Reacción oficial de Samper y Santos a la exclusión pendiente"
         }
       ],
-      "url": "https://www.eluniversal.com.co/colombia/2026/08/02/de-la-espriella-defiende-posesion-en-cali-con-fuerte-mensaje-al-pais/",
-      "url_label": "El Universal — De la Espriella defiende posesión en Cali: 'Iniciaremos una nueva etapa'"
+      "url": "https://lalinternaazul2.wordpress.com/2026/08/04/de-la-espriella-deja-por-fuera-a-samper-y-santos-de-su-posesion-presidencial/",
+      "url_label": "La Linterna Azul — De la Espriella excluye a Samper y Santos de su posesión"
     },
     {
       "filter": "cepeda",
@@ -240,31 +240,31 @@
     },
     {
       "filter": "cepeda",
-      "fuente": "Infobae / HSB Noticias",
+      "fuente": "Vanguardia / Q'hubo Bogotá",
       "fuente_color": "#2980b9",
-      "fecha": "22 jul 2026",
-      "tag": "Cepeda · Desobediencia civil · 7 de agosto",
+      "fecha": "3 ago 2026",
+      "tag": "Cepeda · Petro · Desobediencia civil · Concentraciones pacíficas",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda convoca acto de 'desobediencia civil' en Barranquilla el 7 de agosto, paralelo a la posesión de De la Espriella",
-      "resumen": "El senador Iván Cepeda anunció el 22 de julio que encabezará un acto político en Barranquilla el 7 de agosto, a la misma hora en que De la Espriella tome posesión en Cali. Calificó el evento de 'desobediencia civil' y ratificó que no reconoce la legitimidad del proceso electoral ni asistirá a la ceremonia de investidura. Eligió Barranquilla por ser la ciudad donde el PH obtuvo mayor respaldo en segunda vuelta. El senador podría incurrir en falta disciplinaria por no asistir al Congreso en Cali.",
-      "objetividad": 92,
+      "titulo": "Petro y Cepeda defienden concentraciones del 7 de agosto: 'Expresión de soberanía popular'",
+      "resumen": "El presidente saliente Gustavo Petro y el senador Iván Cepeda respaldaron el 3 de agosto las concentraciones pacíficas convocadas para el día de la posesión de Abelardo de la Espriella. Cepeda reiteró que los actos en Bogotá, Cali y Barranquilla son 'acciones de desobediencia civil, de expresión de nuestra oposición, pero de carácter fundamentalmente no violento', y descartó marchas o bloqueos. De la Espriella respondió que la desobediencia civil convocada por la izquierda 'busca desestabilizar la democracia'. La tensión política se intensifica a tres días de la inauguración en Cali.",
+      "objetividad": 91,
       "criterios": [
         {
           "ok": true,
-          "texto": "Anuncio del acto en Barranquilla el 7 ago — Infobae (22 jul)"
+          "texto": "Petro y Cepeda defienden concentraciones — Vanguardia (3 ago)"
         },
         {
           "ok": true,
-          "texto": "Cepeda no reconoce legitimidad electoral — reiterado desde jun 2026"
+          "texto": "De la Espriella: 'busca desestabilizar la democracia' — La Patria (3 ago)"
         },
         {
           "ok": false,
-          "texto": "Convocatoria ciudadana aún no cuantificada — pendiente"
+          "texto": "Convocatoria ciudadana y asistencia esperada pendiente de cuantificar"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/07/22/ivan-cepeda-realizara-acto-publico-en-barranquilla-el-7-de-agosto-paralelo-a-la-posesion-de-abelardo-de-la-espriella-desobediencia-civil/",
-      "url_label": "Infobae — Cepeda: acto de desobediencia civil en Barranquilla el 7 de agosto"
+      "url": "https://www.vanguardia.com/colombia/2026/08/03/petro-e-ivan-cepeda-respaldan-las-movilizaciones-del-7-de-agosto-y-defienden-la-desobediencia-civil/",
+      "url_label": "Vanguardia — Petro y Cepeda defienden las concentraciones del 7 de agosto"
     },
     {
       "filter": "valencia",
@@ -328,11 +328,11 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 70,
+        "positivo": 71,
         "negativo": 22,
         "neutro": 8,
         "tendencia": "up",
-        "tendencia_texto": "3 ago — POSESIÓN EN CALI (3 ago): reveló que la ceremonia del 7 de agosto será 50% más barata que la de 2022 y espera 6.000 visitantes — mensaje de austeridad bien recibido por medios y ciudadanía. DEFIENDE CALI (2 ago): agradeció al Congreso por aprobar el traslado histórico y reafirmó 'nueva etapa' para Colombia. INTERNACIONALES: Felipe VI (España), Milei (Argentina) y Santiago Peña (Paraguay) confirmados. A 4 DÍAS DE LA POSESIÓN: logística y seguridad en Arena USC preparadas. CARRO BOMBA CÚCUTA (1 ago): respuesta firme 'El terrorismo no doblegará a Colombia' consolidó perfil de autoridad. Sentimiento sube (68→70): austeridad y orden pre-posesión amplifican imagen presidencial positiva."
+        "tendencia_texto": "4 ago — SAMPER Y SANTOS EXCLUIDOS (4 ago): De la Espriella instruyó que los expresidentes Ernesto Samper y Juan Manuel Santos no sean invitados a la posesión del 7 de agosto — decisión protocolariamente inusual que genera debate en medios. POSESIÓN EN CALI (3 ago): ceremonia 50% más barata que 2022, 6.000 visitantes esperados a las 3:00 p. m. en Arena USC. DESESTABILIZACIÓN (3 ago): calificó los actos de desobediencia civil del PH como intento de 'desestabilizar la democracia'. INTERNACIONALES confirmados: Felipe VI, Milei, Noboa, Kast, Paz. A 3 DÍAS DE LA POSESIÓN. Sentimiento sube (70→71): debate por exclusión de expresidentes abre nueva narrativa de contraste político."
       },
       {
         "nombre": "Cepeda",
@@ -341,7 +341,7 @@
         "negativo": 60,
         "neutro": 18,
         "tendencia": "down",
-        "tendencia_texto": "3 ago — PH CONCENTRACIONES (1 ago): Pacto Histórico anunció actos simultáneos en Bogotá, Cali y Barranquilla el 7 ago — Cepeda insiste en oposición 'democrática, pacífica y firme'. RICK SCOTT (30 jul): senador republicano criticó llamado a desobediencia: 'Solo les importa el poder'. RIESGO DISCIPLINARIO: alerta vigente por ausencia al Congreso en Cali el 7 ago. NO-RECONOCIMIENTO: Petro, Cepeda y toda la bancada PH ratifican ausencia en la ceremonia de Cali. Sentimiento baja (59→60): amplificación del no-reconocimiento y presión internacional refuerzan percepción negativa en medios."
+        "tendencia_texto": "4 ago — PETRO Y CEPEDA JUNTOS (3 ago): tanto el presidente saliente como Cepeda defendieron conjuntamente las concentraciones del 7 de agosto — Cepeda: 'acciones fundamentalmente no violentas'. ESPRIELLA RESPONDE (3 ago): acusó a la izquierda de querer 'desestabilizar la democracia'. RICK SCOTT (30 jul): presión internacional persiste — 'solo les importa el poder'. RIESGO DISCIPLINARIO: alerta vigente por ausencia al Congreso en Cali el 7 ago. NO-RECONOCIMIENTO: Petro y toda la bancada PH ratifican ausencia en Cali. Sentimiento estable (60): oposición visible pero polarizadora — percepción negativa en medios de derecha, positiva en base."
       },
       {
         "nombre": "Valencia",
@@ -350,7 +350,7 @@
         "negativo": 19,
         "neutro": 15,
         "tendencia": "up",
-        "tendencia_texto": "3 ago — SIN NOVEDADES MAYORES: Paloma Valencia mantiene actividad política post-campaña enfocada en control político. ÚLTIMAS NOTICIAS (29 jul): celebró condena de 9 años a exgobernador Caicedo por corrupción y exigió investigación de la Fiscalía sobre muerte del coronel Dávila. Su postura de oposición democrática al PH y respaldo tácito a De la Espriella mantiene imagen positiva. Sentimiento estable (66): coherencia entre discurso anticorrupción y acciones mantiene posicionamiento sólido."
+        "tendencia_texto": "4 ago — SIN NOVEDADES MAYORES: Paloma Valencia mantiene actividad política post-campaña enfocada en control político. ÚLTIMAS NOTICIAS (29 jul): celebró condena de 9 años a exgobernador Caicedo por corrupción y exigió investigación de la Fiscalía sobre muerte del coronel Dávila. POSESIÓN 7 AGO: Valencia asistirá a la ceremonia en Cali como aliada del gobierno electo. Sentimiento estable (66): coherencia entre discurso anticorrupción y respaldo a De la Espriella mantiene posicionamiento sólido."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "TRANSICIÓN FINAL — 3 de agosto de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). A 4 DÍAS DE LA POSESIÓN: ceremonia el 7 de agosto en Arena USC de Cali — 50% más austera que 2022, 6.000 visitantes esperados. Primera posesión fuera de Bogotá en la historia reciente. SEGURIDAD: carro bomba en Cúcuta (1 ago) 11 heridos — De la Espriella: 'El terrorismo no doblegará a Colombia'. PAZ TOTAL: desmontará política de Petro desde el 7 ago. GABINETE COMPLETO: 32 ministerios. INTERNACIONALES: Felipe VI (España), Milei (Argentina), Santiago Peña (Paraguay) confirmados. OPOSICIÓN (PH): Cepeda lidera concentraciones en Bogotá, Cali y Barranquilla el 7 ago — 'democráticas y pacíficas'. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026 en Cali."
+    "resumen_analisis": "TRANSICIÓN FINAL — 4 de agosto de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). A 3 DÍAS DE LA POSESIÓN: ceremonia el 7 de agosto a las 3:00 p. m. en Arena USC de Cali — 50% más austera que 2022, 6.000 visitantes esperados. Primera posesión fuera de Bogotá en la historia reciente. PROTOCOLO (4 ago): expresidentes Samper y Santos excluidos de la ceremonia por instrucción directa de De la Espriella. INTERNACIONALES confirmados: Felipe VI, Milei, Noboa, Kast, Paz. OPOSICIÓN (PH): Petro y Cepeda defendieron conjuntamente (3 ago) las concentraciones pacíficas en Bogotá, Cali y Barranquilla — Espriella los acusa de 'desestabilizar la democracia'. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026 en Cali."
   },
-  "ultimo_deploy": "3 de agosto de 2026"
+  "ultimo_deploy": "4 de agosto de 2026"
 }
