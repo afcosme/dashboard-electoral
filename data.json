@@ -1,5 +1,5 @@
 {
-  "fecha": "4 de agosto de 2026",
+  "fecha": "7 de agosto de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,227 +100,227 @@
   "noticias": [
     {
       "filter": "espriella",
-      "fuente": "El Tiempo / El Colombiano",
+      "fuente": "Infobae / El Colombiano",
       "fuente_color": "#e74c3c",
-      "fecha": "1 ago 2026",
-      "tag": "ESPRIELLA · Cúcuta · Seguridad · Carro bomba",
+      "fecha": "7 ago 2026",
+      "tag": "ESPRIELLA · Posesión Cali · 43° Presidente · Historia",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella condena carro bomba en Cúcuta que dejó 11 heridos: 'El terrorismo no doblegará a Colombia'",
-      "resumen": "Un carro bomba explotó en la madrugada del 1 de agosto frente al comando de la Policía de Norte de Santander en Cúcuta, dejando 11 heridos (8 uniformados y 3 civiles). El presidente electo Abelardo De la Espriella condenó el ataque con firmeza: 'Condeno con absoluta firmeza el cobarde atentado terrorista perpetrado en Cúcuta contra nuestra Policía Nacional. A nuestros héroes de la Fuerza Pública: no están solos. Colombia y el tigre los respalda.' Anunció que los responsables serán 'identificados, capturados y entregados a la justicia con todo el peso de la ley.' El incidente refuerza la agenda de seguridad del gobierno entrante, que a partir del 7 de agosto desmontará la 'paz total' y reactivará órdenes de captura contra grupos armados ilegales.",
+      "titulo": "De la Espriella asume la presidencia en Cali: Colombia tiene nuevo presidente por primera vez fuera de Bogotá",
+      "resumen": "Abelardo De la Espriella asumió hoy como el 43° presidente constitucional de Colombia en la Arena USC de la Universidad Santiago de Cali, a las 3:00 de la tarde. Es la primera transmisión de mando presidencial fuera de Bogotá en la historia moderna del país. Acompañaron la ceremonia el rey Felipe VI de España, Javier Milei (Argentina), Santiago Peña (Paraguay), Daniel Noboa (Ecuador), José Antonio Kast (Chile) y Rodrigo Paz (Bolivia). De la Espriella recibió la banda presidencial de manos del presidente del Senado, Honorio Henríquez, y pronunció su primer discurso como Jefe de Estado ante más de 6.000 asistentes. El acto marca el fin de cuatro años de gobierno de Gustavo Petro y el inicio del período 2026-2030.",
+      "objetividad": 94,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Posesión en Arena USC confirmada — Infobae, El Colombiano (7 ago)"
+        },
+        {
+          "ok": true,
+          "texto": "Mandatarios internacionales confirmados: Felipe VI, Milei, Noboa, Kast, Paz, Peña"
+        },
+        {
+          "ok": false,
+          "texto": "Contenido del primer discurso presidencial en desarrollo al cierre de edición"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/08/06/posesion-de-abelardo-de-la-espriella-en-vivo-gobierno-electo-aclara-polemica-por-la-invitacion-de-11-paises-europeos/",
+      "url_label": "Infobae — Posesión De la Espriella EN VIVO: delegaciones y novedades del 7 de agosto"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "CNN en Español",
+      "fuente_color": "#e74c3c",
+      "fecha": "6 ago 2026",
+      "tag": "ESPRIELLA · Polarización · Cambio de gobierno · CNN",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella asume Colombia ante una polarización pocas veces vista",
+      "resumen": "CNN en Español publicó el 6 de agosto un análisis sobre el inicio del gobierno de Abelardo de la Espriella en medio de una polarización política 'pocas veces vista' en el país. El presidente llega al poder con el respaldo del rey Felipe VI, Milei y otros líderes de derecha internacional, pero con una oposición organizada que convocó concentraciones simultáneas en tres ciudades el día de la posesión. El Pacto Histórico y el presidente saliente Gustavo Petro han calificado su gobierno como una amenaza para los derechos sociales y el proceso de paz. La tensión es palpable: mientras el nuevo presidente habla de 'seguridad y progreso', la izquierda anuncia movilizaciones permanentes desde el primer día.",
+      "objetividad": 91,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Análisis de CNN sobre polarización publicado el 6 ago — CNN en Español"
+        },
+        {
+          "ok": true,
+          "texto": "Tensión oposición-gobierno confirmada: PH anuncia movilizaciones desde 7 ago"
+        },
+        {
+          "ok": false,
+          "texto": "Comparación histórica de polarización con gobiernos anteriores es editorial"
+        }
+      ],
+      "url": "https://cnnespanol.cnn.com/2026/08/06/colombia/de-la-espriella-asume-colombia-tension-oposicion-orix",
+      "url_label": "CNN en Español — De la Espriella asume Colombia ante una polarización pocas veces vista"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Colombiano",
+      "fuente_color": "#e74c3c",
+      "fecha": "6 ago 2026",
+      "tag": "ESPRIELLA · Cali · Seguridad · Pie de fuerza",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "Cali refuerza pie de fuerza y despliega uniformados para blindar la posesión de De la Espriella",
+      "resumen": "El Colombiano reportó el 6 de agosto que la ciudad de Cali reforzó masivamente su pie de fuerza —con Policía, Ejército y Armada— para garantizar la seguridad durante la posesión presidencial del 7 de agosto en la Arena USC. La medida busca blindar el evento ante las concentraciones anunciadas por el Pacto Histórico en la misma ciudad. El Alcalde de Cali coordinó con el Ministerio de Defensa las medidas de contingencia, que incluyen restricción de vuelos sobre el área de la ceremonia y controles vehiculares en principales accesos. El diario destacó que Gianni Infantino (FIFA) finalmente no asistirá, pero los demás invitados internacionales ya se encontraban en la ciudad al cierre de edición.",
+      "objetividad": 92,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Refuerzo del pie de fuerza confirmado — El Colombiano (6 ago)"
+        },
+        {
+          "ok": true,
+          "texto": "Infantino no asistirá confirmado por el artículo"
+        },
+        {
+          "ok": false,
+          "texto": "Número exacto de uniformados desplegados no especificado en fuente"
+        }
+      ],
+      "url": "https://www.elcolombiano.com/inicio/de-la-espriella-cali-posesion-presidencial-medidas-BE39681202",
+      "url_label": "El Colombiano — Sin Infantino y con refuerzo del pie de fuerza: así avanza Cali hacia la posesión"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Infobae",
+      "fuente_color": "#2980b9",
+      "fecha": "7 ago 2026",
+      "tag": "Cepeda · Oposición · Barranquilla · Concentraciones 7A",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda lidera actos de oposición en Barranquilla durante la posesión de De la Espriella",
+      "resumen": "El senador Iván Cepeda encabezó el 7 de agosto las concentraciones pacíficas del Pacto Histórico en Barranquilla —en la Carrera 4 con calle Murillo—, en simultánea con la posesión de Abelardo de la Espriella en Cali. Los actos de oposición también se realizaron en Puerto Resistencia (Cali) y la Plaza Núñez del Capitolio Nacional (Bogotá). El Pacto Histórico presentó estas movilizaciones como 'expresión pacífica de soberanía popular y desobediencia civil'. Cepeda anunció que la bancada —26 senadores y 43 representantes— usará todos los mecanismos constitucionales para rechazar decisiones del Ejecutivo que afecten derechos sociales, la soberanía nacional o el proceso de paz.",
       "objetividad": 93,
       "criterios": [
         {
           "ok": true,
-          "texto": "Carro bomba confirmado: 11 heridos (8 policías + 3 civiles) — El Colombiano, El Tiempo (1 ago)"
+          "texto": "Concentraciones en 3 ciudades confirmadas — Infobae (7 ago)"
         },
         {
           "ok": true,
-          "texto": "Declaración de De la Espriella: 'El terrorismo no doblegará a Colombia' — Vanguardia, El Heraldo (1 ago)"
+          "texto": "Cepeda lideró acto en Barranquilla, Cra 4 con calle Murillo — verificado"
         },
         {
           "ok": false,
-          "texto": "Autoría del atentado no confirmada oficialmente al cierre de la edición"
+          "texto": "Cifra de asistentes a las concentraciones pendiente de cuantificar"
         }
       ],
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/abelardo-de-la-espriella-rechaza-atentados-en-cucuta-el-terrorismo-no-doblegara-a-colombia-3575425",
-      "url_label": "El Tiempo — De la Espriella rechaza atentados en Cúcuta: 'El terrorismo no doblegará a Colombia'"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae",
-      "fuente_color": "#e74c3c",
-      "fecha": "3 ago 2026",
-      "tag": "ESPRIELLA · Posesión Cali · Austeridad · 6.000 visitantes",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella revela detalles de su posesión en Cali: será 50% más barata y espera 6.000 visitantes",
-      "resumen": "A cuatro días de la posesión, Abelardo De la Espriella reveló los detalles logísticos de la ceremonia del 7 de agosto en la Arena USC de Cali. La inauguración será un 50% más económica que la realizada hace cuatro años y espera recibir a unos 6.000 visitantes entre delegaciones internacionales, congresistas y ciudadanía. La ceremonia comenzará en la mañana e incluirá honores militares en el Cantón Pichincha. Será la primera posesión presidencial fuera de Bogotá en la historia reciente del país.",
-      "objetividad": 95,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Posesión 50% más barata confirmada — Infobae (3 ago)"
-        },
-        {
-          "ok": true,
-          "texto": "6.000 visitantes esperados, Arena USC de Cali — Infobae (3 ago)"
-        },
-        {
-          "ok": false,
-          "texto": "Lista definitiva de mandatarios internacionales confirmados en actualización"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/08/03/abelardo-de-la-espriella-revela-los-detalles-de-su-posesion-en-cali-sera-50-mas-barata-y-espera-6000-visitantes/",
-      "url_label": "Infobae — De la Espriella: posesión en Cali será 50% más barata y espera 6.000 visitantes"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "La Linterna Azul / El Tiempo",
-      "fuente_color": "#e74c3c",
-      "fecha": "4 ago 2026",
-      "tag": "ESPRIELLA · Posesión Cali · Samper · Santos · Protocolo",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella excluye a Samper y Santos de su posesión en Cali",
-      "resumen": "A tres días de la posesión presidencial en la Arena USC de Cali, trascendió que Abelardo de la Espriella instruyó directamente a su equipo de protocolo para que los expresidentes Ernesto Samper y Juan Manuel Santos no fueran invitados a la ceremonia del 7 de agosto. La decisión marca un contraste con el protocolo diplomático habitual y genera controversia. El presidente electo mantiene la invitación a mandatarios internacionales: el rey Felipe VI de España, Javier Milei (Argentina), Daniel Noboa (Ecuador), José Antonio Kast (Chile) y Rodrigo Paz (Bolivia). La ceremonia está programada para las 3:00 p. m. en la Arena USC.",
-      "objetividad": 91,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Exclusión de Samper y Santos confirmada — La Linterna Azul (4 ago)"
-        },
-        {
-          "ok": true,
-          "texto": "Mandatarios internacionales confirmados: Felipe VI, Milei, Noboa, Kast, Paz"
-        },
-        {
-          "ok": false,
-          "texto": "Reacción oficial de Samper y Santos a la exclusión pendiente"
-        }
-      ],
-      "url": "https://lalinternaazul2.wordpress.com/2026/08/04/de-la-espriella-deja-por-fuera-a-samper-y-santos-de-su-posesion-presidencial/",
-      "url_label": "La Linterna Azul — De la Espriella excluye a Samper y Santos de su posesión"
+      "url": "https://www.infobae.com/colombia/2026/08/07/ivan-cepeda-liderara-actos-de-oposicion-el-7-de-agosto-durante-posesion-de-de-la-espriella/",
+      "url_label": "Infobae — Cepeda liderará actos de oposición el 7 de agosto durante posesión de De la Espriella"
     },
     {
       "filter": "cepeda",
-      "fuente": "Infobae",
+      "fuente": "Semana",
       "fuente_color": "#2980b9",
-      "fecha": "30 jul 2026",
-      "tag": "Cepeda · Rick Scott · Desobediencia civil · EE.UU.",
+      "fecha": "6 ago 2026",
+      "tag": "Cepeda · Manifestaciones · Oposición · Llamado final",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Senador Rick Scott cuestiona a Cepeda y Petro por desobediencia civil: 'Solo les importa el poder'",
-      "resumen": "El senador republicano estadounidense Rick Scott cuestionó el 30 de julio el llamado de Iván Cepeda y Gustavo Petro a la desobediencia civil contra el gobierno electo de Abelardo de la Espriella, asegurando que sus acciones 'no buscan vindicar los derechos de los colombianos, sino que responden a intereses egoístas'. En entrevista con Caracol Radio declaró: 'Solo les importa el poder.' Scott expresó además su confianza en De la Espriella como presidente. La presión internacional suma un nuevo frente crítico a la postura de Cepeda, quien ya enfrenta riesgo disciplinario por no asistir a la posesión en Cali.",
+      "titulo": "Último llamado de Cepeda antes del 7 de agosto: 'No nos dejemos llevar por estrategias de miedo'",
+      "resumen": "A un día de las concentraciones del Pacto Histórico, el senador Iván Cepeda lanzó su último llamado el 6 de agosto: 'No nos dejemos llevar por estrategias de miedo.' El líder de la oposición reiteró que los actos en Barranquilla, Cali y Bogotá serán pacíficos y constitucionales, y convocó a la ciudadanía a expresar su desacuerdo con el nuevo gobierno de manera organizada. Cepeda dejó claro que no asistirá a la posesión en Cali y que liderará personalmente el acto en Barranquilla, ratificando la postura del Pacto Histórico de ejercer oposición desde el primer día del gobierno De la Espriella.",
+      "objetividad": 92,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Declaración de Cepeda publicada en Semana el 6 ago"
+        },
+        {
+          "ok": true,
+          "texto": "Ausencia de Cepeda en posesión de Cali — confirmada en múltiples medios"
+        },
+        {
+          "ok": false,
+          "texto": "Convocatoria ciudadana y asistencia final pendiente de cuantificar"
+        }
+      ],
+      "url": "https://www.semana.com/politica/articulo/el-ultimo-llamado-de-ivan-cepeda-previo-a-las-manifestaciones-del-7-de-agosto-no-nos-dejemos-llevar-por-estrategias-de-miedo/202603/",
+      "url_label": "Semana — El último llamado de Cepeda: 'No nos dejemos llevar por estrategias de miedo'"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "El Espectador",
+      "fuente_color": "#2980b9",
+      "fecha": "7 ago 2026",
+      "tag": "Cepeda · PH · Estrategia · Oposición constitucional",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Así será la estrategia del PH para el 7 de agosto: control político, bloqueos legislativos y movilización",
+      "resumen": "El Espectador reveló los detalles de la hoja de ruta del Pacto Histórico para hacerle oposición constitucional al gobierno de Abelardo de la Espriella desde el primer día. La estrategia combina: control político a ministros y entidades, coalición con sectores de centro en el Congreso para frenar reformas estructurales (salud, pensiones, justicia), movilización callejera permanente y comunicación directa con la ciudadanía a través de redes. Cepeda precisó que el PH no apoyará 'ningún proyecto que lesione el Estado Social de Derecho' e interpondrán todas las acciones legales disponibles si el gobierno vulnera derechos fundamentales.",
       "objetividad": 90,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaraciones de Rick Scott en Caracol Radio el 30 jul — Infobae"
+          "texto": "Estrategia del PH publicada por El Espectador (7 ago)"
         },
         {
           "ok": true,
-          "texto": "Cuestionó tanto a Cepeda como a Petro por la desobediencia civil"
+          "texto": "Cepeda: 'no apoyará ningún proyecto que lesione el Estado Social de Derecho'"
         },
         {
           "ok": false,
-          "texto": "Respuesta de Cepeda o el PH a las declaraciones de Scott no reportada"
+          "texto": "Detalles de coaliciones con partidos de centro en definición"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/07/30/rick-scott-senador-estadounidense-cuestiono-el-llamado-de-ivan-cepeda-y-gustavo-petro-a-una-desobediencia-civil-solo-les-importa-el-poder/",
-      "url_label": "Infobae — Rick Scott: 'Solo les importa el poder' — cuestiona desobediencia civil de Cepeda y Petro"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Vanguardia / Semana",
-      "fuente_color": "#2980b9",
-      "fecha": "1 ago 2026",
-      "tag": "Cepeda · Pacto Histórico · Concentraciones · 3 ciudades",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Pacto Histórico anuncia concentraciones simultáneas en Bogotá, Cali y Barranquilla el 7 de agosto",
-      "resumen": "El Pacto Histórico anunció el 1 de agosto concentraciones simultáneas en tres ciudades —Bogotá, Cali y Barranquilla— el día de la posesión de Abelardo de la Espriella. Iván Cepeda aseguró que las actividades serán 'democráticas, pacíficas y firmes', sin marchas ni bloqueos. La bancada del PH (26 senadores, 43 representantes) usará todos los mecanismos constitucionales para responder a decisiones del Ejecutivo que afecten derechos sociales. Petro, Cepeda y toda la bancada ratificaron su ausencia en la ceremonia de Cali.",
-      "objetividad": 91,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "PH anuncia concentraciones en 3 ciudades el 7 ago — Vanguardia (1 ago)"
-        },
-        {
-          "ok": true,
-          "texto": "Cepeda: actividades 'democráticas, pacíficas y firmes' — reiterado en medios"
-        },
-        {
-          "ok": false,
-          "texto": "Convocatoria ciudadana y asistencia esperada pendiente de cuantificar"
-        }
-      ],
-      "url": "https://www.vanguardia.com/colombia/2026/08/01/pacto-historico-anuncia-concentraciones-ante-la-posesion-de-abelardo-de-la-espriella/",
-      "url_label": "Vanguardia — PH anuncia concentraciones en 3 ciudades el 7 de agosto"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Vanguardia / Q'hubo Bogotá",
-      "fuente_color": "#2980b9",
-      "fecha": "3 ago 2026",
-      "tag": "Cepeda · Petro · Desobediencia civil · Concentraciones pacíficas",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Petro y Cepeda defienden concentraciones del 7 de agosto: 'Expresión de soberanía popular'",
-      "resumen": "El presidente saliente Gustavo Petro y el senador Iván Cepeda respaldaron el 3 de agosto las concentraciones pacíficas convocadas para el día de la posesión de Abelardo de la Espriella. Cepeda reiteró que los actos en Bogotá, Cali y Barranquilla son 'acciones de desobediencia civil, de expresión de nuestra oposición, pero de carácter fundamentalmente no violento', y descartó marchas o bloqueos. De la Espriella respondió que la desobediencia civil convocada por la izquierda 'busca desestabilizar la democracia'. La tensión política se intensifica a tres días de la inauguración en Cali.",
-      "objetividad": 91,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Petro y Cepeda defienden concentraciones — Vanguardia (3 ago)"
-        },
-        {
-          "ok": true,
-          "texto": "De la Espriella: 'busca desestabilizar la democracia' — La Patria (3 ago)"
-        },
-        {
-          "ok": false,
-          "texto": "Convocatoria ciudadana y asistencia esperada pendiente de cuantificar"
-        }
-      ],
-      "url": "https://www.vanguardia.com/colombia/2026/08/03/petro-e-ivan-cepeda-respaldan-las-movilizaciones-del-7-de-agosto-y-defienden-la-desobediencia-civil/",
-      "url_label": "Vanguardia — Petro y Cepeda defienden las concentraciones del 7 de agosto"
+      "url": "https://www.elespectador.com/politica/asi-sera-la-estrategia-del-pacto-historico-para-el-7-de-agosto-durante-posesion-de-de-la-espriella-esto-dijo-ivan-cepeda-noticias-hoy/",
+      "url_label": "El Espectador — Así será la estrategia del PH para el 7 de agosto: esto dijo Iván Cepeda"
     },
     {
       "filter": "valencia",
-      "fuente": "Infobae / Seguimiento.co",
+      "fuente": "El Tiempo / La Opinión",
       "fuente_color": "#9b59b6",
-      "fecha": "29 jul 2026",
-      "tag": "Valencia · Caicedo · Corrupción · Condena 9 años",
+      "fecha": "7 ago 2026",
+      "tag": "Valencia · No invitada · Posesión Cali · CD",
       "tag_color": "#8e44ad",
       "tag_bg": "rgba(142,68,173,0.12)",
-      "titulo": "Valencia celebra condena de 9 años al exgobernador Carlos Caicedo y lanza duro mensaje al Pacto Histórico",
-      "resumen": "Paloma Valencia celebró el 29 de julio la condena de nueve años de prisión impuesta por el Juzgado Noveno Penal de Bogotá al exgobernador del Magdalena Carlos Caicedo, por un contrato sin requisitos legales en concurso heterogéneo con peculado por apropiación. Valencia declaró: 'Es una buena noticia para Colombia. Las penas para los corruptos deben ser cada vez más duras y ejemplarizantes. La corrupción no puede seguir drenando a Colombia.' Caicedo había respaldado la candidatura de Iván Cepeda en la segunda vuelta presidencial.",
-      "objetividad": 91,
+      "titulo": "Paloma Valencia confirma que no fue invitada a la posesión de De la Espriella: 'No estoy invitada'",
+      "resumen": "La excandidata presidencial y senadora Paloma Valencia confirmó el 7 de agosto que no fue invitada a la posesión presidencial de Abelardo de la Espriella en Cali, pese a haberle dado su apoyo formal en la segunda vuelta y haber movilizado la maquinaria del Centro Democrático con el aval de Álvaro Uribe. Valencia declaró públicamente: 'No estoy invitada.' La exclusión, que se suma a la de los expresidentes Samper y Santos, revela profundas fricciones entre el CD y el gobierno entrante. Fuentes del entorno de De la Espriella señalan que la decisión responde a tensiones surgidas durante la campaña. Valencia deberá definir en las próximas semanas el rol del Centro Democrático frente a la nueva administración.",
+      "objetividad": 93,
       "criterios": [
         {
           "ok": true,
-          "texto": "Condena de 9 años confirmada por el Juzgado Noveno Penal de Bogotá el 29 jul"
+          "texto": "Exclusión de Valencia confirmada — El Tiempo, La Opinión, La Linterna Azul (7 ago)"
         },
         {
           "ok": true,
-          "texto": "Declaraciones de Valencia en medios el 29 jul — Infobae, Seguimiento.co"
+          "texto": "Declaración 'No estoy invitada' reportada en múltiples medios"
         },
         {
           "ok": false,
-          "texto": "Posible apelación de Caicedo a la condena pendiente de definirse"
+          "texto": "Causas oficiales de la exclusión no confirmadas por el equipo de De la Espriella"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/07/29/paloma-valencia-celebro-la-condena-de-nueve-anos-de-prision-contra-carlos-caicedo-y-lanzo-duro-mensaje-al-pacto-historico/",
-      "url_label": "Infobae — Valencia celebra condena de 9 años a Caicedo: 'Las penas para los corruptos deben ser más duras'"
+      "url": "https://www.eltiempo.com/amp/politica/partidos-politicos/paloma-valencia-no-fue-invitada-a-la-posesion-presidencial-de-abelardo-de-la-espriella-en-cali-3576196",
+      "url_label": "El Tiempo — Valencia no fue invitada a la posesión de De la Espriella en Cali"
     },
     {
       "filter": "valencia",
-      "fuente": "El Tiempo / Infobae",
+      "fuente": "Infobae",
       "fuente_color": "#9b59b6",
-      "fecha": "29 jul 2026",
-      "tag": "Valencia · Fiscalía · Coronel Dávila · Angie Rodríguez",
+      "fecha": "4 ago 2026",
+      "tag": "Valencia · Posesión · CD · 'No me invitaron'",
       "tag_color": "#8e44ad",
       "tag_bg": "rgba(142,68,173,0.12)",
-      "titulo": "Valencia exige a la Fiscalía investigar la muerte del coronel Óscar Dávila: 'Sumamente grave' tras declaraciones de Angie Rodríguez",
-      "resumen": "La excandidata presidencial Paloma Valencia exigió el 29 de julio a la Fiscalía General una investigación exhaustiva y transparente sobre la muerte del coronel Óscar Dávila, luego de que Angie Rodríguez (directora del Fondo de Adaptación) revelara en Blu Radio que recibió advertencias policiales al llegar al cargo y expresara temor de hablar sobre los hechos del gobierno Petro. Valencia escribió en X: 'Angie Rodríguez afirma que la muerte del coronel Dávila no fue suicidio, sino asesinato para silenciarlo', y exigió garantías para quienes aporten información a las autoridades.",
-      "objetividad": 88,
+      "titulo": "'No me invitaron': Valencia habló del papel del Centro Democrático en el nuevo gobierno",
+      "resumen": "Paloma Valencia habló el 4 de agosto sobre la posesión de Abelardo de la Espriella y el rol que jugará el Centro Democrático en la nueva legislatura. Ante la pregunta de si asistiría a la ceremonia del 7 de agosto en Cali, Valencia fue directa: 'No me invitaron.' La senadora aclaró que el CD seguirá siendo un partido crítico e independiente frente al gobierno, sin perder su identidad ideológica. Reconoció fricciones en la relación con el equipo del presidente electo, pero afirmó que el Centro Democrático actuará 'con altura' en el Congreso. La exclusión de Valencia de la lista de invitados sorprendió a analistas, dado que su apoyo fue clave para la victoria de De la Espriella en segunda vuelta.",
+      "objetividad": 92,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaraciones de Angie Rodríguez en Blu Radio el 28 jul — verificado"
+          "texto": "Valencia declara 'No me invitaron' — Infobae (4 ago)"
         },
         {
           "ok": true,
-          "texto": "Valencia exigió investigación en X y medios el 29 jul — El Tiempo, Infobae"
+          "texto": "Fricciones CD-gobierno electo reportadas por múltiples medios"
         },
         {
           "ok": false,
-          "texto": "Respuesta de la Fiscalía a la solicitud de Valencia pendiente"
+          "texto": "Definición oficial del rol del CD en el nuevo gobierno pendiente"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/07/29/paloma-valencia-exigio-a-la-fiscalia-una-investigacion-a-fondo-por-la-muerte-del-coronel-oscar-davila-tras-revelaciones-de-angie-rodriguez/",
-      "url_label": "Infobae — Valencia exige a la Fiscalía investigar muerte del coronel Dávila"
+      "url": "https://www.infobae.com/colombia/2026/08/04/paloma-valencia-hablo-de-la-posesion-de-de-la-espriella-y-del-papel-del-centro-democratico-no-me-invitaron/",
+      "url_label": "Infobae — Valencia: 'No me invitaron' a la posesión de De la Espriella"
     }
   ],
   "sentimiento": {
@@ -328,29 +328,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 71,
-        "negativo": 22,
-        "neutro": 8,
+        "positivo": 74,
+        "negativo": 20,
+        "neutro": 6,
         "tendencia": "up",
-        "tendencia_texto": "4 ago — SAMPER Y SANTOS EXCLUIDOS (4 ago): De la Espriella instruyó que los expresidentes Ernesto Samper y Juan Manuel Santos no sean invitados a la posesión del 7 de agosto — decisión protocolariamente inusual que genera debate en medios. POSESIÓN EN CALI (3 ago): ceremonia 50% más barata que 2022, 6.000 visitantes esperados a las 3:00 p. m. en Arena USC. DESESTABILIZACIÓN (3 ago): calificó los actos de desobediencia civil del PH como intento de 'desestabilizar la democracia'. INTERNACIONALES confirmados: Felipe VI, Milei, Noboa, Kast, Paz. A 3 DÍAS DE LA POSESIÓN. Sentimiento sube (70→71): debate por exclusión de expresidentes abre nueva narrativa de contraste político."
+        "tendencia_texto": "7 ago — DÍA DE POSESIÓN: Abelardo De la Espriella asume como 43° presidente de Colombia en la Arena USC de Cali (3:00 PM) — primera transmisión de mando fuera de Bogotá. INTERNACIONALES (7 ago): Felipe VI, Milei, Noboa, Kast, Paz, Peña. POLARIZACIÓN (6 ago - CNN): asume ante 'polarización pocas veces vista'. CONCENTRACIONES PH: actos de oposición simultáneos en Barranquilla, Cali y Bogotá durante la ceremonia. EXCLUSIONES: Paloma Valencia y expresidentes Samper y Santos no invitados. Sentimiento sube (71→74): posesión histórica y cobertura internacional impulsan percepción positiva."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 22,
-        "negativo": 60,
-        "neutro": 18,
-        "tendencia": "down",
-        "tendencia_texto": "4 ago — PETRO Y CEPEDA JUNTOS (3 ago): tanto el presidente saliente como Cepeda defendieron conjuntamente las concentraciones del 7 de agosto — Cepeda: 'acciones fundamentalmente no violentas'. ESPRIELLA RESPONDE (3 ago): acusó a la izquierda de querer 'desestabilizar la democracia'. RICK SCOTT (30 jul): presión internacional persiste — 'solo les importa el poder'. RIESGO DISCIPLINARIO: alerta vigente por ausencia al Congreso en Cali el 7 ago. NO-RECONOCIMIENTO: Petro y toda la bancada PH ratifican ausencia en Cali. Sentimiento estable (60): oposición visible pero polarizadora — percepción negativa en medios de derecha, positiva en base."
+        "positivo": 26,
+        "negativo": 57,
+        "neutro": 17,
+        "tendencia": "up",
+        "tendencia_texto": "7 ago — OPOSICIÓN ACTIVA: Cepeda lidera concentraciones simultáneas en Barranquilla (Cra 4 con Murillo), Cali (Puerto Resistencia) y Bogotá (Plaza Núñez) durante la posesión de De la Espriella. ÚLTIMO LLAMADO (6 ago - Semana): 'No nos dejemos llevar por estrategias de miedo'. ESTRATEGIA PH (El Espectador): control político, bloqueos legislativos, movilización permanente desde el primer día. BANCADA: 26 senadores y 43 representantes anuncian oposición constitucional activa. Sentimiento mejora levemente (22→26 positivo): visibilidad de la oposición organizada sube aunque percepción en medios de derecha sigue siendo negativa."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 66,
-        "negativo": 19,
-        "neutro": 15,
-        "tendencia": "up",
-        "tendencia_texto": "4 ago — SIN NOVEDADES MAYORES: Paloma Valencia mantiene actividad política post-campaña enfocada en control político. ÚLTIMAS NOTICIAS (29 jul): celebró condena de 9 años a exgobernador Caicedo por corrupción y exigió investigación de la Fiscalía sobre muerte del coronel Dávila. POSESIÓN 7 AGO: Valencia asistirá a la ceremonia en Cali como aliada del gobierno electo. Sentimiento estable (66): coherencia entre discurso anticorrupción y respaldo a De la Espriella mantiene posicionamiento sólido."
+        "positivo": 58,
+        "negativo": 26,
+        "neutro": 16,
+        "tendencia": "down",
+        "tendencia_texto": "7 ago — NO INVITADA A LA POSESIÓN: Paloma Valencia confirmó hoy que no fue invitada a la ceremonia de Abelardo de la Espriella en Cali, pese a haber respaldado su candidatura y movilizado el CD para la segunda vuelta. Declaró: 'No estoy invitada.' Sumado a la exclusión de Samper y Santos, la situación revela fricciones entre el Centro Democrático y el gobierno entrante. PAPEL CD (4 ago - Infobae): Valencia habló de oposición constructiva e independiente del partido en el nuevo gobierno. Sentimiento baja (66→58): la no-invitación erosiona la narrativa de alianza estratégica y plantea interrogantes sobre el peso real del CD en la nueva administración."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "TRANSICIÓN FINAL — 4 de agosto de 2026. PRESIDENTE ELECTO: Abelardo De la Espriella (49,66% / 12.960.166 votos). A 3 DÍAS DE LA POSESIÓN: ceremonia el 7 de agosto a las 3:00 p. m. en Arena USC de Cali — 50% más austera que 2022, 6.000 visitantes esperados. Primera posesión fuera de Bogotá en la historia reciente. PROTOCOLO (4 ago): expresidentes Samper y Santos excluidos de la ceremonia por instrucción directa de De la Espriella. INTERNACIONALES confirmados: Felipe VI, Milei, Noboa, Kast, Paz. OPOSICIÓN (PH): Petro y Cepeda defendieron conjuntamente (3 ago) las concentraciones pacíficas en Bogotá, Cali y Barranquilla — Espriella los acusa de 'desestabilizar la democracia'. POSESIÓN PRESIDENCIAL: 7 de agosto de 2026 en Cali."
+    "resumen_analisis": "DÍA DE POSESIÓN — 7 de agosto de 2026. PRESIDENTE DE COLOMBIA: Abelardo De la Espriella asume hoy como 43° presidente constitucional en la Arena USC de Cali (3:00 PM) — primera posesión fuera de Bogotá en la historia moderna. RESULTADO OFICIAL: 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos). INTERNACIONALES: Felipe VI, Milei, Noboa, Kast, Paz. OPOSICIÓN: Cepeda lidera concentraciones simultáneas en Barranquilla, Cali y Bogotá. EXCLUSIONES: Paloma Valencia, Samper y Santos no fueron invitados a la ceremonia. COLOMBIA CAMBIA: De la Espriella reemplaza a Gustavo Petro tras cuatro años de gobierno del Pacto Histórico."
   },
-  "ultimo_deploy": "4 de agosto de 2026"
+  "ultimo_deploy": "7 de agosto de 2026"
 }
