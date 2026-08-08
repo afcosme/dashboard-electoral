@@ -1,5 +1,5 @@
 {
-  "fecha": "7 de agosto de 2026",
+  "fecha": "8 de agosto de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,31 +100,59 @@
   "noticias": [
     {
       "filter": "espriella",
-      "fuente": "Infobae / El Colombiano",
+      "fuente": "Proceso (México)",
       "fuente_color": "#e74c3c",
-      "fecha": "7 ago 2026",
-      "tag": "ESPRIELLA · Posesión Cali · 43° Presidente · Historia",
+      "fecha": "8 ago 2026",
+      "tag": "ESPRIELLA · Día 1 · Fumigación · Fracking · Agenda",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella asume la presidencia en Cali: Colombia tiene nuevo presidente por primera vez fuera de Bogotá",
-      "resumen": "Abelardo De la Espriella asumió hoy como el 43° presidente constitucional de Colombia en la Arena USC de la Universidad Santiago de Cali, a las 3:00 de la tarde. Es la primera transmisión de mando presidencial fuera de Bogotá en la historia moderna del país. Acompañaron la ceremonia el rey Felipe VI de España, Javier Milei (Argentina), Santiago Peña (Paraguay), Daniel Noboa (Ecuador), José Antonio Kast (Chile) y Rodrigo Paz (Bolivia). De la Espriella recibió la banda presidencial de manos del presidente del Senado, Honorio Henríquez, y pronunció su primer discurso como Jefe de Estado ante más de 6.000 asistentes. El acto marca el fin de cuatro años de gobierno de Gustavo Petro y el inicio del período 2026-2030.",
-      "objetividad": 94,
+      "titulo": "De la Espriella asume con agenda ultratrumpista: retoma fumigación aérea de coca y elimina impuesto a la riqueza",
+      "resumen": "Un día después de su posesión en Cali, la revista Proceso (México) analizó las primeras medidas del gobierno De la Espriella como una 'agenda ultratrumpista': retomó la fumigación aérea con glifosato de cultivos de coca —suspendida desde 2017— en respuesta directa a exigencias de Trump, anunció la eliminación del impuesto a la riqueza, prometió desarrollar el fracking y congeló el gasto público. En el mismo primer día derogó los mecanismos de 'paz total' de Gustavo Petro. Los EEUU respondieron con un anuncio de USD 1.000 millones en apoyo económico y la promesa de revisar aranceles. La agenda marca un giro radical de 180 grados en política exterior e interna respecto al gobierno saliente.",
+      "objetividad": 89,
       "criterios": [
         {
           "ok": true,
-          "texto": "Posesión en Arena USC confirmada — Infobae, El Colombiano (7 ago)"
+          "texto": "Fumigación aérea retomada: confirmada en múltiples medios internacionales (8 ago)"
         },
         {
           "ok": true,
-          "texto": "Mandatarios internacionales confirmados: Felipe VI, Milei, Noboa, Kast, Paz, Peña"
+          "texto": "Apoyo EEUU de USD 1.000M y revisión de aranceles: reportado por Proceso y La Jornada (8 ago)"
         },
         {
           "ok": false,
-          "texto": "Contenido del primer discurso presidencial en desarrollo al cierre de edición"
+          "texto": "Calendario exacto de implementación del fracking y eliminación del impuesto pendiente"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/08/06/posesion-de-abelardo-de-la-espriella-en-vivo-gobierno-electo-aclara-polemica-por-la-invitacion-de-11-paises-europeos/",
-      "url_label": "Infobae — Posesión De la Espriella EN VIVO: delegaciones y novedades del 7 de agosto"
+      "url": "https://www.proceso.com.mx/internacional/2026/8/8/de-la-espriella-asume-la-presidencia-de-colombia-con-una-agenda-ultratrumpista-377659.html",
+      "url_label": "Proceso — De la Espriella asume con agenda ultratrumpista"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "La Jornada / CNN",
+      "fuente_color": "#e74c3c",
+      "fecha": "8 ago 2026",
+      "tag": "ESPRIELLA · Seguridad · Paz total derogada · Ataques",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "'Cero tolerancia a crimen y protesta': De la Espriella deroga la paz total y enfrenta ataques armados en su primer día",
+      "resumen": "Desde el Batallón Pichincha en Cali, el nuevo presidente anunció 'cero tolerancia' al crimen organizado y a la protesta violenta, derogando inmediatamente los mecanismos de 'paz total' de Petro. El 7 de agosto, mismo día de su posesión, se registraron ataques armados contra la estación policial de Porce III en Guadalupe (Antioquia) y una base militar en Planadas (Tolima), atribuidos a grupos guerrilleros, en lo que analistas interpretan como una señal de las organizaciones armadas frente al nuevo gobierno. De la Espriella prometió desplegar las Fuerzas Militares contra el ELN y el Clan del Golfo sin condiciones de diálogo previas. La Jornada (México) tituló: 'Cero tolerancia a crimen y a protesta social: nuevo presidente colombiano'.",
+      "objetividad": 91,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Derogación paz total confirmada: La Jornada, CNN en Español (7-8 ago)"
+        },
+        {
+          "ok": true,
+          "texto": "Ataques en Porce III (Antioquia) y Planadas (Tolima) reportados el 7 ago"
+        },
+        {
+          "ok": false,
+          "texto": "Autoría de los ataques en investigación — no hay confirmación oficial de autoría"
+        }
+      ],
+      "url": "https://www.jornada.com.mx/2026/08/08/mundo/018n1mun",
+      "url_label": "La Jornada — Cero tolerancia a crimen y a protesta social: nuevo presidente colombiano"
     },
     {
       "filter": "espriella",
@@ -135,7 +163,7 @@
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
       "titulo": "De la Espriella asume Colombia ante una polarización pocas veces vista",
-      "resumen": "CNN en Español publicó el 6 de agosto un análisis sobre el inicio del gobierno de Abelardo de la Espriella en medio de una polarización política 'pocas veces vista' en el país. El presidente llega al poder con el respaldo del rey Felipe VI, Milei y otros líderes de derecha internacional, pero con una oposición organizada que convocó concentraciones simultáneas en tres ciudades el día de la posesión. El Pacto Histórico y el presidente saliente Gustavo Petro han calificado su gobierno como una amenaza para los derechos sociales y el proceso de paz. La tensión es palpable: mientras el nuevo presidente habla de 'seguridad y progreso', la izquierda anuncia movilizaciones permanentes desde el primer día.",
+      "resumen": "CNN en Español analizó el inicio del gobierno de Abelardo de la Espriella en medio de una polarización política 'pocas veces vista' en el país. El presidente llegó al poder con el respaldo del rey Felipe VI, Milei y otros líderes de derecha internacional, pero con una oposición organizada que convocó concentraciones simultáneas en tres ciudades el día de la posesión. El Pacto Histórico y el presidente saliente Gustavo Petro han calificado su gobierno como una amenaza para los derechos sociales y el proceso de paz. La tensión es palpable: mientras el nuevo presidente habla de 'seguridad y progreso', la izquierda anuncia movilizaciones permanentes desde el primer día.",
       "objetividad": 91,
       "criterios": [
         {
@@ -155,172 +183,144 @@
       "url_label": "CNN en Español — De la Espriella asume Colombia ante una polarización pocas veces vista"
     },
     {
-      "filter": "espriella",
-      "fuente": "El Colombiano",
-      "fuente_color": "#e74c3c",
-      "fecha": "6 ago 2026",
-      "tag": "ESPRIELLA · Cali · Seguridad · Pie de fuerza",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Cali refuerza pie de fuerza y despliega uniformados para blindar la posesión de De la Espriella",
-      "resumen": "El Colombiano reportó el 6 de agosto que la ciudad de Cali reforzó masivamente su pie de fuerza —con Policía, Ejército y Armada— para garantizar la seguridad durante la posesión presidencial del 7 de agosto en la Arena USC. La medida busca blindar el evento ante las concentraciones anunciadas por el Pacto Histórico en la misma ciudad. El Alcalde de Cali coordinó con el Ministerio de Defensa las medidas de contingencia, que incluyen restricción de vuelos sobre el área de la ceremonia y controles vehiculares en principales accesos. El diario destacó que Gianni Infantino (FIFA) finalmente no asistirá, pero los demás invitados internacionales ya se encontraban en la ciudad al cierre de edición.",
-      "objetividad": 92,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Refuerzo del pie de fuerza confirmado — El Colombiano (6 ago)"
-        },
-        {
-          "ok": true,
-          "texto": "Infantino no asistirá confirmado por el artículo"
-        },
-        {
-          "ok": false,
-          "texto": "Número exacto de uniformados desplegados no especificado en fuente"
-        }
-      ],
-      "url": "https://www.elcolombiano.com/inicio/de-la-espriella-cali-posesion-presidencial-medidas-BE39681202",
-      "url_label": "El Colombiano — Sin Infantino y con refuerzo del pie de fuerza: así avanza Cali hacia la posesión"
-    },
-    {
       "filter": "cepeda",
-      "fuente": "Infobae",
+      "fuente": "Semana",
       "fuente_color": "#2980b9",
       "fecha": "7 ago 2026",
-      "tag": "Cepeda · Oposición · Barranquilla · Concentraciones 7A",
+      "tag": "Cepeda · Gabinete por la Vida · Gobierno alterno · Oposición",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda lidera actos de oposición en Barranquilla durante la posesión de De la Espriella",
-      "resumen": "El senador Iván Cepeda encabezó el 7 de agosto las concentraciones pacíficas del Pacto Histórico en Barranquilla —en la Carrera 4 con calle Murillo—, en simultánea con la posesión de Abelardo de la Espriella en Cali. Los actos de oposición también se realizaron en Puerto Resistencia (Cali) y la Plaza Núñez del Capitolio Nacional (Bogotá). El Pacto Histórico presentó estas movilizaciones como 'expresión pacífica de soberanía popular y desobediencia civil'. Cepeda anunció que la bancada —26 senadores y 43 representantes— usará todos los mecanismos constitucionales para rechazar decisiones del Ejecutivo que afecten derechos sociales, la soberanía nacional o el proceso de paz.",
-      "objetividad": 93,
+      "titulo": "'Gabinete por la Vida': Cepeda anuncia gobierno alterno para vigilar a De la Espriella desde el primer día",
+      "resumen": "Desde Barranquilla, mientras De la Espriella se posesionaba en Cali, el senador Iván Cepeda anunció la creación del 'Gabinete por la Vida', una estructura de oposición paralela integrada por figuras del Pacto Histórico que buscará monitorear, cuestionar y controvertir cada decisión del nuevo gobierno. Cepeda declaró que no reconoce la legitimidad de De la Espriella como jefe de Estado y anunció que este gabinete alterno operará con exministros y congresistas para hacer contrapeso político permanente. La propuesta fue cubierta ampliamente por Semana, Pulzo, 360 Radio y Colombia.com, aunque también generó burlas en redes sociales y fue comparada irónicamente con los 'Sábados Felices' por columnistas de centroderecha.",
+      "objetividad": 90,
       "criterios": [
         {
           "ok": true,
-          "texto": "Concentraciones en 3 ciudades confirmadas — Infobae (7 ago)"
+          "texto": "Anuncio del 'Gabinete por la Vida' confirmado: Semana, Pulzo, 360radio (7 ago)"
         },
         {
           "ok": true,
-          "texto": "Cepeda lideró acto en Barranquilla, Cra 4 con calle Murillo — verificado"
+          "texto": "Cepeda: declaró no reconocer legitimidad de De la Espriella — múltiples fuentes"
         },
         {
           "ok": false,
-          "texto": "Cifra de asistentes a las concentraciones pendiente de cuantificar"
+          "texto": "Composición definitiva del Gabinete por la Vida no detallada en fuentes consultadas"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/08/07/ivan-cepeda-liderara-actos-de-oposicion-el-7-de-agosto-durante-posesion-de-de-la-espriella/",
-      "url_label": "Infobae — Cepeda liderará actos de oposición el 7 de agosto durante posesión de De la Espriella"
+      "url": "https://www.semana.com/politica/articulo/gabinete-por-la-vida-ivan-cepeda-anuncia-gobierno-alterno-para-vigilar-a-de-la-espriella-y-liderar-la-oposicion-desde-el-primer-dia/202623/",
+      "url_label": "Semana — 'Gabinete por la Vida': Cepeda anuncia gobierno alterno"
     },
     {
       "filter": "cepeda",
       "fuente": "Semana",
       "fuente_color": "#2980b9",
-      "fecha": "6 ago 2026",
-      "tag": "Cepeda · Manifestaciones · Oposición · Llamado final",
+      "fecha": "7 ago 2026",
+      "tag": "Cepeda · Gabinete alterno · Reacción · Crítica",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Último llamado de Cepeda antes del 7 de agosto: 'No nos dejemos llevar por estrategias de miedo'",
-      "resumen": "A un día de las concentraciones del Pacto Histórico, el senador Iván Cepeda lanzó su último llamado el 6 de agosto: 'No nos dejemos llevar por estrategias de miedo.' El líder de la oposición reiteró que los actos en Barranquilla, Cali y Bogotá serán pacíficos y constitucionales, y convocó a la ciudadanía a expresar su desacuerdo con el nuevo gobierno de manera organizada. Cepeda dejó claro que no asistirá a la posesión en Cali y que liderará personalmente el acto en Barranquilla, ratificando la postura del Pacto Histórico de ejercer oposición desde el primer día del gobierno De la Espriella.",
+      "titulo": "'¿Gabinete alterno o Sábados Felices?': la reacción dividida ante la propuesta de Iván Cepeda",
+      "resumen": "La propuesta del 'Gabinete por la Vida' de Iván Cepeda generó una respuesta polarizada en Colombia. Mientras sectores del Pacto Histórico aplaudieron la iniciativa como una forma innovadora de hacer oposición estructurada, analistas de centroderecha y columnistas la ridiculizaron en redes comparándola con el programa de humor 'Sábados Felices'. La revista Semana recogió las reacciones: aliados de Cepeda lo defienden como un 'instrumento de democracia y control al poder'; críticos del uribismo lo ven como un 'circo político sin ninguna efectividad real'. La vocera del gobierno de De la Espriella respondió: 'Colombia necesita una oposición seria, no un espectáculo'. La discusión marcó el tono de las primeras horas del nuevo gobierno.",
+      "objetividad": 87,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Reacciones divididas publicadas por Semana (7 ago)"
+        },
+        {
+          "ok": true,
+          "texto": "Vocera del gobierno: 'Colombia necesita una oposición seria' — Infobae (5 ago)"
+        },
+        {
+          "ok": false,
+          "texto": "Comparación con 'Sábados Felices' es opinión editorial, no dato verificable"
+        }
+      ],
+      "url": "https://www.semana.com/politica/articulo/gabinete-alterno-o-sabados-felices-la-reaccion-ante-la-propuesta-de-ivan-cepeda/202615/",
+      "url_label": "Semana — ¿Gabinete alterno o 'Sábados Felices'? La reacción ante la propuesta de Cepeda"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "El Tiempo",
+      "fuente_color": "#2980b9",
+      "fecha": "7 ago 2026",
+      "tag": "Cepeda · Desobediencia civil · Oposición · Exigencias",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda advierte desobediencia civil si De la Espriella no cumple sus exigencias y aclaraciones",
+      "resumen": "El senador Iván Cepeda advirtió el 7 de agosto que acudirá a la 'desobediencia civil pacífica' si el gobierno de Abelardo de la Espriella no cumple sus exigencias: transparencia sobre los resultados electorales, respeto al proceso de paz y no derogación de las reformas sociales aprobadas en el periodo de Petro. Cepeda precisó que la bancada del Pacto Histórico —26 senadores y 43 representantes— usará 'todos los mecanismos constitucionales' para frenar las decisiones del Ejecutivo que afecten derechos sociales o la soberanía nacional. El senador señaló que se preparan para ganar el poder local en las elecciones de 2027 y construir 'un gobierno en construcción desde la oposición'.",
       "objetividad": 92,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaración de Cepeda publicada en Semana el 6 ago"
+          "texto": "Declaración de desobediencia civil: El Tiempo (7 ago)"
         },
         {
           "ok": true,
-          "texto": "Ausencia de Cepeda en posesión de Cali — confirmada en múltiples medios"
+          "texto": "Bancada PH: 26 senadores y 43 representantes — cifra verificada en múltiples medios"
         },
         {
           "ok": false,
-          "texto": "Convocatoria ciudadana y asistencia final pendiente de cuantificar"
+          "texto": "Lista exacta de 'exigencias y aclaraciones' no detallada en fuente consultada"
         }
       ],
-      "url": "https://www.semana.com/politica/articulo/el-ultimo-llamado-de-ivan-cepeda-previo-a-las-manifestaciones-del-7-de-agosto-no-nos-dejemos-llevar-por-estrategias-de-miedo/202603/",
-      "url_label": "Semana — El último llamado de Cepeda: 'No nos dejemos llevar por estrategias de miedo'"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "El Espectador",
-      "fuente_color": "#2980b9",
-      "fecha": "7 ago 2026",
-      "tag": "Cepeda · PH · Estrategia · Oposición constitucional",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Así será la estrategia del PH para el 7 de agosto: control político, bloqueos legislativos y movilización",
-      "resumen": "El Espectador reveló los detalles de la hoja de ruta del Pacto Histórico para hacerle oposición constitucional al gobierno de Abelardo de la Espriella desde el primer día. La estrategia combina: control político a ministros y entidades, coalición con sectores de centro en el Congreso para frenar reformas estructurales (salud, pensiones, justicia), movilización callejera permanente y comunicación directa con la ciudadanía a través de redes. Cepeda precisó que el PH no apoyará 'ningún proyecto que lesione el Estado Social de Derecho' e interpondrán todas las acciones legales disponibles si el gobierno vulnera derechos fundamentales.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Estrategia del PH publicada por El Espectador (7 ago)"
-        },
-        {
-          "ok": true,
-          "texto": "Cepeda: 'no apoyará ningún proyecto que lesione el Estado Social de Derecho'"
-        },
-        {
-          "ok": false,
-          "texto": "Detalles de coaliciones con partidos de centro en definición"
-        }
-      ],
-      "url": "https://www.elespectador.com/politica/asi-sera-la-estrategia-del-pacto-historico-para-el-7-de-agosto-durante-posesion-de-de-la-espriella-esto-dijo-ivan-cepeda-noticias-hoy/",
-      "url_label": "El Espectador — Así será la estrategia del PH para el 7 de agosto: esto dijo Iván Cepeda"
+      "url": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-en-el-inicio-de-su-oposicion-advierte-que-acudira-a-la-desobediencia-civil-si-de-la-espriella-no-cumple-sus-exigencias-y-aclaraciones-3567922",
+      "url_label": "El Tiempo — Cepeda advierte desobediencia civil si De la Espriella no cumple sus exigencias"
     },
     {
       "filter": "valencia",
-      "fuente": "El Tiempo / La Opinión",
+      "fuente": "Pulzo",
       "fuente_color": "#9b59b6",
       "fecha": "7 ago 2026",
-      "tag": "Valencia · No invitada · Posesión Cali · CD",
+      "tag": "Valencia · No invitada · 'Maletas' · CD · Fricciones",
       "tag_color": "#8e44ad",
       "tag_bg": "rgba(142,68,173,0.12)",
-      "titulo": "Paloma Valencia confirma que no fue invitada a la posesión de De la Espriella: 'No estoy invitada'",
-      "resumen": "La excandidata presidencial y senadora Paloma Valencia confirmó el 7 de agosto que no fue invitada a la posesión presidencial de Abelardo de la Espriella en Cali, pese a haberle dado su apoyo formal en la segunda vuelta y haber movilizado la maquinaria del Centro Democrático con el aval de Álvaro Uribe. Valencia declaró públicamente: 'No estoy invitada.' La exclusión, que se suma a la de los expresidentes Samper y Santos, revela profundas fricciones entre el CD y el gobierno entrante. Fuentes del entorno de De la Espriella señalan que la decisión responde a tensiones surgidas durante la campaña. Valencia deberá definir en las próximas semanas el rol del Centro Democrático frente a la nueva administración.",
-      "objetividad": 93,
+      "titulo": "'Se quedó cargándole las maletas': Valencia no fue invitada a posesión pese a ser aliada clave de De la Espriella",
+      "resumen": "Pulzo publicó un balance irónico pero preciso: Paloma Valencia, quien le cedió los votos del Centro Democrático y la maquinaria uribista a De la Espriella para la segunda vuelta, terminó siendo excluida de la posesión presidencial en Cali. La frase 'se quedó cargándole las maletas' circuló ampliamente en redes. La senadora confirmó públicamente: 'No me invitaron'. La situación revela profundas fricciones entre el CD y el gobierno entrante: De la Espriella no incluyó ningún cupo ministerial para el partido de Uribe en su gabinete de 18 ministros, descartando así la alianza formal que se esperaba tras el resultado de la segunda vuelta. El Centro Democrático quedará en una posición de oposición constructiva sin espacios ejecutivos.",
+      "objetividad": 91,
       "criterios": [
         {
           "ok": true,
-          "texto": "Exclusión de Valencia confirmada — El Tiempo, La Opinión, La Linterna Azul (7 ago)"
+          "texto": "Exclusión de Valencia confirmada: Pulzo, El Tiempo, La Opinión, Infobae (7 ago)"
         },
         {
           "ok": true,
-          "texto": "Declaración 'No estoy invitada' reportada en múltiples medios"
+          "texto": "CD sin cupos ministeriales: gabinete de 18 ministros publicado por Radio Nacional e Infobae"
         },
         {
           "ok": false,
           "texto": "Causas oficiales de la exclusión no confirmadas por el equipo de De la Espriella"
         }
       ],
-      "url": "https://www.eltiempo.com/amp/politica/partidos-politicos/paloma-valencia-no-fue-invitada-a-la-posesion-presidencial-de-abelardo-de-la-espriella-en-cali-3576196",
-      "url_label": "El Tiempo — Valencia no fue invitada a la posesión de De la Espriella en Cali"
+      "url": "https://www.pulzo.com/nacion/paloma-valencia-dijo-que-no-fue-invitada-posesion-abelardo-espriella-PP5265558",
+      "url_label": "Pulzo — Valencia se quedó cargándole las maletas a De la Espriella; no la invitaron a posesión"
     },
     {
       "filter": "valencia",
-      "fuente": "Infobae",
+      "fuente": "Pulzo",
       "fuente_color": "#9b59b6",
-      "fecha": "4 ago 2026",
-      "tag": "Valencia · Posesión · CD · 'No me invitaron'",
+      "fecha": "7 ago 2026",
+      "tag": "Valencia · Nuevo cargo · CD · Cerca del gobierno",
       "tag_color": "#8e44ad",
       "tag_bg": "rgba(142,68,173,0.12)",
-      "titulo": "'No me invitaron': Valencia habló del papel del Centro Democrático en el nuevo gobierno",
-      "resumen": "Paloma Valencia habló el 4 de agosto sobre la posesión de Abelardo de la Espriella y el rol que jugará el Centro Democrático en la nueva legislatura. Ante la pregunta de si asistiría a la ceremonia del 7 de agosto en Cali, Valencia fue directa: 'No me invitaron.' La senadora aclaró que el CD seguirá siendo un partido crítico e independiente frente al gobierno, sin perder su identidad ideológica. Reconoció fricciones en la relación con el equipo del presidente electo, pero afirmó que el Centro Democrático actuará 'con altura' en el Congreso. La exclusión de Valencia de la lista de invitados sorprendió a analistas, dado que su apoyo fue clave para la victoria de De la Espriella en segunda vuelta.",
-      "objetividad": 92,
+      "titulo": "Valencia ya consiguió nuevo cargo y estará cerca del gobierno, pero fuera del gabinete formal",
+      "resumen": "A pesar de no ser invitada a la posesión y de que el Centro Democrático no obtuvo cupos ministeriales en el gabinete de De la Espriella, Pulzo reportó que Paloma Valencia asumirá un nuevo cargo que la mantiene políticamente cerca del nuevo gobierno, aunque sin integrar formalmente la administración. La senadora tomará el rol de principal vocera política y programática del CD en el Congreso, actuando como interlocutora entre el partido de Uribe y el ejecutivo de De la Espriella en temas legislativos. Esta posición le permite al CD mantener influencia sin comprometer su identidad ideológica ni asumir la responsabilidad del gobierno, una postura que algunos analistas califican como 'oposición leal' y que el partido mismo define como 'independencia crítica constructiva'.",
+      "objetividad": 88,
       "criterios": [
         {
           "ok": true,
-          "texto": "Valencia declara 'No me invitaron' — Infobae (4 ago)"
+          "texto": "Nuevo rol de Valencia en CD reportado por Pulzo (7 ago)"
         },
         {
           "ok": true,
-          "texto": "Fricciones CD-gobierno electo reportadas por múltiples medios"
+          "texto": "CD sin cupos en gabinete formal: confirmado por Radio Nacional e Infobae (3 ago)"
         },
         {
           "ok": false,
-          "texto": "Definición oficial del rol del CD en el nuevo gobierno pendiente"
+          "texto": "Denominación oficial del cargo y detalles del acuerdo CD-gobierno pendientes"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/08/04/paloma-valencia-hablo-de-la-posesion-de-de-la-espriella-y-del-papel-del-centro-democratico-no-me-invitaron/",
-      "url_label": "Infobae — Valencia: 'No me invitaron' a la posesión de De la Espriella"
+      "url": "https://www.pulzo.com/elecciones-colombia-2026/paloma-valencia-nuevo-cargo-centro-democratico-cerca-espriella-PP5224247",
+      "url_label": "Pulzo — Valencia ya consiguió nuevo cargo y la verán muy cerca del Gobierno de De la Espriella"
     }
   ],
   "sentimiento": {
@@ -328,29 +328,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 74,
-        "negativo": 20,
+        "positivo": 71,
+        "negativo": 23,
         "neutro": 6,
-        "tendencia": "up",
-        "tendencia_texto": "7 ago — DÍA DE POSESIÓN: Abelardo De la Espriella asume como 43° presidente de Colombia en la Arena USC de Cali (3:00 PM) — primera transmisión de mando fuera de Bogotá. INTERNACIONALES (7 ago): Felipe VI, Milei, Noboa, Kast, Paz, Peña. POLARIZACIÓN (6 ago - CNN): asume ante 'polarización pocas veces vista'. CONCENTRACIONES PH: actos de oposición simultáneos en Barranquilla, Cali y Bogotá durante la ceremonia. EXCLUSIONES: Paloma Valencia y expresidentes Samper y Santos no invitados. Sentimiento sube (71→74): posesión histórica y cobertura internacional impulsan percepción positiva."
+        "tendencia": "down",
+        "tendencia_texto": "8 ago — DÍA 1 DE GOBIERNO: De la Espriella anunció su agenda desde el Batallón Pichincha en Cali. FUMIGACIÓN AÉREA (8 ago - Proceso): retomó aspersión de coca con glifosato, suspendida desde 2017 — exigencia de Trump. PAZ TOTAL DEROGADA (7 ago): eliminó todos los mecanismos de diálogo de Petro con grupos armados. APOYO EEUU (8 ago): Trump prometió USD 1.000M y revisión de aranceles. ATAQUES (7 ago): grupos armados atacaron Porce III (Antioquia) y Planadas (Tolima) el mismo día de la posesión. GABINETE: CD de Valencia quedó sin cupos ministeriales. Sentimiento baja levemente (74→71): el pico fue la posesión; las primeras decisiones polarizan más que la ceremonia."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 26,
-        "negativo": 57,
+        "positivo": 28,
+        "negativo": 55,
         "neutro": 17,
         "tendencia": "up",
-        "tendencia_texto": "7 ago — OPOSICIÓN ACTIVA: Cepeda lidera concentraciones simultáneas en Barranquilla (Cra 4 con Murillo), Cali (Puerto Resistencia) y Bogotá (Plaza Núñez) durante la posesión de De la Espriella. ÚLTIMO LLAMADO (6 ago - Semana): 'No nos dejemos llevar por estrategias de miedo'. ESTRATEGIA PH (El Espectador): control político, bloqueos legislativos, movilización permanente desde el primer día. BANCADA: 26 senadores y 43 representantes anuncian oposición constitucional activa. Sentimiento mejora levemente (22→26 positivo): visibilidad de la oposición organizada sube aunque percepción en medios de derecha sigue siendo negativa."
+        "tendencia_texto": "8 ago — OPOSICIÓN ESTRUCTURADA: Cepeda anunció el 'Gabinete por la Vida' el 7 de agosto desde Barranquilla como gobierno alterno permanente para vigilar a De la Espriella. DESOBEDIENCIA CIVIL (El Tiempo, 7 ago): advirtió que acudirá a ella si no se cumplen sus exigencias. BANCADA ACTIVA: 26 senadores y 43 representantes listos para bloqueos legislativos. ELECCIONES 2027: Cepeda anunció que buscan recuperar el poder en elecciones locales. NO RECONOCE LEGITIMIDAD: declaró que no reconoce a De la Espriella como jefe de Estado legítimo. Sentimiento sube levemente (26→28 positivo): visibilidad de oposición organizada crece aunque percepción general en medios sigue siendo negativa."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 58,
-        "negativo": 26,
+        "positivo": 52,
+        "negativo": 32,
         "neutro": 16,
         "tendencia": "down",
-        "tendencia_texto": "7 ago — NO INVITADA A LA POSESIÓN: Paloma Valencia confirmó hoy que no fue invitada a la ceremonia de Abelardo de la Espriella en Cali, pese a haber respaldado su candidatura y movilizado el CD para la segunda vuelta. Declaró: 'No estoy invitada.' Sumado a la exclusión de Samper y Santos, la situación revela fricciones entre el Centro Democrático y el gobierno entrante. PAPEL CD (4 ago - Infobae): Valencia habló de oposición constructiva e independiente del partido en el nuevo gobierno. Sentimiento baja (66→58): la no-invitación erosiona la narrativa de alianza estratégica y plantea interrogantes sobre el peso real del CD en la nueva administración."
+        "tendencia_texto": "8 ago — EXCLUIDA Y SIN GABINETE: Paloma Valencia quedó fuera de la posesión y sin cupos ministeriales pese a haber sido aliada clave de De la Espriella. La frase viral 'se quedó cargándole las maletas' sintetizó su situación política (Pulzo, 7 ago). NUEVO ROL (Pulzo, 7 ago): asumirá como vocera del CD en el Congreso, cerca del gobierno pero sin cargo formal en el ejecutivo. POSICIÓN CD: 'independencia crítica constructiva', ni gobierno ni oposición dura. El CD quedaría fuera del ejecutivo por primera vez desde la segunda vuelta de Duque. Sentimiento baja (58→52 positivo): la exclusión y la percepción de haber 'perdido' pese a apoyar al ganador erosionan su imagen."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA DE POSESIÓN — 7 de agosto de 2026. PRESIDENTE DE COLOMBIA: Abelardo De la Espriella asume hoy como 43° presidente constitucional en la Arena USC de Cali (3:00 PM) — primera posesión fuera de Bogotá en la historia moderna. RESULTADO OFICIAL: 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos). INTERNACIONALES: Felipe VI, Milei, Noboa, Kast, Paz. OPOSICIÓN: Cepeda lidera concentraciones simultáneas en Barranquilla, Cali y Bogotá. EXCLUSIONES: Paloma Valencia, Samper y Santos no fueron invitados a la ceremonia. COLOMBIA CAMBIA: De la Espriella reemplaza a Gustavo Petro tras cuatro años de gobierno del Pacto Histórico."
+    "resumen_analisis": "DÍA 1 DE GOBIERNO — 8 de agosto de 2026. PRESIDENTE: Abelardo De la Espriella asumió ayer como 43° presidente en Cali y anunció su agenda desde el Batallón Pichincha. PRIMERAS MEDIDAS: fumigación aérea de coca retomada, paz total derogada, fracking prometido, impuesto a la riqueza eliminado. APOYO EEUU: Trump prometió USD 1.000M y revisión de aranceles. ATAQUES: grupos armados atacaron Porce III y Planadas el mismo día de la posesión. OPOSICIÓN: Cepeda lanzó el 'Gabinete por la Vida' y amenazó con desobediencia civil. RESULTADO OFICIAL: De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos)."
   },
-  "ultimo_deploy": "7 de agosto de 2026"
+  "ultimo_deploy": "8 de agosto de 2026"
 }
