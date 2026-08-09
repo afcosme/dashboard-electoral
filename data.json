@@ -1,5 +1,5 @@
 {
-  "fecha": "8 de agosto de 2026",
+  "fecha": "9 de agosto de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -128,59 +128,59 @@
     },
     {
       "filter": "espriella",
-      "fuente": "La Jornada / CNN",
+      "fuente": "CNN en Español",
       "fuente_color": "#e74c3c",
       "fecha": "8 ago 2026",
-      "tag": "ESPRIELLA · Seguridad · Paz total derogada · Ataques",
+      "tag": "ESPRIELLA · Día 2 · Violencia · Seguridad · 117 presos",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "'Cero tolerancia a crimen y protesta': De la Espriella deroga la paz total y enfrenta ataques armados en su primer día",
-      "resumen": "Desde el Batallón Pichincha en Cali, el nuevo presidente anunció 'cero tolerancia' al crimen organizado y a la protesta violenta, derogando inmediatamente los mecanismos de 'paz total' de Petro. El 7 de agosto, mismo día de su posesión, se registraron ataques armados contra la estación policial de Porce III en Guadalupe (Antioquia) y una base militar en Planadas (Tolima), atribuidos a grupos guerrilleros, en lo que analistas interpretan como una señal de las organizaciones armadas frente al nuevo gobierno. De la Espriella prometió desplegar las Fuerzas Militares contra el ELN y el Clan del Golfo sin condiciones de diálogo previas. La Jornada (México) tituló: 'Cero tolerancia a crimen y a protesta social: nuevo presidente colombiano'.",
-      "objetividad": 91,
+      "titulo": "Día 2: dron asesina a policía en el Cesar y De la Espriella traslada 117 presos vinculados a la Paz Total",
+      "resumen": "El segundo día del gobierno de Abelardo de la Espriella estuvo marcado por una jornada violenta. En el departamento del Cesar, un ataque con explosivos lanzados con drones contra una subestación policial causó la muerte del subintendente Argemiro Rodelo Canchila; en otra zona del país fue atacado un peaje. Ante la escalada, De la Espriella confirmó el traslado de 117 reclusos de alto perfil vinculados al mecanismo de Paz Total de Petro y anunció 'control total' de las cárceles, señalando que el Estado no negociará con grupos armados desde una posición de debilidad. CNN en Español cubrió la jornada como la primera gran prueba de fuego del nuevo gobierno en materia de seguridad.",
+      "objetividad": 90,
       "criterios": [
         {
           "ok": true,
-          "texto": "Derogación paz total confirmada: La Jornada, CNN en Español (7-8 ago)"
+          "texto": "Ataque con dron en Cesar y muerte del subintendente Rodelo: CNN en Español (8 ago)"
         },
         {
           "ok": true,
-          "texto": "Ataques en Porce III (Antioquia) y Planadas (Tolima) reportados el 7 ago"
+          "texto": "Traslado de 117 presos de alto perfil confirmado por el Gobierno (8 ago)"
         },
         {
           "ok": false,
-          "texto": "Autoría de los ataques en investigación — no hay confirmación oficial de autoría"
+          "texto": "Autoría del ataque con dron en investigación — no hay confirmación oficial de responsable"
         }
       ],
-      "url": "https://www.jornada.com.mx/2026/08/08/mundo/018n1mun",
-      "url_label": "La Jornada — Cero tolerancia a crimen y a protesta social: nuevo presidente colombiano"
+      "url": "https://cnnespanol.cnn.com/2026/08/08/colombia/jornada-violenta-matan-jefe-policial-ataque-traslado-presos-orix",
+      "url_label": "CNN en Español — Jornada violenta: matan a jefe policial y De la Espriella traslada 117 presos"
     },
     {
       "filter": "espriella",
-      "fuente": "CNN en Español",
+      "fuente": "Vanguardia",
       "fuente_color": "#e74c3c",
-      "fecha": "6 ago 2026",
-      "tag": "ESPRIELLA · Polarización · Cambio de gobierno · CNN",
+      "fecha": "9 ago 2026",
+      "tag": "ESPRIELLA · Política exterior · Escudo de las Américas · Trump",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella asume Colombia ante una polarización pocas veces vista",
-      "resumen": "CNN en Español analizó el inicio del gobierno de Abelardo de la Espriella en medio de una polarización política 'pocas veces vista' en el país. El presidente llegó al poder con el respaldo del rey Felipe VI, Milei y otros líderes de derecha internacional, pero con una oposición organizada que convocó concentraciones simultáneas en tres ciudades el día de la posesión. El Pacto Histórico y el presidente saliente Gustavo Petro han calificado su gobierno como una amenaza para los derechos sociales y el proceso de paz. La tensión es palpable: mientras el nuevo presidente habla de 'seguridad y progreso', la izquierda anuncia movilizaciones permanentes desde el primer día.",
-      "objetividad": 91,
+      "titulo": "Colombia se suma al 'Escudo de las Américas' y rompe con la Ruta de la Seda: el nuevo mapa de alianzas de De la Espriella",
+      "resumen": "A 48 horas de asumir el poder, Vanguardia publica un análisis del nuevo mapa de política exterior de De la Espriella: Colombia se alinea al bloque del 'Escudo de las Américas', la alianza liderada por Trump contra el narcotráfico, el crimen transnacional y la migración irregular. El gobierno anunció la revisión y salida de la Ruta de la Seda china, acordada por el gobierno Petro, y la ampliación de alianzas con El Salvador de Bukele. El canciller entrante prometió revisar también los acuerdos con Venezuela y Cuba. Los analistas señalan que Colombia da un giro de 180 grados en política exterior, reposicionándose como aliado estratégico de Washington después de cuatro años de tensión con la administración Trump.",
+      "objetividad": 88,
       "criterios": [
         {
           "ok": true,
-          "texto": "Análisis de CNN sobre polarización publicado el 6 ago — CNN en Español"
+          "texto": "Adhesión al Escudo de las Américas anunciada antes de posesión: Infobae (30 jul 2026)"
         },
         {
           "ok": true,
-          "texto": "Tensión oposición-gobierno confirmada: PH anuncia movilizaciones desde 7 ago"
+          "texto": "Revisión y salida de la Ruta de la Seda: anunciada por gobierno electo (jul 2026)"
         },
         {
           "ok": false,
-          "texto": "Comparación histórica de polarización con gobiernos anteriores es editorial"
+          "texto": "Detalles del proceso formal de salida de la Ruta de la Seda aún pendientes de confirmación"
         }
       ],
-      "url": "https://cnnespanol.cnn.com/2026/08/06/colombia/de-la-espriella-asume-colombia-tension-oposicion-orix",
-      "url_label": "CNN en Español — De la Espriella asume Colombia ante una polarización pocas veces vista"
+      "url": "https://www.vanguardia.com/colombia/2026/08/09/asi-cambiara-la-politica-exterior-de-colombia-con-abelardo-de-la-espriella-alianzas-en-el-nuevo-mapa-regional/",
+      "url_label": "Vanguardia — Así cambiará la política exterior de Colombia con De la Espriella"
     },
     {
       "filter": "cepeda",
@@ -296,31 +296,31 @@
     },
     {
       "filter": "valencia",
-      "fuente": "Pulzo",
+      "fuente": "Semana",
       "fuente_color": "#9b59b6",
-      "fecha": "7 ago 2026",
-      "tag": "Valencia · Nuevo cargo · CD · Cerca del gobierno",
+      "fecha": "8 ago 2026",
+      "tag": "Valencia · Oposición crítica · CD · 'No somos Milei ni Bukele'",
       "tag_color": "#8e44ad",
       "tag_bg": "rgba(142,68,173,0.12)",
-      "titulo": "Valencia ya consiguió nuevo cargo y estará cerca del gobierno, pero fuera del gabinete formal",
-      "resumen": "A pesar de no ser invitada a la posesión y de que el Centro Democrático no obtuvo cupos ministeriales en el gabinete de De la Espriella, Pulzo reportó que Paloma Valencia asumirá un nuevo cargo que la mantiene políticamente cerca del nuevo gobierno, aunque sin integrar formalmente la administración. La senadora tomará el rol de principal vocera política y programática del CD en el Congreso, actuando como interlocutora entre el partido de Uribe y el ejecutivo de De la Espriella en temas legislativos. Esta posición le permite al CD mantener influencia sin comprometer su identidad ideológica ni asumir la responsabilidad del gobierno, una postura que algunos analistas califican como 'oposición leal' y que el partido mismo define como 'independencia crítica constructiva'.",
-      "objetividad": 88,
+      "titulo": "Valencia busca camorra al nuevo gobierno y avisa: 'Nuestro modelo no es el de Milei, Bukele ni el del Tigre'",
+      "resumen": "Paloma Valencia marcó distancia del nuevo gobierno de De la Espriella con declaraciones que Semana calificó como 'buscarle camorra al gobierno': afirmó que el modelo del Centro Democrático sí funciona, a diferencia del de Milei, Bukele 'o el del Tigre'. La senadora lanzó pullas directas al ejecutivo entrante en relación con su agenda de seguridad y su cercanía con figuras de la ultraderecha internacional. Valencia dijo que no se dejará 'impresionar por las modas de una nueva derecha'. La postura del CD, excluido del gabinete pese a haber sido aliado clave en la segunda vuelta, se consolida como la de una 'oposición crítica constructiva', ni gobierno ni aliada incondicional, pero tampoco parte del bloque de Cepeda.",
+      "objetividad": 87,
       "criterios": [
         {
           "ok": true,
-          "texto": "Nuevo rol de Valencia en CD reportado por Pulzo (7 ago)"
+          "texto": "Declaraciones de Valencia contra el modelo del gobierno: Semana (8 ago 2026)"
         },
         {
           "ok": true,
-          "texto": "CD sin cupos en gabinete formal: confirmado por Radio Nacional e Infobae (3 ago)"
+          "texto": "CD excluido del gabinete: confirmado en múltiples medios (3-7 ago)"
         },
         {
           "ok": false,
-          "texto": "Denominación oficial del cargo y detalles del acuerdo CD-gobierno pendientes"
+          "texto": "Alcance real de la 'oposición crítica' del CD y su votación en el Congreso, por definir"
         }
       ],
-      "url": "https://www.pulzo.com/elecciones-colombia-2026/paloma-valencia-nuevo-cargo-centro-democratico-cerca-espriella-PP5224247",
-      "url_label": "Pulzo — Valencia ya consiguió nuevo cargo y la verán muy cerca del Gobierno de De la Espriella"
+      "url": "https://www.semana.com/politica/articulo/paloma-valencia-lanza-pullas-al-nuevo-gobierno-y-dice-que-el-modelo-que-propone-su-partido-si-funciona-no-como-el-de-milei-bukele-o-el-del-tigre/202616/",
+      "url_label": "Semana — Valencia busca camorra al nuevo gobierno: 'Nuestro modelo no es el de Milei ni Bukele'"
     }
   ],
   "sentimiento": {
@@ -328,29 +328,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 71,
-        "negativo": 23,
-        "neutro": 6,
+        "positivo": 69,
+        "negativo": 24,
+        "neutro": 7,
         "tendencia": "down",
-        "tendencia_texto": "8 ago — DÍA 1 DE GOBIERNO: De la Espriella anunció su agenda desde el Batallón Pichincha en Cali. FUMIGACIÓN AÉREA (8 ago - Proceso): retomó aspersión de coca con glifosato, suspendida desde 2017 — exigencia de Trump. PAZ TOTAL DEROGADA (7 ago): eliminó todos los mecanismos de diálogo de Petro con grupos armados. APOYO EEUU (8 ago): Trump prometió USD 1.000M y revisión de aranceles. ATAQUES (7 ago): grupos armados atacaron Porce III (Antioquia) y Planadas (Tolima) el mismo día de la posesión. GABINETE: CD de Valencia quedó sin cupos ministeriales. Sentimiento baja levemente (74→71): el pico fue la posesión; las primeras decisiones polarizan más que la ceremonia."
+        "tendencia_texto": "9 ago — DÍA 2 DE GOBIERNO: JORNADA VIOLENTA (CNN, 8 ago): dron asesina al subintendente Argemiro Rodelo Canchila en el Cesar; ataque a peaje en otra región. De la Espriella responde con traslado de 117 presos de alto perfil vinculados a la Paz Total y anuncia 'control total' de las cárceles. POLÍTICA EXTERIOR (Vanguardia, 9 ago): Colombia se une al 'Escudo de las Américas' de Trump, revisa salida de la Ruta de la Seda y amplía alianzas con El Salvador. AGENDA ULTRATRUMPISTA sigue generando polarización (Proceso, 8 ago). Sentimiento baja levemente (71→69): el Día 2 violento confirma que la seguridad será el mayor desafío del gobierno; la firmeza de la respuesta mitiga el impacto pero no lo neutraliza."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 28,
-        "negativo": 55,
+        "positivo": 29,
+        "negativo": 54,
         "neutro": 17,
         "tendencia": "up",
-        "tendencia_texto": "8 ago — OPOSICIÓN ESTRUCTURADA: Cepeda anunció el 'Gabinete por la Vida' el 7 de agosto desde Barranquilla como gobierno alterno permanente para vigilar a De la Espriella. DESOBEDIENCIA CIVIL (El Tiempo, 7 ago): advirtió que acudirá a ella si no se cumplen sus exigencias. BANCADA ACTIVA: 26 senadores y 43 representantes listos para bloqueos legislativos. ELECCIONES 2027: Cepeda anunció que buscan recuperar el poder en elecciones locales. NO RECONOCE LEGITIMIDAD: declaró que no reconoce a De la Espriella como jefe de Estado legítimo. Sentimiento sube levemente (26→28 positivo): visibilidad de oposición organizada crece aunque percepción general en medios sigue siendo negativa."
+        "tendencia_texto": "9 ago — OPOSICIÓN EN MARCHA: El 'Gabinete por la Vida' (Semana/Infobae, 7 ago) empieza a articularse como estructura permanente de control político desde Barranquilla. BANCADA ACTIVA: 26 senadores y 43 representantes del Pacto Histórico listos para bloqueos legislativos y debates de control político. DESOBEDIENCIA CIVIL (El Tiempo, 7 ago): Cepeda mantiene la amenaza si De la Espriella no cumple exigencias sobre paz, derechos sociales y transparencia electoral. DÍA 2 VIOLENTO: la escalada armada confirma el pronóstico de Cepeda sobre el riesgo de derogar la Paz Total. Sentimiento mejora marginalmente (28→29 positivo): la violencia del Día 2 da argumentos a su oposición; los medios empiezan a contrastar su discurso de paz con los hechos del gobierno."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 52,
-        "negativo": 32,
+        "positivo": 51,
+        "negativo": 33,
         "neutro": 16,
         "tendencia": "down",
-        "tendencia_texto": "8 ago — EXCLUIDA Y SIN GABINETE: Paloma Valencia quedó fuera de la posesión y sin cupos ministeriales pese a haber sido aliada clave de De la Espriella. La frase viral 'se quedó cargándole las maletas' sintetizó su situación política (Pulzo, 7 ago). NUEVO ROL (Pulzo, 7 ago): asumirá como vocera del CD en el Congreso, cerca del gobierno pero sin cargo formal en el ejecutivo. POSICIÓN CD: 'independencia crítica constructiva', ni gobierno ni oposición dura. El CD quedaría fuera del ejecutivo por primera vez desde la segunda vuelta de Duque. Sentimiento baja (58→52 positivo): la exclusión y la percepción de haber 'perdido' pese a apoyar al ganador erosionan su imagen."
+        "tendencia_texto": "9 ago — OPOSICIÓN CRÍTICA AL GOBIERNO: Paloma Valencia endurece su perfil ante el nuevo ejecutivo: declaró que el modelo del CD 'sí funciona', a diferencia del de 'Milei, Bukele o el Tigre' (Semana, 8 ago), marcando distancia de la agenda ultratrumpista de De la Espriella. Lidera internamente el debate sobre la identidad ideológica del CD frente a la 'nueva derecha' (Publimetro, 2 ago). Sigue sin invitación a la posesión y sin cupos en el gabinete. La frase 'se quedó cargándole las maletas' (Pulzo, 7 ago) persiste en medios. ESTRATEGIA CD: 'independencia crítica constructiva' desde el Congreso. Sentimiento baja marginalmente (52→51 positivo): su postura más crítica le da visibilidad, pero la percepción de exclusión política sigue pesando."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 1 DE GOBIERNO — 8 de agosto de 2026. PRESIDENTE: Abelardo De la Espriella asumió ayer como 43° presidente en Cali y anunció su agenda desde el Batallón Pichincha. PRIMERAS MEDIDAS: fumigación aérea de coca retomada, paz total derogada, fracking prometido, impuesto a la riqueza eliminado. APOYO EEUU: Trump prometió USD 1.000M y revisión de aranceles. ATAQUES: grupos armados atacaron Porce III y Planadas el mismo día de la posesión. OPOSICIÓN: Cepeda lanzó el 'Gabinete por la Vida' y amenazó con desobediencia civil. RESULTADO OFICIAL: De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos)."
+    "resumen_analisis": "DÍA 2 DE GOBIERNO — 9 de agosto de 2026. VIOLENCIA: dron asesina al subintendente Argemiro Rodelo Canchila en el Cesar (8 ago) — prueba de fuego en seguridad para el nuevo gobierno. RESPUESTA: De la Espriella traslada 117 presos de alto perfil vinculados a la Paz Total y anuncia 'control total' de cárceles. POLÍTICA EXTERIOR: Colombia se suma al 'Escudo de las Américas' de Trump y revisa salida de la Ruta de la Seda (Vanguardia, 9 ago). OPOSICIÓN: Cepeda consolida el 'Gabinete por la Vida' con 26 senadores y 43 representantes del Pacto Histórico. CENTRO DEMOCRÁTICO: Valencia marca distancia del gobierno con críticas al modelo Milei/Bukele; el CD opera como 'independencia crítica constructiva'. RESULTADO OFICIAL: De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos)."
   },
-  "ultimo_deploy": "8 de agosto de 2026"
+  "ultimo_deploy": "9 de agosto de 2026"
 }
