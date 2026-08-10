@@ -1,5 +1,5 @@
 {
-  "fecha": "9 de agosto de 2026",
+  "fecha": "10 de agosto de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -128,31 +128,31 @@
     },
     {
       "filter": "espriella",
-      "fuente": "CNN en Español",
+      "fuente": "La Guajira Noticias / El Universal",
       "fuente_color": "#e74c3c",
-      "fecha": "8 ago 2026",
-      "tag": "ESPRIELLA · Día 2 · Violencia · Seguridad · 117 presos",
+      "fecha": "10 ago 2026",
+      "tag": "ESPRIELLA · Día 3 · Primer Consejo · La Guajira · Gobierno territorial",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Día 2: dron asesina a policía en el Cesar y De la Espriella traslada 117 presos vinculados a la Paz Total",
-      "resumen": "El segundo día del gobierno de Abelardo de la Espriella estuvo marcado por una jornada violenta. En el departamento del Cesar, un ataque con explosivos lanzados con drones contra una subestación policial causó la muerte del subintendente Argemiro Rodelo Canchila; en otra zona del país fue atacado un peaje. Ante la escalada, De la Espriella confirmó el traslado de 117 reclusos de alto perfil vinculados al mecanismo de Paz Total de Petro y anunció 'control total' de las cárceles, señalando que el Estado no negociará con grupos armados desde una posición de debilidad. CNN en Español cubrió la jornada como la primera gran prueba de fuego del nuevo gobierno en materia de seguridad.",
-      "objetividad": 90,
+      "titulo": "De la Espriella llevará su primer Consejo de Ministros oficial a La Guajira el 13 de agosto: 'Gobernar desde los territorios'",
+      "resumen": "A tres días de haber asumido la presidencia, el gobierno de Abelardo de la Espriella confirmó que el primer Consejo de Ministros oficial se realizará el martes 13 de agosto en La Guajira, cumpliendo su promesa de campaña de 'gobernar desde las regiones'. Según La Guajira Noticias y El Universal de Cartagena, el encuentro tendrá como ejes la crisis humanitaria de la comunidad Wayuu, el acceso a agua potable y la presencia histórica del ELN en el departamento. La decisión de itinerar el primer Consejo fuera de Bogotá busca contrastar con el estilo centralista del gobierno Petro y enviar una señal de cercanía con las comunidades vulnerables. Los 18 ministros posesionados el 8 de agosto en acto privado en el Batallón Pichincha de Cali participarán en el encuentro.",
+      "objetividad": 91,
       "criterios": [
         {
           "ok": true,
-          "texto": "Ataque con dron en Cesar y muerte del subintendente Rodelo: CNN en Español (8 ago)"
+          "texto": "Primer Consejo de Ministros en La Guajira el 13 de agosto: confirmado por La Guajira Noticias y LaFM (10 ago)"
         },
         {
           "ok": true,
-          "texto": "Traslado de 117 presos de alto perfil confirmado por el Gobierno (8 ago)"
+          "texto": "18 ministros posesionados el 8 ago en Cali: confirmado por Infobae y Vanguardia"
         },
         {
           "ok": false,
-          "texto": "Autoría del ataque con dron en investigación — no hay confirmación oficial de responsable"
+          "texto": "Agenda detallada del Consejo del 13 ago en La Guajira aún no publicada oficialmente"
         }
       ],
-      "url": "https://cnnespanol.cnn.com/2026/08/08/colombia/jornada-violenta-matan-jefe-policial-ataque-traslado-presos-orix",
-      "url_label": "CNN en Español — Jornada violenta: matan a jefe policial y De la Espriella traslada 117 presos"
+      "url": "https://www.laguajiranoticias.com/gobierno-de-la-espriella-celebrara-su-primer-consejo-de-ministros-en-la-guajira-el-13-de-agosto/",
+      "url_label": "La Guajira Noticias — De la Espriella celebrará su primer Consejo de Ministros en La Guajira el 13 de agosto"
     },
     {
       "filter": "espriella",
@@ -212,31 +212,31 @@
     },
     {
       "filter": "cepeda",
-      "fuente": "Semana",
+      "fuente": "Semana / Pulzo",
       "fuente_color": "#2980b9",
-      "fecha": "7 ago 2026",
-      "tag": "Cepeda · Gabinete alterno · Reacción · Crítica",
+      "fecha": "9 ago 2026",
+      "tag": "Cepeda · Denuncia penal · Efraín Cepeda · Calumnias · 'Guerrillero'",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "'¿Gabinete alterno o Sábados Felices?': la reacción dividida ante la propuesta de Iván Cepeda",
-      "resumen": "La propuesta del 'Gabinete por la Vida' de Iván Cepeda generó una respuesta polarizada en Colombia. Mientras sectores del Pacto Histórico aplaudieron la iniciativa como una forma innovadora de hacer oposición estructurada, analistas de centroderecha y columnistas la ridiculizaron en redes comparándola con el programa de humor 'Sábados Felices'. La revista Semana recogió las reacciones: aliados de Cepeda lo defienden como un 'instrumento de democracia y control al poder'; críticos del uribismo lo ven como un 'circo político sin ninguna efectividad real'. La vocera del gobierno de De la Espriella respondió: 'Colombia necesita una oposición seria, no un espectáculo'. La discusión marcó el tono de las primeras horas del nuevo gobierno.",
-      "objetividad": 87,
+      "titulo": "'Cepeda vs. Cepeda': Iván anuncia denuncia penal contra Efraín Cepeda por llamarlo 'más guerrillero que Petro'",
+      "resumen": "El senador Iván Cepeda anunció el 9 de agosto que presentará una denuncia penal ante la Fiscalía contra el presidente del Partido Conservador, Efraín Cepeda, por haberlo llamado 'más guerrillero que Gustavo Petro' durante los actos de posesión del 7 de agosto. Iván Cepeda calificó las declaraciones de 'calumnias mendaces' que 'propician la violencia en mi contra y agravan las amenazas contra mi vida'. Efraín Cepeda, aliado del nuevo gobierno De la Espriella, había señalado que la estrategia de 'paz total' de Petro benefició a grupos armados y que Iván Cepeda era su vocero en el Congreso. El incidente marca el primer enfrentamiento judicial de la oposición del Pacto Histórico en el nuevo periodo legislativo y revela la agresividad del debate político en los primeros días del nuevo gobierno. Semana y Pulzo cubrieron el episodio como 'Cepeda vs. Cepeda', uno de los más llamativos del estreno político poselectoral.",
+      "objetividad": 92,
       "criterios": [
         {
           "ok": true,
-          "texto": "Reacciones divididas publicadas por Semana (7 ago)"
+          "texto": "Denuncia penal anunciada por Iván Cepeda: Semana, Pulzo, Infobae, El País, Colombia.com (9 ago)"
         },
         {
           "ok": true,
-          "texto": "Vocera del gobierno: 'Colombia necesita una oposición seria' — Infobae (5 ago)"
+          "texto": "Frase de Efraín Cepeda ('más guerrillero que Petro'): confirmada en múltiples fuentes (7-9 ago)"
         },
         {
           "ok": false,
-          "texto": "Comparación con 'Sábados Felices' es opinión editorial, no dato verificable"
+          "texto": "Fecha y juzgado de radicación de la denuncia penal aún no confirmados"
         }
       ],
-      "url": "https://www.semana.com/politica/articulo/gabinete-alterno-o-sabados-felices-la-reaccion-ante-la-propuesta-de-ivan-cepeda/202615/",
-      "url_label": "Semana — ¿Gabinete alterno o 'Sábados Felices'? La reacción ante la propuesta de Cepeda"
+      "url": "https://www.semana.com/politica/articulo/ivan-cepeda-anuncia-acciones-legales-contra-efrain-cepeda-tras-llamarlo-guerrillero/202650/",
+      "url_label": "Semana — Iván Cepeda anuncia acciones legales contra Efraín Cepeda tras llamarlo 'guerrillero'"
     },
     {
       "filter": "cepeda",
@@ -296,31 +296,31 @@
     },
     {
       "filter": "valencia",
-      "fuente": "Semana",
+      "fuente": "El Tiempo / Semana",
       "fuente_color": "#9b59b6",
-      "fecha": "8 ago 2026",
-      "tag": "Valencia · Oposición crítica · CD · 'No somos Milei ni Bukele'",
+      "fecha": "10 ago 2026",
+      "tag": "Valencia · CD · Polémica · Identidad ideológica · 'No es de derecha ni de centro'",
       "tag_color": "#8e44ad",
       "tag_bg": "rgba(142,68,173,0.12)",
-      "titulo": "Valencia busca camorra al nuevo gobierno y avisa: 'Nuestro modelo no es el de Milei, Bukele ni el del Tigre'",
-      "resumen": "Paloma Valencia marcó distancia del nuevo gobierno de De la Espriella con declaraciones que Semana calificó como 'buscarle camorra al gobierno': afirmó que el modelo del Centro Democrático sí funciona, a diferencia del de Milei, Bukele 'o el del Tigre'. La senadora lanzó pullas directas al ejecutivo entrante en relación con su agenda de seguridad y su cercanía con figuras de la ultraderecha internacional. Valencia dijo que no se dejará 'impresionar por las modas de una nueva derecha'. La postura del CD, excluido del gabinete pese a haber sido aliado clave en la segunda vuelta, se consolida como la de una 'oposición crítica constructiva', ni gobierno ni aliada incondicional, pero tampoco parte del bloque de Cepeda.",
-      "objetividad": 87,
+      "titulo": "'Decir que el CD no es de derecha no significa que sea de centro': nueva polémica interna por declaraciones de Valencia",
+      "resumen": "El Tiempo publicó el 10 de agosto que las declaraciones de Paloma Valencia en las que niega que el Centro Democrático sea un partido de derecha desataron una nueva polémica interna en la colectividad uribista. Valencia intentó aclarar que sus palabras no implican que el CD sea de centro ni de izquierda: 'Somos un partido con valores propios'. Varios exdirigentes del CD y columnistas cuestionaron públicamente la frase, argumentando que la identidad uribista siempre ha sido inequívocamente de derecha y que la ambigüedad de Valencia confunde a los militantes. Semana recogió que Valencia insiste en 'no dejarse impresionar por modas' de la 'nueva derecha', marcando distancia del estilo Milei-Bukele adoptado por De la Espriella. La controversia profundiza la crisis de identidad del CD en el nuevo escenario político: partido aliado en campaña pero excluido del gabinete, sin postura ideológica clara frente a la nueva derecha criolla y buscando diferenciarse sin quedar en la oposición formal.",
+      "objetividad": 88,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaraciones de Valencia contra el modelo del gobierno: Semana (8 ago 2026)"
+          "texto": "Polémica interna CD por frase de Valencia: El Tiempo (10 ago 2026)"
         },
         {
           "ok": true,
-          "texto": "CD excluido del gabinete: confirmado en múltiples medios (3-7 ago)"
+          "texto": "Valencia: 'No dejarse impresionar por modas de la nueva derecha' — Semana (8 ago)"
         },
         {
           "ok": false,
-          "texto": "Alcance real de la 'oposición crítica' del CD y su votación en el Congreso, por definir"
+          "texto": "Reacciones internas completas del CD y posición oficial del partido aún en definición"
         }
       ],
-      "url": "https://www.semana.com/politica/articulo/paloma-valencia-lanza-pullas-al-nuevo-gobierno-y-dice-que-el-modelo-que-propone-su-partido-si-funciona-no-como-el-de-milei-bukele-o-el-del-tigre/202616/",
-      "url_label": "Semana — Valencia busca camorra al nuevo gobierno: 'Nuestro modelo no es el de Milei ni Bukele'"
+      "url": "https://www.eltiempo.com/politica/partidos-politicos/polemica-en-el-centro-democratico-por-frase-de-paloma-valencia-decir-que-no-es-de-derecha-no-significa-que-sea-de-centro-y-menos-de-izquierda-3575596",
+      "url_label": "El Tiempo — Polémica en el CD por frase de Valencia: 'Decir que no es de derecha no significa que sea de centro'"
     }
   ],
   "sentimiento": {
@@ -328,29 +328,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 69,
-        "negativo": 24,
+        "positivo": 68,
+        "negativo": 25,
         "neutro": 7,
         "tendencia": "down",
-        "tendencia_texto": "9 ago — DÍA 2 DE GOBIERNO: JORNADA VIOLENTA (CNN, 8 ago): dron asesina al subintendente Argemiro Rodelo Canchila en el Cesar; ataque a peaje en otra región. De la Espriella responde con traslado de 117 presos de alto perfil vinculados a la Paz Total y anuncia 'control total' de las cárceles. POLÍTICA EXTERIOR (Vanguardia, 9 ago): Colombia se une al 'Escudo de las Américas' de Trump, revisa salida de la Ruta de la Seda y amplía alianzas con El Salvador. AGENDA ULTRATRUMPISTA sigue generando polarización (Proceso, 8 ago). Sentimiento baja levemente (71→69): el Día 2 violento confirma que la seguridad será el mayor desafío del gobierno; la firmeza de la respuesta mitiga el impacto pero no lo neutraliza."
+        "tendencia_texto": "10 ago — DÍA 3 DE GOBIERNO: PRIMER CONSEJO EN LA GUAJIRA (LaGuajiraNoticias/LaFM, 10 ago): el primer Consejo de Ministros oficial se realizará el 13 de agosto en La Guajira, con foco en la crisis Wayuu, agua potable y presencia del ELN, cumpliendo la promesa de 'gobernar desde los territorios'. POLÍTICA EXTERIOR CONSOLIDADA (Vanguardia, 9 ago): Colombia confirma su adhesión al 'Escudo de las Américas' de Trump y revisa salida de la Ruta de la Seda. AGENDA ULTRATRUMPISTA bajo escrutinio internacional (Proceso, 8 ago). La jornada violenta del Día 2 con el ataque de dron en el Cesar sigue siendo el mayor tema de seguridad del nuevo gobierno. Sentimiento baja marginalmente (69→68): la itinerancia del Consejo en La Guajira suma puntos de imagen, pero la violencia del Día 2 y la agenda de fumigación generan debate polarizado."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 29,
-        "negativo": 54,
+        "positivo": 30,
+        "negativo": 53,
         "neutro": 17,
         "tendencia": "up",
-        "tendencia_texto": "9 ago — OPOSICIÓN EN MARCHA: El 'Gabinete por la Vida' (Semana/Infobae, 7 ago) empieza a articularse como estructura permanente de control político desde Barranquilla. BANCADA ACTIVA: 26 senadores y 43 representantes del Pacto Histórico listos para bloqueos legislativos y debates de control político. DESOBEDIENCIA CIVIL (El Tiempo, 7 ago): Cepeda mantiene la amenaza si De la Espriella no cumple exigencias sobre paz, derechos sociales y transparencia electoral. DÍA 2 VIOLENTO: la escalada armada confirma el pronóstico de Cepeda sobre el riesgo de derogar la Paz Total. Sentimiento mejora marginalmente (28→29 positivo): la violencia del Día 2 da argumentos a su oposición; los medios empiezan a contrastar su discurso de paz con los hechos del gobierno."
+        "tendencia_texto": "10 ago — DENUNCIA PENAL CONTRA EFRAÍN CEPEDA (Semana/Pulzo, 9 ago): Iván Cepeda anuncia acción legal contra el presidente del Partido Conservador por llamarlo 'más guerrillero que Gustavo Petro' el 7 de agosto. Califica las acusaciones de 'calumnias mendaces' que 'propician la violencia en mi contra'. El episodio 'Cepeda vs. Cepeda' marca el primer enfrentamiento judicial de la oposición. GABINETE POR LA VIDA se consolida (Semana, 7 ago): estructura de oposición con 26 senadores y 43 representantes del Pacto Histórico, operando desde Barranquilla. DESOBEDIENCIA CIVIL latente (El Tiempo, 7 ago). Sentimiento mejora marginalmente (29→30 positivo): la denuncia penal le da cobertura mediática y lo posiciona como víctima de ataques, fortaleciendo su narrativa de persecución política."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 51,
-        "negativo": 33,
+        "positivo": 49,
+        "negativo": 35,
         "neutro": 16,
         "tendencia": "down",
-        "tendencia_texto": "9 ago — OPOSICIÓN CRÍTICA AL GOBIERNO: Paloma Valencia endurece su perfil ante el nuevo ejecutivo: declaró que el modelo del CD 'sí funciona', a diferencia del de 'Milei, Bukele o el Tigre' (Semana, 8 ago), marcando distancia de la agenda ultratrumpista de De la Espriella. Lidera internamente el debate sobre la identidad ideológica del CD frente a la 'nueva derecha' (Publimetro, 2 ago). Sigue sin invitación a la posesión y sin cupos en el gabinete. La frase 'se quedó cargándole las maletas' (Pulzo, 7 ago) persiste en medios. ESTRATEGIA CD: 'independencia crítica constructiva' desde el Congreso. Sentimiento baja marginalmente (52→51 positivo): su postura más crítica le da visibilidad, pero la percepción de exclusión política sigue pesando."
+        "tendencia_texto": "10 ago — NUEVA POLÉMICA IDEOLÓGICA (El Tiempo, 10 ago): las declaraciones de Valencia en las que niega que el CD sea de derecha desatan debate interno. Su aclaración —'no significa que sea de centro ni de izquierda'— genera más confusión que claridad. IDENTIDAD DEL CD EN CRISIS: partido sin cupos ministeriales, excluido de la posesión y sin postura clara frente al gobierno De la Espriella y la 'nueva derecha'. DISTANCIA CON MILEI Y BUKELE (Semana, 8 ago): Valencia insiste en no seguir 'modas' de la nueva derecha, posicionando al CD en un limbo político incómodo. Sentimiento baja (51→49 positivo): la nueva polémica sobre la identidad ideológica del CD suma a la percepción de desorientación política del partido en el nuevo escenario."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 2 DE GOBIERNO — 9 de agosto de 2026. VIOLENCIA: dron asesina al subintendente Argemiro Rodelo Canchila en el Cesar (8 ago) — prueba de fuego en seguridad para el nuevo gobierno. RESPUESTA: De la Espriella traslada 117 presos de alto perfil vinculados a la Paz Total y anuncia 'control total' de cárceles. POLÍTICA EXTERIOR: Colombia se suma al 'Escudo de las Américas' de Trump y revisa salida de la Ruta de la Seda (Vanguardia, 9 ago). OPOSICIÓN: Cepeda consolida el 'Gabinete por la Vida' con 26 senadores y 43 representantes del Pacto Histórico. CENTRO DEMOCRÁTICO: Valencia marca distancia del gobierno con críticas al modelo Milei/Bukele; el CD opera como 'independencia crítica constructiva'. RESULTADO OFICIAL: De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos)."
+    "resumen_analisis": "DÍA 3 DE GOBIERNO — 10 de agosto de 2026. PRIMER CONSEJO DE MINISTROS: De la Espriella anuncia que el primer Consejo oficial se realizará el 13 de agosto en La Guajira (LaGuajiraNoticias, 10 ago), cumpliendo su promesa de gobierno territorial con foco en la crisis Wayuu y la presencia del ELN. POLÍTICA EXTERIOR: Colombia confirma adhesión al 'Escudo de las Américas' de Trump y revisión de la Ruta de la Seda china (Vanguardia, 9 ago). OPOSICIÓN JUDICIAL: Iván Cepeda anuncia denuncia penal contra Efraín Cepeda (Partido Conservador) por llamarlo 'más guerrillero que Petro' — el primer enfrentamiento judicial del nuevo período legislativo (Semana/Pulzo, 9 ago). CENTRO DEMOCRÁTICO: Nueva polémica interna por declaraciones de Paloma Valencia sobre la identidad ideológica del CD: 'no ser de derecha no significa ser de centro' (El Tiempo, 10 ago); el partido navega sin postura clara en el nuevo escenario. RESULTADO OFICIAL: De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos)."
   },
-  "ultimo_deploy": "9 de agosto de 2026"
+  "ultimo_deploy": "10 de agosto de 2026"
 }
