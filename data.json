@@ -1,5 +1,5 @@
 {
-  "fecha": "11 de agosto de 2026",
+  "fecha": "12 de agosto de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -103,56 +103,56 @@
       "fuente": "El Espectador / Infobae / CNN / Hispanidad",
       "fuente_color": "#e74c3c",
       "fecha": "10 ago 2026",
-      "tag": "ESPRIELLA · Día 3 · Terremoto 7.4 · Chocó · Desastre Nacional",
+      "tag": "ESPRIELLA · Día 5 · Terremoto 7.4 · Chocó · 240 muertos",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Terremoto 7.4 sacude Colombia el día 3 del gobierno: De la Espriella declara 'desastre nacional' con 132 muertos y viaja al Chocó",
-      "resumen": "El 10 de agosto, apenas 72 horas después de su posesión, el presidente Abelardo de la Espriella enfrentó su primera gran crisis: un sismo de 7.4 con epicentro en San José del Palmar (Chocó) —el más fuerte en más de una década— dejó al menos 132 fallecidos, 188 desaparecidos y más de 5.000 viviendas dañadas o destruidas. De la Espriella declaró el 'estado de desastre nacional', viajó a Quibdó y desplegó a sus ministros en las zonas más afectadas (Valle del Cauca, Eje Cafetero). Declaró: 'No están solos. El Estado está presente y actuando'. La respuesta internacional fue inmediata: EEUU ofreció USD 15,5 millones en ayuda de emergencia, Ecuador envió 47 socorristas con perros adiestrados, y la UE, México, Israel y Venezuela expresaron solidaridad. Al mismo tiempo, el expresidente Petro generó controversia al sugerir en redes que el sismo podría relacionarse con 'una falla geológica' cerca de Hidroituango, causando fuertes críticas por politizar la tragedia.",
-      "objetividad": 93,
+      "titulo": "'El terremoto pilla a De la Espriella con un gobierno a medio montar': balance sube a 240 muertos, 2.000 desaparecidos",
+      "resumen": "Al quinto día del gobierno (12 de agosto), el sismo 7.4 del 10 de agosto en San José del Palmar (Chocó) sigue siendo la crisis dominante: el balance oficial sube a 240 fallecidos, más de 1.300 heridos y 2.000 desaparecidos, con 153 edificios colapsados y 6 aeropuertos afectados. Mundiario (12 ago) resumió el escenario: 'El terremoto pilla a De la Espriella con un gobierno a medio montar', señalando que la emergencia sorprendió al Ejecutivo en plena instalación. La Nación Argentina (12 ago) y Cambio Colombia subrayan que el terremoto 'pone a prueba la promesa de gobernar desde las regiones'. Sin embargo, la respuesta del gobierno —viaje a Quibdó, declaratoria de desastre nacional, despliegue del gabinete— ha generado también imagen de liderazgo: EEUU ofrece USD 15,5M, Ecuador envía socorristas y la UE expresa solidaridad. El Primer Consejo de Ministros en La Guajira del 13 de agosto podría reconvertirse en sesión de emergencia por el terremoto.",
+      "objetividad": 91,
       "criterios": [
         {
           "ok": true,
-          "texto": "Magnitud 7.4, epicentro San José del Palmar (Chocó): SGC — confirmado CNN, Univision, Telemundo (10 ago)"
+          "texto": "240 muertos, 1.300+ heridos, 2.000+ desaparecidos: La Nación Argentina (12 ago); cifras en consolidación"
         },
         {
           "ok": true,
-          "texto": "132 muertos y 188 desaparecidos: Asocapitales / La Jornada (10 ago); Univision reporta parcial de 111"
+          "texto": "'Gobierno a medio montar': análisis Mundiario (12 ago 2026)"
         },
         {
           "ok": false,
-          "texto": "Balance definitivo de fallecidos en actualización — cifra oficial del 11 ago aún en consolidación"
+          "texto": "Balance definitivo aún en actualización — cifras oficiales del 12 ago en consolidación"
         }
       ],
-      "url": "https://www.elespectador.com/mundo/america/el-mundo-se-solidariza-con-colombia-y-de-la-espriella-enfrenta-una-emergencia-nacional-por-el-terremoto/",
-      "url_label": "El Espectador — El mundo se solidariza con Colombia y De la Espriella enfrenta emergencia nacional"
+      "url": "https://www.mundiario.com/articulo/internacional/terremoto-pilla-espriella-gestion-desastres-interinidad-gobierno-medio-montar/20260812094449435007.html",
+      "url_label": "Mundiario — El terremoto pilla a De la Espriella con un gobierno a medio montar"
     },
     {
       "filter": "espriella",
-      "fuente": "Proceso (México)",
+      "fuente": "Infobae",
       "fuente_color": "#e74c3c",
-      "fecha": "8 ago 2026",
-      "tag": "ESPRIELLA · Día 1 · Fumigación · Fracking · Agenda",
+      "fecha": "10 ago 2026",
+      "tag": "ESPRIELLA · Cancillería · Exfuncionarios Petro · Sabotaje · Ayuda internacional",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella asume con agenda ultratrumpista: retoma fumigación aérea de coca y elimina impuesto a la riqueza",
-      "resumen": "Un día después de su posesión en Cali, la revista Proceso (México) analizó las primeras medidas del gobierno De la Espriella como una 'agenda ultratrumpista': retomó la fumigación aérea con glifosato de cultivos de coca —suspendida desde 2017— en respuesta directa a exigencias de Trump, anunció la eliminación del impuesto a la riqueza, prometió desarrollar el fracking y congeló el gasto público. En el mismo primer día derogó los mecanismos de 'paz total' de Gustavo Petro. Los EEUU respondieron con un anuncio de USD 1.000 millones en apoyo económico y la promesa de revisar aranceles. La agenda marca un giro radical de 180 grados en política exterior e interna respecto al gobierno saliente.",
-      "objetividad": 89,
+      "titulo": "Cancillería acusa a exfuncionarios de Petro de sabotear la gestión de ayuda internacional por el terremoto",
+      "resumen": "La Cancillería del gobierno De la Espriella acusó públicamente a exfuncionarios del gobierno de Gustavo Petro de sabotear la coordinación de ayuda internacional para atender el terremoto del Chocó. Según Infobae (10 ago), la acusación señala que exdiplomáticos petristas estarían interfiriendo en los canales de comunicación con países aliados y organizaciones internacionales que buscan ofrecer apoyo a Colombia tras el sismo 7.4. La denuncia escaló la tensión política entre el gobierno entrante y el saliente en plena crisis humanitaria, y se produce mientras el gabinete de 18 ministros enfrenta su primera gran prueba antes de completar su primer mes. El Pacto Histórico rechazó las acusaciones como 'cortina de humo' ante la gestión deficiente del gobierno 'a medio montar'.",
+      "objetividad": 82,
       "criterios": [
         {
           "ok": true,
-          "texto": "Fumigación aérea retomada: confirmada en múltiples medios internacionales (8 ago)"
-        },
-        {
-          "ok": true,
-          "texto": "Apoyo EEUU de USD 1.000M y revisión de aranceles: reportado por Proceso y La Jornada (8 ago)"
+          "texto": "Cancillería acusó a exfuncionarios de Petro de sabotaje: Infobae (10 ago 2026)"
         },
         {
           "ok": false,
-          "texto": "Calendario exacto de implementación del fracking y eliminación del impuesto pendiente"
+          "texto": "Nombres específicos de los exfuncionarios acusados no divulgados oficialmente"
+        },
+        {
+          "ok": false,
+          "texto": "Respuesta formal del Pacto Histórico a las acusaciones en proceso de verificación"
         }
       ],
-      "url": "https://www.proceso.com.mx/internacional/2026/8/8/de-la-espriella-asume-la-presidencia-de-colombia-con-una-agenda-ultratrumpista-377659.html",
-      "url_label": "Proceso — De la Espriella asume con agenda ultratrumpista"
+      "url": "https://www.infobae.com/colombia/2026/08/10/cancilleria-acuso-a-exfuncionarios-de-gustavo-petro-de-sabotear-a-abelardo-de-la-espriella-en-la-gestion-de-ayuda-internacional-por-el-terremoto/",
+      "url_label": "Infobae — Cancillería acusó a exfuncionarios de Petro de sabotear gestión de ayuda internacional"
     },
     {
       "filter": "espriella",
@@ -184,31 +184,31 @@
     },
     {
       "filter": "cepeda",
-      "fuente": "Infobae",
+      "fuente": "ABC Color (Paraguay)",
       "fuente_color": "#2980b9",
-      "fecha": "11 ago 2026",
-      "tag": "Cepeda / Petro · Terremoto · Controversia · Hidroituango · Politización",
+      "fecha": "10 ago 2026",
+      "tag": "Cepeda · Terremoto · Unidad · Oposición · Distancia de Petro",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Petro genera controversia por politizar el terremoto: señala 'falla geológica' de Hidroituango y causa fuertes reacciones",
-      "resumen": "El expresidente Gustavo Petro, aliado histórico de la bancada de Cepeda, causó fuerte polémica el 11 de agosto al insistir en redes sociales en una supuesta falla relacionada con Hidroituango como factor detrás del terremoto del Chocó. La afirmación, sin respaldo científico publicado por el SGC, generó críticas de exfuncionarios y concejales de centroderecha que acusaron a Petro de 'irresponsable' y de 'politizar la tragedia'. Según Infobae, el Congreso —donde el Pacto Histórico de Cepeda tiene 26 senadores— ajustó su agenda pero mantuvo en firme la elección del contralor general. El episodio presiona a Cepeda a tomar distancia pública del expresidente o a respaldar la narrativa de Petro, en un momento en que la unidad del Pacto Histórico ya está siendo cuestionada en el inicio del nuevo período legislativo.",
-      "objetividad": 87,
+      "titulo": "Cepeda llama a la unidad y el Pacto Histórico anuncia apoyo a víctimas del terremoto: 'Colombia necesita que estemos unidos'",
+      "resumen": "Ante la crisis por el sismo 7.4 en Chocó, el senador Iván Cepeda adoptó el 10 de agosto un tono radicalmente diferente al de su aliado Petro: llamó a la unidad nacional y anunció que el Pacto Histórico coordinará acciones con las autoridades y agencias de gestión del riesgo para apoyar a las víctimas. 'Rechazamos cualquier uso político de esta tragedia. No es el momento de mezquindades ni enfrentamientos. Colombia necesita que estemos unidos: solidaridad y fortaleza. La vida, primero', declaró Cepeda. La postura contrasta directamente con la de Gustavo Petro, quien generó polémica al vincular el terremoto con 'fallas geológicas' de Hidroituango sin respaldo científico. La distancia de Cepeda frente a Petro —su principal aliado histórico— es leída por analistas como un intento de proyectar liderazgo propio y credibilidad opositora en el nuevo período legislativo en que el Pacto Histórico lidera con 25 senadores.",
+      "objetividad": 90,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaraciones de Petro sobre Hidroituango y terremoto: Infobae (11 ago 2026)"
+          "texto": "Declaración de Cepeda sobre unidad y apoyo a víctimas: ABC Color (10 ago 2026)"
         },
         {
           "ok": true,
-          "texto": "Congreso ajustó agenda pero mantuvo elección contralor: Infobae (10 ago 2026)"
+          "texto": "Pacto Histórico coordina con autoridades de gestión del riesgo: confirmado"
         },
         {
           "ok": false,
-          "texto": "Posición oficial del Pacto Histórico y de Cepeda frente a las declaraciones de Petro no confirmada"
+          "texto": "Alcance real de la distancia Cepeda-Petro y reacción interna del Pacto Histórico aún en definición"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/08/11/terremoto-en-colombia-petro-insistio-en-supuesta-falla-sobre-hidroituango-que-habria-ocasionado-el-terremoto-y-causo-fuertes-reacciones/",
-      "url_label": "Infobae — Petro insistió en supuesta falla sobre Hidroituango y causó fuertes reacciones"
+      "url": "https://www.abc.com.py/internacionales/2026/08/10/ivan-cepeda-llama-a-la-unidad-y-anuncia-apoyo-del-pacto-historico-a-victimas-del-terremoto/",
+      "url_label": "ABC Color — Iván Cepeda llama a la unidad y anuncia apoyo del Pacto Histórico a víctimas del terremoto"
     },
     {
       "filter": "cepeda",
@@ -328,20 +328,20 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 70,
-        "negativo": 23,
+        "positivo": 67,
+        "negativo": 26,
         "neutro": 7,
-        "tendencia": "up",
-        "tendencia_texto": "11 ago — DÍA 4: LIDERAZGO EN CRISIS DEL TERREMOTO (El Espectador/CNN/Infobae, 10-11 ago): De la Espriella declaró 'estado de desastre nacional' por el sismo 7.4 en Chocó (132 muertos, 188 desaparecidos), viajó a Quibdó y desplegó gabinete en zonas afectadas — imagen presidencial en alza por gestión de crisis. SOLIDARIDAD INTERNACIONAL (Infobae, 10 ago): EEUU ofrece USD 15,5M, Ecuador, México, Israel y UE expresan apoyo. PRIMER CONSEJO EN LA GUAJIRA el 13 ago (LaGuajiraNoticias, 10 ago). Sentimiento sube (68→70 positivo): la respuesta proactiva al terremoto, con viaje al epicentro y declaración de desastre, genera imagen de liderazgo sólido en su primera semana; la solidaridad internacional suma. Negativo baja (25→23) por contraste con la politización del terremoto por parte de Petro."
+        "tendencia": "down",
+        "tendencia_texto": "12 ago — DÍA 5: BALANCE TERREMOTO SUBE A 240 MUERTOS (La Nación Argentina/Infobae, 12 ago): el sismo 7.4 acumula 240 fallecidos, 1.300+ heridos y 2.000+ desaparecidos. GOBIERNO 'A MEDIO MONTAR' (Mundiario, 12 ago): el análisis dominante del día cuestiona la capacidad de respuesta de un Ejecutivo en plena instalación —153 edificios colapsados, 6 aeropuertos afectados, USD 649M en pérdidas estimadas (USGS). CANCILLERÍA ACUSA A EXFUNCIONARIOS DE PETRO DE SABOTAJE en la gestión de ayuda internacional (Infobae, 10 ago): la polémica agrega ruido político a la crisis. PRIMER CONSEJO EN LA GUAJIRA mañana (13 ago) en riesgo de reconversión. Sentimiento baja (70→67 positivo): el nuevo balance de 240 muertos y la narrativa de 'gobierno a medio montar' erosionan la imagen de liderazgo de los días anteriores; sube negativo (23→26)."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 29,
-        "negativo": 55,
-        "neutro": 16,
-        "tendencia": "down",
-        "tendencia_texto": "11 ago — ALIADO PETRO POLITIZA TERREMOTO (Infobae, 11 ago): el expresidente Gustavo Petro, aliado histórico del Pacto Histórico, causó polémica al vincular el terremoto del Chocó con 'fallas geológicas' de Hidroituango sin respaldo científico, generando fuertes críticas y presionando a Cepeda a definir distancia o apoyo. CONGRESO AJUSTA AGENDA (Infobae, 10 ago): el Pacto Histórico con 26 senadores debe reorientar su control político. DENUNCIA PENAL CONTRA EFRAÍN CEPEDA sigue activa (Semana/Pulzo, 9 ago). Sentimiento baja marginalmente (30→29 positivo): la politización del terremoto por Petro daña la imagen del bloque opositor; Cepeda está presionado a responder en un momento de crisis humanitaria donde el gobierno muestra liderazgo. Negativo sube (53→55)."
+        "positivo": 33,
+        "negativo": 52,
+        "neutro": 15,
+        "tendencia": "up",
+        "tendencia_texto": "12 ago — CEPEDA LLAMA A LA UNIDAD Y DISTANCIA DE PETRO (ABC Color, 10 ago): el senador adoptó un tono unitario frente al terremoto —'Colombia necesita que estemos unidos, la vida primero'— contrastando con la polémica de Petro sobre Hidroituango. La distancia pública de Cepeda frente a su aliado histórico es leída como intento de proyectar liderazgo opositor propio. NARRATIVA DE 'IMPROVISACIÓN DEL GOBIERNO' (La Política Online): el Pacto Histórico capitaliza la crítica de 'gobierno a medio montar'. BALANCE TERREMOTO SUBE A 240 MUERTOS: presiona al gobierno y abre espacio para control político del Pacto Histórico. Sentimiento sube (29→33 positivo): el giro unitario de Cepeda frente al terremoto mejora su imagen; la distinción con Petro lo proyecta como líder opositor serio. Negativo baja (55→52)."
       },
       {
         "nombre": "Valencia",
@@ -349,8 +349,8 @@
         "positivo": 49,
         "negativo": 35,
         "neutro": 16,
-        "tendencia": "down",
-        "tendencia_texto": "11 ago — TERREMOTO DESPLAZA AGENDA CD (10-11 ago): el sismo 7.4 en Chocó eclipsa la controversia ideológica interna del Centro Democrático. La crisis humanitaria pone en pausa la discusión sobre si el CD es o no de derecha, pero también posterga cualquier reposicionamiento de Valencia. POLÉMICA IDEOLÓGICA ACTIVA (El Tiempo, 10 ago): las declaraciones 'no somos de derecha ni de centro' siguen circulando sin respuesta definitiva del partido. SIN CUPOS EN GABINETE NI INVITACIÓN A POSESIÓN (Pulzo, 7 ago): el CD navega sin espacio ejecutivo ni postura clara. Sentimiento estable (49 positivo): el terremoto anula temporalmente el debate sobre la identidad del CD; Valencia no suma ni resta en la cobertura mediática de la emergencia."
+        "tendencia": "neutral",
+        "tendencia_texto": "12 ago — TERREMOTO SIGUE DESPLAZANDO LA AGENDA DEL CD (12 ago): el balance de 240 muertos del sismo 7.4 en Chocó continúa eclipsando cualquier noticia interna del Centro Democrático. POLÉMICA IDEOLÓGICA EN SUSPENSO (El Tiempo, 10 ago): la discusión sobre si el CD es 'de derecha o de centro' sigue sin resolverse, pero la emergencia nacional la posterga. PELEA POR PRESIDENCIA DEL SENADO (Infobae, jul 2026): Valencia insistió en que el CD 'se ganó' la presidencia del Senado, que finalmente fue disputada con el Partido de la U con respaldo de De la Espriella —otra señal de la posición periférica del CD en el nuevo gobierno. SIN CUPOS EN GABINETE. Sentimiento estable (49 positivo): la crisis humanitaria mantiene a Valencia fuera de la agenda, ni suma ni resta, mientras el CD busca definir su rol como oposición constructiva sin espacio ejecutivo."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 4 DE GOBIERNO — 11 de agosto de 2026. CRISIS DEL TERREMOTO DOMINA LA AGENDA: el sismo 7.4 del 10 de agosto en Chocó (San José del Palmar) —132 muertos, 188 desaparecidos, +5.000 viviendas afectadas— es el mayor desafío inmediato del gobierno De la Espriella. El presidente declaró 'estado de desastre nacional', viajó a Quibdó y coordina respuesta con apoyo internacional (EEUU USD 15,5M, Ecuador, México, UE). PETRO GENERA CONTROVERSIA (Infobae, 11 ago): el expresidente insinuó relación entre el terremoto e Hidroituango, generando críticas por politizar la tragedia y presionando a Cepeda a definir su postura. PRIMER CONSEJO MINISTERIAL en La Guajira el 13 ago (LaGuajiraNoticias, 10 ago): el terremoto podría obligar a redirigir la agenda de ese Consejo hacia la emergencia en Chocó. CD EN LIMBO IDEOLÓGICO (El Tiempo, 10 ago): Valencia sin cupos en gabinete ni postura definida frente al gobierno y la nueva derecha. RESULTADO OFICIAL INAMOVIBLE: De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos)."
+    "resumen_analisis": "DÍA 5 DE GOBIERNO — 12 de agosto de 2026. TERREMOTO: BALANCE SUBE A 240 MUERTOS (La Nación Argentina, 12 ago): el sismo 7.4 del 10 de agosto en Chocó acumula 240 fallecidos, 1.300+ heridos, 2.000+ desaparecidos, 153 edificios colapsados y pérdidas estimadas en USD 649M. NARRATIVA 'GOBIERNO A MEDIO MONTAR' (Mundiario, 12 ago): la prensa internacional dominante del día es crítica —la emergencia tomó a un Ejecutivo en plena instalación. CANCILLERÍA ACUSA EXFUNCIONARIOS DE PETRO DE SABOTAJE en gestión de ayuda (Infobae, 10 ago): la tensión político-institucional escala. CEPEDA PIVOTA A LA UNIDAD (ABC Color, 10 ago): el senador llamó a la solidaridad y tomó distancia implícita de Petro, abriendo una nueva narrativa opositora más institucional. PRIMER CONSEJO EN LA GUAJIRA mañana 13 ago: podría reconvertirse en sesión de emergencia por el terremoto. CD SIN RUMBO CLARO (El Tiempo, 10 ago): Valencia y el Centro Democrático sin cupos en gabinete ni identidad ideológica definida frente a la nueva derecha de De la Espriella. RESULTADO OFICIAL INAMOVIBLE: De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos)."
   },
-  "ultimo_deploy": "11 de agosto de 2026"
+  "ultimo_deploy": "12 de agosto de 2026"
 }
