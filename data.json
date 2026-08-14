@@ -1,5 +1,5 @@
 {
-  "fecha": "12 de agosto de 2026",
+  "fecha": "14 de agosto de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,187 +100,187 @@
   "noticias": [
     {
       "filter": "espriella",
-      "fuente": "El Espectador / Infobae / CNN / Hispanidad",
+      "fuente": "El Tiempo / La Jornada México / Infobae",
       "fuente_color": "#e74c3c",
-      "fecha": "10 ago 2026",
-      "tag": "ESPRIELLA · Día 5 · Terremoto 7.4 · Chocó · 240 muertos",
+      "fecha": "14 ago 2026",
+      "tag": "ESPRIELLA · Día 7 · Terremoto · 281 muertos · Emergencia económica · Duelo nacional",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "'El terremoto pilla a De la Espriella con un gobierno a medio montar': balance sube a 240 muertos, 2.000 desaparecidos",
-      "resumen": "Al quinto día del gobierno (12 de agosto), el sismo 7.4 del 10 de agosto en San José del Palmar (Chocó) sigue siendo la crisis dominante: el balance oficial sube a 240 fallecidos, más de 1.300 heridos y 2.000 desaparecidos, con 153 edificios colapsados y 6 aeropuertos afectados. Mundiario (12 ago) resumió el escenario: 'El terremoto pilla a De la Espriella con un gobierno a medio montar', señalando que la emergencia sorprendió al Ejecutivo en plena instalación. La Nación Argentina (12 ago) y Cambio Colombia subrayan que el terremoto 'pone a prueba la promesa de gobernar desde las regiones'. Sin embargo, la respuesta del gobierno —viaje a Quibdó, declaratoria de desastre nacional, despliegue del gabinete— ha generado también imagen de liderazgo: EEUU ofrece USD 15,5M, Ecuador envía socorristas y la UE expresa solidaridad. El Primer Consejo de Ministros en La Guajira del 13 de agosto podría reconvertirse en sesión de emergencia por el terremoto.",
+      "titulo": "DÍA 7: Balance del terremoto sube a 281 muertos y 379 desaparecidos; De la Espriella declara emergencia económica y duelo nacional de 3 días",
+      "resumen": "Al séptimo día del gobierno (14 de agosto), el presidente Abelardo De la Espriella reportó un nuevo balance del sismo 7.4 del 10 de agosto: 281 fallecidos, 3.971 heridos, 379 desaparecidos y 348 rescatados, con 12.584 viviendas destruidas, 172 edificios colapsados, 1.187 centros educativos y 216 centros de salud afectados en 14 departamentos. El presidente declaró la emergencia económica para facilitar la contratación directa de la reconstrucción y anunció tres días de duelo nacional. La Jornada de México (14 ago) subraya que 'cientos de municipios en Colombia sufren afectaciones por el terremoto', mientras el Ministerio del Interior alertó por el colapso de la red hospitalaria en Buenaventura. La magnitud de la tragedia —la mayor catástrofe natural de Colombia en décadas— define la agenda completa del gobierno en su primera semana.",
+      "objetividad": 93,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "281 muertos, 3.971 heridos, 379 desaparecidos: El Tiempo (14 ago 2026); 12.584 viviendas destruidas"
+        },
+        {
+          "ok": true,
+          "texto": "Emergencia económica y duelo nacional declarados: El Tiempo / La Jornada México (14 ago 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Balance sigue en actualización — UNGRD emite informes cada 6 horas"
+        }
+      ],
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-14-de-agosto-el-ministro-del-interior-rodrigo-lara-revelo-que-la-red-hospitalaria-en-buenaventura-esta-desbordada-3578338",
+      "url_label": "El Tiempo — Terremoto 14 ago: 281 muertos, emergencia económica y duelo nacional"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Tiempo",
+      "fuente_color": "#e74c3c",
+      "fecha": "14 ago 2026",
+      "tag": "ESPRIELLA · Buenaventura · Red hospitalaria · Colapso sanitario · Rodrigo Lara",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "Red hospitalaria en Buenaventura desbordada: Ministro del Interior Rodrigo Lara lanza alerta por colapso sanitario",
+      "resumen": "El Ministro del Interior Rodrigo Lara reveló el 14 de agosto que la red hospitalaria del puerto de Buenaventura (Valle del Cauca) se encuentra desbordada como consecuencia del terremoto del 10 de agosto. Buenaventura, uno de los municipios más afectados con hospitales que reciben heridos de toda la región del Pacífico, enfrenta una crisis sanitaria paralela a la emergencia humanitaria en el Chocó. La alerta del Ministro evidencia que la capacidad institucional del gobierno —en apenas su primera semana— está siendo sometida a una prueba de fuego: la emergencia 7.4 afecta 14 departamentos, 403 municipios y más de 49.000 personas. El gobierno activó cuatro equipos especializados de búsqueda y rescate y aceptó la maquinaria ofrecida por la Alcaldía de Bogotá y aeronaves de la Gobernación de Antioquia.",
       "objetividad": 91,
       "criterios": [
         {
           "ok": true,
-          "texto": "240 muertos, 1.300+ heridos, 2.000+ desaparecidos: La Nación Argentina (12 ago); cifras en consolidación"
+          "texto": "Red hospitalaria desbordada en Buenaventura: Rodrigo Lara — El Tiempo (14 ago 2026)"
         },
         {
           "ok": true,
-          "texto": "'Gobierno a medio montar': análisis Mundiario (12 ago 2026)"
+          "texto": "14 departamentos, 403 municipios y 49.214 personas afectadas: UNGRD (14 ago)"
         },
         {
           "ok": false,
-          "texto": "Balance definitivo aún en actualización — cifras oficiales del 12 ago en consolidación"
+          "texto": "Capacidad hospitalaria disponible y días para normalización sanitaria aún sin cifras oficiales"
         }
       ],
-      "url": "https://www.mundiario.com/articulo/internacional/terremoto-pilla-espriella-gestion-desastres-interinidad-gobierno-medio-montar/20260812094449435007.html",
-      "url_label": "Mundiario — El terremoto pilla a De la Espriella con un gobierno a medio montar"
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-14-de-agosto-el-ministro-del-interior-rodrigo-lara-revelo-que-la-red-hospitalaria-en-buenaventura-esta-desbordada-3578338",
+      "url_label": "El Tiempo — Rodrigo Lara revela que la red hospitalaria en Buenaventura está desbordada"
     },
     {
       "filter": "espriella",
-      "fuente": "Infobae",
+      "fuente": "Semana / Reporteros Asociados / La Guajira Noticias",
       "fuente_color": "#e74c3c",
-      "fecha": "10 ago 2026",
-      "tag": "ESPRIELLA · Cancillería · Exfuncionarios Petro · Sabotaje · Ayuda internacional",
+      "fecha": "13 ago 2026",
+      "tag": "ESPRIELLA · Día 6 · La Guajira · Primer Consejo · Infraestructura vial · Wayuu",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Cancillería acusa a exfuncionarios de Petro de sabotear la gestión de ayuda internacional por el terremoto",
-      "resumen": "La Cancillería del gobierno De la Espriella acusó públicamente a exfuncionarios del gobierno de Gustavo Petro de sabotear la coordinación de ayuda internacional para atender el terremoto del Chocó. Según Infobae (10 ago), la acusación señala que exdiplomáticos petristas estarían interfiriendo en los canales de comunicación con países aliados y organizaciones internacionales que buscan ofrecer apoyo a Colombia tras el sismo 7.4. La denuncia escaló la tensión política entre el gobierno entrante y el saliente en plena crisis humanitaria, y se produce mientras el gabinete de 18 ministros enfrenta su primera gran prueba antes de completar su primer mes. El Pacto Histórico rechazó las acusaciones como 'cortina de humo' ante la gestión deficiente del gobierno 'a medio montar'.",
-      "objetividad": 82,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Cancillería acusó a exfuncionarios de Petro de sabotaje: Infobae (10 ago 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Nombres específicos de los exfuncionarios acusados no divulgados oficialmente"
-        },
-        {
-          "ok": false,
-          "texto": "Respuesta formal del Pacto Histórico a las acusaciones en proceso de verificación"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/08/10/cancilleria-acuso-a-exfuncionarios-de-gustavo-petro-de-sabotear-a-abelardo-de-la-espriella-en-la-gestion-de-ayuda-internacional-por-el-terremoto/",
-      "url_label": "Infobae — Cancillería acusó a exfuncionarios de Petro de sabotear gestión de ayuda internacional"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "La Guajira Noticias / El Universal",
-      "fuente_color": "#e74c3c",
-      "fecha": "10 ago 2026",
-      "tag": "ESPRIELLA · Día 3 · Primer Consejo · La Guajira · Gobierno territorial",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella llevará su primer Consejo de Ministros oficial a La Guajira el 13 de agosto: 'Gobernar desde los territorios'",
-      "resumen": "A tres días de haber asumido la presidencia, el gobierno de Abelardo de la Espriella confirmó que el primer Consejo de Ministros oficial se realizará el martes 13 de agosto en La Guajira, cumpliendo su promesa de campaña de 'gobernar desde las regiones'. Según La Guajira Noticias y El Universal de Cartagena, el encuentro tendrá como ejes la crisis humanitaria de la comunidad Wayuu, el acceso a agua potable y la presencia histórica del ELN en el departamento. La decisión de itinerar el primer Consejo fuera de Bogotá busca contrastar con el estilo centralista del gobierno Petro y enviar una señal de cercanía con las comunidades vulnerables. Los 18 ministros posesionados el 8 de agosto en acto privado en el Batallón Pichincha de Cali participarán en el encuentro.",
-      "objetividad": 91,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Primer Consejo de Ministros en La Guajira el 13 de agosto: confirmado por La Guajira Noticias y LaFM (10 ago)"
-        },
-        {
-          "ok": true,
-          "texto": "18 ministros posesionados el 8 ago en Cali: confirmado por Infobae y Vanguardia"
-        },
-        {
-          "ok": false,
-          "texto": "Agenda detallada del Consejo del 13 ago en La Guajira aún no publicada oficialmente"
-        }
-      ],
-      "url": "https://www.laguajiranoticias.com/gobierno-de-la-espriella-celebrara-su-primer-consejo-de-ministros-en-la-guajira-el-13-de-agosto/",
-      "url_label": "La Guajira Noticias — De la Espriella celebrará su primer Consejo de Ministros en La Guajira el 13 de agosto"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "ABC Color (Paraguay)",
-      "fuente_color": "#2980b9",
-      "fecha": "10 ago 2026",
-      "tag": "Cepeda · Terremoto · Unidad · Oposición · Distancia de Petro",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda llama a la unidad y el Pacto Histórico anuncia apoyo a víctimas del terremoto: 'Colombia necesita que estemos unidos'",
-      "resumen": "Ante la crisis por el sismo 7.4 en Chocó, el senador Iván Cepeda adoptó el 10 de agosto un tono radicalmente diferente al de su aliado Petro: llamó a la unidad nacional y anunció que el Pacto Histórico coordinará acciones con las autoridades y agencias de gestión del riesgo para apoyar a las víctimas. 'Rechazamos cualquier uso político de esta tragedia. No es el momento de mezquindades ni enfrentamientos. Colombia necesita que estemos unidos: solidaridad y fortaleza. La vida, primero', declaró Cepeda. La postura contrasta directamente con la de Gustavo Petro, quien generó polémica al vincular el terremoto con 'fallas geológicas' de Hidroituango sin respaldo científico. La distancia de Cepeda frente a Petro —su principal aliado histórico— es leída por analistas como un intento de proyectar liderazgo propio y credibilidad opositora en el nuevo período legislativo en que el Pacto Histórico lidera con 25 senadores.",
+      "titulo": "Primer Consejo de Ministros en La Guajira: De la Espriella cumple promesa territorial y prioriza vías, agua y seguridad Wayuu",
+      "resumen": "El 13 de agosto, el sexto día de gobierno, Abelardo De la Espriella realizó su primer Consejo de Ministros oficial en La Guajira, cumpliendo su promesa de campaña de 'gobernar desde los territorios'. Según Semana y Reporteros Asociados, el encuentro priorizó la infraestructura vial estratégica del departamento —conexiones en la Alta Guajira, finalización de la vía Francisco el Hombre y mejora de vías terciarias— así como la crisis humanitaria Wayuu por acceso al agua potable y la persistente presencia del ELN. El ministro de Comercio, Mauricio Gómez Amín, confirmó que el consejo mantuvo el carácter territorial a pesar de la crisis por el terremoto que empuja la agenda de emergencia. La imagen del gabinete completo fuera de Bogotá refuerza el discurso descentralizador que distingue al gobierno De la Espriella del centralismo que criticó durante la campaña.",
       "objetividad": 90,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaración de Cepeda sobre unidad y apoyo a víctimas: ABC Color (10 ago 2026)"
+          "texto": "Consejo de Ministros en La Guajira el 13 ago: confirmado por Semana y Reporteros Asociados"
         },
         {
           "ok": true,
-          "texto": "Pacto Histórico coordina con autoridades de gestión del riesgo: confirmado"
+          "texto": "Agenda: vías estratégicas, crisis Wayuu, ELN — Semana (13 ago 2026)"
         },
         {
           "ok": false,
-          "texto": "Alcance real de la distancia Cepeda-Petro y reacción interna del Pacto Histórico aún en definición"
+          "texto": "Decisiones concretas y decretos emanados del Consejo pendientes de publicación oficial"
         }
       ],
-      "url": "https://www.abc.com.py/internacionales/2026/08/10/ivan-cepeda-llama-a-la-unidad-y-anuncia-apoyo-del-pacto-historico-a-victimas-del-terremoto/",
-      "url_label": "ABC Color — Iván Cepeda llama a la unidad y anuncia apoyo del Pacto Histórico a víctimas del terremoto"
+      "url": "https://www.reporterosasociados.com.co/2026/08/el-primer-consejo-de-ministros-de-abelardo-de-la-espriella-sera-el13-de-agosto-en-la-guajira/",
+      "url_label": "Reporteros Asociados — Primer Consejo de Ministros de De la Espriella en La Guajira el 13 de agosto"
     },
     {
       "filter": "cepeda",
-      "fuente": "Semana / Pulzo",
+      "fuente": "El Tiempo / El Espectador",
       "fuente_color": "#2980b9",
-      "fecha": "9 ago 2026",
-      "tag": "Cepeda · Denuncia penal · Efraín Cepeda · Calumnias · 'Guerrillero'",
+      "fecha": "13 ago 2026",
+      "tag": "Cepeda · Terremoto · Medicina Legal · 260 cuerpos · Rescate · Oposición",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "'Cepeda vs. Cepeda': Iván anuncia denuncia penal contra Efraín Cepeda por llamarlo 'más guerrillero que Petro'",
-      "resumen": "El senador Iván Cepeda anunció el 9 de agosto que presentará una denuncia penal ante la Fiscalía contra el presidente del Partido Conservador, Efraín Cepeda, por haberlo llamado 'más guerrillero que Gustavo Petro' durante los actos de posesión del 7 de agosto. Iván Cepeda calificó las declaraciones de 'calumnias mendaces' que 'propician la violencia en mi contra y agravan las amenazas contra mi vida'. Efraín Cepeda, aliado del nuevo gobierno De la Espriella, había señalado que la estrategia de 'paz total' de Petro benefició a grupos armados y que Iván Cepeda era su vocero en el Congreso. El incidente marca el primer enfrentamiento judicial de la oposición del Pacto Histórico en el nuevo periodo legislativo y revela la agresividad del debate político en los primeros días del nuevo gobierno. Semana y Pulzo cubrieron el episodio como 'Cepeda vs. Cepeda', uno de los más llamativos del estreno político poselectoral.",
+      "titulo": "Medicina Legal recibió 260 cuerpos del terremoto: 246 identificados, 17 menores de edad; UNGRD recibe ayuda internacional",
+      "resumen": "El 13 de agosto, el Instituto Nacional de Medicina Legal informó haber recibido 260 cuerpos provenientes de Chocó, Caldas, Risaralda y Valle del Cauca, de los cuales 246 han sido identificados, incluyendo 17 menores de edad. Según El Tiempo (13 ago), el director de la UNGRD confirmó que el país está recibiendo asistencia internacional para la búsqueda y rescate de víctimas. Iván Cepeda, desde su rol de líder opositor en el Senado con credencial firmada desde julio, exigió al gobierno acelerar los rescates y garantizar la identificación de todos los desaparecidos. El Pacto Histórico —con 25 senadores— está ejerciendo control político activo sobre la respuesta del ejecutivo al terremoto, posicionándose como fiscalizador institucional de la mayor crisis humanitaria del gobierno De la Espriella en su primera semana.",
+      "objetividad": 91,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "260 cuerpos recibidos por Medicina Legal, 246 identificados, 17 menores: El Tiempo (13 ago 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Ayuda internacional confirmada por director UNGRD: El Tiempo (13 ago)"
+        },
+        {
+          "ok": false,
+          "texto": "Declaración específica de Cepeda del 13 ago sobre Medicina Legal en proceso de verificación"
+        }
+      ],
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-13-de-agosto-director-de-la-ungrd-dijo-que-el-pais-esta-recibiendo-ayuda-internacional-para-busqueda-y-rescate-de-victimas-3578053",
+      "url_label": "El Tiempo — 13 ago: Medicina Legal recibió 260 cuerpos; UNGRD confirma ayuda internacional"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Infobae",
+      "fuente_color": "#2980b9",
+      "fecha": "6 ago 2026",
+      "tag": "Cepeda · Fiscalía · Investigación ilegal · Narcotráfico · Petro · Persecución",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda denuncia investigación 'ilegal' de la Fiscalía por narcoterrorismo que también alcanzaría a Gustavo Petro",
+      "resumen": "El 6 de agosto —un día antes de la posesión de De la Espriella— Iván Cepeda aseguró que la Fiscalía General lo estaría investigando 'ilegalmente' para vincularlo con el narcotráfico, y que dicha indagación también alcanzaría al expresidente Gustavo Petro. Según Infobae, Cepeda denunció que la investigación es 'una operación política' diseñada para deslegitimar la oposición en el nuevo período legislativo y revivir el intento de relacionar al Pacto Histórico con grupos armados ilegales. La acusación de Cepeda llega en un momento en que la Fiscalía bajo el nuevo gobierno inicia su propia agenda institucional, y genera un primer choque entre el poder judicial y la oposición. El expresidente Petro, cuya situación jurídica post-mandato es objeto de seguimiento, fue vinculado indirectamente en las declaraciones de Cepeda.",
+      "objetividad": 84,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Cepeda denuncia investigación 'ilegal' de la Fiscalía: Infobae (6 ago 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Fiscalía no ha confirmado oficialmente la existencia ni alcance de dicha investigación"
+        },
+        {
+          "ok": false,
+          "texto": "Vínculo con Petro proviene exclusivamente de declaraciones de Cepeda, no de fuentes judiciales"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/08/06/ivan-cepeda-aseguro-que-la-fiscalia-lo-estaria-investigando-ilegalmente-para-vinculardo-con-el-narcotrafico-la-indagacion-alcanzaria-a-gustavo-petro/",
+      "url_label": "Infobae — Cepeda: la Fiscalía lo investiga 'ilegalmente' por narcotráfico; alcanzaría a Petro"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Semana / El Espectador",
+      "fuente_color": "#2980b9",
+      "fecha": "7 ago 2026",
+      "tag": "Cepeda · Gabinete por la Vida · Gobierno alterno · Oposición · Pacto Histórico",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "'Gabinete por la Vida': Cepeda anuncia gobierno alterno y liderará el Pacto Histórico en oposición formal desde el primer día",
+      "resumen": "Desde Barranquilla, mientras De la Espriella se posesionaba en Cali el 7 de agosto, Iván Cepeda anunció la creación del 'Gabinete por la Vida', una estructura de oposición paralela que coordina al Pacto Histórico —25 senadores en el nuevo período— para monitorear y controvertir las decisiones del gobierno entrante. El Espectador confirmó que Cepeda liderará la construcción de este 'gabinete paralelo' con exministros, congresistas y organizaciones sociales. Cepeda declaró no reconocer la legitimidad de De la Espriella como jefe de Estado. Aunque la propuesta generó burlas en redes sociales (comparada irónicamente con 'Sábados Felices'), también marcó una clara estrategia opositora: el Pacto Histórico no va a la oposición a esperar —va a gobernar en paralelo desde el Congreso y la calle.",
+      "objetividad": 90,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Anuncio del 'Gabinete por la Vida': Semana, Pulzo, 360radio, El Espectador (7 ago)"
+        },
+        {
+          "ok": true,
+          "texto": "Cepeda lidera construcción del gabinete paralelo: El Espectador (7 ago 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Composición definitiva del Gabinete por la Vida no detallada públicamente"
+        }
+      ],
+      "url": "https://www.elespectador.com/politica/ivan-cepeda-liderara-pacto-historico-en-construccion-de-su-gabinete-paralelo-al-gobierno-de-la-espriella-noticias-hoy/",
+      "url_label": "El Espectador — Cepeda liderará el Pacto Histórico en construcción de su 'gabinete paralelo'"
+    },
+    {
+      "filter": "valencia",
+      "fuente": "Pulzo / Infobae / Colombia One",
+      "fuente_color": "#9b59b6",
+      "fecha": "7 ago 2026",
+      "tag": "Valencia · No invitada · 'Maletas' · CD · Fricciones · Sin gabinete",
+      "tag_color": "#8e44ad",
+      "tag_bg": "rgba(142,68,173,0.12)",
+      "titulo": "'Se quedó cargándole las maletas': Valencia no fue invitada a la posesión pese a haber sido aliada clave de De la Espriella",
+      "resumen": "Paloma Valencia, quien cedió los votos y la maquinaria del Centro Democrático a Abelardo De la Espriella para la segunda vuelta del 21 de junio, terminó siendo excluida de la posesión presidencial en Cali el 7 de agosto. La frase 'se quedó cargándole las maletas' circuló ampliamente en redes. La senadora lo confirmó públicamente: 'No me invitaron'. La exclusión no fue un accidente: De la Espriella no ofreció ningún cupo ministerial al partido de Álvaro Uribe en su gabinete de 18 ministros. Colombia One (inglés, 5 ago) también cubrió el episodio como señal de las tensiones entre el CD y el nuevo gobierno. Así, el Centro Democrático —que puso su aparato electoral al servicio del candidato ganador— quedó sin espacios ejecutivos, sin presencia en el gabinete y debiendo redefinir su posición política en el nuevo período.",
       "objetividad": 92,
       "criterios": [
         {
           "ok": true,
-          "texto": "Denuncia penal anunciada por Iván Cepeda: Semana, Pulzo, Infobae, El País, Colombia.com (9 ago)"
-        },
-        {
-          "ok": true,
-          "texto": "Frase de Efraín Cepeda ('más guerrillero que Petro'): confirmada en múltiples fuentes (7-9 ago)"
-        },
-        {
-          "ok": false,
-          "texto": "Fecha y juzgado de radicación de la denuncia penal aún no confirmados"
-        }
-      ],
-      "url": "https://www.semana.com/politica/articulo/ivan-cepeda-anuncia-acciones-legales-contra-efrain-cepeda-tras-llamarlo-guerrillero/202650/",
-      "url_label": "Semana — Iván Cepeda anuncia acciones legales contra Efraín Cepeda tras llamarlo 'guerrillero'"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Semana",
-      "fuente_color": "#2980b9",
-      "fecha": "7 ago 2026",
-      "tag": "Cepeda · Gabinete por la Vida · Gobierno alterno · Oposición",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "'Gabinete por la Vida': Cepeda anuncia gobierno alterno para vigilar a De la Espriella desde el primer día",
-      "resumen": "Desde Barranquilla, mientras De la Espriella se posesionaba en Cali, el senador Iván Cepeda anunció la creación del 'Gabinete por la Vida', una estructura de oposición paralela integrada por figuras del Pacto Histórico que buscará monitorear, cuestionar y controvertir cada decisión del nuevo gobierno. Cepeda declaró que no reconoce la legitimidad de De la Espriella como jefe de Estado y anunció que este gabinete alterno operará con exministros y congresistas para hacer contrapeso político permanente. La propuesta fue cubierta ampliamente por Semana, Pulzo, 360 Radio y Colombia.com, aunque también generó burlas en redes sociales y fue comparada irónicamente con los 'Sábados Felices' por columnistas de centroderecha.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Anuncio del 'Gabinete por la Vida' confirmado: Semana, Pulzo, 360radio (7 ago)"
-        },
-        {
-          "ok": true,
-          "texto": "Cepeda: declaró no reconocer legitimidad de De la Espriella — múltiples fuentes"
-        },
-        {
-          "ok": false,
-          "texto": "Composición definitiva del Gabinete por la Vida no detallada en fuentes consultadas"
-        }
-      ],
-      "url": "https://www.semana.com/politica/articulo/gabinete-por-la-vida-ivan-cepeda-anuncia-gobierno-alterno-para-vigilar-a-de-la-espriella-y-liderar-la-oposicion-desde-el-primer-dia/202623/",
-      "url_label": "Semana — 'Gabinete por la Vida': Cepeda anuncia gobierno alterno"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "Pulzo",
-      "fuente_color": "#9b59b6",
-      "fecha": "7 ago 2026",
-      "tag": "Valencia · No invitada · 'Maletas' · CD · Fricciones",
-      "tag_color": "#8e44ad",
-      "tag_bg": "rgba(142,68,173,0.12)",
-      "titulo": "'Se quedó cargándole las maletas': Valencia no fue invitada a posesión pese a ser aliada clave de De la Espriella",
-      "resumen": "Pulzo publicó un balance irónico pero preciso: Paloma Valencia, quien le cedió los votos del Centro Democrático y la maquinaria uribista a De la Espriella para la segunda vuelta, terminó siendo excluida de la posesión presidencial en Cali. La frase 'se quedó cargándole las maletas' circuló ampliamente en redes. La senadora confirmó públicamente: 'No me invitaron'. La situación revela profundas fricciones entre el CD y el gobierno entrante: De la Espriella no incluyó ningún cupo ministerial para el partido de Uribe en su gabinete de 18 ministros, descartando así la alianza formal que se esperaba tras el resultado de la segunda vuelta. El Centro Democrático quedará en una posición de oposición constructiva sin espacios ejecutivos.",
-      "objetividad": 91,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Exclusión de Valencia confirmada: Pulzo, El Tiempo, La Opinión, Infobae (7 ago)"
+          "texto": "Exclusión de Valencia de la posesión: Pulzo, El Tiempo, Infobae, Colombia One (7 ago)"
         },
         {
           "ok": true,
@@ -288,39 +288,39 @@
         },
         {
           "ok": false,
-          "texto": "Causas oficiales de la exclusión no confirmadas por el equipo de De la Espriella"
+          "texto": "Causas oficiales de la exclusión no confirmadas formalmente por el equipo de De la Espriella"
         }
       ],
       "url": "https://www.pulzo.com/nacion/paloma-valencia-dijo-que-no-fue-invitada-posesion-abelardo-espriella-PP5265558",
-      "url_label": "Pulzo — Valencia se quedó cargándole las maletas a De la Espriella; no la invitaron a posesión"
+      "url_label": "Pulzo — Valencia 'se quedó cargándole las maletas'; no la invitaron a la posesión"
     },
     {
       "filter": "valencia",
-      "fuente": "El Tiempo / Semana",
+      "fuente": "El Tiempo / Chicanoticias / Semana",
       "fuente_color": "#9b59b6",
       "fecha": "10 ago 2026",
-      "tag": "Valencia · CD · Polémica · Identidad ideológica · 'No es de derecha ni de centro'",
+      "tag": "Valencia · CD · Identidad ideológica · 'Nueva derecha' · Milei · Bukele · Crisis interna",
       "tag_color": "#8e44ad",
       "tag_bg": "rgba(142,68,173,0.12)",
-      "titulo": "'Decir que el CD no es de derecha no significa que sea de centro': nueva polémica interna por declaraciones de Valencia",
-      "resumen": "El Tiempo publicó el 10 de agosto que las declaraciones de Paloma Valencia en las que niega que el Centro Democrático sea un partido de derecha desataron una nueva polémica interna en la colectividad uribista. Valencia intentó aclarar que sus palabras no implican que el CD sea de centro ni de izquierda: 'Somos un partido con valores propios'. Varios exdirigentes del CD y columnistas cuestionaron públicamente la frase, argumentando que la identidad uribista siempre ha sido inequívocamente de derecha y que la ambigüedad de Valencia confunde a los militantes. Semana recogió que Valencia insiste en 'no dejarse impresionar por modas' de la 'nueva derecha', marcando distancia del estilo Milei-Bukele adoptado por De la Espriella. La controversia profundiza la crisis de identidad del CD en el nuevo escenario político: partido aliado en campaña pero excluido del gabinete, sin postura ideológica clara frente a la nueva derecha criolla y buscando diferenciarse sin quedar en la oposición formal.",
-      "objetividad": 88,
+      "titulo": "'No como el de Bukele, Milei o el Tigre': Valencia defiende el modelo CD y ahonda la crisis de identidad del uribismo",
+      "resumen": "Paloma Valencia protagonizó en agosto un episodio que expone la crisis de identidad del Centro Democrático en el nuevo escenario político: en un encuentro en Medellín, declaró que el modelo del CD 'sí funciona' y que no es 'como el de Bukele, Milei o el Tigre', marcando distancia de la 'nueva derecha' adoptada por De la Espriella. El Tiempo (10 ago) recogió la polémica interna: varios exdirigentes cuestionaron su frase 'decir que el CD no es de derecha no significa que sea de centro', argumentando que la identidad uribista siempre fue inequívocamente de derecha. Chicanoticias (1 ago) documentó la distancia ideológica entre el CD y el estilo Milei-Bukele del gobierno. Así, el partido que cargó las maletas de De la Espriella para llegar al poder hoy se debate entre la oposición formal, la oposición constructiva sin cupos ejecutivos, y una indefinición ideológica que lo deja sin narrativa clara frente a su propio electorado.",
+      "objetividad": 89,
       "criterios": [
         {
           "ok": true,
-          "texto": "Polémica interna CD por frase de Valencia: El Tiempo (10 ago 2026)"
+          "texto": "'No como el de Bukele, Milei o el Tigre': Chicanoticias (1 ago 2026)"
         },
         {
           "ok": true,
-          "texto": "Valencia: 'No dejarse impresionar por modas de la nueva derecha' — Semana (8 ago)"
+          "texto": "Polémica interna CD por frase de Valencia sobre identidad de derecha: El Tiempo (10 ago)"
         },
         {
           "ok": false,
-          "texto": "Reacciones internas completas del CD y posición oficial del partido aún en definición"
+          "texto": "Posición oficial y unificada del CD frente al gobierno De la Espriella aún en definición"
         }
       ],
-      "url": "https://www.eltiempo.com/politica/partidos-politicos/polemica-en-el-centro-democratico-por-frase-de-paloma-valencia-decir-que-no-es-de-derecha-no-significa-que-sea-de-centro-y-menos-de-izquierda-3575596",
-      "url_label": "El Tiempo — Polémica en el CD por frase de Valencia: 'Decir que no es de derecha no significa que sea de centro'"
+      "url": "https://www.chicanoticias.com/2026/08/01/paloma-centrodemocratico-funciona/",
+      "url_label": "Chicanoticias — 'No como el de Bukele, Milei o el Tigre': Valencia defiende el modelo CD"
     }
   ],
   "sentimiento": {
@@ -328,20 +328,20 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 67,
-        "negativo": 26,
-        "neutro": 7,
+        "positivo": 62,
+        "negativo": 30,
+        "neutro": 8,
         "tendencia": "down",
-        "tendencia_texto": "12 ago — DÍA 5: BALANCE TERREMOTO SUBE A 240 MUERTOS (La Nación Argentina/Infobae, 12 ago): el sismo 7.4 acumula 240 fallecidos, 1.300+ heridos y 2.000+ desaparecidos. GOBIERNO 'A MEDIO MONTAR' (Mundiario, 12 ago): el análisis dominante del día cuestiona la capacidad de respuesta de un Ejecutivo en plena instalación —153 edificios colapsados, 6 aeropuertos afectados, USD 649M en pérdidas estimadas (USGS). CANCILLERÍA ACUSA A EXFUNCIONARIOS DE PETRO DE SABOTAJE en la gestión de ayuda internacional (Infobae, 10 ago): la polémica agrega ruido político a la crisis. PRIMER CONSEJO EN LA GUAJIRA mañana (13 ago) en riesgo de reconversión. Sentimiento baja (70→67 positivo): el nuevo balance de 240 muertos y la narrativa de 'gobierno a medio montar' erosionan la imagen de liderazgo de los días anteriores; sube negativo (23→26)."
+        "tendencia_texto": "14 ago — DÍA 7: BALANCE SUBE A 281 MUERTOS (El Tiempo, 14 ago): el sismo 7.4 acumula 281 fallecidos, 3.971 heridos, 379 desaparecidos y 348 rescatados. EMERGENCIA ECONÓMICA Y DUELO NACIONAL (14 ago): De la Espriella declara emergencia económica para agilizar contratación directa y 3 días de duelo nacional. RED HOSPITALARIA DESBORDADA EN BUENAVENTURA (Ministro Rodrigo Lara, 14 ago): primer colapso sanitario confirmado en el Pacífico. PRIMER CONSEJO EN LA GUAJIRA REALIZADO (Semana, 13 ago): el gobierno cumplió su promesa territorial pese a la crisis. Sentimiento baja (67→62 positivo): el incremento de muertos, la emergencia económica y el colapso hospitalario presionan negativamente; sube negativo (26→30)."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 33,
-        "negativo": 52,
+        "positivo": 36,
+        "negativo": 49,
         "neutro": 15,
         "tendencia": "up",
-        "tendencia_texto": "12 ago — CEPEDA LLAMA A LA UNIDAD Y DISTANCIA DE PETRO (ABC Color, 10 ago): el senador adoptó un tono unitario frente al terremoto —'Colombia necesita que estemos unidos, la vida primero'— contrastando con la polémica de Petro sobre Hidroituango. La distancia pública de Cepeda frente a su aliado histórico es leída como intento de proyectar liderazgo opositor propio. NARRATIVA DE 'IMPROVISACIÓN DEL GOBIERNO' (La Política Online): el Pacto Histórico capitaliza la crítica de 'gobierno a medio montar'. BALANCE TERREMOTO SUBE A 240 MUERTOS: presiona al gobierno y abre espacio para control político del Pacto Histórico. Sentimiento sube (29→33 positivo): el giro unitario de Cepeda frente al terremoto mejora su imagen; la distinción con Petro lo proyecta como líder opositor serio. Negativo baja (55→52)."
+        "tendencia_texto": "14 ago — FISCALÍA LO INVESTIGA 'ILEGALMENTE' (Infobae, 6 ago): Cepeda enmarca la investigación como persecución política, ganando simpatías en la izquierda y aumentando su visibilidad como opositor. MEDICINA LEGAL — 260 CUERPOS DEL TERREMOTO (El Tiempo, 13 ago): el Pacto Histórico ejerce control político activo y presiona por la identificación de víctimas —posicionamiento opositor sólido. GABINETE POR LA VIDA EN MARCHA (El Espectador, 7 ago): la estructura alternativa comienza a operar con 25 senadores del Pacto como base. BALANCE TERREMOTO CRECE DIARIAMENTE: abre espacio permanente para la fiscalización opositora. Sentimiento sube (33→36 positivo): la narrativa de 'persecución' y el control político del terremoto mejoran su imagen. Negativo baja (52→49)."
       },
       {
         "nombre": "Valencia",
@@ -350,7 +350,7 @@
         "negativo": 35,
         "neutro": 16,
         "tendencia": "neutral",
-        "tendencia_texto": "12 ago — TERREMOTO SIGUE DESPLAZANDO LA AGENDA DEL CD (12 ago): el balance de 240 muertos del sismo 7.4 en Chocó continúa eclipsando cualquier noticia interna del Centro Democrático. POLÉMICA IDEOLÓGICA EN SUSPENSO (El Tiempo, 10 ago): la discusión sobre si el CD es 'de derecha o de centro' sigue sin resolverse, pero la emergencia nacional la posterga. PELEA POR PRESIDENCIA DEL SENADO (Infobae, jul 2026): Valencia insistió en que el CD 'se ganó' la presidencia del Senado, que finalmente fue disputada con el Partido de la U con respaldo de De la Espriella —otra señal de la posición periférica del CD en el nuevo gobierno. SIN CUPOS EN GABINETE. Sentimiento estable (49 positivo): la crisis humanitaria mantiene a Valencia fuera de la agenda, ni suma ni resta, mientras el CD busca definir su rol como oposición constructiva sin espacio ejecutivo."
+        "tendencia_texto": "14 ago — TERREMOTO SIGUE DESPLAZANDO LA AGENDA DEL CD (14 ago): el balance de 281 muertos del sismo 7.4 eclipsa completamente cualquier noticia interna del Centro Democrático. CD SIN IDENTIDAD FRENTE A LA 'NUEVA DERECHA' (El Tiempo, 10 ago; Chicanoticias, 1 ago): la polémica sobre si el CD es 'de derecha o de centro' sigue sin resolverse. SIN CUPOS EN GABINETE y sin invitación a la posesión (Pulzo, 7 ago): el CD busca articular una oposición constructiva desde un lugar periférico. SIN NOTICIAS PROPIAS de los días 13-14 de agosto. Sentimiento estable (49 positivo): la crisis humanitaria mantiene a Valencia fuera de la agenda, en un limbo político que ni suma ni resta, mientras el CD define su rol frente al gobierno que ayudó a elegir."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 5 DE GOBIERNO — 12 de agosto de 2026. TERREMOTO: BALANCE SUBE A 240 MUERTOS (La Nación Argentina, 12 ago): el sismo 7.4 del 10 de agosto en Chocó acumula 240 fallecidos, 1.300+ heridos, 2.000+ desaparecidos, 153 edificios colapsados y pérdidas estimadas en USD 649M. NARRATIVA 'GOBIERNO A MEDIO MONTAR' (Mundiario, 12 ago): la prensa internacional dominante del día es crítica —la emergencia tomó a un Ejecutivo en plena instalación. CANCILLERÍA ACUSA EXFUNCIONARIOS DE PETRO DE SABOTAJE en gestión de ayuda (Infobae, 10 ago): la tensión político-institucional escala. CEPEDA PIVOTA A LA UNIDAD (ABC Color, 10 ago): el senador llamó a la solidaridad y tomó distancia implícita de Petro, abriendo una nueva narrativa opositora más institucional. PRIMER CONSEJO EN LA GUAJIRA mañana 13 ago: podría reconvertirse en sesión de emergencia por el terremoto. CD SIN RUMBO CLARO (El Tiempo, 10 ago): Valencia y el Centro Democrático sin cupos en gabinete ni identidad ideológica definida frente a la nueva derecha de De la Espriella. RESULTADO OFICIAL INAMOVIBLE: De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos)."
+    "resumen_analisis": "DÍA 7 DE GOBIERNO — 14 de agosto de 2026. TERREMOTO: BALANCE SUBE A 281 MUERTOS (El Tiempo, 14 ago): el sismo 7.4 del 10 de agosto acumula 281 fallecidos, 3.971 heridos, 379 desaparecidos, 12.584 viviendas destruidas y 172 edificios colapsados en 14 departamentos y 403 municipios. EMERGENCIA ECONÓMICA Y DUELO NACIONAL: De la Espriella declaró la emergencia económica para agilizar la reconstrucción y 3 días de duelo nacional. RED HOSPITALARIA DESBORDADA EN BUENAVENTURA (Ministro del Interior Rodrigo Lara, 14 ago): primer colapso sanitario documentado en el Pacífico. PRIMER CONSEJO DE MINISTROS EN LA GUAJIRA REALIZADO (Semana, 13 ago): gobierno cumplió su promesa territorial con agenda de infraestructura vial y crisis Wayuu. CEPEDA: FISCALÍA LO INVESTIGA 'ILEGALMENTE' (Infobae, 6 ago): el líder opositor denuncia persecución judicial que alcanzaría a Petro; Medicina Legal y 260 cuerpos (El Tiempo, 13 ago) dan espacio de fiscalización al Pacto Histórico. CD SIN RUMBO: Valencia sin invitación a la posesión (Pulzo, 7 ago) y sin identidad ideológica frente a la nueva derecha de De la Espriella (El Tiempo, 10 ago). RESULTADO OFICIAL INAMOVIBLE: De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos)."
   },
-  "ultimo_deploy": "12 de agosto de 2026"
+  "ultimo_deploy": "14 de agosto de 2026"
 }
