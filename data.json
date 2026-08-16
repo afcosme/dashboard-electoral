@@ -1,5 +1,5 @@
 {
-  "fecha": "14 de agosto de 2026",
+  "fecha": "16 de agosto de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,6 +100,62 @@
   "noticias": [
     {
       "filter": "espriella",
+      "fuente": "El Tiempo / Vanguardia / Portafolio",
+      "fuente_color": "#e74c3c",
+      "fecha": "15 ago 2026",
+      "tag": "ESPRIELLA · Día 8 · 294 muertos · Trump-Espriella · USD 11M · Vuelta Colombia suspendida",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "DÍA 8: Balance sube a 294 muertos y 115.461 desplazados; Trump llama a De la Espriella y EEUU compromete 11 millones de dólares; Vuelta a Colombia suspendida",
+      "resumen": "Al octavo día del gobierno (15 de agosto), el balance del terremoto 7.4 del 10 de agosto escaló a 294 fallecidos, 3.935 heridos, 320 desaparecidos, 353 rescatados y 115.461 personas desplazadas en 15 departamentos y 448 municipios. El presidente Donald Trump llamó personalmente a Abelardo De la Espriella para ofrecer condolencias y confirmar el apoyo de EEUU: USD 11 millones en ayuda humanitaria y equipos de rescate. La Vuelta a Colombia 2026 fue suspendida tres días antes de su conclusión programada en Medellín el 16 de agosto, como señal de duelo nacional. El Servicio Geológico Colombiano (SGC) reportó una réplica de magnitud 2.7 en Istmina, Chocó, a las 12:36 p.m., sin víctimas adicionales.",
+      "objetividad": 94,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "294 muertos, 3.935 heridos, 320 desaparecidos, 115.461 desplazados: balance UNGRD del 15 ago (El Tiempo, 15 ago)"
+        },
+        {
+          "ok": true,
+          "texto": "Llamada Trump-Espriella y USD 11M de ayuda: Vanguardia (15 ago 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Balance UNGRD sigue actualizándose — cifra del 15 ago am, puede variar en próximas horas"
+        }
+      ],
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-15-de-agosto-karol-g-y-maluma-lideraran-un-concierto-solidario-tras-la-emergencia-ee-uu-suma-us-11-millones-en-ayuda-3578587",
+      "url_label": "El Tiempo — Terremoto 15 ago: 294 muertos, Trump llama a De la Espriella, EEUU da USD 11M"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "La Jornada México / El Imparcial",
+      "fuente_color": "#e74c3c",
+      "fecha": "15 ago 2026",
+      "tag": "ESPRIELLA · Tropas EEUU · IDF Israel · Soberanía · Polémica constitucional · Hegseth",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "Polémica: De la Espriella autoriza operaciones militares de EEUU contra narcoterrorismo y acepta rescatistas del IDF israelí sin pasar por el Congreso",
+      "resumen": "El 15 de agosto, medios mexicanos y colombianos revelaron que el gobierno De la Espriella tomó dos decisiones que generan alarma constitucional: (1) autorizó operaciones militares de EEUU contra el narcoterrorismo en territorio colombiano —anunciadas no por Bogotá sino por el secretario de Guerra Pete Hegseth desde la reunión 'Escudo de las Américas' en Panamá el 11-12 de agosto—; y (2) aceptó una unidad del Ejército de Defensa de Israel (IDF) encuadrada como 'misión humanitaria' de rescate. La Constitución colombiana establece que sólo el Congreso puede autorizar el tránsito de tropas extranjeras en el territorio nacional. El Pacto Histórico calificó ambas decisiones como violación a la soberanía y anunció interpelaciones parlamentarias al ministro de Defensa.",
+      "objetividad": 85,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Operaciones militares EEUU anunciadas por Hegseth en Panamá (11-12 ago): La Jornada / El Imparcial (15 ago)"
+        },
+        {
+          "ok": true,
+          "texto": "Presencia del IDF en Colombia como 'misión humanitaria': La Jornada / El Imparcial (15 ago)"
+        },
+        {
+          "ok": false,
+          "texto": "Gobierno colombiano no ha emitido comunicado oficial confirmando los términos del acuerdo con EEUU ni del mandato del IDF"
+        }
+      ],
+      "url": "https://www.elimparcial.com/mundo/2026/08/15/mientras-colombia-intenta-recuperarse-del-terremoto-de-magnitud-74-que-dejo-cientos-de-muertos-el-gobierno-de-abelardo-de-la-espriella-acuerda-operaciones-militares-con-estados-unidos-y-acepta-rescatistas-enviados-por-israel-en-medio-de-cuestionamientos-sobre-la-presencia-extranjera/",
+      "url_label": "El Imparcial — De la Espriella acuerda operaciones militares con EEUU y acepta IDF israelí sin aval del Congreso"
+    },
+    {
+      "filter": "espriella",
       "fuente": "El Tiempo / La Jornada México / Infobae",
       "fuente_color": "#e74c3c",
       "fecha": "14 ago 2026",
@@ -155,32 +211,32 @@
       "url_label": "El Tiempo — Rodrigo Lara revela que la red hospitalaria en Buenaventura está desbordada"
     },
     {
-      "filter": "espriella",
-      "fuente": "Semana / Reporteros Asociados / La Guajira Noticias",
-      "fuente_color": "#e74c3c",
-      "fecha": "13 ago 2026",
-      "tag": "ESPRIELLA · Día 6 · La Guajira · Primer Consejo · Infraestructura vial · Wayuu",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Primer Consejo de Ministros en La Guajira: De la Espriella cumple promesa territorial y prioriza vías, agua y seguridad Wayuu",
-      "resumen": "El 13 de agosto, el sexto día de gobierno, Abelardo De la Espriella realizó su primer Consejo de Ministros oficial en La Guajira, cumpliendo su promesa de campaña de 'gobernar desde los territorios'. Según Semana y Reporteros Asociados, el encuentro priorizó la infraestructura vial estratégica del departamento —conexiones en la Alta Guajira, finalización de la vía Francisco el Hombre y mejora de vías terciarias— así como la crisis humanitaria Wayuu por acceso al agua potable y la persistente presencia del ELN. El ministro de Comercio, Mauricio Gómez Amín, confirmó que el consejo mantuvo el carácter territorial a pesar de la crisis por el terremoto que empuja la agenda de emergencia. La imagen del gabinete completo fuera de Bogotá refuerza el discurso descentralizador que distingue al gobierno De la Espriella del centralismo que criticó durante la campaña.",
-      "objetividad": 90,
+      "filter": "cepeda",
+      "fuente": "Infobae / ABC Color Paraguay",
+      "fuente_color": "#2980b9",
+      "fecha": "15 ago 2026",
+      "tag": "Cepeda · Quibdó · Ayuda selectiva · IDF israelí · Senado · Control político · Oposición",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda en Quibdó: denuncia ayuda 'selectiva y condicionada al voto'; exige al Congreso controlar la presencia de militares israelíes en Colombia",
+      "resumen": "El 15 de agosto, Iván Cepeda visitó Quibdó, capital de Chocó y uno de los municipios más afectados por el sismo 7.4. Se reunió con líderes sociales y comunitarios que le reportaron casos donde la distribución de ayuda humanitaria estuvo condicionada al historial de voto —'si votaste por De la Espriella, te atienden primero', según testimonios recogidos por el senador. El Pacto Histórico anunció que el Senado vigilará activamente la distribución de ayuda para evitar discriminación política. Cepeda también cuestionó la presencia de personal militar del IDF israelí en Colombia, recordando que la Constitución exige aprobación del Congreso para el tránsito de tropas extranjeras. El senador anunció que el tema será objeto de interpelación y control político en las próximas sesiones.",
+      "objetividad": 86,
       "criterios": [
         {
           "ok": true,
-          "texto": "Consejo de Ministros en La Guajira el 13 ago: confirmado por Semana y Reporteros Asociados"
+          "texto": "Oposición critica 'ayuda selectiva' del gobierno: Infobae/Agencias y ABC Color (15 ago 2026)"
         },
         {
           "ok": true,
-          "texto": "Agenda: vías estratégicas, crisis Wayuu, ELN — Semana (13 ago 2026)"
+          "texto": "Visita de Cepeda a Quibdó y reuniones con líderes sociales: ABC Paraguay (15 ago)"
         },
         {
           "ok": false,
-          "texto": "Decisiones concretas y decretos emanados del Consejo pendientes de publicación oficial"
+          "texto": "Casos de ayuda condicionada al voto: testimonios no verificados por fuentes oficiales independientes"
         }
       ],
-      "url": "https://www.reporterosasociados.com.co/2026/08/el-primer-consejo-de-ministros-de-abelardo-de-la-espriella-sera-el13-de-agosto-en-la-guajira/",
-      "url_label": "Reporteros Asociados — Primer Consejo de Ministros de De la Espriella en La Guajira el 13 de agosto"
+      "url": "https://www.abc.com.py/internacionales/2026/08/15/oposicion-colombiana-critica-ayuda-selectiva-recibida-por-el-gobierno-tras-el-terremoto/",
+      "url_label": "ABC Paraguay — Oposición colombiana critica 'ayuda selectiva' del Gobierno tras el terremoto"
     },
     {
       "filter": "cepeda",
@@ -211,60 +267,32 @@
       "url_label": "El Tiempo — 13 ago: Medicina Legal recibió 260 cuerpos; UNGRD confirma ayuda internacional"
     },
     {
-      "filter": "cepeda",
-      "fuente": "Infobae",
-      "fuente_color": "#2980b9",
-      "fecha": "6 ago 2026",
-      "tag": "Cepeda · Fiscalía · Investigación ilegal · Narcotráfico · Petro · Persecución",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda denuncia investigación 'ilegal' de la Fiscalía por narcoterrorismo que también alcanzaría a Gustavo Petro",
-      "resumen": "El 6 de agosto —un día antes de la posesión de De la Espriella— Iván Cepeda aseguró que la Fiscalía General lo estaría investigando 'ilegalmente' para vincularlo con el narcotráfico, y que dicha indagación también alcanzaría al expresidente Gustavo Petro. Según Infobae, Cepeda denunció que la investigación es 'una operación política' diseñada para deslegitimar la oposición en el nuevo período legislativo y revivir el intento de relacionar al Pacto Histórico con grupos armados ilegales. La acusación de Cepeda llega en un momento en que la Fiscalía bajo el nuevo gobierno inicia su propia agenda institucional, y genera un primer choque entre el poder judicial y la oposición. El expresidente Petro, cuya situación jurídica post-mandato es objeto de seguimiento, fue vinculado indirectamente en las declaraciones de Cepeda.",
-      "objetividad": 84,
+      "filter": "valencia",
+      "fuente": "Infobae / El Universal México / La Opinión",
+      "fuente_color": "#9b59b6",
+      "fecha": "15 ago 2026",
+      "tag": "Valencia · 'Voces por la Vida' · Karol G · Maluma · Miguel Bosé · Bogotá · 23 agosto",
+      "tag_color": "#8e44ad",
+      "tag_bg": "rgba(142,68,173,0.12)",
+      "titulo": "'Colombia: Voces por la Vida': Karol G, Maluma, Miguel Bosé y Sebastián Yatra lideran concierto benéfico en Bogotá el 23 de agosto",
+      "resumen": "El 15 de agosto, artistas colombianos e internacionales anunciaron el concierto benéfico 'Colombia: Voces por la Vida' para el 23 de agosto en el Vive Claro de Bogotá, la sede de espectáculos más grande del país. El cartel incluye a Karol G (vía livestream con su Fundación Con Cora), Maluma, Sebastián Yatra, Miguel Bosé, Silvestre Dangond, Grupo Niche, Andrés Cepeda, Draco Rosa, Manuel Medrano y Pedro Capó. Todos los ingresos irán a la Corporación Presentes para financiar la reconstrucción de las zonas afectadas por el sismo 7.4. Es la mayor movilización de la industria cultural colombiana desde el concierto Venezuela Aid Live (2019). Paloma Valencia y el Centro Democrático no tienen noticias propias del 15-16 ago — la agenda sísmica y la polémica por las tropas extranjeras dominan el espacio mediático.",
+      "objetividad": 96,
       "criterios": [
         {
           "ok": true,
-          "texto": "Cepeda denuncia investigación 'ilegal' de la Fiscalía: Infobae (6 ago 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Fiscalía no ha confirmado oficialmente la existencia ni alcance de dicha investigación"
-        },
-        {
-          "ok": false,
-          "texto": "Vínculo con Petro proviene exclusivamente de declaraciones de Cepeda, no de fuentes judiciales"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/08/06/ivan-cepeda-aseguro-que-la-fiscalia-lo-estaria-investigando-ilegalmente-para-vinculardo-con-el-narcotrafico-la-indagacion-alcanzaria-a-gustavo-petro/",
-      "url_label": "Infobae — Cepeda: la Fiscalía lo investiga 'ilegalmente' por narcotráfico; alcanzaría a Petro"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Semana / El Espectador",
-      "fuente_color": "#2980b9",
-      "fecha": "7 ago 2026",
-      "tag": "Cepeda · Gabinete por la Vida · Gobierno alterno · Oposición · Pacto Histórico",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "'Gabinete por la Vida': Cepeda anuncia gobierno alterno y liderará el Pacto Histórico en oposición formal desde el primer día",
-      "resumen": "Desde Barranquilla, mientras De la Espriella se posesionaba en Cali el 7 de agosto, Iván Cepeda anunció la creación del 'Gabinete por la Vida', una estructura de oposición paralela que coordina al Pacto Histórico —25 senadores en el nuevo período— para monitorear y controvertir las decisiones del gobierno entrante. El Espectador confirmó que Cepeda liderará la construcción de este 'gabinete paralelo' con exministros, congresistas y organizaciones sociales. Cepeda declaró no reconocer la legitimidad de De la Espriella como jefe de Estado. Aunque la propuesta generó burlas en redes sociales (comparada irónicamente con 'Sábados Felices'), también marcó una clara estrategia opositora: el Pacto Histórico no va a la oposición a esperar —va a gobernar en paralelo desde el Congreso y la calle.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Anuncio del 'Gabinete por la Vida': Semana, Pulzo, 360radio, El Espectador (7 ago)"
+          "texto": "Anuncio del concierto 'Voces por la Vida' el 23 ago en Bogotá: Infobae, El Universal México (15 ago)"
         },
         {
           "ok": true,
-          "texto": "Cepeda lidera construcción del gabinete paralelo: El Espectador (7 ago 2026)"
+          "texto": "Cartel confirmado: Karol G, Maluma, Sebastián Yatra, Miguel Bosé, Grupo Niche (Infobae, 15 ago)"
         },
         {
           "ok": false,
-          "texto": "Composición definitiva del Gabinete por la Vida no detallada públicamente"
+          "texto": "Monto estimado de recaudación y plena disponibilidad de boletería aún no publicados"
         }
       ],
-      "url": "https://www.elespectador.com/politica/ivan-cepeda-liderara-pacto-historico-en-construccion-de-su-gabinete-paralelo-al-gobierno-de-la-espriella-noticias-hoy/",
-      "url_label": "El Espectador — Cepeda liderará el Pacto Histórico en construcción de su 'gabinete paralelo'"
+      "url": "https://www.eluniversal.com.mx/espectaculos/karol-g-miguel-bose-y-maluma-se-unen-por-colombia-tras-terremoto-ofreceran-concierto-solidario/",
+      "url_label": "El Universal México — Karol G, Maluma y Miguel Bosé: concierto solidario 'Voces por la Vida' el 23 ago en Bogotá"
     },
     {
       "filter": "valencia",
@@ -293,34 +321,6 @@
       ],
       "url": "https://www.pulzo.com/nacion/paloma-valencia-dijo-que-no-fue-invitada-posesion-abelardo-espriella-PP5265558",
       "url_label": "Pulzo — Valencia 'se quedó cargándole las maletas'; no la invitaron a la posesión"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "El Tiempo / Chicanoticias / Semana",
-      "fuente_color": "#9b59b6",
-      "fecha": "10 ago 2026",
-      "tag": "Valencia · CD · Identidad ideológica · 'Nueva derecha' · Milei · Bukele · Crisis interna",
-      "tag_color": "#8e44ad",
-      "tag_bg": "rgba(142,68,173,0.12)",
-      "titulo": "'No como el de Bukele, Milei o el Tigre': Valencia defiende el modelo CD y ahonda la crisis de identidad del uribismo",
-      "resumen": "Paloma Valencia protagonizó en agosto un episodio que expone la crisis de identidad del Centro Democrático en el nuevo escenario político: en un encuentro en Medellín, declaró que el modelo del CD 'sí funciona' y que no es 'como el de Bukele, Milei o el Tigre', marcando distancia de la 'nueva derecha' adoptada por De la Espriella. El Tiempo (10 ago) recogió la polémica interna: varios exdirigentes cuestionaron su frase 'decir que el CD no es de derecha no significa que sea de centro', argumentando que la identidad uribista siempre fue inequívocamente de derecha. Chicanoticias (1 ago) documentó la distancia ideológica entre el CD y el estilo Milei-Bukele del gobierno. Así, el partido que cargó las maletas de De la Espriella para llegar al poder hoy se debate entre la oposición formal, la oposición constructiva sin cupos ejecutivos, y una indefinición ideológica que lo deja sin narrativa clara frente a su propio electorado.",
-      "objetividad": 89,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "'No como el de Bukele, Milei o el Tigre': Chicanoticias (1 ago 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Polémica interna CD por frase de Valencia sobre identidad de derecha: El Tiempo (10 ago)"
-        },
-        {
-          "ok": false,
-          "texto": "Posición oficial y unificada del CD frente al gobierno De la Espriella aún en definición"
-        }
-      ],
-      "url": "https://www.chicanoticias.com/2026/08/01/paloma-centrodemocratico-funciona/",
-      "url_label": "Chicanoticias — 'No como el de Bukele, Milei o el Tigre': Valencia defiende el modelo CD"
     }
   ],
   "sentimiento": {
@@ -328,29 +328,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 62,
-        "negativo": 30,
-        "neutro": 8,
+        "positivo": 58,
+        "negativo": 36,
+        "neutro": 6,
         "tendencia": "down",
-        "tendencia_texto": "14 ago — DÍA 7: BALANCE SUBE A 281 MUERTOS (El Tiempo, 14 ago): el sismo 7.4 acumula 281 fallecidos, 3.971 heridos, 379 desaparecidos y 348 rescatados. EMERGENCIA ECONÓMICA Y DUELO NACIONAL (14 ago): De la Espriella declara emergencia económica para agilizar contratación directa y 3 días de duelo nacional. RED HOSPITALARIA DESBORDADA EN BUENAVENTURA (Ministro Rodrigo Lara, 14 ago): primer colapso sanitario confirmado en el Pacífico. PRIMER CONSEJO EN LA GUAJIRA REALIZADO (Semana, 13 ago): el gobierno cumplió su promesa territorial pese a la crisis. Sentimiento baja (67→62 positivo): el incremento de muertos, la emergencia económica y el colapso hospitalario presionan negativamente; sube negativo (26→30)."
+        "tendencia_texto": "16 ago — DÍA 9: BALANCE 294 MUERTOS (El Tiempo, 15 ago): 294 fallecidos, 3.935 heridos, 320 desaparecidos, 115.461 desplazados en 15 departamentos. TRUMP COMPROMETE USD 11M (Vanguardia, 15 ago): llamada Trump-Espriella; primer apoyo internacional mayor. POLÉMICA TROPAS EEUU Y IDF ISRAELÍ (La Jornada/El Imparcial, 15 ago): operaciones militares de EEUU autorizadas y presencia del IDF sin aprobación del Congreso —crítica constitucional del Pacto Histórico. VUELTA A COLOMBIA SUSPENDIDA (El Tiempo, 15 ago). Sentimiento baja (62→58 positivo): la polémica soberanía suma al desgaste acumulado del terremoto; negativo sube (30→36)."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 36,
-        "negativo": 49,
+        "positivo": 41,
+        "negativo": 44,
         "neutro": 15,
         "tendencia": "up",
-        "tendencia_texto": "14 ago — FISCALÍA LO INVESTIGA 'ILEGALMENTE' (Infobae, 6 ago): Cepeda enmarca la investigación como persecución política, ganando simpatías en la izquierda y aumentando su visibilidad como opositor. MEDICINA LEGAL — 260 CUERPOS DEL TERREMOTO (El Tiempo, 13 ago): el Pacto Histórico ejerce control político activo y presiona por la identificación de víctimas —posicionamiento opositor sólido. GABINETE POR LA VIDA EN MARCHA (El Espectador, 7 ago): la estructura alternativa comienza a operar con 25 senadores del Pacto como base. BALANCE TERREMOTO CRECE DIARIAMENTE: abre espacio permanente para la fiscalización opositora. Sentimiento sube (33→36 positivo): la narrativa de 'persecución' y el control político del terremoto mejoran su imagen. Negativo baja (52→49)."
+        "tendencia_texto": "16 ago — CEPEDA EN QUIBDÓ (ABC Color/Infobae, 15 ago): visita el Chocó devastado, denuncia 'ayuda selectiva condicionada al voto' y exige control parlamentario de tropas extranjeras —posicionamiento opositor activo y visible en zona cero. MEDICINA LEGAL 260 CUERPOS (El Tiempo, 13 ago): el Pacto Histórico fiscaliza el proceso de identificación. IDF ISRAELÍ: Cepeda exige saber quiénes son y qué hacen en Colombia. Sentimiento sube (36→41 positivo): la visita a Quibdó y la denuncia de discriminación en la ayuda refuerzan imagen opositora. Negativo baja (49→44)."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 49,
-        "negativo": 35,
+        "positivo": 51,
+        "negativo": 33,
         "neutro": 16,
         "tendencia": "neutral",
-        "tendencia_texto": "14 ago — TERREMOTO SIGUE DESPLAZANDO LA AGENDA DEL CD (14 ago): el balance de 281 muertos del sismo 7.4 eclipsa completamente cualquier noticia interna del Centro Democrático. CD SIN IDENTIDAD FRENTE A LA 'NUEVA DERECHA' (El Tiempo, 10 ago; Chicanoticias, 1 ago): la polémica sobre si el CD es 'de derecha o de centro' sigue sin resolverse. SIN CUPOS EN GABINETE y sin invitación a la posesión (Pulzo, 7 ago): el CD busca articular una oposición constructiva desde un lugar periférico. SIN NOTICIAS PROPIAS de los días 13-14 de agosto. Sentimiento estable (49 positivo): la crisis humanitaria mantiene a Valencia fuera de la agenda, en un limbo político que ni suma ni resta, mientras el CD define su rol frente al gobierno que ayudó a elegir."
+        "tendencia_texto": "16 ago — CONCIERTO 'VOCES POR LA VIDA' (Infobae, 15 ago): Karol G, Maluma, Sebastián Yatra y Miguel Bosé unen al país para el 23 ago en Bogotá —la cultura muestra la cohesión social que la política no logra. CD SIN NOTICIAS PROPIAS del 15-16 ago: la agenda del terremoto y la polémica de las tropas extranjeras eclipsan completamente al uribismo. SIN CUPOS EN GABINETE y sin rol en la emergencia: el CD observa desde los márgenes. Sentimiento levemente mejor (49→51 positivo): el espíritu solidario nacional eleva el ánimo general; el CD no suma ni resta en la agenda."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 7 DE GOBIERNO — 14 de agosto de 2026. TERREMOTO: BALANCE SUBE A 281 MUERTOS (El Tiempo, 14 ago): el sismo 7.4 del 10 de agosto acumula 281 fallecidos, 3.971 heridos, 379 desaparecidos, 12.584 viviendas destruidas y 172 edificios colapsados en 14 departamentos y 403 municipios. EMERGENCIA ECONÓMICA Y DUELO NACIONAL: De la Espriella declaró la emergencia económica para agilizar la reconstrucción y 3 días de duelo nacional. RED HOSPITALARIA DESBORDADA EN BUENAVENTURA (Ministro del Interior Rodrigo Lara, 14 ago): primer colapso sanitario documentado en el Pacífico. PRIMER CONSEJO DE MINISTROS EN LA GUAJIRA REALIZADO (Semana, 13 ago): gobierno cumplió su promesa territorial con agenda de infraestructura vial y crisis Wayuu. CEPEDA: FISCALÍA LO INVESTIGA 'ILEGALMENTE' (Infobae, 6 ago): el líder opositor denuncia persecución judicial que alcanzaría a Petro; Medicina Legal y 260 cuerpos (El Tiempo, 13 ago) dan espacio de fiscalización al Pacto Histórico. CD SIN RUMBO: Valencia sin invitación a la posesión (Pulzo, 7 ago) y sin identidad ideológica frente a la nueva derecha de De la Espriella (El Tiempo, 10 ago). RESULTADO OFICIAL INAMOVIBLE: De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos)."
+    "resumen_analisis": "DÍA 9 DE GOBIERNO — 16 de agosto de 2026. TERREMOTO DÍA 8: BALANCE 294 MUERTOS, 115.461 DESPLAZADOS (El Tiempo, 15 ago): el sismo 7.4 del 10 de agosto acumula 294 fallecidos, 3.935 heridos, 320 desaparecidos en 15 departamentos y 448 municipios. TRUMP LLAMA A DE LA ESPRIELLA: EEUU compromete USD 11M en ayuda humanitaria y equipos de rescate (Vanguardia, 15 ago). POLÉMICA SOBERANÍA: gobierno autorizó operaciones militares de EEUU contra narcoterrorismo y aceptó IDF israelí sin aprobación del Congreso (La Jornada / El Imparcial, 15 ago) —el Pacto Histórico anuncia interpelaciones parlamentarias. CEPEDA EN QUIBDÓ: denuncia 'ayuda selectiva condicionada al voto' y exige control del Senado sobre tropas extranjeras (Infobae/ABC Color, 15 ago). VOCES POR LA VIDA: Karol G, Maluma, Miguel Bosé y Sebastián Yatra lideran concierto benéfico el 23 ago en Bogotá (Infobae, 15 ago). CD SIN VOZ: Valencia sin noticias propias del 15-16 ago; el uribismo sigue fuera de la agenda. RESULTADO OFICIAL INAMOVIBLE: De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos)."
   },
-  "ultimo_deploy": "14 de agosto de 2026"
+  "ultimo_deploy": "16 de agosto de 2026"
 }
