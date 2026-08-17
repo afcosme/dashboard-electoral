@@ -1,5 +1,5 @@
 {
-  "fecha": "16 de agosto de 2026",
+  "fecha": "17 de agosto de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,6 +100,62 @@
   "noticias": [
     {
       "filter": "espriella",
+      "fuente": "El Tiempo / SGC",
+      "fuente_color": "#e74c3c",
+      "fecha": "17 ago 2026",
+      "tag": "ESPRIELLA · Día 10 · Terremoto · 325 réplicas · Semana del sismo · Balance continuo",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "DÍA 10: Sismo 7.4 cumple una semana — SGC registra 325 réplicas; 21 superan magnitud 3.0 y 2 superan 4.0; 80.744 viviendas averiadas",
+      "resumen": "Al décimo día del gobierno (17 de agosto), el Servicio Geológico Colombiano informó que desde el terremoto 7.4 del 10 de agosto se han registrado 325 réplicas, de las cuales 21 superaron magnitud 3.0 y 2 superaron 4.0 —sin nuevas víctimas. El balance acumulado de infraestructura muestra 80.744 viviendas averiadas, 12.504 destruidas, 66 edificios colapsados, 260 centros de salud, 2.595 centros educativos, 267 vías y 55 puentes vehiculares afectados en 15 departamentos. La emergencia humanitaria domina por completo la agenda del gobierno, que lleva 10 días en modo de crisis total. Las autoridades mantienen activos los operativos de atención y evaluación de daños en las zonas más golpeadas del Chocó, Valle del Cauca, Caldas y Risaralda.",
+      "objetividad": 96,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "325 réplicas registradas con corte 7:00 a.m. del 17 ago, 21 sobre M3.0 y 2 sobre M4.0: SGC / El Tiempo (17 ago 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "80.744 viviendas averiadas, 12.504 destruidas, 66 edificios colapsados: UNGRD / El Colombiano (17 ago)"
+        },
+        {
+          "ok": false,
+          "texto": "Balance de muertos del 17 ago aún no publicado al cierre — última cifra oficial disponible es 294 (El Tiempo, 15 ago)"
+        }
+      ],
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-17-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3578855",
+      "url_label": "El Tiempo — Terremoto 17 ago: SGC registra 325 réplicas una semana después del sismo"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Infobae / Moncloa.com",
+      "fuente_color": "#e74c3c",
+      "fecha": "17 ago 2026",
+      "tag": "ESPRIELLA · Purga · Exfuncionarios Petro · DNP · MinTIC · Sepúlveda · Consolidación",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella frena a exfuncionarios de Petro: revoca nombramiento en DNP y bloquea petristas en MinTIC; purga consolida el nuevo gobierno",
+      "resumen": "El 17 de agosto, en su décimo día de gobierno, De la Espriella aceleró la purga de funcionarios vinculados al gobierno de Gustavo Petro en dos entidades sensibles: revocó el nombramiento de Carlos Sepúlveda —exdecano de la Universidad del Rosario y colaborador del plan de desarrollo de Petro— como jefe del Departamento Nacional de Planeación (DNP), cuya designación ya había sido publicada; y ordenó una revisión exhaustiva de todos los nombramientos en el Ministerio de las TIC. Además, la Cancillería había acusado el 10 de agosto a exfuncionarios del petrismo de sabotear la gestión de ayuda internacional durante la emergencia sísmica. La consolidación del equipo de gobierno avanza en paralelo a la crisis humanitaria del terremoto, generando un debate sobre la velocidad y criterios de la transición.",
+      "objetividad": 88,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Revocación del nombramiento de Sepúlveda en DNP confirmada: Infobae / Moncloa.com (17 ago 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Revisión de nombramientos en MinTIC ordenada por De la Espriella: Moncloa.com (17 ago)"
+        },
+        {
+          "ok": false,
+          "texto": "Lista completa de cargos afectados por la purga aún no publicada oficialmente por el gobierno"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/08/10/cancilleria-acuso-a-exfuncionarios-de-gustavo-petro-de-sabotear-a-abelardo-de-la-espriella-en-la-gestion-de-ayuda-internacional-por-el-terremoto/",
+      "url_label": "Infobae — Cancillería acusa a exfuncionarios de Petro de sabotear ayuda internacional; De la Espriella frena petristas en DNP y MinTIC"
+    },
+    {
+      "filter": "espriella",
       "fuente": "El Tiempo / Vanguardia / Portafolio",
       "fuente_color": "#e74c3c",
       "fecha": "15 ago 2026",
@@ -153,62 +209,6 @@
       ],
       "url": "https://www.elimparcial.com/mundo/2026/08/15/mientras-colombia-intenta-recuperarse-del-terremoto-de-magnitud-74-que-dejo-cientos-de-muertos-el-gobierno-de-abelardo-de-la-espriella-acuerda-operaciones-militares-con-estados-unidos-y-acepta-rescatistas-enviados-por-israel-en-medio-de-cuestionamientos-sobre-la-presencia-extranjera/",
       "url_label": "El Imparcial — De la Espriella acuerda operaciones militares con EEUU y acepta IDF israelí sin aval del Congreso"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Tiempo / La Jornada México / Infobae",
-      "fuente_color": "#e74c3c",
-      "fecha": "14 ago 2026",
-      "tag": "ESPRIELLA · Día 7 · Terremoto · 281 muertos · Emergencia económica · Duelo nacional",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "DÍA 7: Balance del terremoto sube a 281 muertos y 379 desaparecidos; De la Espriella declara emergencia económica y duelo nacional de 3 días",
-      "resumen": "Al séptimo día del gobierno (14 de agosto), el presidente Abelardo De la Espriella reportó un nuevo balance del sismo 7.4 del 10 de agosto: 281 fallecidos, 3.971 heridos, 379 desaparecidos y 348 rescatados, con 12.584 viviendas destruidas, 172 edificios colapsados, 1.187 centros educativos y 216 centros de salud afectados en 14 departamentos. El presidente declaró la emergencia económica para facilitar la contratación directa de la reconstrucción y anunció tres días de duelo nacional. La Jornada de México (14 ago) subraya que 'cientos de municipios en Colombia sufren afectaciones por el terremoto', mientras el Ministerio del Interior alertó por el colapso de la red hospitalaria en Buenaventura. La magnitud de la tragedia —la mayor catástrofe natural de Colombia en décadas— define la agenda completa del gobierno en su primera semana.",
-      "objetividad": 93,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "281 muertos, 3.971 heridos, 379 desaparecidos: El Tiempo (14 ago 2026); 12.584 viviendas destruidas"
-        },
-        {
-          "ok": true,
-          "texto": "Emergencia económica y duelo nacional declarados: El Tiempo / La Jornada México (14 ago 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Balance sigue en actualización — UNGRD emite informes cada 6 horas"
-        }
-      ],
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-14-de-agosto-el-ministro-del-interior-rodrigo-lara-revelo-que-la-red-hospitalaria-en-buenaventura-esta-desbordada-3578338",
-      "url_label": "El Tiempo — Terremoto 14 ago: 281 muertos, emergencia económica y duelo nacional"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Tiempo",
-      "fuente_color": "#e74c3c",
-      "fecha": "14 ago 2026",
-      "tag": "ESPRIELLA · Buenaventura · Red hospitalaria · Colapso sanitario · Rodrigo Lara",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Red hospitalaria en Buenaventura desbordada: Ministro del Interior Rodrigo Lara lanza alerta por colapso sanitario",
-      "resumen": "El Ministro del Interior Rodrigo Lara reveló el 14 de agosto que la red hospitalaria del puerto de Buenaventura (Valle del Cauca) se encuentra desbordada como consecuencia del terremoto del 10 de agosto. Buenaventura, uno de los municipios más afectados con hospitales que reciben heridos de toda la región del Pacífico, enfrenta una crisis sanitaria paralela a la emergencia humanitaria en el Chocó. La alerta del Ministro evidencia que la capacidad institucional del gobierno —en apenas su primera semana— está siendo sometida a una prueba de fuego: la emergencia 7.4 afecta 14 departamentos, 403 municipios y más de 49.000 personas. El gobierno activó cuatro equipos especializados de búsqueda y rescate y aceptó la maquinaria ofrecida por la Alcaldía de Bogotá y aeronaves de la Gobernación de Antioquia.",
-      "objetividad": 91,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Red hospitalaria desbordada en Buenaventura: Rodrigo Lara — El Tiempo (14 ago 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "14 departamentos, 403 municipios y 49.214 personas afectadas: UNGRD (14 ago)"
-        },
-        {
-          "ok": false,
-          "texto": "Capacidad hospitalaria disponible y días para normalización sanitaria aún sin cifras oficiales"
-        }
-      ],
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-14-de-agosto-el-ministro-del-interior-rodrigo-lara-revelo-que-la-red-hospitalaria-en-buenaventura-esta-desbordada-3578338",
-      "url_label": "El Tiempo — Rodrigo Lara revela que la red hospitalaria en Buenaventura está desbordada"
     },
     {
       "filter": "cepeda",
@@ -328,11 +328,11 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 58,
-        "negativo": 36,
+        "positivo": 57,
+        "negativo": 37,
         "neutro": 6,
         "tendencia": "down",
-        "tendencia_texto": "16 ago — DÍA 9: BALANCE 294 MUERTOS (El Tiempo, 15 ago): 294 fallecidos, 3.935 heridos, 320 desaparecidos, 115.461 desplazados en 15 departamentos. TRUMP COMPROMETE USD 11M (Vanguardia, 15 ago): llamada Trump-Espriella; primer apoyo internacional mayor. POLÉMICA TROPAS EEUU Y IDF ISRAELÍ (La Jornada/El Imparcial, 15 ago): operaciones militares de EEUU autorizadas y presencia del IDF sin aprobación del Congreso —crítica constitucional del Pacto Histórico. VUELTA A COLOMBIA SUSPENDIDA (El Tiempo, 15 ago). Sentimiento baja (62→58 positivo): la polémica soberanía suma al desgaste acumulado del terremoto; negativo sube (30→36)."
+        "tendencia_texto": "17 ago — DÍA 10: 325 RÉPLICAS SEMANA DEL SISMO (SGC/El Tiempo, 17 ago): sin nuevas víctimas por réplicas; 80.744 viviendas averiadas, 66 edificios colapsados. PURGA EXFUNCIONARIOS PETRO (Infobae/Moncloa, 17 ago): revoca nombramiento de Sepúlveda en DNP y bloquea petristas en MinTIC —consolidación del gobierno en medio de la crisis. CONTEXTO PREVIO: Trump USD 11M (15 ago), operaciones EEUU/IDF sin aval del Congreso (15 ago). Sentimiento baja levemente (58→57 positivo): la purga suma puntos con la base, pero la polémica de soberanía y el terremoto sostienen el negativo; negativo sube (36→37)."
       },
       {
         "nombre": "Cepeda",
@@ -341,7 +341,7 @@
         "negativo": 44,
         "neutro": 15,
         "tendencia": "up",
-        "tendencia_texto": "16 ago — CEPEDA EN QUIBDÓ (ABC Color/Infobae, 15 ago): visita el Chocó devastado, denuncia 'ayuda selectiva condicionada al voto' y exige control parlamentario de tropas extranjeras —posicionamiento opositor activo y visible en zona cero. MEDICINA LEGAL 260 CUERPOS (El Tiempo, 13 ago): el Pacto Histórico fiscaliza el proceso de identificación. IDF ISRAELÍ: Cepeda exige saber quiénes son y qué hacen en Colombia. Sentimiento sube (36→41 positivo): la visita a Quibdó y la denuncia de discriminación en la ayuda refuerzan imagen opositora. Negativo baja (49→44)."
+        "tendencia_texto": "17 ago — SIN NOTICIAS PROPIAS DEL 17 AGO: Cepeda mantiene su rol de líder opositor desde el Senado tras la visita a Quibdó (15 ago). CONTEXTO PREVIO: denuncia de 'ayuda selectiva condicionada al voto' (Infobae/ABC Color, 15 ago), interpelación sobre tropas extranjeras EEUU e IDF (15 ago). PURGA DE PETRO: la expulsión de exfuncionarios anunciada por De la Espriella en DNP y MinTIC puede abrir nuevos flancos de control político para el Pacto Histórico. Sentimiento estable (41 positivo / 44 negativo): sin novedades propias del 17 ago, el posicionamiento opositor se mantiene."
       },
       {
         "nombre": "Valencia",
@@ -350,7 +350,7 @@
         "negativo": 33,
         "neutro": 16,
         "tendencia": "neutral",
-        "tendencia_texto": "16 ago — CONCIERTO 'VOCES POR LA VIDA' (Infobae, 15 ago): Karol G, Maluma, Sebastián Yatra y Miguel Bosé unen al país para el 23 ago en Bogotá —la cultura muestra la cohesión social que la política no logra. CD SIN NOTICIAS PROPIAS del 15-16 ago: la agenda del terremoto y la polémica de las tropas extranjeras eclipsan completamente al uribismo. SIN CUPOS EN GABINETE y sin rol en la emergencia: el CD observa desde los márgenes. Sentimiento levemente mejor (49→51 positivo): el espíritu solidario nacional eleva el ánimo general; el CD no suma ni resta en la agenda."
+        "tendencia_texto": "17 ago — CD SIN NOTICIAS DEL 17 AGO: Valencia y el Centro Democrático siguen fuera del primer plano mediático. CONTEXTO: concierto 'Voces por la Vida' el 23 ago en Bogotá con Karol G y Maluma anunciado el 15 ago. PURGA ESPRIELLA: la expulsión de petristas en DNP y MinTIC afecta la coalición pero no involucra al CD, que sigue sin gabinete ni rol oficial en la emergencia. Sentimiento estable (51 positivo / 33 negativo / 16 neutro): el CD permanece en posición de observador —sin beneficio ni costo electoral directo en la agenda del 17 ago."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 9 DE GOBIERNO — 16 de agosto de 2026. TERREMOTO DÍA 8: BALANCE 294 MUERTOS, 115.461 DESPLAZADOS (El Tiempo, 15 ago): el sismo 7.4 del 10 de agosto acumula 294 fallecidos, 3.935 heridos, 320 desaparecidos en 15 departamentos y 448 municipios. TRUMP LLAMA A DE LA ESPRIELLA: EEUU compromete USD 11M en ayuda humanitaria y equipos de rescate (Vanguardia, 15 ago). POLÉMICA SOBERANÍA: gobierno autorizó operaciones militares de EEUU contra narcoterrorismo y aceptó IDF israelí sin aprobación del Congreso (La Jornada / El Imparcial, 15 ago) —el Pacto Histórico anuncia interpelaciones parlamentarias. CEPEDA EN QUIBDÓ: denuncia 'ayuda selectiva condicionada al voto' y exige control del Senado sobre tropas extranjeras (Infobae/ABC Color, 15 ago). VOCES POR LA VIDA: Karol G, Maluma, Miguel Bosé y Sebastián Yatra lideran concierto benéfico el 23 ago en Bogotá (Infobae, 15 ago). CD SIN VOZ: Valencia sin noticias propias del 15-16 ago; el uribismo sigue fuera de la agenda. RESULTADO OFICIAL INAMOVIBLE: De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos)."
+    "resumen_analisis": "DÍA 10 DE GOBIERNO — 17 de agosto de 2026. TERREMOTO UNA SEMANA DESPUÉS: SGC registra 325 réplicas; 80.744 viviendas averiadas, 12.504 destruidas, 66 edificios colapsados, 260 centros de salud y 2.595 centros educativos afectados (El Tiempo/UNGRD, 17 ago). PURGA EXFUNCIONARIOS PETRO: De la Espriella revoca nombramiento de Sepúlveda en DNP y bloquea petristas en MinTIC —consolidación del poder en medio de la emergencia (Infobae/Moncloa, 17 ago). CONTEXTO PREVIO: Trump USD 11M (15 ago), polémica operaciones militares EEUU e IDF israelí sin aprobación del Congreso (15 ago). CEPEDA: mantiene posición opositora desde el Senado tras visita a Quibdó (15 ago). VOCES POR LA VIDA: concierto solidario el 23 ago en Bogotá, Karol G y Maluma (15 ago). CD SIN VOZ: Valencia sin noticias propias del 17 ago. RESULTADO OFICIAL INAMOVIBLE: De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos)."
   },
-  "ultimo_deploy": "16 de agosto de 2026"
+  "ultimo_deploy": "17 de agosto de 2026"
 }
