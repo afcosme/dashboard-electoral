@@ -1,5 +1,5 @@
 {
-  "fecha": "17 de agosto de 2026",
+  "fecha": "20 de agosto de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,6 +100,62 @@
   "noticias": [
     {
       "filter": "espriella",
+      "fuente": "El Tiempo / Infobae / Semana",
+      "fuente_color": "#e74c3c",
+      "fecha": "19 ago 2026",
+      "tag": "ESPRIELLA · Decreto 1261 · Emergencia económica · 30 días · 15 departamentos · Terremoto",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella firma Decreto 1261: emergencia económica, social y ecológica por 30 días en 15 departamentos — balance actualizado: 319 muertos, 4.469 heridos",
+      "resumen": "El 19 de agosto, el presidente Abelardo de la Espriella firmó el Decreto 1261 que declara el estado de emergencia económica, social y ecológica durante 30 días en 15 departamentos afectados por el terremoto 7.4 del 10 de agosto. El Decreto, amparado en el artículo 215 de la Constitución, habilita al Gobierno a expedir decretos con fuerza de ley para atender la crisis. Balance actualizado de la UNGRD: 319 fallecidos, 4.469 heridos, 260 desaparecidos, 30.803 viviendas destruidas y 151.433 dañadas en 471 municipios de 15 departamentos. Las medidas incluyen subsidios de arriendo, alivios de servicios públicos, apoyo a comerciantes y familias vulnerables, y mecanismos de alivio tributario y financiero para la zona de desastre.",
+      "objetividad": 96,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Decreto 1261 de emergencia económica firmado el 19 ago: El Tiempo, Infobae, Semana (19-20 ago 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Balance UNGRD: 319 muertos, 4.469 heridos, 30.803 viviendas destruidas, 151.433 dañadas (19 ago)"
+        },
+        {
+          "ok": false,
+          "texto": "Decretos legislativos específicos derivados del estado de emergencia aún en elaboración"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-firma-decreto-que-declara-la-emergencia-economica-para-hacerle-frente-a-crisis-tras-terremoto-3579549",
+      "url_label": "El Tiempo — De la Espriella firma Decreto 1261: emergencia económica por 30 días; 319 muertos, 4.469 heridos"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Diario Las Américas / La Nación Paraguay",
+      "fuente_color": "#e74c3c",
+      "fecha": "20 ago 2026",
+      "tag": "ESPRIELLA · Grupos armados · Narcoterrorismo · ELN · FARC disidentes · Ofensiva · Drones",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "Arrecian ataques de grupos armados: secuestros, drones y confinamientos desafían al nuevo gobierno; De la Espriella declara 'no habrá tregua al narcoterrorismo'",
+      "resumen": "Al cumplirse menos de dos semanas de gobierno, Colombia enfrenta una escalada de acciones armadas de parte del ELN, las disidencias FARC de Iván Mordisco y el Clan del Golfo. Los ataques incluyen secuestros, confinamientos de comunidades y uso de drones explosivos —la primera de este tipo contra instalaciones civiles y militares en el marco del nuevo gobierno—. El presidente De la Espriella reiteró que no habrá negociaciones de paz y que la respuesta será únicamente militar, con apoyo de EEUU e Israel. Las Fuerzas Militares reportaron la baja de seis integrantes de grupos ilegales en los primeros combates del gobierno, incluyendo un cabecilla de disidencias en el Meta. Los grupos armados suman actualmente 27.121 integrantes — la cifra más alta desde el Acuerdo de Paz de 2016.",
+      "objetividad": 90,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Ataques con drones, secuestros y confinamientos reportados: Diario Las Américas / La Nación Py (20 ago)"
+        },
+        {
+          "ok": true,
+          "texto": "27.121 integrantes en grupos armados — máximo desde 2016: El Espectador (ago 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Número exacto de ataques del 20 ago pendiente de consolidación oficial por las FFMM"
+        }
+      ],
+      "url": "https://www.diariolasamericas.com/america-latina/arrecian-ataques-grupos-armados-la-espriella-afirma-no-habra-tregua-al-narcoterrorismo-n5400546",
+      "url_label": "Diario Las Américas — Arrecian ataques de grupos armados; De la Espriella 'no habrá tregua al narcoterrorismo'"
+    },
+    {
+      "filter": "espriella",
       "fuente": "El Tiempo / SGC",
       "fuente_color": "#e74c3c",
       "fecha": "17 ago 2026",
@@ -125,62 +181,6 @@
       ],
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-17-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3578855",
       "url_label": "El Tiempo — Terremoto 17 ago: SGC registra 325 réplicas una semana después del sismo"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae / Moncloa.com",
-      "fuente_color": "#e74c3c",
-      "fecha": "17 ago 2026",
-      "tag": "ESPRIELLA · Purga · Exfuncionarios Petro · DNP · MinTIC · Sepúlveda · Consolidación",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella frena a exfuncionarios de Petro: revoca nombramiento en DNP y bloquea petristas en MinTIC; purga consolida el nuevo gobierno",
-      "resumen": "El 17 de agosto, en su décimo día de gobierno, De la Espriella aceleró la purga de funcionarios vinculados al gobierno de Gustavo Petro en dos entidades sensibles: revocó el nombramiento de Carlos Sepúlveda —exdecano de la Universidad del Rosario y colaborador del plan de desarrollo de Petro— como jefe del Departamento Nacional de Planeación (DNP), cuya designación ya había sido publicada; y ordenó una revisión exhaustiva de todos los nombramientos en el Ministerio de las TIC. Además, la Cancillería había acusado el 10 de agosto a exfuncionarios del petrismo de sabotear la gestión de ayuda internacional durante la emergencia sísmica. La consolidación del equipo de gobierno avanza en paralelo a la crisis humanitaria del terremoto, generando un debate sobre la velocidad y criterios de la transición.",
-      "objetividad": 88,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Revocación del nombramiento de Sepúlveda en DNP confirmada: Infobae / Moncloa.com (17 ago 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Revisión de nombramientos en MinTIC ordenada por De la Espriella: Moncloa.com (17 ago)"
-        },
-        {
-          "ok": false,
-          "texto": "Lista completa de cargos afectados por la purga aún no publicada oficialmente por el gobierno"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/08/10/cancilleria-acuso-a-exfuncionarios-de-gustavo-petro-de-sabotear-a-abelardo-de-la-espriella-en-la-gestion-de-ayuda-internacional-por-el-terremoto/",
-      "url_label": "Infobae — Cancillería acusa a exfuncionarios de Petro de sabotear ayuda internacional; De la Espriella frena petristas en DNP y MinTIC"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Tiempo / Vanguardia / Portafolio",
-      "fuente_color": "#e74c3c",
-      "fecha": "15 ago 2026",
-      "tag": "ESPRIELLA · Día 8 · 294 muertos · Trump-Espriella · USD 11M · Vuelta Colombia suspendida",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "DÍA 8: Balance sube a 294 muertos y 115.461 desplazados; Trump llama a De la Espriella y EEUU compromete 11 millones de dólares; Vuelta a Colombia suspendida",
-      "resumen": "Al octavo día del gobierno (15 de agosto), el balance del terremoto 7.4 del 10 de agosto escaló a 294 fallecidos, 3.935 heridos, 320 desaparecidos, 353 rescatados y 115.461 personas desplazadas en 15 departamentos y 448 municipios. El presidente Donald Trump llamó personalmente a Abelardo De la Espriella para ofrecer condolencias y confirmar el apoyo de EEUU: USD 11 millones en ayuda humanitaria y equipos de rescate. La Vuelta a Colombia 2026 fue suspendida tres días antes de su conclusión programada en Medellín el 16 de agosto, como señal de duelo nacional. El Servicio Geológico Colombiano (SGC) reportó una réplica de magnitud 2.7 en Istmina, Chocó, a las 12:36 p.m., sin víctimas adicionales.",
-      "objetividad": 94,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "294 muertos, 3.935 heridos, 320 desaparecidos, 115.461 desplazados: balance UNGRD del 15 ago (El Tiempo, 15 ago)"
-        },
-        {
-          "ok": true,
-          "texto": "Llamada Trump-Espriella y USD 11M de ayuda: Vanguardia (15 ago 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Balance UNGRD sigue actualizándose — cifra del 15 ago am, puede variar en próximas horas"
-        }
-      ],
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-15-de-agosto-karol-g-y-maluma-lideraran-un-concierto-solidario-tras-la-emergencia-ee-uu-suma-us-11-millones-en-ayuda-3578587",
-      "url_label": "El Tiempo — Terremoto 15 ago: 294 muertos, Trump llama a De la Espriella, EEUU da USD 11M"
     },
     {
       "filter": "espriella",
@@ -212,6 +212,34 @@
     },
     {
       "filter": "cepeda",
+      "fuente": "Infobae",
+      "fuente_color": "#2980b9",
+      "fecha": "12 ago 2026",
+      "tag": "Cepeda · EEUU · Soberanía · Operaciones militares · Oposición · Congreso",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda arremete contra De la Espriella por operaciones militares de EEUU: 'Entrega nuestra soberanía'; exige debate en el Congreso",
+      "resumen": "El 12 de agosto, Iván Cepeda emitió una declaración contundente tras el anuncio del secretario de Guerra de EEUU Pete Hegseth sobre operaciones militares conjuntas en Colombia: 'Lo que hizo De la Espriella entrega nuestra soberanía'. El senador y líder de la oposición del Pacto Histórico señaló que la Constitución exige aprobación del Senado para el tránsito de tropas extranjeras y que actuar sin ese aval es una violación flagrante al ordenamiento constitucional. Cepeda anunció que el Pacto Histórico interpelaría al ministro de Defensa en las próximas sesiones del Congreso. También advirtió que vigilará que los acuerdos con EEUU e Israel no comprometan la soberanía ni los derechos de las comunidades afectadas por el terremoto.",
+      "objetividad": 88,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Declaración de Cepeda 'entrega nuestra soberanía': Infobae (12 ago 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Anuncio de interpelación al ministro de Defensa en el Congreso: Infobae / Pacto Histórico (12-13 ago)"
+        },
+        {
+          "ok": false,
+          "texto": "Fecha exacta de la interpelación parlamentaria aún no confirmada en agenda del Senado"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/08/12/ivan-cepeda-arremetio-contra-de-la-espriella-tras-anuncio-de-ee-uu-de-lanzar-operaciones-militares-desde-colombia-entrega-nuestra-soberania/",
+      "url_label": "Infobae — Cepeda: 'Entrega nuestra soberanía'; exige al Congreso controlar operaciones militares de EEUU en Colombia"
+    },
+    {
+      "filter": "cepeda",
       "fuente": "Infobae / ABC Color Paraguay",
       "fuente_color": "#2980b9",
       "fecha": "15 ago 2026",
@@ -239,34 +267,6 @@
       "url_label": "ABC Paraguay — Oposición colombiana critica 'ayuda selectiva' del Gobierno tras el terremoto"
     },
     {
-      "filter": "cepeda",
-      "fuente": "El Tiempo / El Espectador",
-      "fuente_color": "#2980b9",
-      "fecha": "13 ago 2026",
-      "tag": "Cepeda · Terremoto · Medicina Legal · 260 cuerpos · Rescate · Oposición",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Medicina Legal recibió 260 cuerpos del terremoto: 246 identificados, 17 menores de edad; UNGRD recibe ayuda internacional",
-      "resumen": "El 13 de agosto, el Instituto Nacional de Medicina Legal informó haber recibido 260 cuerpos provenientes de Chocó, Caldas, Risaralda y Valle del Cauca, de los cuales 246 han sido identificados, incluyendo 17 menores de edad. Según El Tiempo (13 ago), el director de la UNGRD confirmó que el país está recibiendo asistencia internacional para la búsqueda y rescate de víctimas. Iván Cepeda, desde su rol de líder opositor en el Senado con credencial firmada desde julio, exigió al gobierno acelerar los rescates y garantizar la identificación de todos los desaparecidos. El Pacto Histórico —con 25 senadores— está ejerciendo control político activo sobre la respuesta del ejecutivo al terremoto, posicionándose como fiscalizador institucional de la mayor crisis humanitaria del gobierno De la Espriella en su primera semana.",
-      "objetividad": 91,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "260 cuerpos recibidos por Medicina Legal, 246 identificados, 17 menores: El Tiempo (13 ago 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Ayuda internacional confirmada por director UNGRD: El Tiempo (13 ago)"
-        },
-        {
-          "ok": false,
-          "texto": "Declaración específica de Cepeda del 13 ago sobre Medicina Legal en proceso de verificación"
-        }
-      ],
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-13-de-agosto-director-de-la-ungrd-dijo-que-el-pais-esta-recibiendo-ayuda-internacional-para-busqueda-y-rescate-de-victimas-3578053",
-      "url_label": "El Tiempo — 13 ago: Medicina Legal recibió 260 cuerpos; UNGRD confirma ayuda internacional"
-    },
-    {
       "filter": "valencia",
       "fuente": "Infobae / El Universal México / La Opinión",
       "fuente_color": "#9b59b6",
@@ -274,13 +274,13 @@
       "tag": "Valencia · 'Voces por la Vida' · Karol G · Maluma · Miguel Bosé · Bogotá · 23 agosto",
       "tag_color": "#8e44ad",
       "tag_bg": "rgba(142,68,173,0.12)",
-      "titulo": "'Colombia: Voces por la Vida': Karol G, Maluma, Miguel Bosé y Sebastián Yatra lideran concierto benéfico en Bogotá el 23 de agosto",
-      "resumen": "El 15 de agosto, artistas colombianos e internacionales anunciaron el concierto benéfico 'Colombia: Voces por la Vida' para el 23 de agosto en el Vive Claro de Bogotá, la sede de espectáculos más grande del país. El cartel incluye a Karol G (vía livestream con su Fundación Con Cora), Maluma, Sebastián Yatra, Miguel Bosé, Silvestre Dangond, Grupo Niche, Andrés Cepeda, Draco Rosa, Manuel Medrano y Pedro Capó. Todos los ingresos irán a la Corporación Presentes para financiar la reconstrucción de las zonas afectadas por el sismo 7.4. Es la mayor movilización de la industria cultural colombiana desde el concierto Venezuela Aid Live (2019). Paloma Valencia y el Centro Democrático no tienen noticias propias del 15-16 ago — la agenda sísmica y la polémica por las tropas extranjeras dominan el espacio mediático.",
+      "titulo": "'Colombia: Voces por la Vida' (este sábado 23 ago): Karol G, Maluma, Miguel Bosé y Sebastián Yatra lideran concierto benéfico en Bogotá — todos los ingresos a reconstrucción",
+      "resumen": "El concierto benéfico 'Colombia: Voces por la Vida' se realizará este sábado 23 de agosto en el Vive Claro de Bogotá. El cartel incluye a Karol G (vía livestream con su Fundación Con Cora), Maluma, Sebastián Yatra, Miguel Bosé, Silvestre Dangond, Grupo Niche, Andrés Cepeda, Draco Rosa, Manuel Medrano y Pedro Capó. Todos los ingresos irán a la Corporación Presentes para financiar la reconstrucción de las zonas afectadas por el sismo 7.4. Es la mayor movilización de la industria cultural colombiana desde el concierto Venezuela Aid Live (2019). Paloma Valencia y el Centro Democrático no tienen noticias políticas propias esta semana — la agenda sísmica y la polémica por las tropas extranjeras dominan el espacio mediático del gobierno.",
       "objetividad": 96,
       "criterios": [
         {
           "ok": true,
-          "texto": "Anuncio del concierto 'Voces por la Vida' el 23 ago en Bogotá: Infobae, El Universal México (15 ago)"
+          "texto": "Concierto 'Voces por la Vida' confirmado para el 23 ago en Bogotá: Infobae, El Universal México (15 ago)"
         },
         {
           "ok": true,
@@ -288,39 +288,39 @@
         },
         {
           "ok": false,
-          "texto": "Monto estimado de recaudación y plena disponibilidad de boletería aún no publicados"
+          "texto": "Monto estimado de recaudación y disponibilidad de boletería completa aún no publicados"
         }
       ],
       "url": "https://www.eluniversal.com.mx/espectaculos/karol-g-miguel-bose-y-maluma-se-unen-por-colombia-tras-terremoto-ofreceran-concierto-solidario/",
-      "url_label": "El Universal México — Karol G, Maluma y Miguel Bosé: concierto solidario 'Voces por la Vida' el 23 ago en Bogotá"
+      "url_label": "El Universal México — Karol G, Maluma y Miguel Bosé: concierto 'Voces por la Vida' este sábado 23 ago en Bogotá"
     },
     {
-      "filter": "valencia",
-      "fuente": "Pulzo / Infobae / Colombia One",
-      "fuente_color": "#9b59b6",
-      "fecha": "7 ago 2026",
-      "tag": "Valencia · No invitada · 'Maletas' · CD · Fricciones · Sin gabinete",
-      "tag_color": "#8e44ad",
-      "tag_bg": "rgba(142,68,173,0.12)",
-      "titulo": "'Se quedó cargándole las maletas': Valencia no fue invitada a la posesión pese a haber sido aliada clave de De la Espriella",
-      "resumen": "Paloma Valencia, quien cedió los votos y la maquinaria del Centro Democrático a Abelardo De la Espriella para la segunda vuelta del 21 de junio, terminó siendo excluida de la posesión presidencial en Cali el 7 de agosto. La frase 'se quedó cargándole las maletas' circuló ampliamente en redes. La senadora lo confirmó públicamente: 'No me invitaron'. La exclusión no fue un accidente: De la Espriella no ofreció ningún cupo ministerial al partido de Álvaro Uribe en su gabinete de 18 ministros. Colombia One (inglés, 5 ago) también cubrió el episodio como señal de las tensiones entre el CD y el nuevo gobierno. Así, el Centro Democrático —que puso su aparato electoral al servicio del candidato ganador— quedó sin espacios ejecutivos, sin presencia en el gabinete y debiendo redefinir su posición política en el nuevo período.",
-      "objetividad": 92,
+      "filter": "espriella",
+      "fuente": "Infobae / Moncloa.com",
+      "fuente_color": "#e74c3c",
+      "fecha": "17 ago 2026",
+      "tag": "ESPRIELLA · Purga · Exfuncionarios Petro · DNP · MinTIC · Sepúlveda · Consolidación",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella frena a exfuncionarios de Petro: revoca nombramiento en DNP y bloquea petristas en MinTIC; purga consolida el nuevo gobierno",
+      "resumen": "El 17 de agosto, en su décimo día de gobierno, De la Espriella aceleró la purga de funcionarios vinculados al gobierno de Gustavo Petro en dos entidades sensibles: revocó el nombramiento de Carlos Sepúlveda —exdecano de la Universidad del Rosario y colaborador del plan de desarrollo de Petro— como jefe del Departamento Nacional de Planeación (DNP), cuya designación ya había sido publicada; y ordenó una revisión exhaustiva de todos los nombramientos en el Ministerio de las TIC. La consolidación del equipo de gobierno avanza en paralelo a la crisis humanitaria del terremoto, generando un debate sobre la velocidad y criterios de la transición.",
+      "objetividad": 88,
       "criterios": [
         {
           "ok": true,
-          "texto": "Exclusión de Valencia de la posesión: Pulzo, El Tiempo, Infobae, Colombia One (7 ago)"
+          "texto": "Revocación del nombramiento de Sepúlveda en DNP confirmada: Infobae / Moncloa.com (17 ago 2026)"
         },
         {
           "ok": true,
-          "texto": "CD sin cupos ministeriales: gabinete de 18 ministros publicado por Radio Nacional e Infobae"
+          "texto": "Revisión de nombramientos en MinTIC ordenada por De la Espriella: Moncloa.com (17 ago)"
         },
         {
           "ok": false,
-          "texto": "Causas oficiales de la exclusión no confirmadas formalmente por el equipo de De la Espriella"
+          "texto": "Lista completa de cargos afectados por la purga aún no publicada oficialmente por el gobierno"
         }
       ],
-      "url": "https://www.pulzo.com/nacion/paloma-valencia-dijo-que-no-fue-invitada-posesion-abelardo-espriella-PP5265558",
-      "url_label": "Pulzo — Valencia 'se quedó cargándole las maletas'; no la invitaron a la posesión"
+      "url": "https://www.infobae.com/colombia/2026/08/10/cancilleria-acuso-a-exfuncionarios-de-gustavo-petro-de-sabotear-a-abelardo-de-la-espriella-en-la-gestion-de-ayuda-internacional-por-el-terremoto/",
+      "url_label": "Infobae — Cancillería acusa a exfuncionarios de Petro de sabotear ayuda internacional; De la Espriella frena petristas en DNP y MinTIC"
     }
   ],
   "sentimiento": {
@@ -328,20 +328,20 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 57,
-        "negativo": 37,
-        "neutro": 6,
+        "positivo": 55,
+        "negativo": 38,
+        "neutro": 7,
         "tendencia": "down",
-        "tendencia_texto": "17 ago — DÍA 10: 325 RÉPLICAS SEMANA DEL SISMO (SGC/El Tiempo, 17 ago): sin nuevas víctimas por réplicas; 80.744 viviendas averiadas, 66 edificios colapsados. PURGA EXFUNCIONARIOS PETRO (Infobae/Moncloa, 17 ago): revoca nombramiento de Sepúlveda en DNP y bloquea petristas en MinTIC —consolidación del gobierno en medio de la crisis. CONTEXTO PREVIO: Trump USD 11M (15 ago), operaciones EEUU/IDF sin aval del Congreso (15 ago). Sentimiento baja levemente (58→57 positivo): la purga suma puntos con la base, pero la polémica de soberanía y el terremoto sostienen el negativo; negativo sube (36→37)."
+        "tendencia_texto": "20 ago — DECRETO 1261 EMERGENCIA ECONÓMICA (El Tiempo/Infobae, 19 ago): estado de emergencia económica, social y ecológica por 30 días en 15 departamentos; balance actualizado 319 muertos, 4.469 heridos, 30.803 viviendas destruidas. ARRECIAN ATAQUES GRUPOS ARMADOS (Diario Las Américas, 20 ago): ELN, FARC disidentes y Clan del Golfo intensifican secuestros, drones y confinamientos — 'no habrá tregua', responde el gobierno. CONTEXTO: polémica soberanía EEUU/IDF sin aval del Congreso (15 ago), purga exfuncionarios Petro (17 ago). Sentimiento baja (57→55 positivo): el decreto ayuda pero la escalada armada y la controversia constitucional erosionan; negativo sube (37→38)."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 41,
-        "negativo": 44,
+        "positivo": 42,
+        "negativo": 43,
         "neutro": 15,
         "tendencia": "up",
-        "tendencia_texto": "17 ago — SIN NOTICIAS PROPIAS DEL 17 AGO: Cepeda mantiene su rol de líder opositor desde el Senado tras la visita a Quibdó (15 ago). CONTEXTO PREVIO: denuncia de 'ayuda selectiva condicionada al voto' (Infobae/ABC Color, 15 ago), interpelación sobre tropas extranjeras EEUU e IDF (15 ago). PURGA DE PETRO: la expulsión de exfuncionarios anunciada por De la Espriella en DNP y MinTIC puede abrir nuevos flancos de control político para el Pacto Histórico. Sentimiento estable (41 positivo / 44 negativo): sin novedades propias del 17 ago, el posicionamiento opositor se mantiene."
+        "tendencia_texto": "20 ago — SOBERANÍA: Cepeda lidera la oposición al acuerdo militar EEUU-Colombia sin aprobación del Congreso: 'Entrega nuestra soberanía' (Infobae, 12 ago) — el tema sigue ganando eco en medios. QUIBDÓ: visita y denuncia de ayuda humanitaria 'selectiva y condicionada al voto' (ABC Paraguay/Infobae, 15 ago). CONGRESO: interpelación al ministro de Defensa en proceso. Pacto Histórico con 25 senadores ejerce control político activo. Sentimiento mejora levemente (41→42 positivo, 44→43 negativo): el rol fiscalizador en el tema soberanía suma credibilidad opositora."
       },
       {
         "nombre": "Valencia",
@@ -350,7 +350,7 @@
         "negativo": 33,
         "neutro": 16,
         "tendencia": "neutral",
-        "tendencia_texto": "17 ago — CD SIN NOTICIAS DEL 17 AGO: Valencia y el Centro Democrático siguen fuera del primer plano mediático. CONTEXTO: concierto 'Voces por la Vida' el 23 ago en Bogotá con Karol G y Maluma anunciado el 15 ago. PURGA ESPRIELLA: la expulsión de petristas en DNP y MinTIC afecta la coalición pero no involucra al CD, que sigue sin gabinete ni rol oficial en la emergencia. Sentimiento estable (51 positivo / 33 negativo / 16 neutro): el CD permanece en posición de observador —sin beneficio ni costo electoral directo en la agenda del 17 ago."
+        "tendencia_texto": "20 ago — CD SIN NOTICIAS PROPIAS ESTA SEMANA: Valencia y el Centro Democrático siguen fuera del primer plano mediático. CONTEXTO: concierto solidario 'Voces por la Vida' este sábado 23 ago en Bogotá con Karol G y Maluma. El CD sigue sin gabinete ni rol oficial en la emergencia; la agenda del gobierno está dominada por el terremoto, la seguridad y la polémica de soberanía. Sentimiento estable (51 positivo / 33 negativo / 16 neutro): el CD permanece en posición de observador sin beneficio ni costo mediático directo."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 10 DE GOBIERNO — 17 de agosto de 2026. TERREMOTO UNA SEMANA DESPUÉS: SGC registra 325 réplicas; 80.744 viviendas averiadas, 12.504 destruidas, 66 edificios colapsados, 260 centros de salud y 2.595 centros educativos afectados (El Tiempo/UNGRD, 17 ago). PURGA EXFUNCIONARIOS PETRO: De la Espriella revoca nombramiento de Sepúlveda en DNP y bloquea petristas en MinTIC —consolidación del poder en medio de la emergencia (Infobae/Moncloa, 17 ago). CONTEXTO PREVIO: Trump USD 11M (15 ago), polémica operaciones militares EEUU e IDF israelí sin aprobación del Congreso (15 ago). CEPEDA: mantiene posición opositora desde el Senado tras visita a Quibdó (15 ago). VOCES POR LA VIDA: concierto solidario el 23 ago en Bogotá, Karol G y Maluma (15 ago). CD SIN VOZ: Valencia sin noticias propias del 17 ago. RESULTADO OFICIAL INAMOVIBLE: De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos)."
+    "resumen_analisis": "DÍA 13 DE GOBIERNO — 20 de agosto de 2026. EMERGENCIA ECONÓMICA: De la Espriella firma Decreto 1261 declarando estado de emergencia económica, social y ecológica por 30 días en 15 departamentos (El Tiempo/Infobae, 19 ago). Balance actualizado terremoto 7.4 del 10 ago: 319 muertos, 4.469 heridos, 260 desaparecidos, 30.803 viviendas destruidas, 151.433 dañadas en 471 municipios. OFENSIVA ARMADA: arrecian ataques del ELN, FARC disidentes y Clan del Golfo — secuestros, drones y confinamientos desafían al nuevo gobierno; De la Espriella declara 'no habrá tregua al narcoterrorismo' (Diario Las Américas, 20 ago). SOBERANÍA: Cepeda lidera oposición al acuerdo militar EEUU-Colombia sin aprobación del Congreso — 'Entrega nuestra soberanía' (Infobae, 12 ago); interpelación al ministro de Defensa en proceso. CONCIERTO 23 AGO: 'Voces por la Vida' — Karol G, Maluma y Miguel Bosé este sábado en Bogotá (Infobae/El Universal Mx, 15 ago). CD SIN VOZ: Valencia sin noticias propias esta semana. RESULTADO OFICIAL INAMOVIBLE: De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos)."
   },
-  "ultimo_deploy": "17 de agosto de 2026"
+  "ultimo_deploy": "20 de agosto de 2026"
 }
