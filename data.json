@@ -1,5 +1,5 @@
 {
-  "fecha": "20 de agosto de 2026",
+  "fecha": "23 de agosto de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,31 +100,31 @@
   "noticias": [
     {
       "filter": "espriella",
-      "fuente": "El Tiempo / Infobae / Semana",
+      "fuente": "El Tiempo",
       "fuente_color": "#e74c3c",
-      "fecha": "19 ago 2026",
-      "tag": "ESPRIELLA · Decreto 1261 · Emergencia económica · 30 días · 15 departamentos · Terremoto",
+      "fecha": "22 ago 2026",
+      "tag": "ESPRIELLA · Día 15 · Balance final terremoto · 329 muertos · 154.014 familias · Reconstrucción · Acuerdos bancarios",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella firma Decreto 1261: emergencia económica, social y ecológica por 30 días en 15 departamentos — balance actualizado: 319 muertos, 4.469 heridos",
-      "resumen": "El 19 de agosto, el presidente Abelardo de la Espriella firmó el Decreto 1261 que declara el estado de emergencia económica, social y ecológica durante 30 días en 15 departamentos afectados por el terremoto 7.4 del 10 de agosto. El Decreto, amparado en el artículo 215 de la Constitución, habilita al Gobierno a expedir decretos con fuerza de ley para atender la crisis. Balance actualizado de la UNGRD: 319 fallecidos, 4.469 heridos, 260 desaparecidos, 30.803 viviendas destruidas y 151.433 dañadas en 471 municipios de 15 departamentos. Las medidas incluyen subsidios de arriendo, alivios de servicios públicos, apoyo a comerciantes y familias vulnerables, y mecanismos de alivio tributario y financiero para la zona de desastre.",
+      "titulo": "DÍA 15: De la Espriella presenta nuevo balance del terremoto — 329 muertos, 154.014 familias afectadas; Cali cierra fase de búsqueda y rescate; anuncia plan de reconstrucción y acuerdos con bancos para reducir tasa de vivienda",
+      "resumen": "El 22 de agosto, el presidente Abelardo de la Espriella entregó el balance actualizado de la emergencia por el terremoto 7.4 del 10 de agosto: 329 fallecidos, 154.014 familias afectadas (314.751 personas damnificadas). El alcalde de Cali informó que fue localizada la última víctima mortal que permanecía desaparecida, dando por concluida la fase de búsqueda y rescate en la capital vallecaucana. En paralelo, el gobierno presentó el plan de reconstrucción para las zonas más golpeadas, con énfasis en Chocó, Valle del Cauca, Caldas y Risaralda. El presidente anunció también acuerdos con el sistema bancario para reducir la tasa de interés de créditos de vivienda en los municipios afectados, como parte de los decretos legislativos del estado de emergencia económica declarado el 19 de agosto mediante el Decreto 1261.",
       "objetividad": 96,
       "criterios": [
         {
           "ok": true,
-          "texto": "Decreto 1261 de emergencia económica firmado el 19 ago: El Tiempo, Infobae, Semana (19-20 ago 2026)"
+          "texto": "Balance oficial 329 muertos y 154.014 familias afectadas: El Tiempo (22 ago 2026)"
         },
         {
           "ok": true,
-          "texto": "Balance UNGRD: 319 muertos, 4.469 heridos, 30.803 viviendas destruidas, 151.433 dañadas (19 ago)"
+          "texto": "Fin de la fase de búsqueda y rescate en Cali confirmado por el alcalde: El Tiempo / Diario Libre (22 ago)"
         },
         {
           "ok": false,
-          "texto": "Decretos legislativos específicos derivados del estado de emergencia aún en elaboración"
+          "texto": "Monto y términos exactos de los acuerdos bancarios aún sin publicación oficial detallada"
         }
       ],
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-firma-decreto-que-declara-la-emergencia-economica-para-hacerle-frente-a-crisis-tras-terremoto-3579549",
-      "url_label": "El Tiempo — De la Espriella firma Decreto 1261: emergencia económica por 30 días; 319 muertos, 4.469 heridos"
+      "url": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-entrega-nuevo-balance-tras-el-sismo-en-colombia-victimas-damnificados-y-municipios-afectados-3580263",
+      "url_label": "El Tiempo — De la Espriella: 329 muertos, 154.014 familias afectadas; Cali cierra búsqueda y rescate"
     },
     {
       "filter": "espriella",
@@ -156,59 +156,59 @@
     },
     {
       "filter": "espriella",
-      "fuente": "El Tiempo / SGC",
+      "fuente": "El Tiempo / Infobae / Semana",
       "fuente_color": "#e74c3c",
-      "fecha": "17 ago 2026",
-      "tag": "ESPRIELLA · Día 10 · Terremoto · 325 réplicas · Semana del sismo · Balance continuo",
+      "fecha": "19 ago 2026",
+      "tag": "ESPRIELLA · Decreto 1261 · Emergencia económica · 30 días · 15 departamentos · Terremoto",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "DÍA 10: Sismo 7.4 cumple una semana — SGC registra 325 réplicas; 21 superan magnitud 3.0 y 2 superan 4.0; 80.744 viviendas averiadas",
-      "resumen": "Al décimo día del gobierno (17 de agosto), el Servicio Geológico Colombiano informó que desde el terremoto 7.4 del 10 de agosto se han registrado 325 réplicas, de las cuales 21 superaron magnitud 3.0 y 2 superaron 4.0 —sin nuevas víctimas. El balance acumulado de infraestructura muestra 80.744 viviendas averiadas, 12.504 destruidas, 66 edificios colapsados, 260 centros de salud, 2.595 centros educativos, 267 vías y 55 puentes vehiculares afectados en 15 departamentos. La emergencia humanitaria domina por completo la agenda del gobierno, que lleva 10 días en modo de crisis total. Las autoridades mantienen activos los operativos de atención y evaluación de daños en las zonas más golpeadas del Chocó, Valle del Cauca, Caldas y Risaralda.",
+      "titulo": "De la Espriella firma Decreto 1261: emergencia económica, social y ecológica por 30 días en 15 departamentos — balance actualizado: 319 muertos, 4.469 heridos",
+      "resumen": "El 19 de agosto, el presidente Abelardo de la Espriella firmó el Decreto 1261 que declara el estado de emergencia económica, social y ecológica durante 30 días en 15 departamentos afectados por el terremoto 7.4 del 10 de agosto. El Decreto, amparado en el artículo 215 de la Constitución, habilita al Gobierno a expedir decretos con fuerza de ley para atender la crisis. Balance actualizado de la UNGRD: 319 fallecidos, 4.469 heridos, 260 desaparecidos, 30.803 viviendas destruidas y 151.433 dañadas en 471 municipios de 15 departamentos. Las medidas incluyen subsidios de arriendo, alivios de servicios públicos, apoyo a comerciantes y familias vulnerables, y mecanismos de alivio tributario y financiero para la zona de desastre.",
       "objetividad": 96,
       "criterios": [
         {
           "ok": true,
-          "texto": "325 réplicas registradas con corte 7:00 a.m. del 17 ago, 21 sobre M3.0 y 2 sobre M4.0: SGC / El Tiempo (17 ago 2026)"
+          "texto": "Decreto 1261 de emergencia económica firmado el 19 ago: El Tiempo, Infobae, Semana (19-20 ago 2026)"
         },
         {
           "ok": true,
-          "texto": "80.744 viviendas averiadas, 12.504 destruidas, 66 edificios colapsados: UNGRD / El Colombiano (17 ago)"
+          "texto": "Balance UNGRD: 319 muertos, 4.469 heridos, 30.803 viviendas destruidas, 151.433 dañadas (19 ago)"
         },
         {
           "ok": false,
-          "texto": "Balance de muertos del 17 ago aún no publicado al cierre — última cifra oficial disponible es 294 (El Tiempo, 15 ago)"
+          "texto": "Decretos legislativos específicos derivados del estado de emergencia aún en elaboración"
         }
       ],
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/terremoto-en-colombia-hoy-17-de-agosto-ultimas-noticias-balance-de-la-emergencia-y-nuevos-temblores-en-el-pais-3578855",
-      "url_label": "El Tiempo — Terremoto 17 ago: SGC registra 325 réplicas una semana después del sismo"
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-firma-decreto-que-declara-la-emergencia-economica-para-hacerle-frente-a-crisis-tras-terremoto-3579549",
+      "url_label": "El Tiempo — De la Espriella firma Decreto 1261: emergencia económica por 30 días; 319 muertos, 4.469 heridos"
     },
     {
-      "filter": "espriella",
-      "fuente": "La Jornada México / El Imparcial",
-      "fuente_color": "#e74c3c",
-      "fecha": "15 ago 2026",
-      "tag": "ESPRIELLA · Tropas EEUU · IDF Israel · Soberanía · Polémica constitucional · Hegseth",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "Polémica: De la Espriella autoriza operaciones militares de EEUU contra narcoterrorismo y acepta rescatistas del IDF israelí sin pasar por el Congreso",
-      "resumen": "El 15 de agosto, medios mexicanos y colombianos revelaron que el gobierno De la Espriella tomó dos decisiones que generan alarma constitucional: (1) autorizó operaciones militares de EEUU contra el narcoterrorismo en territorio colombiano —anunciadas no por Bogotá sino por el secretario de Guerra Pete Hegseth desde la reunión 'Escudo de las Américas' en Panamá el 11-12 de agosto—; y (2) aceptó una unidad del Ejército de Defensa de Israel (IDF) encuadrada como 'misión humanitaria' de rescate. La Constitución colombiana establece que sólo el Congreso puede autorizar el tránsito de tropas extranjeras en el territorio nacional. El Pacto Histórico calificó ambas decisiones como violación a la soberanía y anunció interpelaciones parlamentarias al ministro de Defensa.",
-      "objetividad": 85,
+      "filter": "valencia",
+      "fuente": "Infobae / que.es / El Espectador",
+      "fuente_color": "#9b59b6",
+      "fecha": "23 ago 2026",
+      "tag": "Valencia · 'Voces por la Vida' · HOY · Karol G livestream · Maluma · Yatra · $3.535 millones COP recaudados · +30 artistas",
+      "tag_color": "#8e44ad",
+      "tag_bg": "rgba(142,68,173,0.12)",
+      "titulo": "'Colombia: Voces por la Vida' HOY en Bogotá — Karol G conecta en tiempo real desde San Francisco; más de 30 artistas; ya recaudó $3.535 millones COP de 22.269 donantes antes del concierto",
+      "resumen": "El concierto benéfico 'Colombia: Voces por la Vida' se celebra hoy, 23 de agosto, en el Vive Claro de Bogotá. Karol G participa en tiempo real por livestream desde San Francisco con su Fundación Con Cora ('A cantar con ustedes en tiempo real'). El cartel reúne a más de 30 artistas: Maluma, Sebastián Yatra, Manuel Turizo, Greeicy, Grupo Niche, Silvestre Dangond, Miguel Bosé, Andrés Cepeda, Draco Rosa, ChocQuibTown, Eladio Carrión, Pedro Capó, Mike Bahía y otros. Todos los ingresos van a la Corporación Presentes para la reconstrucción de zonas afectadas por el sismo 7.4. Antes del concierto, la campaña ya había recaudado $3.535.200.000 COP de 22.269 donantes. Paloma Valencia y el Centro Democrático no tienen protagonismo político directo en el evento; la agenda sigue dominada por la emergencia del terremoto y la polémica de soberanía.",
+      "objetividad": 97,
       "criterios": [
         {
           "ok": true,
-          "texto": "Operaciones militares EEUU anunciadas por Hegseth en Panamá (11-12 ago): La Jornada / El Imparcial (15 ago)"
+          "texto": "Concierto confirmado para el 23 ago en Bogotá — cartel verificado: que.es / El Espectador (23 ago)"
         },
         {
           "ok": true,
-          "texto": "Presencia del IDF en Colombia como 'misión humanitaria': La Jornada / El Imparcial (15 ago)"
+          "texto": "Karol G livestream desde San Francisco con Fundación Con Cora: Infobae (22 ago)"
         },
         {
-          "ok": false,
-          "texto": "Gobierno colombiano no ha emitido comunicado oficial confirmando los términos del acuerdo con EEUU ni del mandato del IDF"
+          "ok": true,
+          "texto": "$3.535.200.000 COP recaudados de 22.269 donantes antes del concierto: Minuto60 / Infobae (22 ago)"
         }
       ],
-      "url": "https://www.elimparcial.com/mundo/2026/08/15/mientras-colombia-intenta-recuperarse-del-terremoto-de-magnitud-74-que-dejo-cientos-de-muertos-el-gobierno-de-abelardo-de-la-espriella-acuerda-operaciones-militares-con-estados-unidos-y-acepta-rescatistas-enviados-por-israel-en-medio-de-cuestionamientos-sobre-la-presencia-extranjera/",
-      "url_label": "El Imparcial — De la Espriella acuerda operaciones militares con EEUU y acepta IDF israelí sin aval del Congreso"
+      "url": "https://www.que.es/2026/08/23/concierto-benefico-colombia-voces-vida/",
+      "url_label": "que.es — Karol G, Maluma y Yatra encabezan hoy el concierto benéfico Colombia: Voces por la Vida"
     },
     {
       "filter": "cepeda",
@@ -247,7 +247,7 @@
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
       "titulo": "Cepeda en Quibdó: denuncia ayuda 'selectiva y condicionada al voto'; exige al Congreso controlar la presencia de militares israelíes en Colombia",
-      "resumen": "El 15 de agosto, Iván Cepeda visitó Quibdó, capital de Chocó y uno de los municipios más afectados por el sismo 7.4. Se reunió con líderes sociales y comunitarios que le reportaron casos donde la distribución de ayuda humanitaria estuvo condicionada al historial de voto —'si votaste por De la Espriella, te atienden primero', según testimonios recogidos por el senador. El Pacto Histórico anunció que el Senado vigilará activamente la distribución de ayuda para evitar discriminación política. Cepeda también cuestionó la presencia de personal militar del IDF israelí en Colombia, recordando que la Constitución exige aprobación del Congreso para el tránsito de tropas extranjeras. El senador anunció que el tema será objeto de interpelación y control político en las próximas sesiones.",
+      "resumen": "El 15 de agosto, Iván Cepeda visitó Quibdó, capital de Chocó y uno de los municipios más afectados por el sismo 7.4. Se reunió con líderes sociales y comunitarios que le reportaron casos donde la distribución de ayuda humanitaria estuvo condicionada al historial de voto. El Pacto Histórico anunció que el Senado vigilará activamente la distribución de ayuda para evitar discriminación política. Cepeda también cuestionó la presencia de personal militar del IDF israelí en Colombia, recordando que la Constitución exige aprobación del Congreso para el tránsito de tropas extranjeras.",
       "objetividad": 86,
       "criterios": [
         {
@@ -265,34 +265,6 @@
       ],
       "url": "https://www.abc.com.py/internacionales/2026/08/15/oposicion-colombiana-critica-ayuda-selectiva-recibida-por-el-gobierno-tras-el-terremoto/",
       "url_label": "ABC Paraguay — Oposición colombiana critica 'ayuda selectiva' del Gobierno tras el terremoto"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "Infobae / El Universal México / La Opinión",
-      "fuente_color": "#9b59b6",
-      "fecha": "15 ago 2026",
-      "tag": "Valencia · 'Voces por la Vida' · Karol G · Maluma · Miguel Bosé · Bogotá · 23 agosto",
-      "tag_color": "#8e44ad",
-      "tag_bg": "rgba(142,68,173,0.12)",
-      "titulo": "'Colombia: Voces por la Vida' (este sábado 23 ago): Karol G, Maluma, Miguel Bosé y Sebastián Yatra lideran concierto benéfico en Bogotá — todos los ingresos a reconstrucción",
-      "resumen": "El concierto benéfico 'Colombia: Voces por la Vida' se realizará este sábado 23 de agosto en el Vive Claro de Bogotá. El cartel incluye a Karol G (vía livestream con su Fundación Con Cora), Maluma, Sebastián Yatra, Miguel Bosé, Silvestre Dangond, Grupo Niche, Andrés Cepeda, Draco Rosa, Manuel Medrano y Pedro Capó. Todos los ingresos irán a la Corporación Presentes para financiar la reconstrucción de las zonas afectadas por el sismo 7.4. Es la mayor movilización de la industria cultural colombiana desde el concierto Venezuela Aid Live (2019). Paloma Valencia y el Centro Democrático no tienen noticias políticas propias esta semana — la agenda sísmica y la polémica por las tropas extranjeras dominan el espacio mediático del gobierno.",
-      "objetividad": 96,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Concierto 'Voces por la Vida' confirmado para el 23 ago en Bogotá: Infobae, El Universal México (15 ago)"
-        },
-        {
-          "ok": true,
-          "texto": "Cartel confirmado: Karol G, Maluma, Sebastián Yatra, Miguel Bosé, Grupo Niche (Infobae, 15 ago)"
-        },
-        {
-          "ok": false,
-          "texto": "Monto estimado de recaudación y disponibilidad de boletería completa aún no publicados"
-        }
-      ],
-      "url": "https://www.eluniversal.com.mx/espectaculos/karol-g-miguel-bose-y-maluma-se-unen-por-colombia-tras-terremoto-ofreceran-concierto-solidario/",
-      "url_label": "El Universal México — Karol G, Maluma y Miguel Bosé: concierto 'Voces por la Vida' este sábado 23 ago en Bogotá"
     },
     {
       "filter": "espriella",
@@ -321,6 +293,34 @@
       ],
       "url": "https://www.infobae.com/colombia/2026/08/10/cancilleria-acuso-a-exfuncionarios-de-gustavo-petro-de-sabotear-a-abelardo-de-la-espriella-en-la-gestion-de-ayuda-internacional-por-el-terremoto/",
       "url_label": "Infobae — Cancillería acusa a exfuncionarios de Petro de sabotear ayuda internacional; De la Espriella frena petristas en DNP y MinTIC"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "La Jornada México / El Imparcial",
+      "fuente_color": "#e74c3c",
+      "fecha": "15 ago 2026",
+      "tag": "ESPRIELLA · Tropas EEUU · IDF Israel · Soberanía · Polémica constitucional · Hegseth",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "Polémica: De la Espriella autoriza operaciones militares de EEUU contra narcoterrorismo y acepta rescatistas del IDF israelí sin pasar por el Congreso",
+      "resumen": "El 15 de agosto, medios mexicanos y colombianos revelaron que el gobierno De la Espriella tomó dos decisiones que generan alarma constitucional: (1) autorizó operaciones militares de EEUU contra el narcoterrorismo en territorio colombiano —anunciadas por el secretario de Guerra Pete Hegseth desde la reunión 'Escudo de las Américas' en Panamá el 11-12 de agosto—; y (2) aceptó una unidad del Ejército de Defensa de Israel (IDF) encuadrada como 'misión humanitaria' de rescate. La Constitución colombiana establece que sólo el Congreso puede autorizar el tránsito de tropas extranjeras. El Pacto Histórico calificó ambas decisiones como violación a la soberanía y anunció interpelaciones parlamentarias al ministro de Defensa.",
+      "objetividad": 85,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Operaciones militares EEUU anunciadas por Hegseth en Panamá (11-12 ago): La Jornada / El Imparcial (15 ago)"
+        },
+        {
+          "ok": true,
+          "texto": "Presencia del IDF en Colombia como 'misión humanitaria': La Jornada / El Imparcial (15 ago)"
+        },
+        {
+          "ok": false,
+          "texto": "Gobierno colombiano no ha emitido comunicado oficial confirmando los términos del acuerdo con EEUU ni del mandato del IDF"
+        }
+      ],
+      "url": "https://www.elimparcial.com/mundo/2026/08/15/mientras-colombia-intenta-recuperarse-del-terremoto-de-magnitud-74-que-dejo-cientos-de-muertos-el-gobierno-de-abelardo-de-la-espriella-acuerda-operaciones-militares-con-estados-unidos-y-acepta-rescatistas-enviados-por-israel-en-medio-de-cuestionamientos-sobre-la-presencia-extranjera/",
+      "url_label": "El Imparcial — De la Espriella acuerda operaciones militares con EEUU y acepta IDF israelí sin aval del Congreso"
     }
   ],
   "sentimiento": {
@@ -328,11 +328,11 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 55,
-        "negativo": 38,
+        "positivo": 56,
+        "negativo": 37,
         "neutro": 7,
-        "tendencia": "down",
-        "tendencia_texto": "20 ago — DECRETO 1261 EMERGENCIA ECONÓMICA (El Tiempo/Infobae, 19 ago): estado de emergencia económica, social y ecológica por 30 días en 15 departamentos; balance actualizado 319 muertos, 4.469 heridos, 30.803 viviendas destruidas. ARRECIAN ATAQUES GRUPOS ARMADOS (Diario Las Américas, 20 ago): ELN, FARC disidentes y Clan del Golfo intensifican secuestros, drones y confinamientos — 'no habrá tregua', responde el gobierno. CONTEXTO: polémica soberanía EEUU/IDF sin aval del Congreso (15 ago), purga exfuncionarios Petro (17 ago). Sentimiento baja (57→55 positivo): el decreto ayuda pero la escalada armada y la controversia constitucional erosionan; negativo sube (37→38)."
+        "tendencia": "up",
+        "tendencia_texto": "23 ago — DÍA 16 — BALANCE TERREMOTO (El Tiempo, 22 ago): 329 muertos, 154.014 familias afectadas (314.751 personas); fin de fase de búsqueda y rescate en Cali; plan de reconstrucción presentado; acuerdos con bancos para reducir tasa de interés de vivienda en zonas afectadas. CONTEXTO VIGENTE: Decreto 1261 emergencia económica por 30 días (19 ago); arrecian ataques ELN/FARC disidentes/Clan del Golfo con drones y secuestros (20 ago); polémica tropas EEUU/IDF sin aval del Congreso (15 ago); purga exfuncionarios Petro en DNP y MinTIC (17 ago). Sentimiento sube levemente (55→56 positivo): el plan de reconstrucción y el cierre de la fase de búsqueda en Cali dan imagen de gestión activa de la crisis; negativo baja (38→37)."
       },
       {
         "nombre": "Cepeda",
@@ -340,8 +340,8 @@
         "positivo": 42,
         "negativo": 43,
         "neutro": 15,
-        "tendencia": "up",
-        "tendencia_texto": "20 ago — SOBERANÍA: Cepeda lidera la oposición al acuerdo militar EEUU-Colombia sin aprobación del Congreso: 'Entrega nuestra soberanía' (Infobae, 12 ago) — el tema sigue ganando eco en medios. QUIBDÓ: visita y denuncia de ayuda humanitaria 'selectiva y condicionada al voto' (ABC Paraguay/Infobae, 15 ago). CONGRESO: interpelación al ministro de Defensa en proceso. Pacto Histórico con 25 senadores ejerce control político activo. Sentimiento mejora levemente (41→42 positivo, 44→43 negativo): el rol fiscalizador en el tema soberanía suma credibilidad opositora."
+        "tendencia": "neutral",
+        "tendencia_texto": "23 ago — SIN NUEVAS NOTICIAS PROPIAS (últimas 48h): Cepeda continúa ejerciendo oposición parlamentaria; el eje de soberanía y tropas extranjeras sin aprobación del Congreso mantiene tracción mediática. CONTEXTO VIGENTE: declaración 'Entrega nuestra soberanía' (Infobae, 12 ago), visita Quibdó y denuncia ayuda humanitaria 'selectiva y condicionada al voto' (ABC Paraguay/Infobae, 15 ago), interpelación al ministro de Defensa en proceso. Pacto Histórico con 25 senadores ejerce control político activo. Sentimiento estable (42 positivo / 43 negativo / 15 neutro)."
       },
       {
         "nombre": "Valencia",
@@ -350,7 +350,7 @@
         "negativo": 33,
         "neutro": 16,
         "tendencia": "neutral",
-        "tendencia_texto": "20 ago — CD SIN NOTICIAS PROPIAS ESTA SEMANA: Valencia y el Centro Democrático siguen fuera del primer plano mediático. CONTEXTO: concierto solidario 'Voces por la Vida' este sábado 23 ago en Bogotá con Karol G y Maluma. El CD sigue sin gabinete ni rol oficial en la emergencia; la agenda del gobierno está dominada por el terremoto, la seguridad y la polémica de soberanía. Sentimiento estable (51 positivo / 33 negativo / 16 neutro): el CD permanece en posición de observador sin beneficio ni costo mediático directo."
+        "tendencia_texto": "23 ago — VOCES POR LA VIDA HOY: concierto benéfico en el Vive Claro de Bogotá con más de 30 artistas nacionales e internacionales — Karol G (livestream desde San Francisco), Maluma, Sebastián Yatra, Miguel Bosé y otros; ya recaudó $3.535 millones COP de 22.269 donantes antes del evento (Infobae/Minuto60, 22 ago). Valencia y el Centro Democrático sin protagonismo político directo en el concierto ni en la agenda de la semana. Sentimiento estable (51 positivo / 33 negativo / 16 neutro): el CD permanece como observador sin beneficio ni costo mediático directo."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 13 DE GOBIERNO — 20 de agosto de 2026. EMERGENCIA ECONÓMICA: De la Espriella firma Decreto 1261 declarando estado de emergencia económica, social y ecológica por 30 días en 15 departamentos (El Tiempo/Infobae, 19 ago). Balance actualizado terremoto 7.4 del 10 ago: 319 muertos, 4.469 heridos, 260 desaparecidos, 30.803 viviendas destruidas, 151.433 dañadas en 471 municipios. OFENSIVA ARMADA: arrecian ataques del ELN, FARC disidentes y Clan del Golfo — secuestros, drones y confinamientos desafían al nuevo gobierno; De la Espriella declara 'no habrá tregua al narcoterrorismo' (Diario Las Américas, 20 ago). SOBERANÍA: Cepeda lidera oposición al acuerdo militar EEUU-Colombia sin aprobación del Congreso — 'Entrega nuestra soberanía' (Infobae, 12 ago); interpelación al ministro de Defensa en proceso. CONCIERTO 23 AGO: 'Voces por la Vida' — Karol G, Maluma y Miguel Bosé este sábado en Bogotá (Infobae/El Universal Mx, 15 ago). CD SIN VOZ: Valencia sin noticias propias esta semana. RESULTADO OFICIAL INAMOVIBLE: De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos)."
+    "resumen_analisis": "DÍA 16 DE GOBIERNO — 23 de agosto de 2026. BALANCE TERREMOTO (El Tiempo, 22 ago): 329 muertos, 154.014 familias afectadas (314.751 personas); Cali concluye fase de búsqueda y rescate; De la Espriella anuncia plan de reconstrucción y acuerdos con bancos para reducir tasa de interés de vivienda en zonas afectadas. VOCES POR LA VIDA HOY (23 ago): concierto benéfico en Bogotá — Karol G (livestream), Maluma, Yatra y más de 30 artistas; ya recaudó $3.535 millones COP de 22.269 donantes antes del evento (Infobae/que.es, 22-23 ago). CONTEXTO VIGENTE: Emergencia económica Decreto 1261 por 30 días en 15 departamentos (19 ago); arrecian ataques ELN/FARC disidentes/Clan del Golfo — secuestros, drones y confinamientos (20 ago); polémica soberanía EEUU/IDF sin aval del Congreso — Cepeda exige interpelación (12-15 ago); purga exfuncionarios Petro en DNP y MinTIC (17 ago). RESULTADO OFICIAL INAMOVIBLE: De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos)."
   },
-  "ultimo_deploy": "20 de agosto de 2026"
+  "ultimo_deploy": "23 de agosto de 2026"
 }
