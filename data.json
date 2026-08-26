@@ -1,5 +1,5 @@
 {
-  "fecha": "23 de agosto de 2026",
+  "fecha": "26 de agosto de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,31 +100,31 @@
   "noticias": [
     {
       "filter": "espriella",
-      "fuente": "El Tiempo",
+      "fuente": "El Tiempo / Semana",
       "fuente_color": "#e74c3c",
-      "fecha": "22 ago 2026",
-      "tag": "ESPRIELLA · Día 15 · Balance final terremoto · 329 muertos · 154.014 familias · Reconstrucción · Acuerdos bancarios",
+      "fecha": "26 ago 2026",
+      "tag": "ESPRIELLA · DÍA 17 · Subsidios arriendo · 875.452 pesos · 331 muertos · 31.519 hogares destruidos · Reconstrucción US$9.500 M",
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "DÍA 15: De la Espriella presenta nuevo balance del terremoto — 329 muertos, 154.014 familias afectadas; Cali cierra fase de búsqueda y rescate; anuncia plan de reconstrucción y acuerdos con bancos para reducir tasa de vivienda",
-      "resumen": "El 22 de agosto, el presidente Abelardo de la Espriella entregó el balance actualizado de la emergencia por el terremoto 7.4 del 10 de agosto: 329 fallecidos, 154.014 familias afectadas (314.751 personas damnificadas). El alcalde de Cali informó que fue localizada la última víctima mortal que permanecía desaparecida, dando por concluida la fase de búsqueda y rescate en la capital vallecaucana. En paralelo, el gobierno presentó el plan de reconstrucción para las zonas más golpeadas, con énfasis en Chocó, Valle del Cauca, Caldas y Risaralda. El presidente anunció también acuerdos con el sistema bancario para reducir la tasa de interés de créditos de vivienda en los municipios afectados, como parte de los decretos legislativos del estado de emergencia económica declarado el 19 de agosto mediante el Decreto 1261.",
-      "objetividad": 96,
+      "titulo": "DÍA 17: Comienzan subsidios de arriendo para víctimas del terremoto — $875.452 mensuales por 3 meses; UNGRD: 331 muertos, 31.519 hogares destruidos; reconstrucción costará US$9.500 millones",
+      "resumen": "Desde el 26 de agosto, el gobierno De la Espriella inicia la transferencia de subsidios de arriendo de $875.452 pesos mensuales durante tres meses para las familias cuyas viviendas fueron destruidas o declaradas inhabitables por el terremoto 7.4 del 10 de agosto. El 25 de agosto la UNGRD actualizó el balance: 331 fallecidos, 4.439 heridos, 240 desaparecidos, 31.519 hogares destruidos; además anunció una segunda fase de registro para damnificados. El costo total de la reconstrucción se estima en US$9.500 millones (30 billones de pesos). El Grupo Argos amplió de 300 a 1.000 el número de viviendas de construcción rápida comprometidas, de las cuales hasta 600 irían a Chocó. El aeropuerto de Pereira retomó operaciones regulares el 25 de agosto con cerca de 18 vuelos diarios.",
+      "objetividad": 97,
       "criterios": [
         {
           "ok": true,
-          "texto": "Balance oficial 329 muertos y 154.014 familias afectadas: El Tiempo (22 ago 2026)"
+          "texto": "Subsidios de arriendo $875.452 mensuales iniciando el 26 ago: El Tiempo / La Razón Bolivia (26 ago 2026)"
         },
         {
           "ok": true,
-          "texto": "Fin de la fase de búsqueda y rescate en Cali confirmado por el alcalde: El Tiempo / Diario Libre (22 ago)"
+          "texto": "Balance UNGRD 25 ago: 331 muertos, 4.439 heridos, 240 desaparecidos, 31.519 hogares destruidos: El Tiempo / Semana (25 ago)"
         },
         {
-          "ok": false,
-          "texto": "Monto y términos exactos de los acuerdos bancarios aún sin publicación oficial detallada"
+          "ok": true,
+          "texto": "Costo reconstrucción estimado en US$9.500 M / 30 billones de pesos: Hoy Día (18 ago 2026)"
         }
       ],
-      "url": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-entrega-nuevo-balance-tras-el-sismo-en-colombia-victimas-damnificados-y-municipios-afectados-3580263",
-      "url_label": "El Tiempo — De la Espriella: 329 muertos, 154.014 familias afectadas; Cali cierra búsqueda y rescate"
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/nuevo-balance-de-la-ungrd-este-25-de-agosto-por-el-terremoto-de-7-4-en-colombia-331-muertos-mas-de-4-mil-heridos-y-240-desaparecidos-3580813",
+      "url_label": "El Tiempo — UNGRD 25 ago: 331 muertos, 4.439 heridos, 240 desaparecidos, 31.519 hogares destruidos"
     },
     {
       "filter": "espriella",
@@ -187,16 +187,16 @@
       "fuente": "Infobae / que.es / El Espectador",
       "fuente_color": "#9b59b6",
       "fecha": "23 ago 2026",
-      "tag": "Valencia · 'Voces por la Vida' · HOY · Karol G livestream · Maluma · Yatra · $3.535 millones COP recaudados · +30 artistas",
+      "tag": "Valencia · 'Voces por la Vida' · Karol G livestream · Maluma · Yatra · $3.535 millones COP recaudados · +30 artistas",
       "tag_color": "#8e44ad",
       "tag_bg": "rgba(142,68,173,0.12)",
-      "titulo": "'Colombia: Voces por la Vida' HOY en Bogotá — Karol G conecta en tiempo real desde San Francisco; más de 30 artistas; ya recaudó $3.535 millones COP de 22.269 donantes antes del concierto",
-      "resumen": "El concierto benéfico 'Colombia: Voces por la Vida' se celebra hoy, 23 de agosto, en el Vive Claro de Bogotá. Karol G participa en tiempo real por livestream desde San Francisco con su Fundación Con Cora ('A cantar con ustedes en tiempo real'). El cartel reúne a más de 30 artistas: Maluma, Sebastián Yatra, Manuel Turizo, Greeicy, Grupo Niche, Silvestre Dangond, Miguel Bosé, Andrés Cepeda, Draco Rosa, ChocQuibTown, Eladio Carrión, Pedro Capó, Mike Bahía y otros. Todos los ingresos van a la Corporación Presentes para la reconstrucción de zonas afectadas por el sismo 7.4. Antes del concierto, la campaña ya había recaudado $3.535.200.000 COP de 22.269 donantes. Paloma Valencia y el Centro Democrático no tienen protagonismo político directo en el evento; la agenda sigue dominada por la emergencia del terremoto y la polémica de soberanía.",
+      "titulo": "'Colombia: Voces por la Vida' en Bogotá — Karol G conecta en tiempo real desde San Francisco; más de 30 artistas; recaudó $3.535 millones COP de 22.269 donantes",
+      "resumen": "El concierto benéfico 'Colombia: Voces por la Vida' se celebró el 23 de agosto en el Vive Claro de Bogotá. Karol G participó en tiempo real por livestream desde San Francisco con su Fundación Con Cora ('A cantar con ustedes en tiempo real'). El cartel reunió a más de 30 artistas: Maluma, Sebastián Yatra, Manuel Turizo, Greeicy, Grupo Niche, Silvestre Dangond, Miguel Bosé, Andrés Cepeda, Draco Rosa, ChocQuibTown, Eladio Carrión, Pedro Capó, Mike Bahía y otros. Todos los ingresos van a la Corporación Presentes para la reconstrucción de zonas afectadas por el sismo 7.4. La campaña recaudó $3.535.200.000 COP de 22.269 donantes. Paloma Valencia y el Centro Democrático no tienen protagonismo político directo en el evento.",
       "objetividad": 97,
       "criterios": [
         {
           "ok": true,
-          "texto": "Concierto confirmado para el 23 ago en Bogotá — cartel verificado: que.es / El Espectador (23 ago)"
+          "texto": "Concierto del 23 ago en Bogotá — cartel verificado: que.es / El Espectador (23 ago)"
         },
         {
           "ok": true,
@@ -204,11 +204,11 @@
         },
         {
           "ok": true,
-          "texto": "$3.535.200.000 COP recaudados de 22.269 donantes antes del concierto: Minuto60 / Infobae (22 ago)"
+          "texto": "$3.535.200.000 COP recaudados de 22.269 donantes: Minuto60 / Infobae (22 ago)"
         }
       ],
       "url": "https://www.que.es/2026/08/23/concierto-benefico-colombia-voces-vida/",
-      "url_label": "que.es — Karol G, Maluma y Yatra encabezan hoy el concierto benéfico Colombia: Voces por la Vida"
+      "url_label": "que.es — Karol G, Maluma y Yatra encabezan el concierto benéfico Colombia: Voces por la Vida"
     },
     {
       "filter": "cepeda",
@@ -268,31 +268,31 @@
     },
     {
       "filter": "espriella",
-      "fuente": "Infobae / Moncloa.com",
+      "fuente": "El Tiempo / Infobae",
       "fuente_color": "#e74c3c",
-      "fecha": "17 ago 2026",
-      "tag": "ESPRIELLA · Purga · Exfuncionarios Petro · DNP · MinTIC · Sepúlveda · Consolidación",
+      "fecha": "24 ago 2026",
+      "tag": "ESPRIELLA · Incendios · Manos criminales · Migración · Deportaciones · Barranquilla · Seguridad",
       "tag_color": "#c0392b",
       "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella frena a exfuncionarios de Petro: revoca nombramiento en DNP y bloquea petristas en MinTIC; purga consolida el nuevo gobierno",
-      "resumen": "El 17 de agosto, en su décimo día de gobierno, De la Espriella aceleró la purga de funcionarios vinculados al gobierno de Gustavo Petro en dos entidades sensibles: revocó el nombramiento de Carlos Sepúlveda —exdecano de la Universidad del Rosario y colaborador del plan de desarrollo de Petro— como jefe del Departamento Nacional de Planeación (DNP), cuya designación ya había sido publicada; y ordenó una revisión exhaustiva de todos los nombramientos en el Ministerio de las TIC. La consolidación del equipo de gobierno avanza en paralelo a la crisis humanitaria del terremoto, generando un debate sobre la velocidad y criterios de la transición.",
-      "objetividad": 88,
+      "titulo": "De la Espriella denuncia 'manos criminales' detrás de los incendios y lanza estrategia de deportación de migrantes irregulares en Barranquilla",
+      "resumen": "El 24 de agosto, el presidente De la Espriella enfrentó dos frentes simultáneos. Por un lado, denunció la existencia de 'manos criminales' detrás de los incendios que afectan a varios municipios del Tolima y otras regiones, y solicitó ayuda internacional a Chile y a Estados Unidos para el control de los siniestros; el ministro del Interior Rodrigo Lara reportó el control de la emergencia en cuatro municipios del Tolima. Por otro lado, en Barranquilla, el gobierno presentó una estrategia integral de seguridad que incluye operaciones conjuntas de Migración Colombia y la Policía para ubicar y deportar a migrantes irregulares involucrados en actividades criminales. De la Espriella declaró: 'Que le quede claro a todo el mundo', enfatizando la política de cero tolerancia.",
+      "objetividad": 91,
       "criterios": [
         {
           "ok": true,
-          "texto": "Revocación del nombramiento de Sepúlveda en DNP confirmada: Infobae / Moncloa.com (17 ago 2026)"
+          "texto": "Denuncia de 'manos criminales' en incendios y solicitud de ayuda a Chile y EEUU: El Tiempo (24 ago 2026)"
         },
         {
           "ok": true,
-          "texto": "Revisión de nombramientos en MinTIC ordenada por De la Espriella: Moncloa.com (17 ago)"
+          "texto": "Estrategia deportaciones Barranquilla y operaciones conjuntas Migración/Policía: Infobae (24 ago 2026)"
         },
         {
           "ok": false,
-          "texto": "Lista completa de cargos afectados por la purga aún no publicada oficialmente por el gobierno"
+          "texto": "Número de deportados en las primeras 24h de la estrategia aún no publicado oficialmente"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/08/10/cancilleria-acuso-a-exfuncionarios-de-gustavo-petro-de-sabotear-a-abelardo-de-la-espriella-en-la-gestion-de-ayuda-internacional-por-el-terremoto/",
-      "url_label": "Infobae — Cancillería acusa a exfuncionarios de Petro de sabotear ayuda internacional; De la Espriella frena petristas en DNP y MinTIC"
+      "url": "https://www.infobae.com/colombia/2026/08/24/abelardo-de-la-espriella-dio-polemica-instruccion-contra-migrantes-irregulares-en-colombia-que-le-quede-claro-a-todo-el-mundo/",
+      "url_label": "Infobae — De la Espriella: 'Que le quede claro a todo el mundo'; lanza estrategia de deportaciones en Barranquilla"
     },
     {
       "filter": "espriella",
@@ -328,11 +328,11 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 56,
-        "negativo": 37,
+        "positivo": 57,
+        "negativo": 36,
         "neutro": 7,
         "tendencia": "up",
-        "tendencia_texto": "23 ago — DÍA 16 — BALANCE TERREMOTO (El Tiempo, 22 ago): 329 muertos, 154.014 familias afectadas (314.751 personas); fin de fase de búsqueda y rescate en Cali; plan de reconstrucción presentado; acuerdos con bancos para reducir tasa de interés de vivienda en zonas afectadas. CONTEXTO VIGENTE: Decreto 1261 emergencia económica por 30 días (19 ago); arrecian ataques ELN/FARC disidentes/Clan del Golfo con drones y secuestros (20 ago); polémica tropas EEUU/IDF sin aval del Congreso (15 ago); purga exfuncionarios Petro en DNP y MinTIC (17 ago). Sentimiento sube levemente (55→56 positivo): el plan de reconstrucción y el cierre de la fase de búsqueda en Cali dan imagen de gestión activa de la crisis; negativo baja (38→37)."
+        "tendencia_texto": "26 ago — DÍA 17 — SUBSIDIOS ARRIENDO INICIAN HOY (El Tiempo/Semana, 26 ago): el gobierno transfiere $875.452 mensuales por 3 meses a familias con viviendas destruidas; UNGRD actualiza balance: 331 muertos, 4.439 heridos, 240 desaparecidos, 31.519 hogares destruidos; reconstrucción estimada en US$9.500 M. NOTICIAS DEL DÍA 24-25 AGO: incendios — De la Espriella denuncia 'manos criminales' y pide ayuda a Chile y EEUU; estrategia de seguridad y deportaciones en Barranquilla; UNGRD abre segunda fase de registro para damnificados. CONTEXTO: Decreto 1261 emergencia económica (19 ago); ataques ELN/FARC disidentes con drones y secuestros (20 ago); polémica tropas EEUU/IDF sin aval Congreso (15 ago). Sentimiento sube (56→57 positivo, 37→36 negativo): inicio de subsidios de arriendo y plan concreto de reconstrucción refuerzan imagen de gestión activa."
       },
       {
         "nombre": "Cepeda",
@@ -341,7 +341,7 @@
         "negativo": 43,
         "neutro": 15,
         "tendencia": "neutral",
-        "tendencia_texto": "23 ago — SIN NUEVAS NOTICIAS PROPIAS (últimas 48h): Cepeda continúa ejerciendo oposición parlamentaria; el eje de soberanía y tropas extranjeras sin aprobación del Congreso mantiene tracción mediática. CONTEXTO VIGENTE: declaración 'Entrega nuestra soberanía' (Infobae, 12 ago), visita Quibdó y denuncia ayuda humanitaria 'selectiva y condicionada al voto' (ABC Paraguay/Infobae, 15 ago), interpelación al ministro de Defensa en proceso. Pacto Histórico con 25 senadores ejerce control político activo. Sentimiento estable (42 positivo / 43 negativo / 15 neutro)."
+        "tendencia_texto": "26 ago — SIN NUEVAS NOTICIAS PROPIAS (últimas 48h): Cepeda no registra acciones públicas nuevas el 24-26 de agosto. Continúa ejerciendo oposición parlamentaria sobre soberanía y tropas extranjeras sin aprobación del Congreso. CONTEXTO VIGENTE: declaración 'Entrega nuestra soberanía' (Infobae, 12 ago); visita Quibdó y denuncia ayuda humanitaria 'selectiva y condicionada al voto' (ABC Paraguay/Infobae, 15 ago); interpelación al ministro de Defensa en proceso. Pacto Histórico con 25 senadores ejerce control político activo. Sentimiento estable (42 positivo / 43 negativo / 15 neutro)."
       },
       {
         "nombre": "Valencia",
@@ -350,7 +350,7 @@
         "negativo": 33,
         "neutro": 16,
         "tendencia": "neutral",
-        "tendencia_texto": "23 ago — VOCES POR LA VIDA HOY: concierto benéfico en el Vive Claro de Bogotá con más de 30 artistas nacionales e internacionales — Karol G (livestream desde San Francisco), Maluma, Sebastián Yatra, Miguel Bosé y otros; ya recaudó $3.535 millones COP de 22.269 donantes antes del evento (Infobae/Minuto60, 22 ago). Valencia y el Centro Democrático sin protagonismo político directo en el concierto ni en la agenda de la semana. Sentimiento estable (51 positivo / 33 negativo / 16 neutro): el CD permanece como observador sin beneficio ni costo mediático directo."
+        "tendencia_texto": "26 ago — SIN NOTICIAS PROPIAS (últimas 48h): Paloma Valencia y el Centro Democrático sin protagonismo mediático tras el concierto benéfico 'Voces por la Vida' del 23 de agosto. El CD mantiene perfil bajo mientras la agenda nacional está dominada por la reconstrucción del terremoto, los incendios, la polémica de tropas extranjeras y las deportaciones. Sentimiento estable (51 positivo / 33 negativo / 16 neutro): sin costo ni beneficio mediático directo esta semana."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 16 DE GOBIERNO — 23 de agosto de 2026. BALANCE TERREMOTO (El Tiempo, 22 ago): 329 muertos, 154.014 familias afectadas (314.751 personas); Cali concluye fase de búsqueda y rescate; De la Espriella anuncia plan de reconstrucción y acuerdos con bancos para reducir tasa de interés de vivienda en zonas afectadas. VOCES POR LA VIDA HOY (23 ago): concierto benéfico en Bogotá — Karol G (livestream), Maluma, Yatra y más de 30 artistas; ya recaudó $3.535 millones COP de 22.269 donantes antes del evento (Infobae/que.es, 22-23 ago). CONTEXTO VIGENTE: Emergencia económica Decreto 1261 por 30 días en 15 departamentos (19 ago); arrecian ataques ELN/FARC disidentes/Clan del Golfo — secuestros, drones y confinamientos (20 ago); polémica soberanía EEUU/IDF sin aval del Congreso — Cepeda exige interpelación (12-15 ago); purga exfuncionarios Petro en DNP y MinTIC (17 ago). RESULTADO OFICIAL INAMOVIBLE: De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos)."
+    "resumen_analisis": "DÍA 17 DE GOBIERNO — 26 de agosto de 2026. SUBSIDIOS ARRIENDO INICIAN HOY (El Tiempo/Semana, 26 ago): el gobierno De la Espriella transfiere $875.452 mensuales por 3 meses para familias con viviendas destruidas; UNGRD: 331 muertos, 4.439 heridos, 240 desaparecidos, 31.519 hogares destruidos; reconstrucción costará US$9.500 M. INCENDIOS Y MIGRACIÓN (24 ago): De la Espriella denuncia 'manos criminales' en los incendios y pide ayuda internacional; lanza estrategia de deportaciones en Barranquilla. SEGUNDA FASE REGISTRO DAMNIFICADOS (25 ago): UNGRD habilita nuevo período de registro. CONTEXTO: Decreto 1261 emergencia económica (19 ago); ataques ELN/FARC disidentes con drones y secuestros (20 ago); polémica soberanía EEUU/IDF sin aval Congreso (12-15 ago). RESULTADO OFICIAL INAMOVIBLE: De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos)."
   },
-  "ultimo_deploy": "23 de agosto de 2026"
+  "ultimo_deploy": "26 de agosto de 2026"
 }
