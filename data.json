@@ -1,5 +1,5 @@
 {
-  "fecha": "26 de agosto de 2026",
+  "fecha": "27 de agosto de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -184,59 +184,59 @@
     },
     {
       "filter": "valencia",
-      "fuente": "Infobae / que.es / El Espectador",
+      "fuente": "Infobae / La Jornada México",
       "fuente_color": "#9b59b6",
-      "fecha": "23 ago 2026",
-      "tag": "Valencia · 'Voces por la Vida' · Karol G livestream · Maluma · Yatra · $3.535 millones COP recaudados · +30 artistas",
+      "fecha": "27 ago 2026",
+      "tag": "Valencia · Corte Constitucional · Reforma pensional · 'Es extrañísimo' · Centro Democrático",
       "tag_color": "#8e44ad",
       "tag_bg": "rgba(142,68,173,0.12)",
-      "titulo": "'Colombia: Voces por la Vida' en Bogotá — Karol G conecta en tiempo real desde San Francisco; más de 30 artistas; recaudó $3.535 millones COP de 22.269 donantes",
-      "resumen": "El concierto benéfico 'Colombia: Voces por la Vida' se celebró el 23 de agosto en el Vive Claro de Bogotá. Karol G participó en tiempo real por livestream desde San Francisco con su Fundación Con Cora ('A cantar con ustedes en tiempo real'). El cartel reunió a más de 30 artistas: Maluma, Sebastián Yatra, Manuel Turizo, Greeicy, Grupo Niche, Silvestre Dangond, Miguel Bosé, Andrés Cepeda, Draco Rosa, ChocQuibTown, Eladio Carrión, Pedro Capó, Mike Bahía y otros. Todos los ingresos van a la Corporación Presentes para la reconstrucción de zonas afectadas por el sismo 7.4. La campaña recaudó $3.535.200.000 COP de 22.269 donantes. Paloma Valencia y el Centro Democrático no tienen protagonismo político directo en el evento.",
-      "objetividad": 97,
+      "titulo": "Valencia arremete contra la Corte Constitucional: 'Es extrañísimo' el fallo que avaló la reforma pensional de Petro",
+      "resumen": "El 27 de agosto, Paloma Valencia reaccionó con dureza al fallo del 25 de agosto de la Corte Constitucional que avaló la mayor parte de la reforma pensional de Petro (Ley 2381 de 2024) tras nueve horas de deliberaciones. Valencia, quien encabezó una de las demandas de inconstitucionalidad contra la reforma argumentando que la Cámara aprobó el texto del Senado sin discutirlo —violando el principio de consecutividad—, calificó de 'extrañísimo' que el alto tribunal le diera vida a una ley con ese vicio. La senadora del Centro Democrático advirtió que la decisión elimina el derecho de los ciudadanos a elegir libremente entre sistema pensional público y privado. El fallo representa una victoria póstuma de la agenda social del gobierno Petro.",
+      "objetividad": 91,
       "criterios": [
         {
           "ok": true,
-          "texto": "Concierto del 23 ago en Bogotá — cartel verificado: que.es / El Espectador (23 ago)"
+          "texto": "Fallo CC del 25 ago avala reforma pensional: La Jornada México (25 ago 2026)"
         },
         {
           "ok": true,
-          "texto": "Karol G livestream desde San Francisco con Fundación Con Cora: Infobae (22 ago)"
+          "texto": "Reacción Valencia 'Es extrañísimo': Infobae (27 ago 2026)"
         },
         {
           "ok": true,
-          "texto": "$3.535.200.000 COP recaudados de 22.269 donantes: Minuto60 / Infobae (22 ago)"
+          "texto": "Demanda de Valencia por principio de consecutividad: El Colombiano / Semana"
         }
       ],
-      "url": "https://www.que.es/2026/08/23/concierto-benefico-colombia-voces-vida/",
-      "url_label": "que.es — Karol G, Maluma y Yatra encabezan el concierto benéfico Colombia: Voces por la Vida"
+      "url": "https://www.jornada.com.mx/noticia/2026/08/25/mundo/colombia-corte-constitucional-avala-mayor-parte-de-reforma-pensional-de-gustavo-petro",
+      "url_label": "La Jornada — Corte Constitucional avala mayor parte de reforma pensional de Gustavo Petro"
     },
     {
       "filter": "cepeda",
-      "fuente": "Infobae",
+      "fuente": "Infobae / Semana / Cambio Colombia",
       "fuente_color": "#2980b9",
-      "fecha": "12 ago 2026",
-      "tag": "Cepeda · EEUU · Soberanía · Operaciones militares · Oposición · Congreso",
+      "fecha": "26 ago 2026",
+      "tag": "Cepeda · Gabinete por la Vida · Oposición · Shadow Cabinet · 13 miembros · Petro · Pacto Histórico",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda arremete contra De la Espriella por operaciones militares de EEUU: 'Entrega nuestra soberanía'; exige debate en el Congreso",
-      "resumen": "El 12 de agosto, Iván Cepeda emitió una declaración contundente tras el anuncio del secretario de Guerra de EEUU Pete Hegseth sobre operaciones militares conjuntas en Colombia: 'Lo que hizo De la Espriella entrega nuestra soberanía'. El senador y líder de la oposición del Pacto Histórico señaló que la Constitución exige aprobación del Senado para el tránsito de tropas extranjeras y que actuar sin ese aval es una violación flagrante al ordenamiento constitucional. Cepeda anunció que el Pacto Histórico interpelaría al ministro de Defensa en las próximas sesiones del Congreso. También advirtió que vigilará que los acuerdos con EEUU e Israel no comprometan la soberanía ni los derechos de las comunidades afectadas por el terremoto.",
-      "objetividad": 88,
+      "titulo": "Cepeda y Petro presentan 'Gabinete por la Vida': 13 figuras del Pacto Histórico como gobierno alterno para vigilar a De la Espriella",
+      "resumen": "El 26 de agosto, Iván Cepeda y el expresidente Gustavo Petro presentaron el 'Gabinete por la Vida', un gabinete sombra de 13 miembros —9 hombres y 4 mujeres— con el mandato de vigilar cada ministerio del gobierno De la Espriella, proponer soluciones alternativas y ejercer control político permanente. Integran el equipo exfuncionarios del gobierno Petro como la excanciller Yolanda Villavicencio, la exministra de Minas Irene Vélez, el exministro de Hacienda Germán Ávila y el exministro de Trabajo Antonio Sanguino. Cepeda lo presentó como un 'gobierno alterno desde el primer día' y confirmó que coordinará con la bancada del Pacto Histórico en el Senado y Cámara. La creación fue criticada por figuras como la representante Katherine Miranda.",
+      "objetividad": 93,
       "criterios": [
         {
           "ok": true,
-          "texto": "Declaración de Cepeda 'entrega nuestra soberanía': Infobae (12 ago 2026)"
+          "texto": "Presentación del Gabinete por la Vida el 26 ago: Infobae / Semana / Cambio Colombia (26 ago 2026)"
         },
         {
           "ok": true,
-          "texto": "Anuncio de interpelación al ministro de Defensa en el Congreso: Infobae / Pacto Histórico (12-13 ago)"
+          "texto": "13 integrantes incluyendo Villavicencio, Vélez, Ávila, Sanguino: Cambio Colombia (26 ago)"
         },
         {
-          "ok": false,
-          "texto": "Fecha exacta de la interpelación parlamentaria aún no confirmada en agenda del Senado"
+          "ok": true,
+          "texto": "Crítica de Katherine Miranda: Infobae (26 ago 2026)"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/08/12/ivan-cepeda-arremetio-contra-de-la-espriella-tras-anuncio-de-ee-uu-de-lanzar-operaciones-militares-desde-colombia-entrega-nuestra-soberania/",
-      "url_label": "Infobae — Cepeda: 'Entrega nuestra soberanía'; exige al Congreso controlar operaciones militares de EEUU en Colombia"
+      "url": "https://cambiocolombia.com/poder/articulo/2026/8/el-pacto-historico-presento-su-gabinete-por-la-vida-quienes-lo-integran-y-cual-sera-su-apuesta-frente-a-de-la-espriella",
+      "url_label": "Cambio Colombia — El Pacto Histórico presentó su Gabinete por la Vida: quiénes lo integran y su apuesta frente a De la Espriella"
     },
     {
       "filter": "cepeda",
@@ -332,25 +332,25 @@
         "negativo": 36,
         "neutro": 7,
         "tendencia": "up",
-        "tendencia_texto": "26 ago — DÍA 17 — SUBSIDIOS ARRIENDO INICIAN HOY (El Tiempo/Semana, 26 ago): el gobierno transfiere $875.452 mensuales por 3 meses a familias con viviendas destruidas; UNGRD actualiza balance: 331 muertos, 4.439 heridos, 240 desaparecidos, 31.519 hogares destruidos; reconstrucción estimada en US$9.500 M. NOTICIAS DEL DÍA 24-25 AGO: incendios — De la Espriella denuncia 'manos criminales' y pide ayuda a Chile y EEUU; estrategia de seguridad y deportaciones en Barranquilla; UNGRD abre segunda fase de registro para damnificados. CONTEXTO: Decreto 1261 emergencia económica (19 ago); ataques ELN/FARC disidentes con drones y secuestros (20 ago); polémica tropas EEUU/IDF sin aval Congreso (15 ago). Sentimiento sube (56→57 positivo, 37→36 negativo): inicio de subsidios de arriendo y plan concreto de reconstrucción refuerzan imagen de gestión activa."
+        "tendencia_texto": "27 ago — DÍA 18 DE GOBIERNO — SUBSIDIOS ARRIENDO EN MARCHA (iniciaron 26 ago): el gobierno transfiere $875.452 mensuales por 3 meses a familias con viviendas destruidas; UNGRD: 331 muertos, 4.439 heridos, 240 desaparecidos, 31.519 hogares destruidos; reconstrucción estimada en US$9.500 M. INCENDIOS Y MIGRACIÓN (24 ago): 'manos criminales' en los incendios; estrategia de deportaciones en Barranquilla. Corte Constitucional avala reforma pensional de Petro (25 ago), cuestionada por el CD. CONTEXTO VIGENTE: Decreto 1261 emergencia económica; ataques ELN/FARC disidentes con drones; polémica tropas EEUU/IDF sin aval Congreso. Sentimiento estable en positivo dominante (57/36/7): la gestión del terremoto y el inicio de subsidios sostienen su imagen pese a las críticas de la oposición."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 42,
-        "negativo": 43,
+        "positivo": 44,
+        "negativo": 41,
         "neutro": 15,
-        "tendencia": "neutral",
-        "tendencia_texto": "26 ago — SIN NUEVAS NOTICIAS PROPIAS (últimas 48h): Cepeda no registra acciones públicas nuevas el 24-26 de agosto. Continúa ejerciendo oposición parlamentaria sobre soberanía y tropas extranjeras sin aprobación del Congreso. CONTEXTO VIGENTE: declaración 'Entrega nuestra soberanía' (Infobae, 12 ago); visita Quibdó y denuncia ayuda humanitaria 'selectiva y condicionada al voto' (ABC Paraguay/Infobae, 15 ago); interpelación al ministro de Defensa en proceso. Pacto Histórico con 25 senadores ejerce control político activo. Sentimiento estable (42 positivo / 43 negativo / 15 neutro)."
+        "tendencia": "up",
+        "tendencia_texto": "27 ago — GABINETE POR LA VIDA (Infobae/Semana/Cambio, 26 ago): Cepeda y Petro presentaron un gabinete sombra de 13 miembros —incluyendo exministros Villavicencio, Vélez, Ávila y Sanguino— para vigilar cada ministerio de De la Espriella y ejercer oposición coordinada con la bancada parlamentaria. Es la acción opositora más organizada desde la derrota del 21 de junio. CONTEXTO ANTERIOR: visita a Quibdó y denuncia de ayuda 'selectiva y condicionada al voto' (15 ago); cuestionamiento soberanía por tropas EEUU/IDF (12-15 ago). Sentimiento sube (42→44 positivo, 43→41 negativo): el Gabinete por la Vida proyecta una oposición estructurada y amplía su presencia mediática."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 51,
-        "negativo": 33,
+        "positivo": 50,
+        "negativo": 34,
         "neutro": 16,
         "tendencia": "neutral",
-        "tendencia_texto": "26 ago — SIN NOTICIAS PROPIAS (últimas 48h): Paloma Valencia y el Centro Democrático sin protagonismo mediático tras el concierto benéfico 'Voces por la Vida' del 23 de agosto. El CD mantiene perfil bajo mientras la agenda nacional está dominada por la reconstrucción del terremoto, los incendios, la polémica de tropas extranjeras y las deportaciones. Sentimiento estable (51 positivo / 33 negativo / 16 neutro): sin costo ni beneficio mediático directo esta semana."
+        "tendencia_texto": "27 ago — REFORMA PENSIONAL (Infobae, 27 ago): Valencia criticó duramente el fallo del 25 de agosto de la Corte Constitucional que avaló la mayor parte de la reforma pensional de Petro: 'Es extrañísimo'. Afirmó que la decisión viola el principio de consecutividad legislativa y elimina el derecho ciudadano a elegir sistema pensional. El fallo representa una derrota legal para su posición, aunque su voz activa en medios mantiene relevancia política. Sentimiento ligeramente negativo en reacción al fallo (51→50 positivo, 33→34 negativo): la derrota judicial no cancela su rol como voz del Centro Democrático."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 17 DE GOBIERNO — 26 de agosto de 2026. SUBSIDIOS ARRIENDO INICIAN HOY (El Tiempo/Semana, 26 ago): el gobierno De la Espriella transfiere $875.452 mensuales por 3 meses para familias con viviendas destruidas; UNGRD: 331 muertos, 4.439 heridos, 240 desaparecidos, 31.519 hogares destruidos; reconstrucción costará US$9.500 M. INCENDIOS Y MIGRACIÓN (24 ago): De la Espriella denuncia 'manos criminales' en los incendios y pide ayuda internacional; lanza estrategia de deportaciones en Barranquilla. SEGUNDA FASE REGISTRO DAMNIFICADOS (25 ago): UNGRD habilita nuevo período de registro. CONTEXTO: Decreto 1261 emergencia económica (19 ago); ataques ELN/FARC disidentes con drones y secuestros (20 ago); polémica soberanía EEUU/IDF sin aval Congreso (12-15 ago). RESULTADO OFICIAL INAMOVIBLE: De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos)."
+    "resumen_analisis": "DÍA 18 DE GOBIERNO — 27 de agosto de 2026. OPOSICIÓN SE ORGANIZA: Cepeda y Petro presentaron el 'Gabinete por la Vida' (26 ago), 13 miembros para vigilar cada ministerio de De la Espriella. REFORMA PENSIONAL: Corte Constitucional avala la mayor parte de la ley Petro (25 ago); Valencia la califica de 'extrañísima' (27 ago). TERREMOTO — SUBSIDIOS EN MARCHA (26 ago): $875.452 mensuales a familias damnificadas; balance: 331 muertos, 31.519 hogares destruidos; reconstrucción US$9.500 M. SEGURIDAD: incendios con 'manos criminales', deportaciones en Barranquilla (24 ago); ELN/FARC con drones y secuestros (20 ago). RESULTADO OFICIAL INAMOVIBLE: De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos)."
   },
-  "ultimo_deploy": "26 de agosto de 2026"
+  "ultimo_deploy": "27 de agosto de 2026"
 }
