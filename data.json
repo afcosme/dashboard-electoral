@@ -1,5 +1,5 @@
 {
-  "fecha": "27 de agosto de 2026",
+  "fecha": "29 de agosto de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,6 +100,90 @@
   "noticias": [
     {
       "filter": "espriella",
+      "fuente": "Semana",
+      "fuente_color": "#e74c3c",
+      "fecha": "29 ago 2026",
+      "tag": "ESPRIELLA · DÍA 22 · 41 extradiciones · 19 días · Récord · Narcoterrorismo · Crimen organizado",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "41 extradiciones en 19 días: De la Espriella bate récord histórico y advierte 'seguiremos firmando más'",
+      "resumen": "El 29 de agosto, la revista Semana reportó que el presidente Abelardo de la Espriella ha firmado 41 extradiciones en sus primeros 19 días de gobierno, una cifra sin precedentes en tan corto período en la historia colombiana. El presidente declaró: 'Seguiremos firmando más, porque la lucha contra el crimen organizado y el narcotráfico no se detiene: los venceremos.' Entre los extraditados figuran negociadores de paz de las disidencias FARC, Los Pachenca y el ELN, personas que participaron en los diálogos de la 'Paz Total' de Petro y que el nuevo gobierno considera que se escudaron en una 'falsa paz'. De la Espriella también anunció formalmente el desmonte completo de la estrategia de paz negociada de su antecesor.",
+      "objetividad": 95,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "41 extradiciones en 19 días de gobierno: Semana (29 ago 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Extradiciones de negociadores de las disidencias FARC, Los Pachenca y ELN: Infobae (27 ago 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Desmonte oficial de la 'Paz Total' de Petro: Infobae (27 ago 2026)"
+        }
+      ],
+      "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-en-tiempo-record-ya-firmo-41-extradiciones-el-presidente-lanzo-advertencia-a-criminales/202610/",
+      "url_label": "Semana — De la Espriella firma 41 extradiciones en tiempo récord; 'seguiremos firmando más'"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Heraldo / El Espectador",
+      "fuente_color": "#e74c3c",
+      "fecha": "28 ago 2026",
+      "tag": "ESPRIELLA · Glifosato · Aspersión aérea · Resolución 0006 · CNE · Cultivos coca · Polémica",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "Gobierno De la Espriella tumba resolución que prohibía aspersión aérea con glifosato; aún debe cumplir condiciones de la Corte Constitucional",
+      "resumen": "Mediante la Resolución 0006 del 18 de agosto de 2026, publicada en el Diario Oficial el 28 de agosto, el Consejo Nacional de Estupefacientes (CNE) derogó la resolución de 2015 que suspendía la fumigación aérea con glifosato sobre cultivos de coca. Sin embargo, la medida no habilita de inmediato las aspersiones: el gobierno debe cumplir las condiciones fijadas por la Corte Constitucional, incluyendo estudios de impacto en salud y medioambiente. La decisión generó amplia polarización: defensores la ven como herramienta clave contra el narcotráfico, mientras críticos —ambientalistas, organizaciones de salud pública y el Pacto Histórico— advierten riesgos para comunidades campesinas y ecosistemas.",
+      "objetividad": 92,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Resolución 0006 del CNE publicada en Diario Oficial el 28 ago: El Heraldo / El Espectador (28 ago 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Requisito de cumplir condiciones CC antes de reanudar aspersiones: El Espectador (28 ago 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Fecha de inicio de las primeras aspersiones aéreas efectivas aún no fijada oficialmente"
+        }
+      ],
+      "url": "https://www.elheraldo.co/colombia/2026/08/28/gobierno-de-la-espriella-tumba-resolucion-que-prohibia-la-aspersion-aerea-con-glifosato/",
+      "url_label": "El Heraldo — Gobierno De la Espriella tumba resolución que prohibía aspersión aérea con glifosato"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#e74c3c",
+      "fecha": "28 ago 2026",
+      "tag": "ESPRIELLA · SIC · Control precios · Especulación · Terremoto · Emergencia económica · Consumidores",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella activa la SIC contra alzas abusivas de precios post-terremoto: 'La tragedia no puede convertirse en oportunidad para abusar'",
+      "resumen": "El 28 de agosto, en el marco del estado de emergencia económica declarado por el Decreto 1261, el presidente De la Espriella anunció un paquete de medidas de la Superintendencia de Industria y Comercio (SIC) para combatir el alza injustificada de precios, el acaparamiento y la publicidad engañosa en las 15 regiones afectadas por el terremoto 7.4 del 10 de agosto. El presidente declaró: 'La tragedia no puede convertirse en una oportunidad para abusar de los colombianos.' Las medidas incluyen operativos de inspección de precios, sanciones aceleradas y mecanismos de denuncia ciudadana. El contexto: el terremoto dejó 331 muertos, 4.439 heridos y más de 31.500 hogares destruidos; la reconstrucción se estima en US$9.500 millones.",
+      "objetividad": 94,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Medidas SIC contra alzas de precios post-terremoto: Infobae Colombia (28 ago 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Balance actualizado terremoto: 331 muertos, 31.519 hogares destruidos: UNGRD (25 ago 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Número de operativos SIC desplegados en las primeras 24h aún no publicado"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/08/28/abelardo-de-la-espriella-confirmo-paquete-de-medidas-para-frenar-alza-en-los-precios-tras-emergencia-natural-no-puede-convertirse-en-una-oportunidad-para-abusar-de-los-colombianos/",
+      "url_label": "Infobae — De la Espriella activa la SIC contra especulación de precios post-terremoto"
+    },
+    {
+      "filter": "espriella",
       "fuente": "El Tiempo / Semana",
       "fuente_color": "#e74c3c",
       "fecha": "26 ago 2026",
@@ -128,6 +212,34 @@
     },
     {
       "filter": "espriella",
+      "fuente": "El Tiempo / Infobae",
+      "fuente_color": "#e74c3c",
+      "fecha": "24 ago 2026",
+      "tag": "ESPRIELLA · Incendios · Manos criminales · Migración · Deportaciones · Barranquilla · Seguridad",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella denuncia 'manos criminales' detrás de los incendios y lanza estrategia de deportación de migrantes irregulares en Barranquilla",
+      "resumen": "El 24 de agosto, el presidente De la Espriella enfrentó dos frentes simultáneos. Por un lado, denunció la existencia de 'manos criminales' detrás de los incendios que afectan a varios municipios del Tolima y otras regiones, y solicitó ayuda internacional a Chile y a Estados Unidos para el control de los siniestros; el ministro del Interior Rodrigo Lara reportó el control de la emergencia en cuatro municipios del Tolima. Por otro lado, en Barranquilla, el gobierno presentó una estrategia integral de seguridad que incluye operaciones conjuntas de Migración Colombia y la Policía para ubicar y deportar a migrantes irregulares involucrados en actividades criminales. De la Espriella declaró: 'Que le quede claro a todo el mundo', enfatizando la política de cero tolerancia.",
+      "objetividad": 91,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Denuncia de 'manos criminales' en incendios y solicitud de ayuda a Chile y EEUU: El Tiempo (24 ago 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Estrategia deportaciones Barranquilla y operaciones conjuntas Migración/Policía: Infobae (24 ago 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Número de deportados en las primeras 24h de la estrategia aún no publicado oficialmente"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/08/24/abelardo-de-la-espriella-dio-polemica-instruccion-contra-migrantes-irregulares-en-colombia-que-le-quede-claro-a-todo-el-mundo/",
+      "url_label": "Infobae — De la Espriella: 'Que le quede claro a todo el mundo'; lanza estrategia de deportaciones en Barranquilla"
+    },
+    {
+      "filter": "espriella",
       "fuente": "Diario Las Américas / La Nación Paraguay",
       "fuente_color": "#e74c3c",
       "fecha": "20 ago 2026",
@@ -153,34 +265,6 @@
       ],
       "url": "https://www.diariolasamericas.com/america-latina/arrecian-ataques-grupos-armados-la-espriella-afirma-no-habra-tregua-al-narcoterrorismo-n5400546",
       "url_label": "Diario Las Américas — Arrecian ataques de grupos armados; De la Espriella 'no habrá tregua al narcoterrorismo'"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Tiempo / Infobae / Semana",
-      "fuente_color": "#e74c3c",
-      "fecha": "19 ago 2026",
-      "tag": "ESPRIELLA · Decreto 1261 · Emergencia económica · 30 días · 15 departamentos · Terremoto",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella firma Decreto 1261: emergencia económica, social y ecológica por 30 días en 15 departamentos — balance actualizado: 319 muertos, 4.469 heridos",
-      "resumen": "El 19 de agosto, el presidente Abelardo de la Espriella firmó el Decreto 1261 que declara el estado de emergencia económica, social y ecológica durante 30 días en 15 departamentos afectados por el terremoto 7.4 del 10 de agosto. El Decreto, amparado en el artículo 215 de la Constitución, habilita al Gobierno a expedir decretos con fuerza de ley para atender la crisis. Balance actualizado de la UNGRD: 319 fallecidos, 4.469 heridos, 260 desaparecidos, 30.803 viviendas destruidas y 151.433 dañadas en 471 municipios de 15 departamentos. Las medidas incluyen subsidios de arriendo, alivios de servicios públicos, apoyo a comerciantes y familias vulnerables, y mecanismos de alivio tributario y financiero para la zona de desastre.",
-      "objetividad": 96,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Decreto 1261 de emergencia económica firmado el 19 ago: El Tiempo, Infobae, Semana (19-20 ago 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Balance UNGRD: 319 muertos, 4.469 heridos, 30.803 viviendas destruidas, 151.433 dañadas (19 ago)"
-        },
-        {
-          "ok": false,
-          "texto": "Decretos legislativos específicos derivados del estado de emergencia aún en elaboración"
-        }
-      ],
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-firma-decreto-que-declara-la-emergencia-economica-para-hacerle-frente-a-crisis-tras-terremoto-3579549",
-      "url_label": "El Tiempo — De la Espriella firma Decreto 1261: emergencia económica por 30 días; 319 muertos, 4.469 heridos"
     },
     {
       "filter": "valencia",
@@ -237,90 +321,6 @@
       ],
       "url": "https://cambiocolombia.com/poder/articulo/2026/8/el-pacto-historico-presento-su-gabinete-por-la-vida-quienes-lo-integran-y-cual-sera-su-apuesta-frente-a-de-la-espriella",
       "url_label": "Cambio Colombia — El Pacto Histórico presentó su Gabinete por la Vida: quiénes lo integran y su apuesta frente a De la Espriella"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Infobae / ABC Color Paraguay",
-      "fuente_color": "#2980b9",
-      "fecha": "15 ago 2026",
-      "tag": "Cepeda · Quibdó · Ayuda selectiva · IDF israelí · Senado · Control político · Oposición",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda en Quibdó: denuncia ayuda 'selectiva y condicionada al voto'; exige al Congreso controlar la presencia de militares israelíes en Colombia",
-      "resumen": "El 15 de agosto, Iván Cepeda visitó Quibdó, capital de Chocó y uno de los municipios más afectados por el sismo 7.4. Se reunió con líderes sociales y comunitarios que le reportaron casos donde la distribución de ayuda humanitaria estuvo condicionada al historial de voto. El Pacto Histórico anunció que el Senado vigilará activamente la distribución de ayuda para evitar discriminación política. Cepeda también cuestionó la presencia de personal militar del IDF israelí en Colombia, recordando que la Constitución exige aprobación del Congreso para el tránsito de tropas extranjeras.",
-      "objetividad": 86,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Oposición critica 'ayuda selectiva' del gobierno: Infobae/Agencias y ABC Color (15 ago 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Visita de Cepeda a Quibdó y reuniones con líderes sociales: ABC Paraguay (15 ago)"
-        },
-        {
-          "ok": false,
-          "texto": "Casos de ayuda condicionada al voto: testimonios no verificados por fuentes oficiales independientes"
-        }
-      ],
-      "url": "https://www.abc.com.py/internacionales/2026/08/15/oposicion-colombiana-critica-ayuda-selectiva-recibida-por-el-gobierno-tras-el-terremoto/",
-      "url_label": "ABC Paraguay — Oposición colombiana critica 'ayuda selectiva' del Gobierno tras el terremoto"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Tiempo / Infobae",
-      "fuente_color": "#e74c3c",
-      "fecha": "24 ago 2026",
-      "tag": "ESPRIELLA · Incendios · Manos criminales · Migración · Deportaciones · Barranquilla · Seguridad",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella denuncia 'manos criminales' detrás de los incendios y lanza estrategia de deportación de migrantes irregulares en Barranquilla",
-      "resumen": "El 24 de agosto, el presidente De la Espriella enfrentó dos frentes simultáneos. Por un lado, denunció la existencia de 'manos criminales' detrás de los incendios que afectan a varios municipios del Tolima y otras regiones, y solicitó ayuda internacional a Chile y a Estados Unidos para el control de los siniestros; el ministro del Interior Rodrigo Lara reportó el control de la emergencia en cuatro municipios del Tolima. Por otro lado, en Barranquilla, el gobierno presentó una estrategia integral de seguridad que incluye operaciones conjuntas de Migración Colombia y la Policía para ubicar y deportar a migrantes irregulares involucrados en actividades criminales. De la Espriella declaró: 'Que le quede claro a todo el mundo', enfatizando la política de cero tolerancia.",
-      "objetividad": 91,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Denuncia de 'manos criminales' en incendios y solicitud de ayuda a Chile y EEUU: El Tiempo (24 ago 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Estrategia deportaciones Barranquilla y operaciones conjuntas Migración/Policía: Infobae (24 ago 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Número de deportados en las primeras 24h de la estrategia aún no publicado oficialmente"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/08/24/abelardo-de-la-espriella-dio-polemica-instruccion-contra-migrantes-irregulares-en-colombia-que-le-quede-claro-a-todo-el-mundo/",
-      "url_label": "Infobae — De la Espriella: 'Que le quede claro a todo el mundo'; lanza estrategia de deportaciones en Barranquilla"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "La Jornada México / El Imparcial",
-      "fuente_color": "#e74c3c",
-      "fecha": "15 ago 2026",
-      "tag": "ESPRIELLA · Tropas EEUU · IDF Israel · Soberanía · Polémica constitucional · Hegseth",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "Polémica: De la Espriella autoriza operaciones militares de EEUU contra narcoterrorismo y acepta rescatistas del IDF israelí sin pasar por el Congreso",
-      "resumen": "El 15 de agosto, medios mexicanos y colombianos revelaron que el gobierno De la Espriella tomó dos decisiones que generan alarma constitucional: (1) autorizó operaciones militares de EEUU contra el narcoterrorismo en territorio colombiano —anunciadas por el secretario de Guerra Pete Hegseth desde la reunión 'Escudo de las Américas' en Panamá el 11-12 de agosto—; y (2) aceptó una unidad del Ejército de Defensa de Israel (IDF) encuadrada como 'misión humanitaria' de rescate. La Constitución colombiana establece que sólo el Congreso puede autorizar el tránsito de tropas extranjeras. El Pacto Histórico calificó ambas decisiones como violación a la soberanía y anunció interpelaciones parlamentarias al ministro de Defensa.",
-      "objetividad": 85,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Operaciones militares EEUU anunciadas por Hegseth en Panamá (11-12 ago): La Jornada / El Imparcial (15 ago)"
-        },
-        {
-          "ok": true,
-          "texto": "Presencia del IDF en Colombia como 'misión humanitaria': La Jornada / El Imparcial (15 ago)"
-        },
-        {
-          "ok": false,
-          "texto": "Gobierno colombiano no ha emitido comunicado oficial confirmando los términos del acuerdo con EEUU ni del mandato del IDF"
-        }
-      ],
-      "url": "https://www.elimparcial.com/mundo/2026/08/15/mientras-colombia-intenta-recuperarse-del-terremoto-de-magnitud-74-que-dejo-cientos-de-muertos-el-gobierno-de-abelardo-de-la-espriella-acuerda-operaciones-militares-con-estados-unidos-y-acepta-rescatistas-enviados-por-israel-en-medio-de-cuestionamientos-sobre-la-presencia-extranjera/",
-      "url_label": "El Imparcial — De la Espriella acuerda operaciones militares con EEUU y acepta IDF israelí sin aval del Congreso"
     }
   ],
   "sentimiento": {
@@ -328,11 +328,11 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 57,
-        "negativo": 36,
-        "neutro": 7,
-        "tendencia": "up",
-        "tendencia_texto": "27 ago — DÍA 18 DE GOBIERNO — SUBSIDIOS ARRIENDO EN MARCHA (iniciaron 26 ago): el gobierno transfiere $875.452 mensuales por 3 meses a familias con viviendas destruidas; UNGRD: 331 muertos, 4.439 heridos, 240 desaparecidos, 31.519 hogares destruidos; reconstrucción estimada en US$9.500 M. INCENDIOS Y MIGRACIÓN (24 ago): 'manos criminales' en los incendios; estrategia de deportaciones en Barranquilla. Corte Constitucional avala reforma pensional de Petro (25 ago), cuestionada por el CD. CONTEXTO VIGENTE: Decreto 1261 emergencia económica; ataques ELN/FARC disidentes con drones; polémica tropas EEUU/IDF sin aval Congreso. Sentimiento estable en positivo dominante (57/36/7): la gestión del terremoto y el inicio de subsidios sostienen su imagen pese a las críticas de la oposición."
+        "positivo": 55,
+        "negativo": 37,
+        "neutro": 8,
+        "tendencia": "neutral",
+        "tendencia_texto": "29 ago — DÍA 22 DE GOBIERNO — 41 EXTRADICIONES EN RÉCORD (Semana, 29 ago): De la Espriella ya firmó 41 extradiciones en apenas 19 días, incluyendo negociadores de paz FARC/ELN que participaron en la 'Paz Total' de Petro; anunció el desmonte definitivo de esa estrategia. GLIFOSATO (El Heraldo/El Espectador, 28 ago): el CNE derogó la resolución de 2015 que prohibía la aspersión aérea; polémica nacional: medios progresistas critican riesgos para la salud y el medioambiente, gobierno lo defiende como herramienta antinarco. SIC ANTI-ALZAS (Infobae, 28 ago): activó la Superintendencia de Industria y Comercio contra especulación de precios en las zonas del terremoto. CONTEXTO: subsidios de arriendo en marcha, Decreto 1261 de emergencia económica, ataques ELN/FARC con drones. Sentimiento levemente ajustado (57→55 positivo, 36→37 negativo): la controversia del glifosato compensa parcialmente el entusiasmo por las extradiciones récord."
       },
       {
         "nombre": "Cepeda",
@@ -341,7 +341,7 @@
         "negativo": 41,
         "neutro": 15,
         "tendencia": "up",
-        "tendencia_texto": "27 ago — GABINETE POR LA VIDA (Infobae/Semana/Cambio, 26 ago): Cepeda y Petro presentaron un gabinete sombra de 13 miembros —incluyendo exministros Villavicencio, Vélez, Ávila y Sanguino— para vigilar cada ministerio de De la Espriella y ejercer oposición coordinada con la bancada parlamentaria. Es la acción opositora más organizada desde la derrota del 21 de junio. CONTEXTO ANTERIOR: visita a Quibdó y denuncia de ayuda 'selectiva y condicionada al voto' (15 ago); cuestionamiento soberanía por tropas EEUU/IDF (12-15 ago). Sentimiento sube (42→44 positivo, 43→41 negativo): el Gabinete por la Vida proyecta una oposición estructurada y amplía su presencia mediática."
+        "tendencia_texto": "29 ago — GABINETE POR LA VIDA (Infobae/Semana/Cambio, 26 ago): Cepeda y Petro presentaron un gabinete sombra de 13 miembros —incluyendo exministros Villavicencio, Vélez, Ávila y Sanguino— para vigilar cada ministerio de De la Espriella y ejercer oposición coordinada con la bancada parlamentaria. Es la acción opositora más organizada desde la derrota del 21 de junio. SIN NOTICIAS NUEVAS EN LAS ÚLTIMAS 48H: la atención mediática se centra en las decisiones del gobierno (glifosato, extradiciones). Sentimiento estable (44/41/15): el Gabinete por la Vida mantiene su presencia mediática como estructura opositora."
       },
       {
         "nombre": "Valencia",
@@ -350,7 +350,7 @@
         "negativo": 34,
         "neutro": 16,
         "tendencia": "neutral",
-        "tendencia_texto": "27 ago — REFORMA PENSIONAL (Infobae, 27 ago): Valencia criticó duramente el fallo del 25 de agosto de la Corte Constitucional que avaló la mayor parte de la reforma pensional de Petro: 'Es extrañísimo'. Afirmó que la decisión viola el principio de consecutividad legislativa y elimina el derecho ciudadano a elegir sistema pensional. El fallo representa una derrota legal para su posición, aunque su voz activa en medios mantiene relevancia política. Sentimiento ligeramente negativo en reacción al fallo (51→50 positivo, 33→34 negativo): la derrota judicial no cancela su rol como voz del Centro Democrático."
+        "tendencia_texto": "29 ago — REFORMA PENSIONAL (Infobae, 27 ago): Valencia criticó duramente el fallo de la Corte Constitucional del 25 de agosto que avaló la mayor parte de la reforma pensional de Petro: 'Es extrañísimo'. Afirmó que la decisión viola el principio de consecutividad legislativa y elimina el derecho ciudadano a elegir sistema pensional. SIN NOTICIAS NUEVAS HOY: su posición sobre el glifosato o las extradiciones no fue recogida por los medios en las últimas 48h, lo que sugiere menor protagonismo frente al gobierno. Sentimiento estable (50/34/16): mantiene relevancia como voz del Centro Democrático pero con menos exposición mediática que De la Espriella o Cepeda."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 18 DE GOBIERNO — 27 de agosto de 2026. OPOSICIÓN SE ORGANIZA: Cepeda y Petro presentaron el 'Gabinete por la Vida' (26 ago), 13 miembros para vigilar cada ministerio de De la Espriella. REFORMA PENSIONAL: Corte Constitucional avala la mayor parte de la ley Petro (25 ago); Valencia la califica de 'extrañísima' (27 ago). TERREMOTO — SUBSIDIOS EN MARCHA (26 ago): $875.452 mensuales a familias damnificadas; balance: 331 muertos, 31.519 hogares destruidos; reconstrucción US$9.500 M. SEGURIDAD: incendios con 'manos criminales', deportaciones en Barranquilla (24 ago); ELN/FARC con drones y secuestros (20 ago). RESULTADO OFICIAL INAMOVIBLE: De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos)."
+    "resumen_analisis": "DÍA 22 DE GOBIERNO — 29 de agosto de 2026. EXTRADICIONES RÉCORD: De la Espriella firmó 41 extradiciones en 19 días, incluyendo ex-negociadores de paz; desmonte oficial de la 'Paz Total' de Petro (29 ago). GLIFOSATO: el CNE derogó la resolución de 2015 que prohibía la aspersión aérea con glifosato; polémica nacional (28 ago). ANTI-ALZAS POST-TERREMOTO: SIC activada contra especulación de precios en zonas afectadas (28 ago). OPOSICIÓN: Cepeda y Petro mantienen activo el 'Gabinete por la Vida' (26 ago). REFORMA PENSIONAL: Corte Constitucional avaló la ley Petro (25 ago); Valencia la califica de 'extrañísima' (27 ago). TERREMOTO: subsidios de arriendo en marcha ($875.452/mes); 331 muertos, 31.519 hogares destruidos; reconstrucción US$9.500 M. RESULTADO OFICIAL INAMOVIBLE: De la Espriella 49,66% vs Cepeda 48,70%."
   },
-  "ultimo_deploy": "27 de agosto de 2026"
+  "ultimo_deploy": "29 de agosto de 2026"
 }
