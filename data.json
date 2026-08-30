@@ -184,31 +184,31 @@
     },
     {
       "filter": "espriella",
-      "fuente": "El Tiempo / Semana",
+      "fuente": "Infobae Colombia",
       "fuente_color": "#e74c3c",
-      "fecha": "26 ago 2026",
-      "tag": "ESPRIELLA · DÍA 17 · Subsidios arriendo · 875.452 pesos · 331 muertos · 31.519 hogares destruidos · Reconstrucción US$9.500 M",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "DÍA 17: Comienzan subsidios de arriendo para víctimas del terremoto — $875.452 mensuales por 3 meses; UNGRD: 331 muertos, 31.519 hogares destruidos; reconstrucción costará US$9.500 millones",
-      "resumen": "Desde el 26 de agosto, el gobierno De la Espriella inicia la transferencia de subsidios de arriendo de $875.452 pesos mensuales durante tres meses para las familias cuyas viviendas fueron destruidas o declaradas inhabitables por el terremoto 7.4 del 10 de agosto. El 25 de agosto la UNGRD actualizó el balance: 331 fallecidos, 4.439 heridos, 240 desaparecidos, 31.519 hogares destruidos; además anunció una segunda fase de registro para damnificados. El costo total de la reconstrucción se estima en US$9.500 millones (30 billones de pesos). El Grupo Argos amplió de 300 a 1.000 el número de viviendas de construcción rápida comprometidas, de las cuales hasta 600 irían a Chocó. El aeropuerto de Pereira retomó operaciones regulares el 25 de agosto con cerca de 18 vuelos diarios.",
-      "objetividad": 97,
+      "fecha": "30 ago 2026",
+      "tag": "ESPRIELLA · DÍA 23 · Revisión contratos · Roscas · Ministerio por ministerio · Anticorrupción · Reforma estructural",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella anuncia revisión integral de contrataciones para acabar con 'roscas': 'Ministerio por ministerio'",
+      "resumen": "El 30 de agosto, el presidente Abelardo de la Espriella anunció una auditoría estructural de contrataciones y nóminas en todas las entidades del Estado, con el objetivo de desmantelar 'las roscas, los monopolios y las redes' heredadas del gobierno Petro. La revisión será 'ministerio por ministerio' e incluye reorganización de planta de personal y revisión de contratos de prestación de servicios. El anuncio llega un día después del Consejo de Ministros en Barranquilla donde el gabinete aprobó $4 billones adicionales para damnificados del terremoto. La medida es coherente con el énfasis en eficiencia y lucha anticorrupción del gobierno.",
+      "objetividad": 93,
       "criterios": [
         {
           "ok": true,
-          "texto": "Subsidios de arriendo $875.452 mensuales iniciando el 26 ago: El Tiempo / La Razón Bolivia (26 ago 2026)"
+          "texto": "Anuncio revisión integral de contrataciones 'ministerio por ministerio': Infobae Colombia (30 ago 2026)"
         },
         {
           "ok": true,
-          "texto": "Balance UNGRD 25 ago: 331 muertos, 4.439 heridos, 240 desaparecidos, 31.519 hogares destruidos: El Tiempo / Semana (25 ago)"
+          "texto": "Objetivo: desmantelar 'roscas, monopolios y redes' del gobierno anterior: Infobae (30 ago)"
         },
         {
-          "ok": true,
-          "texto": "Costo reconstrucción estimado en US$9.500 M / 30 billones de pesos: Hoy Día (18 ago 2026)"
+          "ok": false,
+          "texto": "Cronograma y alcance específico de las auditorías pendiente de publicación oficial"
         }
       ],
-      "url": "https://www.eltiempo.com/colombia/otras-ciudades/nuevo-balance-de-la-ungrd-este-25-de-agosto-por-el-terremoto-de-7-4-en-colombia-331-muertos-mas-de-4-mil-heridos-y-240-desaparecidos-3580813",
-      "url_label": "El Tiempo — UNGRD 25 ago: 331 muertos, 4.439 heridos, 240 desaparecidos, 31.519 hogares destruidos"
+      "url": "https://www.infobae.com/colombia/2026/08/30/de-la-espriella-anuncio-revision-integral-de-contrataciones-y-de-la-estructura-del-gobierno-para-acabar-con-las-roscas-ministerio-por-ministerio/",
+      "url_label": "Infobae — De la Espriella anuncia revisión 'ministerio por ministerio' para acabar con roscas"
     },
     {
       "filter": "espriella",
@@ -332,7 +332,7 @@
         "negativo": 37,
         "neutro": 8,
         "tendencia": "neutral",
-        "tendencia_texto": "30 ago — DÍA 23 DE GOBIERNO — PRESUPUESTO 2027 (El Colombiano/Forbes/La FM/Cambio, 29 ago): De la Espriella radicó ante el Congreso el Presupuesto 2027 de $634,9 billones, $59 billones más que Petro; $30 billones para reconstrucción post-terremoto. CONSEJO DE MINISTROS EN BARRANQUILLA (El Heraldo/Semana, 29 ago): gabinete descentralizado, terremoto e incendios en agenda; aprobaron $4 billones adicionales para damnificados. EXTRADICIONES (Semana, 29 ago): 41 firmas en 19 días récord + desmonte Paz Total. GLIFOSATO (El Heraldo/El Espectador, 28 ago): polémica nacional por retorno de aspersión aérea. Sentimiento estable (55/37/8): la gestión fiscal y el formato descentralizado del gobierno suman imagen positiva, mientras el glifosato y las extradiciones de ex-negociadores mantienen crítica de la oposición."
+        "tendencia_texto": "30 ago — DÍA 23 DE GOBIERNO — REVISIÓN DE CONTRATOS (Infobae, 30 ago): De la Espriella anunció auditoría integral 'ministerio por ministerio' para acabar con 'roscas' heredadas. PRESUPUESTO 2027 (El Colombiano/Forbes/La FM/Cambio, 29 ago): $634,9 billones radicados en el Congreso, $59T más que Petro; $30T para reconstrucción post-terremoto. EXTRADICIONES (Semana, 29 ago): 41 firmas en 19 días récord + desmonte Paz Total. GLIFOSATO (El Heraldo/El Espectador, 28 ago): polémica por retorno aspersión aérea. SIC ANTI-ALZAS (Infobae, 28 ago): control precios en zonas del terremoto. Sentimiento (55/37/8): la agenda fiscal, anticorrupción y orden público suman imagen positiva; glifosato y extradiciones de ex-negociadores mantienen crítica opositora."
       },
       {
         "nombre": "Cepeda",
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 23 DE GOBIERNO — 30 de agosto de 2026. PRESUPUESTO 2027: De la Espriella radicó $634,9 billones en el Congreso — $59T más que Petro, con $30T para reconstrucción post-terremoto; Consejo de Ministros descentralizado en Barranquilla aprobó $4T adicionales para damnificados (29 ago). EXTRADICIONES RÉCORD: 41 firmas en 19 días + desmonte Paz Total (29 ago). GLIFOSATO: retorno de aspersión aérea con condiciones CC (28 ago). SIC ANTI-ALZAS: activa en zonas del terremoto (28 ago). OPOSICIÓN: 'Gabinete por la Vida' de Cepeda/Petro en pie; cuestionan distribución presupuestal. REFORMA PENSIONAL: Corte avaló ley Petro (25 ago); Valencia la critica (27 ago). TERREMOTO: subsidios de arriendo en marcha, 331 muertos, 31.519 hogares destruidos. RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
+    "resumen_analisis": "DÍA 23 DE GOBIERNO — 30 de agosto de 2026. REVISIÓN DE CONTRATOS: De la Espriella anunció auditoría 'ministerio por ministerio' para desmantelar roscas y redes del gobierno anterior (Infobae, 30 ago). PRESUPUESTO 2027: $634,9 billones radicados en el Congreso — $59T más que Petro, $30T para reconstrucción post-terremoto; $4T aprobados en Consejo de Ministros en Barranquilla (29 ago). EXTRADICIONES RÉCORD: 41 firmas en 19 días + desmonte Paz Total (29 ago). GLIFOSATO: retorno de aspersión aérea con condiciones CC (28 ago). SIC ANTI-ALZAS: activa en zonas del terremoto (28 ago). OPOSICIÓN: 'Gabinete por la Vida' de Cepeda/Petro; cuestionan distribución presupuestal. REFORMA PENSIONAL: Corte avaló ley Petro (25 ago); Valencia la critica (27 ago). RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
   },
   "ultimo_deploy": "30 de agosto de 2026"
 }
