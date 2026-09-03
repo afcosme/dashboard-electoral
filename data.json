@@ -1,5 +1,5 @@
 {
-  "fecha": "30 de agosto de 2026",
+  "fecha": "3 de septiembre de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -99,88 +99,88 @@
   ],
   "noticias": [
     {
-      "filter": "espriella",
-      "fuente": "Semana",
-      "fuente_color": "#e74c3c",
-      "fecha": "29 ago 2026",
-      "tag": "ESPRIELLA · DÍA 22 · 41 extradiciones · 19 días · Récord · Narcoterrorismo · Crimen organizado",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "41 extradiciones en 19 días: De la Espriella bate récord histórico y advierte 'seguiremos firmando más'",
-      "resumen": "El 29 de agosto, la revista Semana reportó que el presidente Abelardo de la Espriella ha firmado 41 extradiciones en sus primeros 19 días de gobierno, una cifra sin precedentes en tan corto período en la historia colombiana. El presidente declaró: 'Seguiremos firmando más, porque la lucha contra el crimen organizado y el narcotráfico no se detiene: los venceremos.' Entre los extraditados figuran negociadores de paz de las disidencias FARC, Los Pachenca y el ELN, personas que participaron en los diálogos de la 'Paz Total' de Petro y que el nuevo gobierno considera que se escudaron en una 'falsa paz'. De la Espriella también anunció formalmente el desmonte completo de la estrategia de paz negociada de su antecesor.",
-      "objetividad": 95,
+      "filter": "cepeda",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#2980b9",
+      "fecha": "2 sep 2026",
+      "tag": "Cepeda · DÍA 26 oposición · Seguridad · Narcotráfico · 'Perpetuación del desastre' · Senado",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda critica la política de seguridad de De la Espriella: 'Es la perpetuación del desastre'",
+      "resumen": "El 2 de septiembre, en sesión de la Primera Comisión del Senado, Iván Cepeda arremete contra la estrategia de seguridad del gobierno De la Espriella —basada en bombardeos, fumigaciones y represión— y la califica como 'la perpetuación del desastre'. El líder de la oposición del Pacto Histórico exige que el Ejecutivo abra una discusión sobre alternativas estructurales al narcotráfico y advierte que la militarización de los territorios agravará la crisis humanitaria. Cepeda denuncia que el gobierno está revirtiendo los avances de los diálogos de paz sin ofrecer una estrategia viable de reemplazo.",
+      "objetividad": 90,
       "criterios": [
         {
           "ok": true,
-          "texto": "41 extradiciones en 19 días de gobierno: Semana (29 ago 2026)"
+          "texto": "Declaraciones Cepeda: 'Es la perpetuación del desastre' — Infobae Colombia (2 sep 2026)"
         },
         {
           "ok": true,
-          "texto": "Extradiciones de negociadores de las disidencias FARC, Los Pachenca y ELN: Infobae (27 ago 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Desmonte oficial de la 'Paz Total' de Petro: Infobae (27 ago 2026)"
-        }
-      ],
-      "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-en-tiempo-record-ya-firmo-41-extradiciones-el-presidente-lanzo-advertencia-a-criminales/202610/",
-      "url_label": "Semana — De la Espriella firma 41 extradiciones en tiempo récord; 'seguiremos firmando más'"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Heraldo / El Espectador",
-      "fuente_color": "#e74c3c",
-      "fecha": "28 ago 2026",
-      "tag": "ESPRIELLA · Glifosato · Aspersión aérea · Resolución 0006 · CNE · Cultivos coca · Polémica",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Gobierno De la Espriella tumba resolución que prohibía aspersión aérea con glifosato; aún debe cumplir condiciones de la Corte Constitucional",
-      "resumen": "Mediante la Resolución 0006 del 18 de agosto de 2026, publicada en el Diario Oficial el 28 de agosto, el Consejo Nacional de Estupefacientes (CNE) derogó la resolución de 2015 que suspendía la fumigación aérea con glifosato sobre cultivos de coca. Sin embargo, la medida no habilita de inmediato las aspersiones: el gobierno debe cumplir las condiciones fijadas por la Corte Constitucional, incluyendo estudios de impacto en salud y medioambiente. La decisión generó amplia polarización: defensores la ven como herramienta clave contra el narcotráfico, mientras críticos —ambientalistas, organizaciones de salud pública y el Pacto Histórico— advierten riesgos para comunidades campesinas y ecosistemas.",
-      "objetividad": 92,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Resolución 0006 del CNE publicada en Diario Oficial el 28 ago: El Heraldo / El Espectador (28 ago 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Requisito de cumplir condiciones CC antes de reanudar aspersiones: El Espectador (28 ago 2026)"
+          "texto": "Contexto: sesión Primera Comisión del Senado, 2 sep 2026"
         },
         {
           "ok": false,
-          "texto": "Fecha de inicio de las primeras aspersiones aéreas efectivas aún no fijada oficialmente"
+          "texto": "Respuesta oficial del gobierno a las críticas de Cepeda aún no publicada"
         }
       ],
-      "url": "https://www.elheraldo.co/colombia/2026/08/28/gobierno-de-la-espriella-tumba-resolucion-que-prohibia-la-aspersion-aerea-con-glifosato/",
-      "url_label": "El Heraldo — Gobierno De la Espriella tumba resolución que prohibía aspersión aérea con glifosato"
+      "url": "https://www.infobae.com/colombia/2026/09/02/ivan-cepeda-critico-a-de-la-espriella-por-su-politica-de-seguridad-y-lucha-contra-el-narcotrafico-es-la-perpetuacion-del-desastre/",
+      "url_label": "Infobae — Cepeda critica política de seguridad de De la Espriella: 'Es la perpetuación del desastre'"
     },
     {
       "filter": "espriella",
       "fuente": "Infobae Colombia",
       "fuente_color": "#e74c3c",
-      "fecha": "28 ago 2026",
-      "tag": "ESPRIELLA · SIC · Control precios · Especulación · Terremoto · Emergencia económica · Consumidores",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella activa la SIC contra alzas abusivas de precios post-terremoto: 'La tragedia no puede convertirse en oportunidad para abusar'",
-      "resumen": "El 28 de agosto, en el marco del estado de emergencia económica declarado por el Decreto 1261, el presidente De la Espriella anunció un paquete de medidas de la Superintendencia de Industria y Comercio (SIC) para combatir el alza injustificada de precios, el acaparamiento y la publicidad engañosa en las 15 regiones afectadas por el terremoto 7.4 del 10 de agosto. El presidente declaró: 'La tragedia no puede convertirse en una oportunidad para abusar de los colombianos.' Las medidas incluyen operativos de inspección de precios, sanciones aceleradas y mecanismos de denuncia ciudadana. El contexto: el terremoto dejó 331 muertos, 4.439 heridos y más de 31.500 hogares destruidos; la reconstrucción se estima en US$9.500 millones.",
-      "objetividad": 94,
+      "fecha": "1 sep 2026",
+      "tag": "ESPRIELLA · DÍA 25 · Decreto 1348 · Terremoto · Emergencia · Caquetá · Santander · Putumayo",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella modifica decreto de emergencia post-terremoto: suma Caquetá y Santander, excluye Putumayo",
+      "resumen": "El 31 de agosto, el gobierno de Abelardo de la Espriella firmó el Decreto 1348 para modificar el estado de emergencia económica, social y ecológica declarado tras el terremoto 7.4 del 10 de agosto. La modificación amplía la cobertura a los departamentos de Caquetá y Santander —cuyos daños estructurales fueron confirmados en evaluaciones posteriores— y excluye a Putumayo tras verificar que los daños en ese departamento no alcanzan el umbral de emergencia. El ajuste permite focalizar la ayuda estatal de los $30 billones del Presupuesto 2027 destinados a reconstrucción en las zonas con mayor afectación real.",
+      "objetividad": 95,
       "criterios": [
         {
           "ok": true,
-          "texto": "Medidas SIC contra alzas de precios post-terremoto: Infobae Colombia (28 ago 2026)"
+          "texto": "Decreto 1348 firmado el 31 ago: Infobae Colombia (1 sep 2026)"
         },
         {
           "ok": true,
-          "texto": "Balance actualizado terremoto: 331 muertos, 31.519 hogares destruidos: UNGRD (25 ago 2026)"
+          "texto": "Sumó Caquetá y Santander; excluyó Putumayo del decreto de emergencia: Infobae (1 sep)"
         },
         {
           "ok": false,
-          "texto": "Número de operativos SIC desplegados en las primeras 24h aún no publicado"
+          "texto": "Lista completa de municipios afectados en los departamentos incorporados pendiente de publicación oficial"
         }
       ],
-      "url": "https://www.infobae.com/colombia/2026/08/28/abelardo-de-la-espriella-confirmo-paquete-de-medidas-para-frenar-alza-en-los-precios-tras-emergencia-natural-no-puede-convertirse-en-una-oportunidad-para-abusar-de-los-colombianos/",
-      "url_label": "Infobae — De la Espriella activa la SIC contra especulación de precios post-terremoto"
+      "url": "https://www.infobae.com/colombia/2026/09/01/gobierno-de-abelardo-de-la-espriella-modifico-decreto-de-emergencia-tras-el-terremoto-de-74-sumo-a-caqueta-y-santander-y-dejo-fuera-a-putumayo/",
+      "url_label": "Infobae — Gobierno De la Espriella modifica decreto de emergencia: suma Caquetá y Santander, excluye Putumayo"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Infobae Colombia / Prensa Latina",
+      "fuente_color": "#2980b9",
+      "fecha": "31 ago 2026",
+      "tag": "Cepeda · 'Patria calamidad' · Pacto Histórico · Unidad oposición · Progresismo · División interna",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda llama 'patria calamidad' al gobierno De la Espriella y pide al progresismo cerrar filas",
+      "resumen": "El 31 de agosto, Iván Cepeda aclaró públicamente versiones sobre divisiones internas en el Pacto Histórico y reafirmó la unidad de la coalición progresista frente al gobierno De la Espriella, al que tachó de ser 'en realidad la patria calamidad'. Al día siguiente, el 1 de septiembre, en declaraciones a Prensa Latina, Cepeda fue más directo: afirmó que el progresismo es 'la única fuerza capaz de derrotar el proyecto fascista, autoritario y pequeño' del actual gobierno y llamó a todas las fuerzas de izquierda y centro a unirse. Las declaraciones buscan neutralizar la narrativa de fractura interna del Pacto Histórico circulada en medios afines al gobierno.",
+      "objetividad": 88,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Declaraciones 'patria calamidad' y aclaración divisiones: Infobae (31 ago 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Llamado a cerrar filas del progresismo: Prensa Latina (1 sep 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Respuestas de otras facciones del Pacto Histórico a la convocatoria de unidad aún no publicadas"
+        }
+      ],
+      "url": "https://www.prensa-latina.cu/2026/09/01/lider-de-oposicion-en-colombia-pide-al-progresismo-cerrar-filas/",
+      "url_label": "Prensa Latina — Líder de oposición en Colombia pide al progresismo cerrar filas"
     },
     {
       "filter": "espriella",
@@ -191,7 +191,7 @@
       "tag_color": "#c0392b",
       "tag_bg": "rgba(192,57,43,0.15)",
       "titulo": "De la Espriella anuncia revisión integral de contrataciones para acabar con 'roscas': 'Ministerio por ministerio'",
-      "resumen": "El 30 de agosto, el presidente Abelardo de la Espriella anunció una auditoría estructural de contrataciones y nóminas en todas las entidades del Estado, con el objetivo de desmantelar 'las roscas, los monopolios y las redes' heredadas del gobierno Petro. La revisión será 'ministerio por ministerio' e incluye reorganización de planta de personal y revisión de contratos de prestación de servicios. El anuncio llega un día después del Consejo de Ministros en Barranquilla donde el gabinete aprobó $4 billones adicionales para damnificados del terremoto. La medida es coherente con el énfasis en eficiencia y lucha anticorrupción del gobierno.",
+      "resumen": "El 30 de agosto, el presidente Abelardo de la Espriella anunció una auditoría estructural de contrataciones y nóminas en todas las entidades del Estado, con el objetivo de desmantelar 'las roscas, los monopolios y las redes' heredadas del gobierno Petro. La revisión será 'ministerio por ministerio' e incluye reorganización de planta de personal y revisión de contratos de prestación de servicios. El anuncio llega un día después del Consejo de Ministros en Barranquilla donde el gabinete aprobó $4 billones adicionales para damnificados del terremoto.",
       "objetividad": 93,
       "criterios": [
         {
@@ -219,7 +219,7 @@
       "tag_color": "#e67e22",
       "tag_bg": "rgba(230,126,34,0.15)",
       "titulo": "De la Espriella radica Presupuesto 2027 de $634,9 billones: $59 billones más que el proyecto de Petro; $30 billones para reconstrucción post-terremoto",
-      "resumen": "El 29 de agosto, el Ministerio de Hacienda radicó ante el Congreso el Proyecto de Presupuesto General de la Nación 2027 por $634,9 billones de pesos —que algunos medios redondean a $636 billones—. Esto representa $59,3 billones más que los $575,6 billones proyectados por el gobierno Petro, y $88 billones más que el presupuesto aprobado para 2026 (incremento nominal del 16,1%). El ministro de Hacienda Miguel Gómez explicó que más de la mitad del incremento ($31 billones) cubre obligaciones no financiadas que dejó el gobierno anterior. De los $634,9 billones: 62% va a gastos de funcionamiento, 24% al servicio de la deuda, y 14% a inversión. Se destinan $30 billones para la atención post-terremoto del 10 de agosto —con el Estado financiando el 60% de la reconstrucción estimada en $50 billones—. El presupuesto fue presentado en el marco del Consejo de Ministros celebrado en Barranquilla.",
+      "resumen": "El 29 de agosto, el Ministerio de Hacienda radicó ante el Congreso el Proyecto de Presupuesto General de la Nación 2027 por $634,9 billones de pesos. Esto representa $59,3 billones más que los $575,6 billones proyectados por el gobierno Petro, y $88 billones más que el presupuesto aprobado para 2026 (incremento nominal del 16,1%). El ministro de Hacienda Miguel Gómez explicó que más de la mitad del incremento ($31 billones) cubre obligaciones no financiadas que dejó el gobierno anterior. Se destinan $30 billones para la atención post-terremoto del 10 de agosto.",
       "objetividad": 96,
       "criterios": [
         {
@@ -240,31 +240,59 @@
     },
     {
       "filter": "espriella",
-      "fuente": "El Heraldo / Semana",
+      "fuente": "Semana",
       "fuente_color": "#e74c3c",
       "fecha": "29 ago 2026",
-      "tag": "ESPRIELLA · Consejo Ministros · Barranquilla · Batallón Paraíso · Terremoto · Incendios · Presupuesto 2027",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella lidera Consejo de Ministros en Barranquilla: agenda terremoto, incendios y presentación del Presupuesto 2027",
-      "resumen": "El 29 de agosto, el presidente De la Espriella convocó a su gabinete al Batallón Paraíso de Barranquilla para un Consejo de Ministros descentralizado —una señal de que el gobierno operará desde las regiones y no solo desde Bogotá. La agenda incluyó el seguimiento a la atención de damnificados por el terremoto 7.4 del 10 de agosto (331 muertos, 31.519 hogares destruidos), el manejo de incendios forestales activos, y la presentación del Presupuesto 2027 de $634,9 billones por parte del ministro de Hacienda Miguel Gómez. El gabinete aprobó asignar $4 billones del presupuesto vigente para la atención inmediata de los damnificados. El formato descentralizado del Consejo es coherente con la promesa de gobierno de conectar el ejecutivo con las regiones más alejadas del centro.",
-      "objetividad": 93,
+      "tag": "ESPRIELLA · DÍA 22 · 41 extradiciones · 19 días · Récord · Narcoterrorismo · Crimen organizado",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "41 extradiciones en 19 días: De la Espriella bate récord histórico y advierte 'seguiremos firmando más'",
+      "resumen": "El 29 de agosto, la revista Semana reportó que el presidente De la Espriella ha firmado 41 extradiciones en sus primeros 19 días de gobierno, una cifra sin precedentes en tan corto período en la historia colombiana. El presidente declaró: 'Seguiremos firmando más, porque la lucha contra el crimen organizado y el narcotráfico no se detiene: los venceremos.' Entre los extraditados figuran negociadores de paz de las disidencias FARC, Los Pachenca y el ELN, personas que participaron en los diálogos de la 'Paz Total' de Petro y que el nuevo gobierno considera que se escudaron en una 'falsa paz'. De la Espriella también anunció formalmente el desmonte completo de la estrategia de paz negociada de su antecesor.",
+      "objetividad": 95,
       "criterios": [
         {
           "ok": true,
-          "texto": "Consejo de Ministros en Batallón Paraíso, Barranquilla (29 ago): El Heraldo / Semana"
+          "texto": "41 extradiciones en 19 días de gobierno: Semana (29 ago 2026)"
         },
         {
           "ok": true,
-          "texto": "Agenda: terremoto, incendios y Presupuesto 2027: El Heraldo (29 ago 2026)"
+          "texto": "Extradiciones de negociadores de las disidencias FARC, Los Pachenca y ELN: Infobae (27 ago 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Desmonte oficial de la 'Paz Total' de Petro: Infobae (27 ago 2026)"
+        }
+      ],
+      "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-en-tiempo-record-ya-firmo-41-extradiciones-el-presidente-lanzo-advertencia-a-criminales/202610/",
+      "url_label": "Semana — De la Espriella firma 41 extradiciones en tiempo récord; 'seguiremos firmando más'"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Heraldo / El Espectador",
+      "fuente_color": "#e74c3c",
+      "fecha": "28 ago 2026",
+      "tag": "ESPRIELLA · Glifosato · Aspersión aérea · Resolución 0006 · CNE · Cultivos coca · Polémica",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "Gobierno De la Espriella tumba resolución que prohibía aspersión aérea con glifosato; aún debe cumplir condiciones de la Corte Constitucional",
+      "resumen": "Mediante la Resolución 0006 del 18 de agosto, publicada en el Diario Oficial el 28 de agosto, el Consejo Nacional de Estupefacientes (CNE) derogó la resolución de 2015 que suspendía la fumigación aérea con glifosato sobre cultivos de coca. Sin embargo, el gobierno debe cumplir las condiciones fijadas por la Corte Constitucional antes de reanudar las aspersiones. La decisión generó polarización: defensores la ven como herramienta clave contra el narcotráfico; críticos advierten riesgos para comunidades campesinas y ecosistemas.",
+      "objetividad": 92,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Resolución 0006 del CNE publicada en Diario Oficial el 28 ago: El Heraldo / El Espectador (28 ago 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Requisito de cumplir condiciones CC antes de reanudar aspersiones: El Espectador (28 ago 2026)"
         },
         {
           "ok": false,
-          "texto": "Decisiones específicas del consejo más allá del presupuesto pendientes de comunicado oficial"
+          "texto": "Fecha de inicio de las primeras aspersiones aéreas efectivas aún no fijada oficialmente"
         }
       ],
-      "url": "https://www.elheraldo.co/colombia/2026/08/29/presidente-de-la-espriella-liderara-nuevo-consejo-de-ministros-desde-barranquilla/",
-      "url_label": "El Heraldo — De la Espriella lidera Consejo de Ministros desde Barranquilla (29 ago)"
+      "url": "https://www.elheraldo.co/colombia/2026/08/28/gobierno-de-la-espriella-tumba-resolucion-que-prohibia-la-aspersion-aerea-con-glifosato/",
+      "url_label": "El Heraldo — Gobierno De la Espriella tumba resolución que prohibía aspersión aérea con glifosato"
     },
     {
       "filter": "valencia",
@@ -275,7 +303,7 @@
       "tag_color": "#8e44ad",
       "tag_bg": "rgba(142,68,173,0.12)",
       "titulo": "Valencia arremete contra la Corte Constitucional: 'Es extrañísimo' el fallo que avaló la reforma pensional de Petro",
-      "resumen": "El 27 de agosto, Paloma Valencia reaccionó con dureza al fallo del 25 de agosto de la Corte Constitucional que avaló la mayor parte de la reforma pensional de Petro (Ley 2381 de 2024) tras nueve horas de deliberaciones. Valencia, quien encabezó una de las demandas de inconstitucionalidad contra la reforma argumentando que la Cámara aprobó el texto del Senado sin discutirlo —violando el principio de consecutividad—, calificó de 'extrañísimo' que el alto tribunal le diera vida a una ley con ese vicio. La senadora del Centro Democrático advirtió que la decisión elimina el derecho de los ciudadanos a elegir libremente entre sistema pensional público y privado. El fallo representa una victoria póstuma de la agenda social del gobierno Petro.",
+      "resumen": "El 27 de agosto, Paloma Valencia reaccionó con dureza al fallo del 25 de agosto de la Corte Constitucional que avaló la mayor parte de la reforma pensional de Petro (Ley 2381 de 2024). Valencia, quien encabezó una de las demandas de inconstitucionalidad argumentando que la Cámara aprobó el texto del Senado sin discutirlo —violando el principio de consecutividad—, calificó de 'extrañísimo' que el alto tribunal avalara una ley con ese vicio. Advirtió que la decisión elimina el derecho ciudadano a elegir libremente entre sistema pensional público y privado.",
       "objetividad": 91,
       "criterios": [
         {
@@ -293,34 +321,6 @@
       ],
       "url": "https://www.jornada.com.mx/noticia/2026/08/25/mundo/colombia-corte-constitucional-avala-mayor-parte-de-reforma-pensional-de-gustavo-petro",
       "url_label": "La Jornada — Corte Constitucional avala mayor parte de reforma pensional de Gustavo Petro"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Infobae / Semana / Cambio Colombia",
-      "fuente_color": "#2980b9",
-      "fecha": "26 ago 2026",
-      "tag": "Cepeda · Gabinete por la Vida · Oposición · Shadow Cabinet · 13 miembros · Petro · Pacto Histórico",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda y Petro presentan 'Gabinete por la Vida': 13 figuras del Pacto Histórico como gobierno alterno para vigilar a De la Espriella",
-      "resumen": "El 26 de agosto, Iván Cepeda y el expresidente Gustavo Petro presentaron el 'Gabinete por la Vida', un gabinete sombra de 13 miembros —9 hombres y 4 mujeres— con el mandato de vigilar cada ministerio del gobierno De la Espriella, proponer soluciones alternativas y ejercer control político permanente. Integran el equipo exfuncionarios del gobierno Petro como la excanciller Yolanda Villavicencio, la exministra de Minas Irene Vélez, el exministro de Hacienda Germán Ávila y el exministro de Trabajo Antonio Sanguino. Cepeda lo presentó como un 'gobierno alterno desde el primer día' y confirmó que coordinará con la bancada del Pacto Histórico en el Senado y Cámara. La creación fue criticada por figuras como la representante Katherine Miranda.",
-      "objetividad": 93,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Presentación del Gabinete por la Vida el 26 ago: Infobae / Semana / Cambio Colombia (26 ago 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "13 integrantes incluyendo Villavicencio, Vélez, Ávila, Sanguino: Cambio Colombia (26 ago)"
-        },
-        {
-          "ok": true,
-          "texto": "Crítica de Katherine Miranda: Infobae (26 ago 2026)"
-        }
-      ],
-      "url": "https://cambiocolombia.com/poder/articulo/2026/8/el-pacto-historico-presento-su-gabinete-por-la-vida-quienes-lo-integran-y-cual-sera-su-apuesta-frente-a-de-la-espriella",
-      "url_label": "Cambio Colombia — El Pacto Histórico presentó su Gabinete por la Vida: quiénes lo integran y su apuesta frente a De la Espriella"
     }
   ],
   "sentimiento": {
@@ -332,7 +332,7 @@
         "negativo": 37,
         "neutro": 8,
         "tendencia": "neutral",
-        "tendencia_texto": "30 ago — DÍA 23 DE GOBIERNO — REVISIÓN DE CONTRATOS (Infobae, 30 ago): De la Espriella anunció auditoría integral 'ministerio por ministerio' para acabar con 'roscas' heredadas. PRESUPUESTO 2027 (El Colombiano/Forbes/La FM/Cambio, 29 ago): $634,9 billones radicados en el Congreso, $59T más que Petro; $30T para reconstrucción post-terremoto. EXTRADICIONES (Semana, 29 ago): 41 firmas en 19 días récord + desmonte Paz Total. GLIFOSATO (El Heraldo/El Espectador, 28 ago): polémica por retorno aspersión aérea. SIC ANTI-ALZAS (Infobae, 28 ago): control precios en zonas del terremoto. Sentimiento (55/37/8): la agenda fiscal, anticorrupción y orden público suman imagen positiva; glifosato y extradiciones de ex-negociadores mantienen crítica opositora."
+        "tendencia_texto": "3 sep — DÍA 27 DE GOBIERNO — DECRETO 1348 (Infobae, 1 sep): modificación de la emergencia post-terremoto suma Caquetá y Santander, excluye Putumayo; el gobierno afina la focalización de los $30T de reconstrucción. REVISIÓN CONTRATOS (Infobae, 30 ago): auditoría 'ministerio por ministerio' para desmantelar roscas heredadas. PRESUPUESTO 2027 (El Colombiano, 29 ago): $634,9 billones radicados, $59T más que Petro. EXTRADICIONES (Semana, 29 ago): 41 firmas récord + desmonte Paz Total. OPOSICIÓN ACTIVA: Cepeda critica seguridad como 'perpetuación del desastre' (Infobae, 2 sep). Sentimiento (55/37/8): el gobierno mantiene agenda intensa y positiva en orden público y anticorrupción; la oposición se organiza pero sin debilitar el posicionamiento del Ejecutivo."
       },
       {
         "nombre": "Cepeda",
@@ -341,7 +341,7 @@
         "negativo": 41,
         "neutro": 15,
         "tendencia": "up",
-        "tendencia_texto": "30 ago — GABINETE POR LA VIDA (Infobae/Semana/Cambio, 26 ago): Cepeda y Petro lanzaron el gabinete sombra de 13 miembros para vigilar cada ministerio de De la Espriella. REACCIÓN PRESUPUESTO (29 ago): Cepeda y el Pacto Histórico criticaron que más de la mitad del aumento presupuestal (+$59T) se destina a cubrir deudas que Petro acumuló, y cuestionaron el nivel de gasto en defensa vs. inversión social. Sentimiento estable (44/41/15): la oposición estructurada mantiene presencia, aunque el debate fiscal aún no genera un titular claro a su favor."
+        "tendencia_texto": "3 sep — CRÍTICA SEGURIDAD (Infobae, 2 sep): Cepeda califica la política de seguridad del gobierno como 'la perpetuación del desastre' en el Senado; exige alternativas estructurales al narcotráfico. 'PATRIA CALAMIDAD' (Infobae, 31 ago): tachó al gobierno De la Espriella de 'patria calamidad' y despejó versiones de fractura interna del Pacto Histórico. UNIDAD PROGRESISTA (Prensa Latina, 1 sep): Cepeda llama a cerrar filas contra el 'proyecto fascista' del gobierno. GABINETE POR LA VIDA lanzado el 26 ago. Sentimiento (44/41/15): oposición activa y combativa; mayor presencia en medios pero en polarización con la agenda de orden público del gobierno."
       },
       {
         "nombre": "Valencia",
@@ -350,7 +350,7 @@
         "negativo": 34,
         "neutro": 16,
         "tendencia": "neutral",
-        "tendencia_texto": "30 ago — REFORMA PENSIONAL (Infobae, 27 ago): Valencia criticó el fallo CC que avaló la reforma pensional de Petro: 'Es extrañísimo'. SIN DECLARACIONES NUEVAS EN LAS ÚLTIMAS 48H sobre glifosato, extradiciones ni presupuesto 2027. Valencia parece en un momento de perfil más bajo, posiblemente alineando posición con el Centro Democrático frente al presupuesto del nuevo gobierno. Sentimiento estable (50/34/16): su menor exposición mediática es consistente con el comportamiento de una senadora opositora que apoyó al ganador."
+        "tendencia_texto": "3 sep — SIN DECLARACIONES NUEVAS EN SEP 1-3 sobre decretos, seguridad ni presupuesto. Última declaración relevante: REFORMA PENSIONAL (Infobae, 27 ago): Valencia criticó el fallo CC que avaló la reforma pensional de Petro: 'Es extrañísimo'. Valencia mantiene un perfil más bajo en septiembre, alineada con el Centro Democrático que apoyó a De la Espriella; evita entrar en la controversia con el gobierno salvo en temas donde fue protagonista (reforma pensional). Sentimiento estable (50/34/16): exposición mediática reducida, coherente con su rol de senadora opositora que respaldó al ganador."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 23 DE GOBIERNO — 30 de agosto de 2026. REVISIÓN DE CONTRATOS: De la Espriella anunció auditoría 'ministerio por ministerio' para desmantelar roscas y redes del gobierno anterior (Infobae, 30 ago). PRESUPUESTO 2027: $634,9 billones radicados en el Congreso — $59T más que Petro, $30T para reconstrucción post-terremoto; $4T aprobados en Consejo de Ministros en Barranquilla (29 ago). EXTRADICIONES RÉCORD: 41 firmas en 19 días + desmonte Paz Total (29 ago). GLIFOSATO: retorno de aspersión aérea con condiciones CC (28 ago). SIC ANTI-ALZAS: activa en zonas del terremoto (28 ago). OPOSICIÓN: 'Gabinete por la Vida' de Cepeda/Petro; cuestionan distribución presupuestal. REFORMA PENSIONAL: Corte avaló ley Petro (25 ago); Valencia la critica (27 ago). RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
+    "resumen_analisis": "DÍA 27 DE GOBIERNO — 3 de septiembre de 2026. DECRETO 1348 (1 sep): gobierno modifica emergencia post-terremoto — suma Caquetá y Santander, excluye Putumayo. CEPEDA OPONE (2 sep): califica política de seguridad de De la Espriella como 'la perpetuación del desastre' en Primera Comisión del Senado. UNIDAD PROGRESISTA (1 sep): Cepeda llama al progresismo a 'cerrar filas' contra el gobierno. REVISIÓN CONTRATOS: auditoría 'ministerio por ministerio' (30 ago). PRESUPUESTO 2027: $634,9 billones radicados (29 ago). EXTRADICIONES RÉCORD: 41 firmas en 19 días (29 ago). GLIFOSATO: resolución que habilitó aspersión aérea pendiente de condiciones CC (28 ago). VALENCIA: critica fallo CC sobre reforma pensional, 'Es extrañísimo' (27 ago). RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
   },
-  "ultimo_deploy": "30 de agosto de 2026"
+  "ultimo_deploy": "3 de septiembre de 2026"
 }
