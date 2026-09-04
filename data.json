@@ -1,5 +1,5 @@
 {
-  "fecha": "3 de septiembre de 2026",
+  "fecha": "4 de septiembre de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -99,6 +99,62 @@
   ],
   "noticias": [
     {
+      "filter": "espriella",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#e74c3c",
+      "fecha": "4 sep 2026",
+      "tag": "ESPRIELLA · DÍA 28 · Corte Suprema · Independencia judicial · 'No interferiremos' · Poder Judicial",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella promete no interferir en decisiones de la Corte Suprema de Justicia",
+      "resumen": "El 4 de septiembre, el presidente Abelardo de la Espriella se reunió con la Corte Suprema de Justicia y aseguró que su gobierno respetará las decisiones judiciales sin interferir en las competencias de jueces y magistrados. El mandatario publicó un video en el que defendió la autonomía de la rama judicial y reiteró que el Ejecutivo no buscará influir sobre los fallos del alto tribunal. El anuncio llega en medio del debate generado por la directiva de comunicaciones que centraliza las intervenciones mediáticas del gobierno.",
+      "objetividad": 92,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Reunión con Corte Suprema y promesa de no interferencia: Infobae Colombia (4 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Video del presidente defendiendo autonomía del Poder Judicial: Infobae (4 sep 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Posición formal de la Corte Suprema sobre la reunión aún no documentada en medios"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/09/04/de-la-espriella-promete-no-interferir-en-decisiones-de-la-corte-suprema/",
+      "url_label": "Infobae — De la Espriella promete no interferir en decisiones de la Corte Suprema"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Infobae Colombia / Semana / El Espectador",
+      "fuente_color": "#e74c3c",
+      "fecha": "3 sep 2026",
+      "tag": "ESPRIELLA · DÍA 27 · Directiva comunicaciones · Ministros autorización previa · Control mediático · Polémica",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "De la Espriella expide directiva: ministros solo podrán dar entrevistas con autorización previa de Presidencia",
+      "resumen": "El 3 de septiembre, el gobierno de Abelardo de la Espriella publicó su directiva de comunicaciones, que obliga a ministros, directores de entidades y altos funcionarios a coordinar previamente con la Secretaría de Comunicaciones de Presidencia antes de conceder entrevistas o hacer declaraciones públicas. La medida centraliza la vocería institucional en torno a una voz única y genera polémica entre periodistas y gremios de prensa, que advierten riesgos para el libre flujo de información gubernamental. Los viceministros quedan explícitamente excluidos como voceros del gobierno.",
+      "objetividad": 90,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Directiva obliga a coordinar entrevistas con Secretaría de Comunicaciones: Infobae (3 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Viceministros excluidos como voceros; eventos públicos sin preguntas: Semana (3 sep 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Reacciones formales de los gremios de prensa a la nueva directiva pendientes de publicación"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/09/03/gobierno-de-abelardo-de-la-espriella-le-puso-reglas-de-comunicacion-a-sus-ministros-asi-funcionara-la-nueva-directiva/",
+      "url_label": "Infobae — De la Espriella: ministros solo podrán dar entrevistas con autorización de Presidencia"
+    },
+    {
       "filter": "cepeda",
       "fuente": "Infobae Colombia",
       "fuente_color": "#2980b9",
@@ -125,6 +181,34 @@
       ],
       "url": "https://www.infobae.com/colombia/2026/09/02/ivan-cepeda-critico-a-de-la-espriella-por-su-politica-de-seguridad-y-lucha-contra-el-narcotrafico-es-la-perpetuacion-del-desastre/",
       "url_label": "Infobae — Cepeda critica política de seguridad de De la Espriella: 'Es la perpetuación del desastre'"
+    },
+    {
+      "filter": "valencia",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#9b59b6",
+      "fecha": "1 sep 2026",
+      "tag": "Valencia · 'Chao Petro chao' · Regreso Petro · Centro Democrático · Defiende De la Espriella · Isabel Zuleta",
+      "tag_color": "#8e44ad",
+      "tag_bg": "rgba(142,68,173,0.12)",
+      "titulo": "'Chao, Petro, chao': Valencia advierte que teme el regreso del expresidente a la política y defiende a De la Espriella",
+      "resumen": "El 1 de septiembre, Paloma Valencia reaccionó al permiso del Congreso para que Gustavo Petro abandonara Colombia y lanzó una advertencia sobre su eventual regreso a la política. 'A mí lo que me preocupa no es que se vaya, sino que se regrese, que vuelva y sea candidato, que gane. Así que yo sí le deseo buen viaje. Chao, Petro, chao', declaró la excandidata presidencial del Centro Democrático. Valencia también exigió a la excongresista Isabel Zuleta que rectificara ante los colombianos tras afirmar que Petro 'seguía siendo el presidente'.",
+      "objetividad": 91,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Declaración 'Chao, Petro, chao' y advertencia sobre posible regreso: Infobae Colombia (1 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Reacción al video de Isabel Zuleta que afirmó que Petro 'seguía siendo el presidente': Infobae (1 sep 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Respuesta de Petro o de su entorno a las declaraciones de Valencia no documentada"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/09/01/chao-petro-chao-paloma-valencia-lanzo-dura-advertencia-sobre-un-posible-regreso-del-expresidente-y-defendio-a-de-la-espriella/",
+      "url_label": "Infobae — 'Chao, Petro, chao': Valencia advierte sobre posible regreso del expresidente"
     },
     {
       "filter": "espriella",
@@ -237,90 +321,6 @@
       ],
       "url": "https://www.elcolombiano.com/negocios/presupuesto-2027-gobierno-de-la-espriella-MA40370268",
       "url_label": "El Colombiano — Gobierno De la Espriella radicó el Presupuesto 2027 por $634,9 billones"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Semana",
-      "fuente_color": "#e74c3c",
-      "fecha": "29 ago 2026",
-      "tag": "ESPRIELLA · DÍA 22 · 41 extradiciones · 19 días · Récord · Narcoterrorismo · Crimen organizado",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "41 extradiciones en 19 días: De la Espriella bate récord histórico y advierte 'seguiremos firmando más'",
-      "resumen": "El 29 de agosto, la revista Semana reportó que el presidente De la Espriella ha firmado 41 extradiciones en sus primeros 19 días de gobierno, una cifra sin precedentes en tan corto período en la historia colombiana. El presidente declaró: 'Seguiremos firmando más, porque la lucha contra el crimen organizado y el narcotráfico no se detiene: los venceremos.' Entre los extraditados figuran negociadores de paz de las disidencias FARC, Los Pachenca y el ELN, personas que participaron en los diálogos de la 'Paz Total' de Petro y que el nuevo gobierno considera que se escudaron en una 'falsa paz'. De la Espriella también anunció formalmente el desmonte completo de la estrategia de paz negociada de su antecesor.",
-      "objetividad": 95,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "41 extradiciones en 19 días de gobierno: Semana (29 ago 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Extradiciones de negociadores de las disidencias FARC, Los Pachenca y ELN: Infobae (27 ago 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Desmonte oficial de la 'Paz Total' de Petro: Infobae (27 ago 2026)"
-        }
-      ],
-      "url": "https://www.semana.com/politica/articulo/abelardo-de-la-espriella-en-tiempo-record-ya-firmo-41-extradiciones-el-presidente-lanzo-advertencia-a-criminales/202610/",
-      "url_label": "Semana — De la Espriella firma 41 extradiciones en tiempo récord; 'seguiremos firmando más'"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Heraldo / El Espectador",
-      "fuente_color": "#e74c3c",
-      "fecha": "28 ago 2026",
-      "tag": "ESPRIELLA · Glifosato · Aspersión aérea · Resolución 0006 · CNE · Cultivos coca · Polémica",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Gobierno De la Espriella tumba resolución que prohibía aspersión aérea con glifosato; aún debe cumplir condiciones de la Corte Constitucional",
-      "resumen": "Mediante la Resolución 0006 del 18 de agosto, publicada en el Diario Oficial el 28 de agosto, el Consejo Nacional de Estupefacientes (CNE) derogó la resolución de 2015 que suspendía la fumigación aérea con glifosato sobre cultivos de coca. Sin embargo, el gobierno debe cumplir las condiciones fijadas por la Corte Constitucional antes de reanudar las aspersiones. La decisión generó polarización: defensores la ven como herramienta clave contra el narcotráfico; críticos advierten riesgos para comunidades campesinas y ecosistemas.",
-      "objetividad": 92,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Resolución 0006 del CNE publicada en Diario Oficial el 28 ago: El Heraldo / El Espectador (28 ago 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Requisito de cumplir condiciones CC antes de reanudar aspersiones: El Espectador (28 ago 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Fecha de inicio de las primeras aspersiones aéreas efectivas aún no fijada oficialmente"
-        }
-      ],
-      "url": "https://www.elheraldo.co/colombia/2026/08/28/gobierno-de-la-espriella-tumba-resolucion-que-prohibia-la-aspersion-aerea-con-glifosato/",
-      "url_label": "El Heraldo — Gobierno De la Espriella tumba resolución que prohibía aspersión aérea con glifosato"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "Infobae / La Jornada México",
-      "fuente_color": "#9b59b6",
-      "fecha": "27 ago 2026",
-      "tag": "Valencia · Corte Constitucional · Reforma pensional · 'Es extrañísimo' · Centro Democrático",
-      "tag_color": "#8e44ad",
-      "tag_bg": "rgba(142,68,173,0.12)",
-      "titulo": "Valencia arremete contra la Corte Constitucional: 'Es extrañísimo' el fallo que avaló la reforma pensional de Petro",
-      "resumen": "El 27 de agosto, Paloma Valencia reaccionó con dureza al fallo del 25 de agosto de la Corte Constitucional que avaló la mayor parte de la reforma pensional de Petro (Ley 2381 de 2024). Valencia, quien encabezó una de las demandas de inconstitucionalidad argumentando que la Cámara aprobó el texto del Senado sin discutirlo —violando el principio de consecutividad—, calificó de 'extrañísimo' que el alto tribunal avalara una ley con ese vicio. Advirtió que la decisión elimina el derecho ciudadano a elegir libremente entre sistema pensional público y privado.",
-      "objetividad": 91,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Fallo CC del 25 ago avala reforma pensional: La Jornada México (25 ago 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Reacción Valencia 'Es extrañísimo': Infobae (27 ago 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Demanda de Valencia por principio de consecutividad: El Colombiano / Semana"
-        }
-      ],
-      "url": "https://www.jornada.com.mx/noticia/2026/08/25/mundo/colombia-corte-constitucional-avala-mayor-parte-de-reforma-pensional-de-gustavo-petro",
-      "url_label": "La Jornada — Corte Constitucional avala mayor parte de reforma pensional de Gustavo Petro"
     }
   ],
   "sentimiento": {
@@ -328,11 +328,11 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 55,
-        "negativo": 37,
-        "neutro": 8,
+        "positivo": 52,
+        "negativo": 39,
+        "neutro": 9,
         "tendencia": "neutral",
-        "tendencia_texto": "3 sep — DÍA 27 DE GOBIERNO — DECRETO 1348 (Infobae, 1 sep): modificación de la emergencia post-terremoto suma Caquetá y Santander, excluye Putumayo; el gobierno afina la focalización de los $30T de reconstrucción. REVISIÓN CONTRATOS (Infobae, 30 ago): auditoría 'ministerio por ministerio' para desmantelar roscas heredadas. PRESUPUESTO 2027 (El Colombiano, 29 ago): $634,9 billones radicados, $59T más que Petro. EXTRADICIONES (Semana, 29 ago): 41 firmas récord + desmonte Paz Total. OPOSICIÓN ACTIVA: Cepeda critica seguridad como 'perpetuación del desastre' (Infobae, 2 sep). Sentimiento (55/37/8): el gobierno mantiene agenda intensa y positiva en orden público y anticorrupción; la oposición se organiza pero sin debilitar el posicionamiento del Ejecutivo."
+        "tendencia_texto": "4 sep — DÍA 28 DE GOBIERNO — CORTE SUPREMA (Infobae, 4 sep): De la Espriella promete no interferir en decisiones judiciales; defiende la autonomía del Poder Judicial en reunión con la Corte. DIRECTIVA COMUNICACIONES (Infobae/Semana, 3 sep): ministros deben pedir autorización previa a Presidencia para dar entrevistas; viceministros excluidos como voceros; genera debate sobre libertad de prensa. DECRETO 1348 (Infobae, 1 sep): modificación emergencia post-terremoto suma Caquetá y Santander, excluye Putumayo. REVISIÓN CONTRATOS (Infobae, 30 ago): auditoría 'ministerio por ministerio' para desmantelar roscas. PRESUPUESTO 2027 (El Colombiano, 29 ago): $634,9 billones radicados. Sentimiento (52/39/9): agenda activa; la directiva de comunicaciones genera polémica puntual pero el balance sigue siendo favorable al Ejecutivo."
       },
       {
         "nombre": "Cepeda",
@@ -341,16 +341,16 @@
         "negativo": 41,
         "neutro": 15,
         "tendencia": "up",
-        "tendencia_texto": "3 sep — CRÍTICA SEGURIDAD (Infobae, 2 sep): Cepeda califica la política de seguridad del gobierno como 'la perpetuación del desastre' en el Senado; exige alternativas estructurales al narcotráfico. 'PATRIA CALAMIDAD' (Infobae, 31 ago): tachó al gobierno De la Espriella de 'patria calamidad' y despejó versiones de fractura interna del Pacto Histórico. UNIDAD PROGRESISTA (Prensa Latina, 1 sep): Cepeda llama a cerrar filas contra el 'proyecto fascista' del gobierno. GABINETE POR LA VIDA lanzado el 26 ago. Sentimiento (44/41/15): oposición activa y combativa; mayor presencia en medios pero en polarización con la agenda de orden público del gobierno."
+        "tendencia_texto": "4 sep — CRÍTICA SEGURIDAD (Infobae, 2 sep): Cepeda califica la política de seguridad del gobierno como 'la perpetuación del desastre' en Primera Comisión del Senado; exige alternativas estructurales al narcotráfico. 'PATRIA CALAMIDAD' (Infobae, 31 ago): tachó al gobierno De la Espriella de 'patria calamidad' y rechazó versiones de fractura interna del Pacto Histórico. UNIDAD PROGRESISTA (Prensa Latina, 1 sep): Cepeda llama a cerrar filas contra el 'proyecto fascista' del gobierno. Sentimiento (44/41/15): oposición activa y combativa; presencia constante en medios pero en polarización con la agenda de orden público del Ejecutivo."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 50,
-        "negativo": 34,
+        "positivo": 53,
+        "negativo": 31,
         "neutro": 16,
-        "tendencia": "neutral",
-        "tendencia_texto": "3 sep — SIN DECLARACIONES NUEVAS EN SEP 1-3 sobre decretos, seguridad ni presupuesto. Última declaración relevante: REFORMA PENSIONAL (Infobae, 27 ago): Valencia criticó el fallo CC que avaló la reforma pensional de Petro: 'Es extrañísimo'. Valencia mantiene un perfil más bajo en septiembre, alineada con el Centro Democrático que apoyó a De la Espriella; evita entrar en la controversia con el gobierno salvo en temas donde fue protagonista (reforma pensional). Sentimiento estable (50/34/16): exposición mediática reducida, coherente con su rol de senadora opositora que respaldó al ganador."
+        "tendencia": "up",
+        "tendencia_texto": "4 sep — 'CHAO, PETRO, CHAO' (Infobae, 1 sep): Valencia advierte que le preocupa más el regreso de Petro que su ida; le desea buen viaje con su ya célebre frase y defiende al gobierno De la Espriella. REACCIÓN ZULETA (Infobae, 1 sep): exige a Isabel Zuleta que rectifique ante los colombianos por afirmar que Petro 'seguía siendo el presidente'. REFORMA PENSIONAL (Infobae, 27 ago): criticó el fallo CC que avaló la reforma pensional de Petro: 'Es extrañísimo'. Sentimiento (53/31/16): declaraciones de alto impacto en sep 1 recuperan visibilidad mediática; Valencia reafirma línea política clara alineada con el Centro Democrático."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 27 DE GOBIERNO — 3 de septiembre de 2026. DECRETO 1348 (1 sep): gobierno modifica emergencia post-terremoto — suma Caquetá y Santander, excluye Putumayo. CEPEDA OPONE (2 sep): califica política de seguridad de De la Espriella como 'la perpetuación del desastre' en Primera Comisión del Senado. UNIDAD PROGRESISTA (1 sep): Cepeda llama al progresismo a 'cerrar filas' contra el gobierno. REVISIÓN CONTRATOS: auditoría 'ministerio por ministerio' (30 ago). PRESUPUESTO 2027: $634,9 billones radicados (29 ago). EXTRADICIONES RÉCORD: 41 firmas en 19 días (29 ago). GLIFOSATO: resolución que habilitó aspersión aérea pendiente de condiciones CC (28 ago). VALENCIA: critica fallo CC sobre reforma pensional, 'Es extrañísimo' (27 ago). RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
+    "resumen_analisis": "DÍA 28 DE GOBIERNO — 4 de septiembre de 2026. CORTE SUPREMA (4 sep): De la Espriella promete no interferir en decisiones judiciales; defiende autonomía del Poder Judicial. DIRECTIVA COMUNICACIONES (3 sep): ministros deben pedir autorización previa a Presidencia para dar entrevistas; genera debate sobre libertad de prensa. CEPEDA OPONE (2 sep): califica política de seguridad de De la Espriella como 'la perpetuación del desastre' en Primera Comisión del Senado. VALENCIA (1 sep): 'Chao, Petro, chao' — advierte sobre posible regreso del expresidente y defiende al gobierno. DECRETO 1348 (1 sep): gobierno modifica emergencia post-terremoto — suma Caquetá y Santander, excluye Putumayo. REVISIÓN CONTRATOS: auditoría 'ministerio por ministerio' (30 ago). PRESUPUESTO 2027: $634,9 billones radicados (29 ago). RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
   },
-  "ultimo_deploy": "3 de septiembre de 2026"
+  "ultimo_deploy": "4 de septiembre de 2026"
 }
