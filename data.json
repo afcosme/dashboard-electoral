@@ -1,5 +1,5 @@
 {
-  "fecha": "4 de septiembre de 2026",
+  "fecha": "7 de septiembre de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -98,6 +98,118 @@
     }
   ],
   "noticias": [
+    {
+      "filter": "cepeda",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#2980b9",
+      "fecha": "7 sep 2026",
+      "tag": "Cepeda · DÍA 31 oposición · Paz · 'Él se ufana de matar' · Política seguridad · Crítica gobierno",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda arremete contra De la Espriella por el 'desmorone' de la paz: 'Él se ufana de matar'",
+      "resumen": "El 7 de septiembre, Iván Cepeda intensificó su ofensiva contra el gobierno de Abelardo de la Espriella tras la revocación de las resoluciones que habilitaban los espacios de diálogo de paz con grupos armados. El senador y líder de la oposición del Pacto Histórico denunció el 'desmorone' de los procesos de paz y lanzó la contundente frase: 'Él se ufana de matar', en alusión directa a la política de seguridad del Ejecutivo centrada en operaciones militares. Cepeda rechazó la eliminación del alias 'Bendito Menor' como un logro legítimo del Estado, calificándola de recurso de propaganda oficial y exigió alternativas no militares al narcotráfico.",
+      "objetividad": 87,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Declaración 'Él se ufana de matar' de Cepeda: Infobae Colombia (7 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Denuncia del 'desmorone' de la paz tras revocación resoluciones: Infobae (7 sep 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Respuesta formal del gobierno a las acusaciones de Cepeda aún no documentada en medios"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/09/07/ivan-cepeda-se-despacho-contra-abelardo-de-la-espriella-por-desmorone-de-la-paz-en-colombia-el-se-ufana-de-matar/",
+      "url_label": "Infobae — Cepeda arremete contra De la Espriella: 'Él se ufana de matar'"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "ABC Economía / El Espectador / Infobae Colombia",
+      "fuente_color": "#e74c3c",
+      "fecha": "7 sep 2026",
+      "tag": "ESPRIELLA · DÍA 31 · Marco Rubio · Secretario Estado EEUU · Aranceles · Antidrogas · Alianza bilateral",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "Marco Rubio llega a Colombia: De la Espriella recibe al Secretario de Estado de EEUU para fortalecer alianza bilateral",
+      "resumen": "El secretario de Estado de los Estados Unidos, Marco Rubio, llegó a Colombia el 7 de septiembre de 2026 en su primera visita oficial al país, confirmando el giro en la política exterior colombiana hacia Washington tras el gobierno Petro. Rubio y el presidente Abelardo de la Espriella se reunirán en Barranquilla entre el 8 y 10 de septiembre para abordar tres ejes centrales: la respuesta al terremoto del 10 de agosto con cooperación humanitaria de EEUU, la cooperación antidrogas y el futuro de los aranceles sobre exportaciones colombianas. El canciller Rodrigo Lara celebró la visita calificando a Rubio de 'extraordinario aliado'. La oposición, encabezada por Cepeda, alertó que la visita busca 'sellar compromisos de intervención' en la política interna del país.",
+      "objetividad": 91,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Llegada de Rubio a Colombia el 7 sep, reuniones previstas 8-10 sep: ABC Economía (7 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Agenda: terremoto, antidrogas y aranceles; Lara: 'extraordinario aliado': El Espectador / Infobae (5 sep)"
+        },
+        {
+          "ok": false,
+          "texto": "Declaraciones conjuntas De la Espriella-Rubio aún pendientes de celebrarse"
+        }
+      ],
+      "url": "https://abceconomia.co/2026/09/07/colombia-y-estados-unidos-fortalecen-su-alianza-comercial-con-la-visita-del-secretario-de-estado-marco-rubio/",
+      "url_label": "ABC Economía — Colombia y EEUU fortalecen alianza con la visita de Marco Rubio"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#e74c3c",
+      "fecha": "5 sep 2026",
+      "tag": "ESPRIELLA · DÍA 29 · Cumbre Gobernadores · Nariño · Paz desarmada · Grupos armados · Advertencia",
+      "tag_color": "#e67e22",
+      "tag_bg": "rgba(230,126,34,0.15)",
+      "titulo": "Choque entre De la Espriella y gobernador de Nariño tras cumbre: 'Una paz desarmada'",
+      "resumen": "El 5 de septiembre, el gobernador de Nariño, Luis Alfonso Escobar, respondió públicamente al presidente Abelardo de la Espriella, quien en la cumbre de mandatarios regionales en Mompox (Bolívar) del 4 de septiembre advirtió que ningún gobernador ni alcalde puede sostener 'conversaciones, acuerdos o contactos clandestinos con estructuras terroristas'. Escobar rechazó la advertencia y defendió los espacios de diálogo territorial con grupos armados, argumentando que abandonarlos equivale a promover 'una paz desarmada' que deja a las comunidades sin protección. El choque refleja la tensión entre el gobierno central y algunas regiones del sur donde los acuerdos de paz heredados del gobierno Petro siguen en discusión.",
+      "objetividad": 89,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Respuesta del gobernador de Nariño y argumento 'paz desarmada': Infobae Colombia (5 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Advertencia de De la Espriella en cumbre de mandatarios en Mompox: Infobae (4-5 sep 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Posición oficial del gobierno central sobre la respuesta del gobernador aún sin publicar"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/09/05/gobernador-de-narino-le-contesto-a-abelardo-de-la-espriella-tras-advertencia-en-cumbre-de-mandatarios-regionales-una-paz-desarmada/",
+      "url_label": "Infobae — Gobernador de Nariño responde a De la Espriella: 'Una paz desarmada'"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#2980b9",
+      "fecha": "5 sep 2026",
+      "tag": "Cepeda · DÍA 29 oposición · Marco Rubio · EEUU · 'Compromisos de intervención' · Soberanía",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda cuestiona visita de Marco Rubio: 'Sellar compromisos de intervención' en Colombia",
+      "resumen": "El 5 de septiembre, Iván Cepeda se pronunció desde Cartagena sobre la visita confirmada del secretario de Estado de EEUU, Marco Rubio, a Colombia entre el 8 y 10 de septiembre. El senador y líder de la oposición del Pacto Histórico advirtió que el viaje busca 'sellar compromisos de intervención' en los asuntos internos del país, y alertó sobre la posibilidad de que EEUU quiera convertir a Colombia en una reserva energética mediante la intensificación de la explotación petrolera y el fracking. Cepeda cuestionó la alineación del gobierno De la Espriella con la agenda de Washington y exigió que el Ejecutivo garantice la soberanía nacional en las negociaciones.",
+      "objetividad": 88,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Declaración de Cepeda 'sellar compromisos de intervención': Infobae Colombia (5 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Alerta sobre fracking y explotación petrolera como agenda oculta de la visita: Infobae (5 sep)"
+        },
+        {
+          "ok": false,
+          "texto": "Posición del gobierno colombiano sobre las acusaciones de Cepeda no documentada"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/09/05/ivan-cepeda-se-refirio-a-la-visita-del-secretario-de-estado-marco-rubio-a-colombia-sellar-compromisos-de-intervencion/",
+      "url_label": "Infobae — Cepeda sobre visita de Rubio: 'Sellar compromisos de intervención'"
+    },
     {
       "filter": "espriella",
       "fuente": "Infobae Colombia",
@@ -209,118 +321,6 @@
       ],
       "url": "https://www.infobae.com/colombia/2026/09/01/chao-petro-chao-paloma-valencia-lanzo-dura-advertencia-sobre-un-posible-regreso-del-expresidente-y-defendio-a-de-la-espriella/",
       "url_label": "Infobae — 'Chao, Petro, chao': Valencia advierte sobre posible regreso del expresidente"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#e74c3c",
-      "fecha": "1 sep 2026",
-      "tag": "ESPRIELLA · DÍA 25 · Decreto 1348 · Terremoto · Emergencia · Caquetá · Santander · Putumayo",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella modifica decreto de emergencia post-terremoto: suma Caquetá y Santander, excluye Putumayo",
-      "resumen": "El 31 de agosto, el gobierno de Abelardo de la Espriella firmó el Decreto 1348 para modificar el estado de emergencia económica, social y ecológica declarado tras el terremoto 7.4 del 10 de agosto. La modificación amplía la cobertura a los departamentos de Caquetá y Santander —cuyos daños estructurales fueron confirmados en evaluaciones posteriores— y excluye a Putumayo tras verificar que los daños en ese departamento no alcanzan el umbral de emergencia. El ajuste permite focalizar la ayuda estatal de los $30 billones del Presupuesto 2027 destinados a reconstrucción en las zonas con mayor afectación real.",
-      "objetividad": 95,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Decreto 1348 firmado el 31 ago: Infobae Colombia (1 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Sumó Caquetá y Santander; excluyó Putumayo del decreto de emergencia: Infobae (1 sep)"
-        },
-        {
-          "ok": false,
-          "texto": "Lista completa de municipios afectados en los departamentos incorporados pendiente de publicación oficial"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/09/01/gobierno-de-abelardo-de-la-espriella-modifico-decreto-de-emergencia-tras-el-terremoto-de-74-sumo-a-caqueta-y-santander-y-dejo-fuera-a-putumayo/",
-      "url_label": "Infobae — Gobierno De la Espriella modifica decreto de emergencia: suma Caquetá y Santander, excluye Putumayo"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Infobae Colombia / Prensa Latina",
-      "fuente_color": "#2980b9",
-      "fecha": "31 ago 2026",
-      "tag": "Cepeda · 'Patria calamidad' · Pacto Histórico · Unidad oposición · Progresismo · División interna",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda llama 'patria calamidad' al gobierno De la Espriella y pide al progresismo cerrar filas",
-      "resumen": "El 31 de agosto, Iván Cepeda aclaró públicamente versiones sobre divisiones internas en el Pacto Histórico y reafirmó la unidad de la coalición progresista frente al gobierno De la Espriella, al que tachó de ser 'en realidad la patria calamidad'. Al día siguiente, el 1 de septiembre, en declaraciones a Prensa Latina, Cepeda fue más directo: afirmó que el progresismo es 'la única fuerza capaz de derrotar el proyecto fascista, autoritario y pequeño' del actual gobierno y llamó a todas las fuerzas de izquierda y centro a unirse. Las declaraciones buscan neutralizar la narrativa de fractura interna del Pacto Histórico circulada en medios afines al gobierno.",
-      "objetividad": 88,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaraciones 'patria calamidad' y aclaración divisiones: Infobae (31 ago 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Llamado a cerrar filas del progresismo: Prensa Latina (1 sep 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Respuestas de otras facciones del Pacto Histórico a la convocatoria de unidad aún no publicadas"
-        }
-      ],
-      "url": "https://www.prensa-latina.cu/2026/09/01/lider-de-oposicion-en-colombia-pide-al-progresismo-cerrar-filas/",
-      "url_label": "Prensa Latina — Líder de oposición en Colombia pide al progresismo cerrar filas"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#e74c3c",
-      "fecha": "30 ago 2026",
-      "tag": "ESPRIELLA · DÍA 23 · Revisión contratos · Roscas · Ministerio por ministerio · Anticorrupción · Reforma estructural",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella anuncia revisión integral de contrataciones para acabar con 'roscas': 'Ministerio por ministerio'",
-      "resumen": "El 30 de agosto, el presidente Abelardo de la Espriella anunció una auditoría estructural de contrataciones y nóminas en todas las entidades del Estado, con el objetivo de desmantelar 'las roscas, los monopolios y las redes' heredadas del gobierno Petro. La revisión será 'ministerio por ministerio' e incluye reorganización de planta de personal y revisión de contratos de prestación de servicios. El anuncio llega un día después del Consejo de Ministros en Barranquilla donde el gabinete aprobó $4 billones adicionales para damnificados del terremoto.",
-      "objetividad": 93,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Anuncio revisión integral de contrataciones 'ministerio por ministerio': Infobae Colombia (30 ago 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Objetivo: desmantelar 'roscas, monopolios y redes' del gobierno anterior: Infobae (30 ago)"
-        },
-        {
-          "ok": false,
-          "texto": "Cronograma y alcance específico de las auditorías pendiente de publicación oficial"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/08/30/de-la-espriella-anuncio-revision-integral-de-contrataciones-y-de-la-estructura-del-gobierno-para-acabar-con-las-roscas-ministerio-por-ministerio/",
-      "url_label": "Infobae — De la Espriella anuncia revisión 'ministerio por ministerio' para acabar con roscas"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Colombiano / Forbes Colombia / La FM / Cambio Colombia",
-      "fuente_color": "#e74c3c",
-      "fecha": "29 ago 2026",
-      "tag": "ESPRIELLA · Presupuesto 2027 · $634,9 billones · +$59T vs Petro · Congreso · Déficit fiscal · Terremoto $30T",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella radica Presupuesto 2027 de $634,9 billones: $59 billones más que el proyecto de Petro; $30 billones para reconstrucción post-terremoto",
-      "resumen": "El 29 de agosto, el Ministerio de Hacienda radicó ante el Congreso el Proyecto de Presupuesto General de la Nación 2027 por $634,9 billones de pesos. Esto representa $59,3 billones más que los $575,6 billones proyectados por el gobierno Petro, y $88 billones más que el presupuesto aprobado para 2026 (incremento nominal del 16,1%). El ministro de Hacienda Miguel Gómez explicó que más de la mitad del incremento ($31 billones) cubre obligaciones no financiadas que dejó el gobierno anterior. Se destinan $30 billones para la atención post-terremoto del 10 de agosto.",
-      "objetividad": 96,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Presupuesto 2027 de $634,9 billones radicado en el Congreso: El Colombiano / Forbes / La FM / Cambio (29 ago 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "$59,3 billones más que el proyecto de Petro ($575,6 billones): El Colombiano / Cambio Colombia"
-        },
-        {
-          "ok": true,
-          "texto": "$30 billones para terremoto (60% financiado por el Estado): El Tiempo / Cambio Colombia (29 ago)"
-        }
-      ],
-      "url": "https://www.elcolombiano.com/negocios/presupuesto-2027-gobierno-de-la-espriella-MA40370268",
-      "url_label": "El Colombiano — Gobierno De la Espriella radicó el Presupuesto 2027 por $634,9 billones"
     }
   ],
   "sentimiento": {
@@ -328,20 +328,20 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 52,
-        "negativo": 39,
+        "positivo": 51,
+        "negativo": 40,
         "neutro": 9,
         "tendencia": "neutral",
-        "tendencia_texto": "4 sep — DÍA 28 DE GOBIERNO — CORTE SUPREMA (Infobae, 4 sep): De la Espriella promete no interferir en decisiones judiciales; defiende la autonomía del Poder Judicial en reunión con la Corte. DIRECTIVA COMUNICACIONES (Infobae/Semana, 3 sep): ministros deben pedir autorización previa a Presidencia para dar entrevistas; viceministros excluidos como voceros; genera debate sobre libertad de prensa. DECRETO 1348 (Infobae, 1 sep): modificación emergencia post-terremoto suma Caquetá y Santander, excluye Putumayo. REVISIÓN CONTRATOS (Infobae, 30 ago): auditoría 'ministerio por ministerio' para desmantelar roscas. PRESUPUESTO 2027 (El Colombiano, 29 ago): $634,9 billones radicados. Sentimiento (52/39/9): agenda activa; la directiva de comunicaciones genera polémica puntual pero el balance sigue siendo favorable al Ejecutivo."
+        "tendencia_texto": "7 sep — DÍA 31 DE GOBIERNO — MARCO RUBIO (ABC Economía, 7 sep): el Secretario de Estado de EEUU llega a Colombia; reunión con De la Espriella prevista 8-10 sep en Barranquilla para tratar terremoto, antidrogas y aranceles; canciller Lara lo llama 'extraordinario aliado'. CUMBRE GOBERNADORES / NARIÑO (Infobae, 5 sep): choque con el gobernador de Nariño, quien defiende diálogos territoriales respondiendo a la advertencia de De la Espriella sobre contactos con grupos armados. CORTE SUPREMA (Infobae, 4 sep): promesa de no interferir en decisiones judiciales. DIRECTIVA COMUNICACIONES (Infobae/Semana, 3 sep): polémica por centralización de vocería del gobierno. Sentimiento (51/40/9): la visita de Rubio refuerza la narrativa de alineación internacional pero acentúa el frente de críticas de la oposición."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 44,
-        "negativo": 41,
-        "neutro": 15,
-        "tendencia": "up",
-        "tendencia_texto": "4 sep — CRÍTICA SEGURIDAD (Infobae, 2 sep): Cepeda califica la política de seguridad del gobierno como 'la perpetuación del desastre' en Primera Comisión del Senado; exige alternativas estructurales al narcotráfico. 'PATRIA CALAMIDAD' (Infobae, 31 ago): tachó al gobierno De la Espriella de 'patria calamidad' y rechazó versiones de fractura interna del Pacto Histórico. UNIDAD PROGRESISTA (Prensa Latina, 1 sep): Cepeda llama a cerrar filas contra el 'proyecto fascista' del gobierno. Sentimiento (44/41/15): oposición activa y combativa; presencia constante en medios pero en polarización con la agenda de orden público del Ejecutivo."
+        "positivo": 43,
+        "negativo": 43,
+        "neutro": 14,
+        "tendencia": "neutral",
+        "tendencia_texto": "7 sep — 'ÉL SE UFANA DE MATAR' (Infobae, 7 sep): Cepeda arremete contra De la Espriella por el 'desmorone' de la paz tras la revocación de resoluciones de diálogo; califica la política de seguridad como propaganda. VISITA RUBIO (Infobae, 5 sep): Cepeda advierte que la visita del Secretario de Estado de EEUU busca 'sellar compromisos de intervención' y alerta sobre fracking. CRÍTICA SEGURIDAD (Infobae, 2 sep): 'la perpetuación del desastre' en Primera Comisión del Senado. Sentimiento (43/43/14): oposición en máxima intensidad retórica; semana marcada por críticas a la paz y al alineamiento con Washington."
       },
       {
         "nombre": "Valencia",
@@ -350,7 +350,7 @@
         "negativo": 31,
         "neutro": 16,
         "tendencia": "up",
-        "tendencia_texto": "4 sep — 'CHAO, PETRO, CHAO' (Infobae, 1 sep): Valencia advierte que le preocupa más el regreso de Petro que su ida; le desea buen viaje con su ya célebre frase y defiende al gobierno De la Espriella. REACCIÓN ZULETA (Infobae, 1 sep): exige a Isabel Zuleta que rectifique ante los colombianos por afirmar que Petro 'seguía siendo el presidente'. REFORMA PENSIONAL (Infobae, 27 ago): criticó el fallo CC que avaló la reforma pensional de Petro: 'Es extrañísimo'. Sentimiento (53/31/16): declaraciones de alto impacto en sep 1 recuperan visibilidad mediática; Valencia reafirma línea política clara alineada con el Centro Democrático."
+        "tendencia_texto": "7 sep — Valencia finalizó su mandato como senadora el 20 de julio de 2026; desde entonces actúa como figura política y vocera del Centro Democrático sin escaño. 'CHAO, PETRO, CHAO' (Infobae, 1 sep): frase de alto impacto mediático; advirtió sobre el posible regreso de Petro a la política y exigió rectificación a Isabel Zuleta. No hay nuevas declaraciones documentadas en los últimos 3 días. Sentimiento (52/32/16): visibilidad estable aunque sin escaño; su línea crítica al petrismo sigue generando cobertura mediática positiva entre medios de centro-derecha."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 28 DE GOBIERNO — 4 de septiembre de 2026. CORTE SUPREMA (4 sep): De la Espriella promete no interferir en decisiones judiciales; defiende autonomía del Poder Judicial. DIRECTIVA COMUNICACIONES (3 sep): ministros deben pedir autorización previa a Presidencia para dar entrevistas; genera debate sobre libertad de prensa. CEPEDA OPONE (2 sep): califica política de seguridad de De la Espriella como 'la perpetuación del desastre' en Primera Comisión del Senado. VALENCIA (1 sep): 'Chao, Petro, chao' — advierte sobre posible regreso del expresidente y defiende al gobierno. DECRETO 1348 (1 sep): gobierno modifica emergencia post-terremoto — suma Caquetá y Santander, excluye Putumayo. REVISIÓN CONTRATOS: auditoría 'ministerio por ministerio' (30 ago). PRESUPUESTO 2027: $634,9 billones radicados (29 ago). RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
+    "resumen_analisis": "DÍA 31 DE GOBIERNO — 7 de septiembre de 2026. MARCO RUBIO EN COLOMBIA (7 sep): el Secretario de Estado de EEUU llega al país; reuniones con De la Espriella programadas para 8-10 sep en Barranquilla — agenda: terremoto, antidrogas y aranceles. CEPEDA: 'ÉL SE UFANA DE MATAR' (7 sep): oposición en máxima intensidad, critica el 'desmorone' de la paz. CUMBRE GOBERNADORES (5 sep): choque entre De la Espriella y gobernador de Nariño por política de paz territorial. CEPEDA vs RUBIO (5 sep): alerta sobre 'compromisos de intervención' y fracking. CORTE SUPREMA (4 sep): De la Espriella promete no interferir en decisiones judiciales. DIRECTIVA COMUNICACIONES (3 sep): debate sobre centralización de vocería. RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
   },
-  "ultimo_deploy": "4 de septiembre de 2026"
+  "ultimo_deploy": "7 de septiembre de 2026"
 }
