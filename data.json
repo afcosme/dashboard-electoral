@@ -1,5 +1,5 @@
 {
-  "fecha": "7 de septiembre de 2026",
+  "fecha": "10 de septiembre de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -99,6 +99,90 @@
   ],
   "noticias": [
     {
+      "filter": "espriella",
+      "fuente": "Infobae Colombia / Portafolio",
+      "fuente_color": "#e74c3c",
+      "fecha": "9 sep 2026",
+      "tag": "ESPRIELLA · DÍA 33 · Cena Rubio · 'Encuentro cercano' · Escudo de las Américas · Medellín · Base militar EEUU",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella cena con Rubio y anuncia Colombia en el 'Escudo de las Américas' con Medellín como sede",
+      "resumen": "El 9 de septiembre, el presidente Abelardo de la Espriella publicó detalles y fotos de la cena con Marco Rubio en su residencia de Barranquilla, calificada de 'encuentro cercano'. Tras la reunión oficial del 8 de septiembre, se anunció que Colombia entra formalmente al 'Escudo de las Américas', estrategia regional contra el narcotráfico impulsada por Washington, con Medellín como sede de la operación colombiana. Marco Rubio dejó abierta la posibilidad de instalar una base militar de EEUU en Colombia. La alianza bilateral se concretó con la firma de memorandos de entendimiento en minería y cadenas de suministro. De la Espriella declaró que 'la alianza estratégica entre Colombia y EEUU es más firme que nunca'.",
+      "objetividad": 88,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Cena De la Espriella-Rubio en Barranquilla, fotos publicadas: Infobae Colombia (9 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Colombia entra al 'Escudo de las Américas'; Medellín sede: Portafolio / El Oriente (9 sep 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Detalles finales sobre base militar de EEUU en Colombia: aún sin confirmación formal"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/09/09/abelardo-de-la-espriella-entrego-detalles-y-publico-fotos-de-la-cena-con-marco-rubio-en-su-casa-de-barranquilla-encuentro-cercano/",
+      "url_label": "Infobae — De la Espriella publica fotos de cena con Rubio: 'Encuentro cercano'"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Infobae Colombia / Semana / El Comercio",
+      "fuente_color": "#e74c3c",
+      "fecha": "8 sep 2026",
+      "tag": "ESPRIELLA · DÍA 32 · Reunión Rubio Barranquilla · 'Avanzamos agenda conjunta' · Memorandos · Rubio critica Petro",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella y Rubio se reúnen en Barranquilla: 'Avanzamos en una agenda conjunta'; Rubio llama 'aberración' al gobierno Petro",
+      "resumen": "El 8 de septiembre, el presidente Abelardo de la Espriella recibió a Marco Rubio en la sede alterna de la Presidencia en Barranquilla para la reunión oficial bilateral. De la Espriella declaró que 'avanzamos en una agenda conjunta' centrada en seguridad regional, lucha contra el narcoterrorismo y nuevas oportunidades de inversión. Se firmaron memorandos de entendimiento en cooperación minera y cadenas de suministro. Rubio, por su parte, destacó la reunión y calificó los últimos cuatro años del gobierno Petro como 'una aberración', trazando un contraste explícito con el nuevo gobierno.",
+      "objetividad": 90,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Declaración De la Espriella 'avanzamos en una agenda conjunta': Infobae Colombia (8 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Rubio: 'Los últimos cuatro años han sido una aberración', crítica al gobierno Petro: Infobae (8 sep)"
+        },
+        {
+          "ok": false,
+          "texto": "Texto completo de los memorandos firmados aún no publicado en medios"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/09/08/abelardo-de-la-espriella-entrego-detalles-de-su-reunion-con-marco-rubio-en-barranquilla-avanzamos-en-una-agenda-conjunta/",
+      "url_label": "Infobae — De la Espriella tras reunión con Rubio: 'Avanzamos en una agenda conjunta'"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Semana",
+      "fuente_color": "#2980b9",
+      "fecha": "8 sep 2026",
+      "tag": "Cepeda · DÍA 32 oposición · 'Escudo de las Américas' · Soberanía · Rubio · Respuesta en vivo Semana",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda cuestiona el 'Escudo de las Américas' y Semana le responde en vivo por rechazar la visita de Rubio",
+      "resumen": "El 8 de septiembre, Iván Cepeda publicó una columna cuestionando el ingreso de Colombia al llamado 'Escudo de las Américas', calificándolo de alianza militar cuyo alcance real no está claro para los colombianos. El senador advirtió que el acuerdo podría comprometer la soberanía nacional y alertó sobre posibles implicaciones militares de la visita de Rubio, incluyendo la posibilidad de bases de EEUU en el país. El debate encontró respuesta inmediata en Semana, que le contestó en vivo durante uno de sus programas, generando uno de los intercambios más tensos de la semana entre la oposición y los medios de centro-derecha.",
+      "objetividad": 85,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Cepeda cuestiona 'Escudo de las Américas' como alianza militar sin alcance claro: Semana (8 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Semana responde en vivo a Cepeda por rechazar visita de Marco Rubio: Semana (8 sep 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Texto íntegro de la columna de Cepeda sobre el 'Escudo de las Américas' no disponible en fuentes consultadas"
+        }
+      ],
+      "url": "https://www.semana.com/semana-tv/semana-el-debate/articulo/asi-le-respondieron-a-ivan-cepeda-en-vivo-por-rechazar-visita-de-marco-rubio-a-colombia/202625/",
+      "url_label": "Semana — Así le respondieron a Cepeda en vivo por rechazar visita de Marco Rubio"
+    },
+    {
       "filter": "cepeda",
       "fuente": "Infobae Colombia",
       "fuente_color": "#2980b9",
@@ -135,7 +219,7 @@
       "tag_color": "#c0392b",
       "tag_bg": "rgba(192,57,43,0.15)",
       "titulo": "Marco Rubio llega a Colombia: De la Espriella recibe al Secretario de Estado de EEUU para fortalecer alianza bilateral",
-      "resumen": "El secretario de Estado de los Estados Unidos, Marco Rubio, llegó a Colombia el 7 de septiembre de 2026 en su primera visita oficial al país, confirmando el giro en la política exterior colombiana hacia Washington tras el gobierno Petro. Rubio y el presidente Abelardo de la Espriella se reunirán en Barranquilla entre el 8 y 10 de septiembre para abordar tres ejes centrales: la respuesta al terremoto del 10 de agosto con cooperación humanitaria de EEUU, la cooperación antidrogas y el futuro de los aranceles sobre exportaciones colombianas. El canciller Rodrigo Lara celebró la visita calificando a Rubio de 'extraordinario aliado'. La oposición, encabezada por Cepeda, alertó que la visita busca 'sellar compromisos de intervención' en la política interna del país.",
+      "resumen": "El secretario de Estado de los Estados Unidos, Marco Rubio, llegó a Colombia el 7 de septiembre de 2026 en su primera visita oficial al país, confirmando el giro en la política exterior colombiana hacia Washington tras el gobierno Petro. Rubio y el presidente Abelardo de la Espriella se reunirían en Barranquilla entre el 8 y 10 de septiembre para abordar tres ejes centrales: la respuesta al terremoto del 10 de agosto con cooperación humanitaria de EEUU, la cooperación antidrogas y el futuro de los aranceles sobre exportaciones colombianas. El canciller Rodrigo Lara celebró la visita calificando a Rubio de 'extraordinario aliado'. La oposición, encabezada por Cepeda, alertó que la visita busca 'sellar compromisos de intervención' en la política interna del país.",
       "objetividad": 91,
       "criterios": [
         {
@@ -147,8 +231,8 @@
           "texto": "Agenda: terremoto, antidrogas y aranceles; Lara: 'extraordinario aliado': El Espectador / Infobae (5 sep)"
         },
         {
-          "ok": false,
-          "texto": "Declaraciones conjuntas De la Espriella-Rubio aún pendientes de celebrarse"
+          "ok": true,
+          "texto": "Reunión y resultados confirmados el 8-9 sep: memorandos firmados, 'Escudo de las Américas' anunciado"
         }
       ],
       "url": "https://abceconomia.co/2026/09/07/colombia-y-estados-unidos-fortalecen-su-alianza-comercial-con-la-visita-del-secretario-de-estado-marco-rubio/",
@@ -237,90 +321,6 @@
       ],
       "url": "https://www.infobae.com/colombia/2026/09/04/de-la-espriella-promete-no-interferir-en-decisiones-de-la-corte-suprema/",
       "url_label": "Infobae — De la Espriella promete no interferir en decisiones de la Corte Suprema"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae Colombia / Semana / El Espectador",
-      "fuente_color": "#e74c3c",
-      "fecha": "3 sep 2026",
-      "tag": "ESPRIELLA · DÍA 27 · Directiva comunicaciones · Ministros autorización previa · Control mediático · Polémica",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "De la Espriella expide directiva: ministros solo podrán dar entrevistas con autorización previa de Presidencia",
-      "resumen": "El 3 de septiembre, el gobierno de Abelardo de la Espriella publicó su directiva de comunicaciones, que obliga a ministros, directores de entidades y altos funcionarios a coordinar previamente con la Secretaría de Comunicaciones de Presidencia antes de conceder entrevistas o hacer declaraciones públicas. La medida centraliza la vocería institucional en torno a una voz única y genera polémica entre periodistas y gremios de prensa, que advierten riesgos para el libre flujo de información gubernamental. Los viceministros quedan explícitamente excluidos como voceros del gobierno.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Directiva obliga a coordinar entrevistas con Secretaría de Comunicaciones: Infobae (3 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Viceministros excluidos como voceros; eventos públicos sin preguntas: Semana (3 sep 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Reacciones formales de los gremios de prensa a la nueva directiva pendientes de publicación"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/09/03/gobierno-de-abelardo-de-la-espriella-le-puso-reglas-de-comunicacion-a-sus-ministros-asi-funcionara-la-nueva-directiva/",
-      "url_label": "Infobae — De la Espriella: ministros solo podrán dar entrevistas con autorización de Presidencia"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#2980b9",
-      "fecha": "2 sep 2026",
-      "tag": "Cepeda · DÍA 26 oposición · Seguridad · Narcotráfico · 'Perpetuación del desastre' · Senado",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda critica la política de seguridad de De la Espriella: 'Es la perpetuación del desastre'",
-      "resumen": "El 2 de septiembre, en sesión de la Primera Comisión del Senado, Iván Cepeda arremete contra la estrategia de seguridad del gobierno De la Espriella —basada en bombardeos, fumigaciones y represión— y la califica como 'la perpetuación del desastre'. El líder de la oposición del Pacto Histórico exige que el Ejecutivo abra una discusión sobre alternativas estructurales al narcotráfico y advierte que la militarización de los territorios agravará la crisis humanitaria. Cepeda denuncia que el gobierno está revirtiendo los avances de los diálogos de paz sin ofrecer una estrategia viable de reemplazo.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaraciones Cepeda: 'Es la perpetuación del desastre' — Infobae Colombia (2 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Contexto: sesión Primera Comisión del Senado, 2 sep 2026"
-        },
-        {
-          "ok": false,
-          "texto": "Respuesta oficial del gobierno a las críticas de Cepeda aún no publicada"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/09/02/ivan-cepeda-critico-a-de-la-espriella-por-su-politica-de-seguridad-y-lucha-contra-el-narcotrafico-es-la-perpetuacion-del-desastre/",
-      "url_label": "Infobae — Cepeda critica política de seguridad de De la Espriella: 'Es la perpetuación del desastre'"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#9b59b6",
-      "fecha": "1 sep 2026",
-      "tag": "Valencia · 'Chao Petro chao' · Regreso Petro · Centro Democrático · Defiende De la Espriella · Isabel Zuleta",
-      "tag_color": "#8e44ad",
-      "tag_bg": "rgba(142,68,173,0.12)",
-      "titulo": "'Chao, Petro, chao': Valencia advierte que teme el regreso del expresidente a la política y defiende a De la Espriella",
-      "resumen": "El 1 de septiembre, Paloma Valencia reaccionó al permiso del Congreso para que Gustavo Petro abandonara Colombia y lanzó una advertencia sobre su eventual regreso a la política. 'A mí lo que me preocupa no es que se vaya, sino que se regrese, que vuelva y sea candidato, que gane. Así que yo sí le deseo buen viaje. Chao, Petro, chao', declaró la excandidata presidencial del Centro Democrático. Valencia también exigió a la excongresista Isabel Zuleta que rectificara ante los colombianos tras afirmar que Petro 'seguía siendo el presidente'.",
-      "objetividad": 91,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaración 'Chao, Petro, chao' y advertencia sobre posible regreso: Infobae Colombia (1 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Reacción al video de Isabel Zuleta que afirmó que Petro 'seguía siendo el presidente': Infobae (1 sep 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Respuesta de Petro o de su entorno a las declaraciones de Valencia no documentada"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/09/01/chao-petro-chao-paloma-valencia-lanzo-dura-advertencia-sobre-un-posible-regreso-del-expresidente-y-defendio-a-de-la-espriella/",
-      "url_label": "Infobae — 'Chao, Petro, chao': Valencia advierte sobre posible regreso del expresidente"
     }
   ],
   "sentimiento": {
@@ -328,20 +328,20 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 51,
-        "negativo": 40,
-        "neutro": 9,
-        "tendencia": "neutral",
-        "tendencia_texto": "7 sep — DÍA 31 DE GOBIERNO — MARCO RUBIO (ABC Economía, 7 sep): el Secretario de Estado de EEUU llega a Colombia; reunión con De la Espriella prevista 8-10 sep en Barranquilla para tratar terremoto, antidrogas y aranceles; canciller Lara lo llama 'extraordinario aliado'. CUMBRE GOBERNADORES / NARIÑO (Infobae, 5 sep): choque con el gobernador de Nariño, quien defiende diálogos territoriales respondiendo a la advertencia de De la Espriella sobre contactos con grupos armados. CORTE SUPREMA (Infobae, 4 sep): promesa de no interferir en decisiones judiciales. DIRECTIVA COMUNICACIONES (Infobae/Semana, 3 sep): polémica por centralización de vocería del gobierno. Sentimiento (51/40/9): la visita de Rubio refuerza la narrativa de alineación internacional pero acentúa el frente de críticas de la oposición."
+        "positivo": 55,
+        "negativo": 37,
+        "neutro": 8,
+        "tendencia": "up",
+        "tendencia_texto": "10 sep — DÍA 34 DE GOBIERNO — ESCUDO DE LAS AMÉRICAS (Portafolio/Infobae, 9 sep): Colombia entra formalmente al 'Escudo de las Américas'; Medellín sede de la estrategia contra el narcotráfico; Rubio dejó abierta la posibilidad de base militar de EEUU en Colombia. CENA RUBIO / 'ENCUENTRO CERCANO' (Infobae, 9 sep): De la Espriella y Rubio cenan en Barranquilla; memorandos firmados en cooperación minera. REUNIÓN RUBIO (Infobae/Semana, 8 sep): 'avanzamos en agenda conjunta'; Rubio llama 'aberración' al gobierno Petro. 'DEBEMOS PROTEGER A NUESTRA GENTE' (Infobae, 9 sep): De la Espriella refuerza discurso soberano. Sentimiento (55/37/8): semana de alta visibilidad internacional; alianza con EEUU consolida imagen gubernamental, aunque abre debate sobre soberanía."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 43,
-        "negativo": 43,
+        "positivo": 42,
+        "negativo": 44,
         "neutro": 14,
         "tendencia": "neutral",
-        "tendencia_texto": "7 sep — 'ÉL SE UFANA DE MATAR' (Infobae, 7 sep): Cepeda arremete contra De la Espriella por el 'desmorone' de la paz tras la revocación de resoluciones de diálogo; califica la política de seguridad como propaganda. VISITA RUBIO (Infobae, 5 sep): Cepeda advierte que la visita del Secretario de Estado de EEUU busca 'sellar compromisos de intervención' y alerta sobre fracking. CRÍTICA SEGURIDAD (Infobae, 2 sep): 'la perpetuación del desastre' en Primera Comisión del Senado. Sentimiento (43/43/14): oposición en máxima intensidad retórica; semana marcada por críticas a la paz y al alineamiento con Washington."
+        "tendencia_texto": "10 sep — 'ESCUDO DE LAS AMÉRICAS' (Semana, 8 sep): Cepeda cuestiona el ingreso de Colombia a la alianza militar regional y advierte sobre pérdida de soberanía; Semana le responde en vivo en debate de alto perfil. 'ÉL SE UFANA DE MATAR' (Infobae, 7 sep): Cepeda arremete contra De la Espriella por el 'desmorone' de la paz. VISITA RUBIO (Infobae, 5 sep): Cepeda advirtió 'compromisos de intervención'. Sentimiento (42/44/14): la semana Rubio centra el debate en política exterior y soberanía; Cepeda amplifica su perfil opositor pero enfrenta réplicas mediáticas más directas."
       },
       {
         "nombre": "Valencia",
@@ -349,8 +349,8 @@
         "positivo": 53,
         "negativo": 31,
         "neutro": 16,
-        "tendencia": "up",
-        "tendencia_texto": "7 sep — Valencia finalizó su mandato como senadora el 20 de julio de 2026; desde entonces actúa como figura política y vocera del Centro Democrático sin escaño. 'CHAO, PETRO, CHAO' (Infobae, 1 sep): frase de alto impacto mediático; advirtió sobre el posible regreso de Petro a la política y exigió rectificación a Isabel Zuleta. No hay nuevas declaraciones documentadas en los últimos 3 días. Sentimiento (52/32/16): visibilidad estable aunque sin escaño; su línea crítica al petrismo sigue generando cobertura mediática positiva entre medios de centro-derecha."
+        "tendencia": "neutral",
+        "tendencia_texto": "10 sep — Valencia finalizó su mandato como senadora el 20 de julio de 2026; actúa como figura política del Centro Democrático sin escaño. Sin nuevas declaraciones públicas documentadas en los últimos 3 días; la agenda noticiosa esta semana estuvo dominada por la visita de Rubio y el 'Escudo de las Américas', donde Valencia no tomó posición pública. 'CHAO, PETRO, CHAO' (Infobae, 1 sep) sigue siendo su última declaración de impacto. Sentimiento (52/32/16): visibilidad en pausa; mantiene cobertura positiva en medios de centro-derecha pero sin nueva agenda propia esta semana."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 31 DE GOBIERNO — 7 de septiembre de 2026. MARCO RUBIO EN COLOMBIA (7 sep): el Secretario de Estado de EEUU llega al país; reuniones con De la Espriella programadas para 8-10 sep en Barranquilla — agenda: terremoto, antidrogas y aranceles. CEPEDA: 'ÉL SE UFANA DE MATAR' (7 sep): oposición en máxima intensidad, critica el 'desmorone' de la paz. CUMBRE GOBERNADORES (5 sep): choque entre De la Espriella y gobernador de Nariño por política de paz territorial. CEPEDA vs RUBIO (5 sep): alerta sobre 'compromisos de intervención' y fracking. CORTE SUPREMA (4 sep): De la Espriella promete no interferir en decisiones judiciales. DIRECTIVA COMUNICACIONES (3 sep): debate sobre centralización de vocería. RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
+    "resumen_analisis": "DÍA 34 DE GOBIERNO — 10 de septiembre de 2026. ESCUDO DE LAS AMÉRICAS (9 sep): Colombia entra formalmente al 'Escudo de las Américas'; Medellín será sede; Rubio deja abierta posibilidad de base militar de EEUU en Colombia. CENA DE LA ESPRIELLA-RUBIO (9 sep): 'encuentro cercano' en Barranquilla; memorandos firmados en cooperación minera y cadenas de suministro. REUNIÓN BILATERAL (8 sep): De la Espriella: 'avanzamos en agenda conjunta'; Rubio llama 'aberración' al gobierno Petro. CEPEDA vs 'ESCUDO' (8 sep): cuestiona la alianza militar; Semana le responde en vivo. CEPEDA: 'ÉL SE UFANA DE MATAR' (7 sep): oposición en máxima intensidad retórica. CUMBRE GOBERNADORES (5 sep): choque con Nariño por política de paz. RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
   },
-  "ultimo_deploy": "7 de septiembre de 2026"
+  "ultimo_deploy": "10 de septiembre de 2026"
 }
