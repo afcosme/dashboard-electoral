@@ -1,5 +1,5 @@
 {
-  "fecha": "10 de septiembre de 2026",
+  "fecha": "11 de septiembre de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -98,6 +98,62 @@
     }
   ],
   "noticias": [
+    {
+      "filter": "cepeda",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#2980b9",
+      "fecha": "10 sep 2026",
+      "tag": "Cepeda · DÍA 34 oposición · '¡Guerrillero!' · Barranquilla · Polarización · Video · Aeropuerto",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "'¡Guerrillero, guerrillero!': Cepeda es recibido con gritos y arengas en el aeropuerto de Barranquilla",
+      "resumen": "El 10 de septiembre, el senador Iván Cepeda, líder de la oposición del Pacto Histórico, fue recibido con gritos y arengas al llegar al aeropuerto Ernesto Cortissoz de Barranquilla (Atlántico). Un grupo de ciudadanos lo confrontó con cánticos de '¡guerrillero, guerrillero!' que resonaron en el terminal aéreo y quedaron registrados en video. El incidente ocurre en el contexto del debate sobre el 'Escudo de las Américas' y la visita de Marco Rubio, en el que Cepeda se posicionó como el crítico más visible de la oposición, generando reacciones en sectores de derecha y en Barranquilla, ciudad de origen del presidente De la Espriella.",
+      "objetividad": 90,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Cepeda recibido con gritos '¡guerrillero!' en aeropuerto de Barranquilla: Infobae Colombia (10 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Incidente registrado en video y publicado: Infobae (10 sep 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Reacción pública de Cepeda al incidente no documentada en fuentes consultadas"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/09/10/guerrillero-guerrillero-ivan-cepeda-fue-recibido-con-gritos-y-arengas-en-el-aeropuerto-de-barranquilla-todo-quedo-en-video/",
+      "url_label": "Infobae — '¡Guerrillero, guerrillero!': Cepeda recibido con arengas en aeropuerto de Barranquilla"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El País Cali / Radio Hoy (AtlasIntel)",
+      "fuente_color": "#e74c3c",
+      "fecha": "10 sep 2026",
+      "tag": "ESPRIELLA · DÍA 34 · Aprobación 54% · AtlasIntel · Primer mes · Gestión 51,8% · Restrepo 53%",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "Gobierno De la Espriella cierra primer mes con 54% de aprobación según encuesta AtlasIntel",
+      "resumen": "Una encuesta AtlasIntel de 1.904 personas realizada entre el 30 de agosto y el 3 de septiembre de 2026 revela que el presidente Abelardo De la Espriella cierra su primer mes con una imagen positiva del 54% frente a un 44% de imagen negativa. La aprobación de su gestión presidencial alcanza el 51,8%, y el 52,8% de los encuestados califica la gestión del nuevo gobierno como excelente o buena. El vicepresidente José Manuel Restrepo obtiene un 53% de favorabilidad. Las principales preocupaciones ciudadanas son la corrupción (50,5%), inseguridad y narcotráfico (48,7%) y dificultades en el sistema de salud (40,9%).",
+      "objetividad": 92,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Aprobación De la Espriella 54%, encuesta AtlasIntel (30 ago - 3 sep): El País Cali (10 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Aprobación gestión 51,8%; gobierno calificado excelente/bueno 52,8%: RadioHoy / El País (10 sep)"
+        },
+        {
+          "ok": false,
+          "texto": "Ficha técnica completa de la encuesta AtlasIntel no disponible en fuentes consultadas"
+        }
+      ],
+      "url": "https://www.elpais.com.co/politica/gobierno-de-la-espriella-tiene-una-aprobacion-del-54-de-los-colombianos-revela-encuesta-de-atlasintel-1058.html",
+      "url_label": "El País — Gobierno De la Espriella tiene 54% de aprobación según encuesta AtlasIntel"
+    },
     {
       "filter": "espriella",
       "fuente": "Infobae Colombia / Portafolio",
@@ -265,62 +321,6 @@
       ],
       "url": "https://www.infobae.com/colombia/2026/09/05/gobernador-de-narino-le-contesto-a-abelardo-de-la-espriella-tras-advertencia-en-cumbre-de-mandatarios-regionales-una-paz-desarmada/",
       "url_label": "Infobae — Gobernador de Nariño responde a De la Espriella: 'Una paz desarmada'"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#2980b9",
-      "fecha": "5 sep 2026",
-      "tag": "Cepeda · DÍA 29 oposición · Marco Rubio · EEUU · 'Compromisos de intervención' · Soberanía",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda cuestiona visita de Marco Rubio: 'Sellar compromisos de intervención' en Colombia",
-      "resumen": "El 5 de septiembre, Iván Cepeda se pronunció desde Cartagena sobre la visita confirmada del secretario de Estado de EEUU, Marco Rubio, a Colombia entre el 8 y 10 de septiembre. El senador y líder de la oposición del Pacto Histórico advirtió que el viaje busca 'sellar compromisos de intervención' en los asuntos internos del país, y alertó sobre la posibilidad de que EEUU quiera convertir a Colombia en una reserva energética mediante la intensificación de la explotación petrolera y el fracking. Cepeda cuestionó la alineación del gobierno De la Espriella con la agenda de Washington y exigió que el Ejecutivo garantice la soberanía nacional en las negociaciones.",
-      "objetividad": 88,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaración de Cepeda 'sellar compromisos de intervención': Infobae Colombia (5 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Alerta sobre fracking y explotación petrolera como agenda oculta de la visita: Infobae (5 sep)"
-        },
-        {
-          "ok": false,
-          "texto": "Posición del gobierno colombiano sobre las acusaciones de Cepeda no documentada"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/09/05/ivan-cepeda-se-refirio-a-la-visita-del-secretario-de-estado-marco-rubio-a-colombia-sellar-compromisos-de-intervencion/",
-      "url_label": "Infobae — Cepeda sobre visita de Rubio: 'Sellar compromisos de intervención'"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#e74c3c",
-      "fecha": "4 sep 2026",
-      "tag": "ESPRIELLA · DÍA 28 · Corte Suprema · Independencia judicial · 'No interferiremos' · Poder Judicial",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella promete no interferir en decisiones de la Corte Suprema de Justicia",
-      "resumen": "El 4 de septiembre, el presidente Abelardo de la Espriella se reunió con la Corte Suprema de Justicia y aseguró que su gobierno respetará las decisiones judiciales sin interferir en las competencias de jueces y magistrados. El mandatario publicó un video en el que defendió la autonomía de la rama judicial y reiteró que el Ejecutivo no buscará influir sobre los fallos del alto tribunal. El anuncio llega en medio del debate generado por la directiva de comunicaciones que centraliza las intervenciones mediáticas del gobierno.",
-      "objetividad": 92,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Reunión con Corte Suprema y promesa de no interferencia: Infobae Colombia (4 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Video del presidente defendiendo autonomía del Poder Judicial: Infobae (4 sep 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Posición formal de la Corte Suprema sobre la reunión aún no documentada en medios"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/09/04/de-la-espriella-promete-no-interferir-en-decisiones-de-la-corte-suprema/",
-      "url_label": "Infobae — De la Espriella promete no interferir en decisiones de la Corte Suprema"
     }
   ],
   "sentimiento": {
@@ -332,25 +332,25 @@
         "negativo": 37,
         "neutro": 8,
         "tendencia": "up",
-        "tendencia_texto": "10 sep — DÍA 34 DE GOBIERNO — ESCUDO DE LAS AMÉRICAS (Portafolio/Infobae, 9 sep): Colombia entra formalmente al 'Escudo de las Américas'; Medellín sede de la estrategia contra el narcotráfico; Rubio dejó abierta la posibilidad de base militar de EEUU en Colombia. CENA RUBIO / 'ENCUENTRO CERCANO' (Infobae, 9 sep): De la Espriella y Rubio cenan en Barranquilla; memorandos firmados en cooperación minera. REUNIÓN RUBIO (Infobae/Semana, 8 sep): 'avanzamos en agenda conjunta'; Rubio llama 'aberración' al gobierno Petro. 'DEBEMOS PROTEGER A NUESTRA GENTE' (Infobae, 9 sep): De la Espriella refuerza discurso soberano. Sentimiento (55/37/8): semana de alta visibilidad internacional; alianza con EEUU consolida imagen gubernamental, aunque abre debate sobre soberanía."
+        "tendencia_texto": "11 sep — DÍA 35 DE GOBIERNO — APROBACIÓN 54% PRIMER MES (AtlasIntel, 30 ago-3 sep; pub. 10 sep): De la Espriella cierra su primer mes con 54% imagen positiva, 44% negativa; aprobación de gestión 51,8%; gobierno calificado excelente/bueno 52,8%. Restrepo VP: 53% favorabilidad. ESCUDO DE LAS AMÉRICAS (Portafolio/Infobae, 9 sep): Colombia entra formalmente al 'Escudo de las Américas'; Medellín sede; Rubio dejó abierta posibilidad de base militar de EEUU. CENA RUBIO (Infobae, 9 sep): 'encuentro cercano' en Barranquilla; memorandos firmados. Sentimiento (55/37/8): encuesta de aprobación sólida y semana de alta visibilidad internacional consolidan imagen gubernamental."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 42,
-        "negativo": 44,
+        "positivo": 41,
+        "negativo": 45,
         "neutro": 14,
-        "tendencia": "neutral",
-        "tendencia_texto": "10 sep — 'ESCUDO DE LAS AMÉRICAS' (Semana, 8 sep): Cepeda cuestiona el ingreso de Colombia a la alianza militar regional y advierte sobre pérdida de soberanía; Semana le responde en vivo en debate de alto perfil. 'ÉL SE UFANA DE MATAR' (Infobae, 7 sep): Cepeda arremete contra De la Espriella por el 'desmorone' de la paz. VISITA RUBIO (Infobae, 5 sep): Cepeda advirtió 'compromisos de intervención'. Sentimiento (42/44/14): la semana Rubio centra el debate en política exterior y soberanía; Cepeda amplifica su perfil opositor pero enfrenta réplicas mediáticas más directas."
+        "tendencia": "down",
+        "tendencia_texto": "11 sep — '¡GUERRILLERO, GUERRILLERO!' (Infobae, 10 sep): Cepeda recibido con gritos y arengas en aeropuerto de Barranquilla; incidente registrado en video. ENCUESTA ATLAS-INTEL (Infobae, 10 sep): Cepeda y Petro superan al Centro Democrático en capital político; aventajan a Daniel Briceño y toman distancia de Álvaro Uribe. 'ESCUDO DE LAS AMÉRICAS' (Semana, 8 sep): Cepeda cuestiona la alianza; Semana le responde en vivo. 'ÉL SE UFANA DE MATAR' (Infobae, 7 sep): ofensiva contra De la Espriella por el 'desmorone' de la paz. Sentimiento (41/45/14): rechazo ciudadano en Barranquilla eleva el negativo; encuesta de capital político le da activos en la izquierda pero la polarización se intensifica."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 53,
-        "negativo": 31,
+        "positivo": 52,
+        "negativo": 32,
         "neutro": 16,
         "tendencia": "neutral",
-        "tendencia_texto": "10 sep — Valencia finalizó su mandato como senadora el 20 de julio de 2026; actúa como figura política del Centro Democrático sin escaño. Sin nuevas declaraciones públicas documentadas en los últimos 3 días; la agenda noticiosa esta semana estuvo dominada por la visita de Rubio y el 'Escudo de las Américas', donde Valencia no tomó posición pública. 'CHAO, PETRO, CHAO' (Infobae, 1 sep) sigue siendo su última declaración de impacto. Sentimiento (52/32/16): visibilidad en pausa; mantiene cobertura positiva en medios de centro-derecha pero sin nueva agenda propia esta semana."
+        "tendencia_texto": "11 sep — Sin nuevas declaraciones públicas documentadas en los últimos 4 días. Valencia actúa como figura política del Centro Democrático sin escaño desde el 20 de julio de 2026. La agenda noticiosa esta semana estuvo dominada por la visita de Rubio y el debate sobre el 'Escudo de las Américas'; Valencia no tomó posición pública visible. Sentimiento (52/32/16): visibilidad en pausa; mantiene cobertura positiva en medios de centro-derecha pero sin agenda propia esta semana."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 34 DE GOBIERNO — 10 de septiembre de 2026. ESCUDO DE LAS AMÉRICAS (9 sep): Colombia entra formalmente al 'Escudo de las Américas'; Medellín será sede; Rubio deja abierta posibilidad de base militar de EEUU en Colombia. CENA DE LA ESPRIELLA-RUBIO (9 sep): 'encuentro cercano' en Barranquilla; memorandos firmados en cooperación minera y cadenas de suministro. REUNIÓN BILATERAL (8 sep): De la Espriella: 'avanzamos en agenda conjunta'; Rubio llama 'aberración' al gobierno Petro. CEPEDA vs 'ESCUDO' (8 sep): cuestiona la alianza militar; Semana le responde en vivo. CEPEDA: 'ÉL SE UFANA DE MATAR' (7 sep): oposición en máxima intensidad retórica. CUMBRE GOBERNADORES (5 sep): choque con Nariño por política de paz. RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
+    "resumen_analisis": "DÍA 35 DE GOBIERNO — 11 de septiembre de 2026. APROBACIÓN 54% PRIMER MES (AtlasIntel, pub. 10 sep): De la Espriella cierra su primer mes con 54% imagen positiva y 51,8% aprobación de gestión; Restrepo VP: 53% favorabilidad. '¡GUERRILLERO!' EN BARRANQUILLA (Infobae, 10 sep): Cepeda recibido con arengas en aeropuerto de Barranquilla; incidente en video evidencia polarización. ENCUESTA ATLAS-INTEL (Infobae, 10 sep): Cepeda y Petro superan al Centro Democrático en capital político. ESCUDO DE LAS AMÉRICAS (9 sep): Colombia entra formalmente; Medellín sede. CENA DE LA ESPRIELLA-RUBIO (9 sep): 'encuentro cercano' en Barranquilla; memorandos firmados. CEPEDA: 'ÉL SE UFANA DE MATAR' (7 sep): oposición en máxima intensidad retórica. RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
   },
-  "ultimo_deploy": "10 de septiembre de 2026"
+  "ultimo_deploy": "11 de septiembre de 2026"
 }
