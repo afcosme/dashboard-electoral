@@ -1,5 +1,5 @@
 {
-  "fecha": "11 de septiembre de 2026",
+  "fecha": "17 de septiembre de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -99,6 +99,146 @@
   ],
   "noticias": [
     {
+      "filter": "espriella",
+      "fuente": "Infobae Colombia / El Colombiano (CB Global Data)",
+      "fuente_color": "#e74c3c",
+      "fecha": "16 sep 2026",
+      "tag": "ESPRIELLA · DÍA 40 · Top 3 LatAm · CB Global Data · 53,6% aprobación · Sheinbaum · Bukele",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella: tercer presidente con mayor aprobación en Latinoamérica según CB Global Data",
+      "resumen": "Una encuesta CB Global Data publicada el 15-16 de septiembre de 2026 ubicó al presidente Abelardo de la Espriella como el tercer mandatario con mayor imagen positiva en América Latina con un 53,6%, por detrás de Claudia Sheinbaum (México) y Nayib Bukele (El Salvador). Colombia ocupó también el primer lugar regional en el porcentaje de ciudadanos que califican su gobierno como 'bueno o excelente' (53%). La medición, realizada a menos de seis semanas de su posesión, fue interpretada en medios nacionales como un 'bono de luna de miel' sólido que refleja expectativas positivas frente al nuevo gobierno.",
+      "objetividad": 90,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "CB Global Data: De la Espriella 3° en LatAm por aprobación positiva (53,6%): Infobae / El Colombiano (15-16 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Colombia 1° en LatAm en porcentaje que califica gobierno como bueno/excelente (53%): El Colombiano (16 sep 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Ficha técnica completa y muestra de la encuesta CB Global Data no disponible en fuentes consultadas"
+        }
+      ],
+      "url": "https://www.elcolombiano.com/colombia/abelardo-de-la-espriella-tercer-presidente-mayor-aprobacion-latinoamerica-encuesta-cb-global-data-LF41113945",
+      "url_label": "El Colombiano — De la Espriella: tercer presidente con mayor aprobación en Latinoamérica (CB Global Data)"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "X (Presidencia Colombia) / Colombia One",
+      "fuente_color": "#e74c3c",
+      "fecha": "16 sep 2026",
+      "tag": "ESPRIELLA · DÍA 40 · 85 extradiciones · 6 semanas · Narcos · Cumplimiento promesa · Antidrogas",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella anuncia 85 extradiciones en 6 semanas: ritmo récord de cooperación antidrogas con EEUU",
+      "resumen": "El presidente Abelardo de la Espriella anunció el 16 de septiembre a través de su cuenta de X (antes Twitter) que su gobierno ha aprobado 85 extradiciones desde su posesión el 7 de agosto, en lo que representa un ritmo sin precedentes en la historia reciente de Colombia. El anuncio contrasta directamente con la política del gobierno Petro, que frenó o dilató decenas de solicitudes de extradición de jefes del narcotráfico. Media internacional como Colombia One y The Rio Times cubrieron el anuncio como señal del giro radical en la política antidrogas y la alianza bilateral con Washington.",
+      "objetividad": 85,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Anuncio de 85 extradiciones en 6 semanas por De la Espriella: X/Presidencia y Colombia One (16 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Contraste con gobierno Petro en política de extradiciones: cobertura internacional confirmada"
+        },
+        {
+          "ok": false,
+          "texto": "Lista oficial detallada de las 85 extradiciones no publicada en fuentes consultadas"
+        }
+      ],
+      "url": "https://colombiaone.com/2026/09/16/abelardo-de-la-espriella-approval-colombia/",
+      "url_label": "Colombia One — De la Espriella: 85 extradiciones en 6 semanas, aprobación en alza"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#e74c3c",
+      "fecha": "16 sep 2026",
+      "tag": "ESPRIELLA · DÍA 40 · Petro 'cuadro invisible' · Crisis fiscal · Redes sociales · Déficit · Herencia",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "Petro responde con un 'cuadro invisible' a De la Espriella por la crisis fiscal: redes lo ridiculizan",
+      "resumen": "El 16 de septiembre, el expresidente Gustavo Petro intentó rebatir las acusaciones del gobierno de De la Espriella sobre el estado de las finanzas públicas que dejó su administración, publicando un gráfico que los usuarios de redes sociales describieron como 'invisible' o incomprensible. El episodio, ampliamente difundido y burlado en redes, se produjo en el contexto de la guerra de comunicados entre el Ejecutivo y el expresidente sobre la responsabilidad de la crisis fiscal colombiana. De la Espriella había señalado que el gobierno Petro dejó un déficit que obliga a recortes presupuestales de hasta el 40%.",
+      "objetividad": 88,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Petro publica 'cuadro invisible' para rebatir acusaciones fiscales de De la Espriella: Infobae Colombia (16 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Burla y viralización del episodio en redes sociales: cobertura múltiples medios (16 sep 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Réplica oficial de la Presidencia al 'cuadro invisible' de Petro no documentada"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/09/16/con-un-cuadro-invisible-gustavo-petro-trato-de-responder-los-senalamientos-de-abelardo-de-la-espriella-sobre-la-crisis-fiscal-en-colombia/",
+      "url_label": "Infobae — Petro respondió con un 'cuadro invisible' a De la Espriella sobre la crisis fiscal"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Semana",
+      "fuente_color": "#e74c3c",
+      "fecha": "15 sep 2026",
+      "tag": "ESPRIELLA · DÍA 39 · Presupuesto 2027 · Congreso · Primer round · Ajuste fiscal · Mininterior",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "Gobierno De la Espriella gana el primer round: Congreso aprueba monto del Presupuesto General 2027",
+      "resumen": "El gobierno de Abelardo de la Espriella obtuvo su primera victoria legislativa de peso cuando el Congreso aprobó el monto total del Presupuesto General de la Nación para 2027, propuesto con recortes de hasta el 40% respecto a vigencias anteriores. El ministro del Interior celebró el resultado como el inicio de la consolidación del ajuste fiscal. Según analistas, aún restan tres grandes batallas legislativas que definirán el primer año del gobierno: la Ley de Ajuste Fiscal, el Plan Nacional de Desarrollo y la reforma al sistema de salud.",
+      "objetividad": 87,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Congreso aprueba monto Presupuesto General 2027; Mininterior celebra: Semana (semana 15 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Tres grandes batallas legislativas pendientes: Ajuste Fiscal, PND y salud: analistas"
+        },
+        {
+          "ok": false,
+          "texto": "Texto final aprobado del monto del Presupuesto no disponible en fuentes consultadas"
+        }
+      ],
+      "url": "https://www.semana.com/politica/articulo/gobierno-de-abelardo-de-la-espriella-gana-el-primer-round-y-ministro-del-interior-celebra-aprobacion-del-monto-del-presupuesto-general/202634/",
+      "url_label": "Semana — Gobierno De la Espriella gana el primer round: aprobación del Presupuesto General"
+    },
+    {
+      "filter": "valencia",
+      "fuente": "Semana",
+      "fuente_color": "#9b59b6",
+      "fecha": "16 sep 2026",
+      "tag": "Valencia · Centro Democrático · Deluque · Presidencia Congreso · 'Deja de mentir' · La Guajira",
+      "tag_color": "#8e44ad",
+      "tag_bg": "rgba(142,68,173,0.15)",
+      "titulo": "Deluque le 'saca los trapos al sol' a Valencia: 'Paloma, ya basta, deja de mentir y de justificarte'",
+      "resumen": "El 16 de septiembre, el senador Alfredo Deluque respondió duramente a Paloma Valencia después de que ella reviviera el episodio de la elección de la presidencia del Congreso del 20 de julio. Deluque reveló públicamente que Valencia viajó personalmente a La Guajira para pedirle su apoyo durante su campaña presidencial y lo agradeció en privado, contradiciendo el posicionamiento que ella había adoptado en los debates sobre ese voto. La frase de Deluque —'Paloma, ya basta, deja de mentir y de justificarte a mí'— circuló ampliamente en medios y fue vista como un golpe a la credibilidad de la senadora del Centro Democrático en su rol opositor.",
+      "objetividad": 84,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Deluque responde a Valencia: 'ya basta, deja de mentir'; viaje a La Guajira revelado: Semana (16 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Valencia revive episodio presidencia del Congreso del 20 de julio: Semana (16 sep 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Réplica formal de Valencia a las declaraciones de Deluque no documentada en fuentes consultadas"
+        }
+      ],
+      "url": "https://www.semana.com/politica/articulo/paloma-valencia-revive-episodio-de-la-presidencia-del-congreso-y-el-senador-alfredo-deluque-le-saca-los-trapos-al-sol/202612/",
+      "url_label": "Semana — Deluque a Valencia: 'ya basta, deja de mentir'"
+    },
+    {
       "filter": "cepeda",
       "fuente": "Infobae Colombia",
       "fuente_color": "#2980b9",
@@ -155,62 +295,6 @@
       "url_label": "El País — Gobierno De la Espriella tiene 54% de aprobación según encuesta AtlasIntel"
     },
     {
-      "filter": "espriella",
-      "fuente": "Infobae Colombia / Portafolio",
-      "fuente_color": "#e74c3c",
-      "fecha": "9 sep 2026",
-      "tag": "ESPRIELLA · DÍA 33 · Cena Rubio · 'Encuentro cercano' · Escudo de las Américas · Medellín · Base militar EEUU",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella cena con Rubio y anuncia Colombia en el 'Escudo de las Américas' con Medellín como sede",
-      "resumen": "El 9 de septiembre, el presidente Abelardo de la Espriella publicó detalles y fotos de la cena con Marco Rubio en su residencia de Barranquilla, calificada de 'encuentro cercano'. Tras la reunión oficial del 8 de septiembre, se anunció que Colombia entra formalmente al 'Escudo de las Américas', estrategia regional contra el narcotráfico impulsada por Washington, con Medellín como sede de la operación colombiana. Marco Rubio dejó abierta la posibilidad de instalar una base militar de EEUU en Colombia. La alianza bilateral se concretó con la firma de memorandos de entendimiento en minería y cadenas de suministro. De la Espriella declaró que 'la alianza estratégica entre Colombia y EEUU es más firme que nunca'.",
-      "objetividad": 88,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Cena De la Espriella-Rubio en Barranquilla, fotos publicadas: Infobae Colombia (9 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Colombia entra al 'Escudo de las Américas'; Medellín sede: Portafolio / El Oriente (9 sep 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Detalles finales sobre base militar de EEUU en Colombia: aún sin confirmación formal"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/09/09/abelardo-de-la-espriella-entrego-detalles-y-publico-fotos-de-la-cena-con-marco-rubio-en-su-casa-de-barranquilla-encuentro-cercano/",
-      "url_label": "Infobae — De la Espriella publica fotos de cena con Rubio: 'Encuentro cercano'"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae Colombia / Semana / El Comercio",
-      "fuente_color": "#e74c3c",
-      "fecha": "8 sep 2026",
-      "tag": "ESPRIELLA · DÍA 32 · Reunión Rubio Barranquilla · 'Avanzamos agenda conjunta' · Memorandos · Rubio critica Petro",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella y Rubio se reúnen en Barranquilla: 'Avanzamos en una agenda conjunta'; Rubio llama 'aberración' al gobierno Petro",
-      "resumen": "El 8 de septiembre, el presidente Abelardo de la Espriella recibió a Marco Rubio en la sede alterna de la Presidencia en Barranquilla para la reunión oficial bilateral. De la Espriella declaró que 'avanzamos en una agenda conjunta' centrada en seguridad regional, lucha contra el narcoterrorismo y nuevas oportunidades de inversión. Se firmaron memorandos de entendimiento en cooperación minera y cadenas de suministro. Rubio, por su parte, destacó la reunión y calificó los últimos cuatro años del gobierno Petro como 'una aberración', trazando un contraste explícito con el nuevo gobierno.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaración De la Espriella 'avanzamos en una agenda conjunta': Infobae Colombia (8 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Rubio: 'Los últimos cuatro años han sido una aberración', crítica al gobierno Petro: Infobae (8 sep)"
-        },
-        {
-          "ok": false,
-          "texto": "Texto completo de los memorandos firmados aún no publicado en medios"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/09/08/abelardo-de-la-espriella-entrego-detalles-de-su-reunion-con-marco-rubio-en-barranquilla-avanzamos-en-una-agenda-conjunta/",
-      "url_label": "Infobae — De la Espriella tras reunión con Rubio: 'Avanzamos en una agenda conjunta'"
-    },
-    {
       "filter": "cepeda",
       "fuente": "Semana",
       "fuente_color": "#2980b9",
@@ -237,90 +321,6 @@
       ],
       "url": "https://www.semana.com/semana-tv/semana-el-debate/articulo/asi-le-respondieron-a-ivan-cepeda-en-vivo-por-rechazar-visita-de-marco-rubio-a-colombia/202625/",
       "url_label": "Semana — Así le respondieron a Cepeda en vivo por rechazar visita de Marco Rubio"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#2980b9",
-      "fecha": "7 sep 2026",
-      "tag": "Cepeda · DÍA 31 oposición · Paz · 'Él se ufana de matar' · Política seguridad · Crítica gobierno",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda arremete contra De la Espriella por el 'desmorone' de la paz: 'Él se ufana de matar'",
-      "resumen": "El 7 de septiembre, Iván Cepeda intensificó su ofensiva contra el gobierno de Abelardo de la Espriella tras la revocación de las resoluciones que habilitaban los espacios de diálogo de paz con grupos armados. El senador y líder de la oposición del Pacto Histórico denunció el 'desmorone' de los procesos de paz y lanzó la contundente frase: 'Él se ufana de matar', en alusión directa a la política de seguridad del Ejecutivo centrada en operaciones militares. Cepeda rechazó la eliminación del alias 'Bendito Menor' como un logro legítimo del Estado, calificándola de recurso de propaganda oficial y exigió alternativas no militares al narcotráfico.",
-      "objetividad": 87,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Declaración 'Él se ufana de matar' de Cepeda: Infobae Colombia (7 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Denuncia del 'desmorone' de la paz tras revocación resoluciones: Infobae (7 sep 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Respuesta formal del gobierno a las acusaciones de Cepeda aún no documentada en medios"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/09/07/ivan-cepeda-se-despacho-contra-abelardo-de-la-espriella-por-desmorone-de-la-paz-en-colombia-el-se-ufana-de-matar/",
-      "url_label": "Infobae — Cepeda arremete contra De la Espriella: 'Él se ufana de matar'"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "ABC Economía / El Espectador / Infobae Colombia",
-      "fuente_color": "#e74c3c",
-      "fecha": "7 sep 2026",
-      "tag": "ESPRIELLA · DÍA 31 · Marco Rubio · Secretario Estado EEUU · Aranceles · Antidrogas · Alianza bilateral",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "Marco Rubio llega a Colombia: De la Espriella recibe al Secretario de Estado de EEUU para fortalecer alianza bilateral",
-      "resumen": "El secretario de Estado de los Estados Unidos, Marco Rubio, llegó a Colombia el 7 de septiembre de 2026 en su primera visita oficial al país, confirmando el giro en la política exterior colombiana hacia Washington tras el gobierno Petro. Rubio y el presidente Abelardo de la Espriella se reunirían en Barranquilla entre el 8 y 10 de septiembre para abordar tres ejes centrales: la respuesta al terremoto del 10 de agosto con cooperación humanitaria de EEUU, la cooperación antidrogas y el futuro de los aranceles sobre exportaciones colombianas. El canciller Rodrigo Lara celebró la visita calificando a Rubio de 'extraordinario aliado'. La oposición, encabezada por Cepeda, alertó que la visita busca 'sellar compromisos de intervención' en la política interna del país.",
-      "objetividad": 91,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Llegada de Rubio a Colombia el 7 sep, reuniones previstas 8-10 sep: ABC Economía (7 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Agenda: terremoto, antidrogas y aranceles; Lara: 'extraordinario aliado': El Espectador / Infobae (5 sep)"
-        },
-        {
-          "ok": true,
-          "texto": "Reunión y resultados confirmados el 8-9 sep: memorandos firmados, 'Escudo de las Américas' anunciado"
-        }
-      ],
-      "url": "https://abceconomia.co/2026/09/07/colombia-y-estados-unidos-fortalecen-su-alianza-comercial-con-la-visita-del-secretario-de-estado-marco-rubio/",
-      "url_label": "ABC Economía — Colombia y EEUU fortalecen alianza con la visita de Marco Rubio"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#e74c3c",
-      "fecha": "5 sep 2026",
-      "tag": "ESPRIELLA · DÍA 29 · Cumbre Gobernadores · Nariño · Paz desarmada · Grupos armados · Advertencia",
-      "tag_color": "#e67e22",
-      "tag_bg": "rgba(230,126,34,0.15)",
-      "titulo": "Choque entre De la Espriella y gobernador de Nariño tras cumbre: 'Una paz desarmada'",
-      "resumen": "El 5 de septiembre, el gobernador de Nariño, Luis Alfonso Escobar, respondió públicamente al presidente Abelardo de la Espriella, quien en la cumbre de mandatarios regionales en Mompox (Bolívar) del 4 de septiembre advirtió que ningún gobernador ni alcalde puede sostener 'conversaciones, acuerdos o contactos clandestinos con estructuras terroristas'. Escobar rechazó la advertencia y defendió los espacios de diálogo territorial con grupos armados, argumentando que abandonarlos equivale a promover 'una paz desarmada' que deja a las comunidades sin protección. El choque refleja la tensión entre el gobierno central y algunas regiones del sur donde los acuerdos de paz heredados del gobierno Petro siguen en discusión.",
-      "objetividad": 89,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Respuesta del gobernador de Nariño y argumento 'paz desarmada': Infobae Colombia (5 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Advertencia de De la Espriella en cumbre de mandatarios en Mompox: Infobae (4-5 sep 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Posición oficial del gobierno central sobre la respuesta del gobernador aún sin publicar"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/09/05/gobernador-de-narino-le-contesto-a-abelardo-de-la-espriella-tras-advertencia-en-cumbre-de-mandatarios-regionales-una-paz-desarmada/",
-      "url_label": "Infobae — Gobernador de Nariño responde a De la Espriella: 'Una paz desarmada'"
     }
   ],
   "sentimiento": {
@@ -328,29 +328,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 55,
-        "negativo": 37,
+        "positivo": 58,
+        "negativo": 34,
         "neutro": 8,
         "tendencia": "up",
-        "tendencia_texto": "11 sep — DÍA 35 DE GOBIERNO — APROBACIÓN 54% PRIMER MES (AtlasIntel, 30 ago-3 sep; pub. 10 sep): De la Espriella cierra su primer mes con 54% imagen positiva, 44% negativa; aprobación de gestión 51,8%; gobierno calificado excelente/bueno 52,8%. Restrepo VP: 53% favorabilidad. ESCUDO DE LAS AMÉRICAS (Portafolio/Infobae, 9 sep): Colombia entra formalmente al 'Escudo de las Américas'; Medellín sede; Rubio dejó abierta posibilidad de base militar de EEUU. CENA RUBIO (Infobae, 9 sep): 'encuentro cercano' en Barranquilla; memorandos firmados. Sentimiento (55/37/8): encuesta de aprobación sólida y semana de alta visibilidad internacional consolidan imagen gubernamental."
+        "tendencia_texto": "17 sep — DÍA 41 DE GOBIERNO — TERCER EN APROBACIÓN EN LATINOAMÉRICA (CB Global Data, 15-16 sep): De la Espriella con 53,6% de imagen positiva ocupa el tercer puesto entre presidentes de la región, detrás de Sheinbaum y Bukele; Colombia primera en LatAm en porcentaje que califica el gobierno como bueno/excelente (53%). 85 EXTRADICIONES EN 6 SEMANAS (X/Presidencia, 16 sep): ritmo récord que cumple promesa central de campaña y reafirma alianza antidrogas con EEUU. PETRO 'CUADRO INVISIBLE' (Infobae, 16 sep): el expresidente intentó rebatir las acusaciones fiscales con un gráfico que fue ridiculizado en redes; De la Espriella gana la narrativa. PRESUPUESTO 2027 (Semana, 15 sep): primer round legislativo ganado; Congreso aprueba monto con recortes de hasta 40%. Sentimiento (58/34/8): semana de victorias narrativas, legislativas e internacionales consolida imagen positiva en alza."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 41,
-        "negativo": 45,
-        "neutro": 14,
+        "positivo": 40,
+        "negativo": 47,
+        "neutro": 13,
         "tendencia": "down",
-        "tendencia_texto": "11 sep — '¡GUERRILLERO, GUERRILLERO!' (Infobae, 10 sep): Cepeda recibido con gritos y arengas en aeropuerto de Barranquilla; incidente registrado en video. ENCUESTA ATLAS-INTEL (Infobae, 10 sep): Cepeda y Petro superan al Centro Democrático en capital político; aventajan a Daniel Briceño y toman distancia de Álvaro Uribe. 'ESCUDO DE LAS AMÉRICAS' (Semana, 8 sep): Cepeda cuestiona la alianza; Semana le responde en vivo. 'ÉL SE UFANA DE MATAR' (Infobae, 7 sep): ofensiva contra De la Espriella por el 'desmorone' de la paz. Sentimiento (41/45/14): rechazo ciudadano en Barranquilla eleva el negativo; encuesta de capital político le da activos en la izquierda pero la polarización se intensifica."
+        "tendencia_texto": "17 sep — DÍA 41 DEL NUEVO GOBIERNO — Sin declaraciones públicas documentadas esta semana (15-17 sep). Cepeda mantiene perfil bajo mientras De la Espriella domina la agenda noticiosa con extradiciones, aprobación presupuestal y cifras de popularidad regionales. La narrativa opositora más activa esta semana corrió por cuenta de Valencia y no de Cepeda. El incidente del aeropuerto de Barranquilla ('¡guerrillero!', 10 sep) sigue siendo su última aparición mediática significativa. Sentimiento (40/47/13): silencio relativo en contexto adverso para la oposición de izquierda; negativo sube levemente por contraste con fortaleza gubernamental."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 52,
-        "negativo": 32,
-        "neutro": 16,
-        "tendencia": "neutral",
-        "tendencia_texto": "11 sep — Sin nuevas declaraciones públicas documentadas en los últimos 4 días. Valencia actúa como figura política del Centro Democrático sin escaño desde el 20 de julio de 2026. La agenda noticiosa esta semana estuvo dominada por la visita de Rubio y el debate sobre el 'Escudo de las Américas'; Valencia no tomó posición pública visible. Sentimiento (52/32/16): visibilidad en pausa; mantiene cobertura positiva en medios de centro-derecha pero sin agenda propia esta semana."
+        "positivo": 44,
+        "negativo": 38,
+        "neutro": 18,
+        "tendencia": "down",
+        "tendencia_texto": "17 sep — CHOQUE CON DELUQUE (Semana, 16 sep): Valencia reviviría el episodio de la presidencia del Congreso del 20 de julio y fue respondida duramente por el senador Alfredo Deluque, quien reveló que ella misma viajó a La Guajira a pedirle apoyo durante la primaria presidencial. Deluque: 'Paloma, ya basta, deja de mentir y de justificarte.' El episodio la pone a la defensiva y erosiona su credibilidad opositora. Anteriormente su columna 'Chao, Petro, chao' (Infobae, 1 sep) le había dado visibilidad desde el flanco de apoyo a De la Espriella. Sentimiento (44/38/18): confrontación con Deluque eleva el negativo y baja la tendencia positiva de semanas anteriores."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 35 DE GOBIERNO — 11 de septiembre de 2026. APROBACIÓN 54% PRIMER MES (AtlasIntel, pub. 10 sep): De la Espriella cierra su primer mes con 54% imagen positiva y 51,8% aprobación de gestión; Restrepo VP: 53% favorabilidad. '¡GUERRILLERO!' EN BARRANQUILLA (Infobae, 10 sep): Cepeda recibido con arengas en aeropuerto de Barranquilla; incidente en video evidencia polarización. ENCUESTA ATLAS-INTEL (Infobae, 10 sep): Cepeda y Petro superan al Centro Democrático en capital político. ESCUDO DE LAS AMÉRICAS (9 sep): Colombia entra formalmente; Medellín sede. CENA DE LA ESPRIELLA-RUBIO (9 sep): 'encuentro cercano' en Barranquilla; memorandos firmados. CEPEDA: 'ÉL SE UFANA DE MATAR' (7 sep): oposición en máxima intensidad retórica. RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
+    "resumen_analisis": "DÍA 41 DE GOBIERNO — 17 de septiembre de 2026. TERCER EN APROBACIÓN LATINOAMÉRICA (CB Global Data, 15 sep): De la Espriella con 53,6% de imagen positiva entre presidentes de la región, detrás de Sheinbaum y Bukele; Colombia primera en calificación buena/excelente (53%). 85 EXTRADICIONES EN 6 SEMANAS (X/Presidencia, 16 sep): ritmo récord, cumplimiento de promesa central de campaña. PETRO 'CUADRO INVISIBLE' (Infobae, 16 sep): el expresidente intenta rebatir crisis fiscal con gráfico ridiculizado en redes; De la Espriella gana la narrativa. PRESUPUESTO 2027 (Semana, 15 sep): primer round legislativo ganado; recortes hasta 40%. VALENCIA VS DELUQUE (Semana, 16 sep): confrontación pública sobre presidencia del Congreso debilita posición de Valencia. CEPEDA: perfil bajo esta semana. RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
   },
-  "ultimo_deploy": "11 de septiembre de 2026"
+  "ultimo_deploy": "17 de septiembre de 2026"
 }
