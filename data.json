@@ -1,5 +1,5 @@
 {
-  "fecha": "20 de septiembre de 2026",
+  "fecha": "22 de septiembre de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,31 +100,87 @@
   "noticias": [
     {
       "filter": "espriella",
-      "fuente": "El Tiempo",
+      "fuente": "Infobae Colombia / El Colombiano",
       "fuente_color": "#e74c3c",
-      "fecha": "19 sep 2026",
-      "tag": "ESPRIELLA · DÍA 43 · ONU · Promesa cumplida · VP Restrepo · Política exterior",
+      "fecha": "22 sep 2026",
+      "tag": "ESPRIELLA · DÍA 46 · Plan salud · EPS · 1.069.196 pacientes · Plan de choque · Medicamentos",
       "tag_color": "#c0392b",
       "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella no irá a la ONU: el VP Restrepo lo representa y cumple promesa de no salir del país",
-      "resumen": "El presidente Abelardo de la Espriella confirmó el 19 de septiembre que no viajará a la Asamblea General de la ONU (22-28 septiembre) en Nueva York, cumpliendo su promesa de campaña de no salir del país durante su mandato. El vicepresidente José Manuel Restrepo asistirá en su nombre con una agenda para el jueves 24 de septiembre, centrada en cuatro prioridades: atraer inversión extranjera, fortalecer la seguridad nacional, promover la innovación digital y reconstruir alianzas estratégicas. Desde el Pacto Histórico, figuras como Francia Márquez y Gustavo Bolívar calificaron la decisión como 'un impresentable internacional'.",
+      "titulo": "De la Espriella anuncia plan de choque en salud para destrabar atención de más de un millón de pacientes",
+      "resumen": "El presidente Abelardo de la Espriella anunció el 22 de septiembre la primera fase de un plan de emergencia para destrabar la atención de 1.069.196 pacientes con medicamentos y procedimientos pendientes. El gobierno comprará cartera de EPS al 0% de interés con un año de gracia para su pago. La implementación comenzará antes de que termine septiembre de 2026. La medida busca aliviar la crisis heredada del sistema de salud y es presentada como el primer gran anuncio en política social del nuevo gobierno.",
       "objetividad": 88,
       "criterios": [
         {
           "ok": true,
-          "texto": "De la Espriella no irá a la ONU; VP Restrepo lo representará con agenda el 24 sep: El Tiempo (19 sep 2026)"
+          "texto": "Plan de choque salud: 1.069.196 pacientes con pendientes; compra de cartera EPS al 0% interés: Infobae Colombia (22 sep 2026)"
         },
         {
           "ok": true,
-          "texto": "Pacto Histórico critica decisión como 'impresentable internacional': Infobae (17 sep 2026)"
+          "texto": "Implementación antes de fin de septiembre: El Colombiano (22 sep 2026)"
         },
         {
           "ok": false,
-          "texto": "Agenda oficial detallada del VP Restrepo ante la ONU no disponible en fuentes consultadas"
+          "texto": "Monto total de cartera a adquirir y fuente de financiación no detallados en fuentes consultadas"
         }
       ],
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-palpito-la-intervencion-de-colombia-en-la-asamblea-de-la-onu-va-generar-un-gran-impacto-3587178",
-      "url_label": "El Tiempo — De la Espriella no irá a la ONU; el vicepresidente Restrepo lo representará"
+      "url": "https://www.infobae.com/colombia/2026/09/22/abelardo-de-la-espriella-anuncia-plan-de-choque-en-salud-para-destrabar-la-atencion-de-1069196-pacientes/",
+      "url_label": "Infobae — De la Espriella anuncia plan de choque en salud para más de un millón de pacientes"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Heraldo",
+      "fuente_color": "#e74c3c",
+      "fecha": "22 sep 2026",
+      "tag": "ESPRIELLA · DÍA 46 · Los Pachenca · Paro armado · Santa Marta · Seguridad · 'En una bolsa'",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella responde al paro armado de Los Pachenca: 'El que no se someta va a terminar en una bolsa'",
+      "resumen": "El presidente Abelardo de la Espriella confirmó su asistencia a un consejo de seguridad extraordinario en Santa Marta (Magdalena) ante la grave situación de orden público generada por un paro armado anunciado por el grupo criminal Los Pachenca (Autodefensas Conquistadoras de la Sierra Nevada). El presidente advirtió con total contundencia: 'El que no se someta va a terminar en una bolsa'. La declaración fue ampliamente cubierta por medios nacionales como emblema de la doctrina de seguridad del nuevo gobierno.",
+      "objetividad": 85,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Consejo seguridad extraordinario Santa Marta ante paro armado Los Pachenca: El Heraldo (22 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "De la Espriella: 'El que no se someta va a terminar en una bolsa': declaración presidencial documentada"
+        },
+        {
+          "ok": false,
+          "texto": "Medidas concretas adoptadas en el consejo de seguridad no detalladas en fuentes consultadas"
+        }
+      ],
+      "url": "https://www.elheraldo.co/colombia/2026/09/22/de-la-espriella-responde-a-anuncio-de-paro-armado-por-parte-de-los-pachenca-el-que-no-se-someta-va-a-terminar-en-una-bolsa/",
+      "url_label": "El Heraldo — De la Espriella responde a Los Pachenca: 'El que no se someta va a terminar en una bolsa'"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Infobae / Unitel",
+      "fuente_color": "#e74c3c",
+      "fecha": "22 sep 2026",
+      "tag": "ESPRIELLA · DÍA 46 · Costa Rica · Fernández Delgado · Narcotráfico · Crimen transnacional · Política exterior",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella se reunirá con presidenta de Costa Rica para combatir el narcotráfico transnacional",
+      "resumen": "El presidente Abelardo de la Espriella se reunirá con la presidenta de Costa Rica, Laura Fernández Delgado, para discutir acciones conjuntas contra el narcotráfico y las organizaciones criminales transnacionales. La reunión se enmarca en la agenda de política exterior del nuevo gobierno, que prioriza la cooperación regional en seguridad. De la Espriella reafirma así su agenda internacional sin salir del país, usando al VP Restrepo en la ONU y él mismo recibiendo mandatarios extranjeros.",
+      "objetividad": 86,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Reunión De la Espriella-Fernández Delgado (Costa Rica) para combatir narcotráfico: Infobae/Unitel (22 sep 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Acuerdos o resultados concretos de la reunión no disponibles en fuentes consultadas al cierre"
+        },
+        {
+          "ok": false,
+          "texto": "Agenda detallada y sede del encuentro no especificadas en fuentes consultadas"
+        }
+      ],
+      "url": "https://www.infobae.com/america/agencias/2026/09/22/martes-22-de-septiembre-de-2026-0700-gmt/",
+      "url_label": "Infobae — De la Espriella se reúne con presidenta de Costa Rica para combatir narcotráfico"
     },
     {
       "filter": "cepeda",
@@ -156,6 +212,34 @@
     },
     {
       "filter": "espriella",
+      "fuente": "El Tiempo",
+      "fuente_color": "#e74c3c",
+      "fecha": "19 sep 2026",
+      "tag": "ESPRIELLA · DÍA 43 · ONU · Promesa cumplida · VP Restrepo · Política exterior",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella no irá a la ONU: el VP Restrepo lo representa y cumple promesa de no salir del país",
+      "resumen": "El presidente Abelardo de la Espriella confirmó el 19 de septiembre que no viajará a la Asamblea General de la ONU (22-28 septiembre) en Nueva York, cumpliendo su promesa de campaña de no salir del país durante su mandato. El vicepresidente José Manuel Restrepo asistirá en su nombre con una agenda para el jueves 24 de septiembre, centrada en cuatro prioridades: atraer inversión extranjera, fortalecer la seguridad nacional, promover la innovación digital y reconstruir alianzas estratégicas. Desde el Pacto Histórico, figuras como Francia Márquez y Gustavo Bolívar calificaron la decisión como 'un impresentable internacional'.",
+      "objetividad": 88,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "De la Espriella no irá a la ONU; VP Restrepo lo representará con agenda el 24 sep: El Tiempo (19 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Pacto Histórico critica decisión como 'impresentable internacional': Infobae (17 sep 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Agenda oficial detallada del VP Restrepo ante la ONU no disponible en fuentes consultadas"
+        }
+      ],
+      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-palpito-la-intervencion-de-colombia-en-la-asamblea-de-la-onu-va-generar-un-gran-impacto-3587178",
+      "url_label": "El Tiempo — De la Espriella no irá a la ONU; el vicepresidente Restrepo lo representará"
+    },
+    {
+      "filter": "espriella",
       "fuente": "Infobae Colombia",
       "fuente_color": "#e74c3c",
       "fecha": "18 sep 2026",
@@ -183,32 +267,32 @@
       "url_label": "Infobae — De la Espriella lidera Consejo de Seguridad en Cartagena"
     },
     {
-      "filter": "espriella",
-      "fuente": "Semana",
-      "fuente_color": "#e74c3c",
-      "fecha": "18 sep 2026",
-      "tag": "ESPRIELLA · DÍA 42 · ACSN · Autodefensas · Cabecilla capturado · Sierra Nevada",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella anuncia golpe contra las Autodefensas Conquistadoras: captura de importante cabecilla",
-      "resumen": "El presidente Abelardo de la Espriella anunció el 18 de septiembre la captura de un importante cabecilla de las Autodefensas Conquistadoras de la Sierra Nevada (ACSN), como parte de la intensificación de operaciones en su primer mes y medio de gobierno. El mandatario entregó un balance de resultados en seguridad: más de 17.000 arrestos, 1.761 armas incautadas, 75.613 kg de drogas decomisadas y 85 órdenes de extradición firmadas, consolidando el cumplimiento de su promesa de 'seguridad sin tregua'.",
-      "objetividad": 89,
+      "filter": "cepeda",
+      "fuente": "El Colombiano / El Espectador",
+      "fuente_color": "#2980b9",
+      "fecha": "14 sep 2026",
+      "tag": "Cepeda · Corte Suprema · Indagación previa · Pacto Histórico · Financiación consulta · Farfán",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Corte Suprema abre indagación previa contra Cepeda por financiación de la consulta del Pacto Histórico",
+      "resumen": "La Sala Especial de Instrucción de la Corte Suprema de Justicia abrió el 14 de septiembre una indagación previa contra el senador Iván Cepeda para determinar si hubo irregularidades en la financiación de la consulta interna del Pacto Histórico (oct 2025), en la que Cepeda obtuvo ~65% de los votos como candidato presidencial de la coalición. El magistrado Francisco Farfán está a cargo y ordenó pruebas y testimonios. El 1 de septiembre, el CNE ya había votado terminar su propio proceso relacionado, pero la Corte Suprema sigue una vía separada.",
+      "objetividad": 86,
       "criterios": [
         {
           "ok": true,
-          "texto": "Captura de cabecilla ACSN anunciada por De la Espriella: Semana (18 sep 2026)"
+          "texto": "Sala Especial de Instrucción CSJ abre indagación previa contra Cepeda por financiación consulta Pacto Histórico: El Colombiano (14 sep 2026)"
         },
         {
           "ok": true,
-          "texto": "Balance seguridad: 17.000+ arrestos, 1.761 armas, 75.613 kg drogas, 85 extradiciones: Semana (18 sep 2026)"
+          "texto": "Magistrado Farfán a cargo; CNE había terminado proceso separado el 1 sep: El Espectador (14 sep 2026)"
         },
         {
           "ok": false,
-          "texto": "Identidad específica y rango del cabecilla capturado no publicados en fuentes consultadas"
+          "texto": "Respuesta formal de Cepeda a la indagación no documentada en fuentes consultadas"
         }
       ],
-      "url": "https://www.semana.com/nacion/articulo/abelardo-de-la-espriella-anuncio-fuerte-golpe-contra-las-autodefensas-conquistadoras-cayo-importante-cabecilla/202611/",
-      "url_label": "Semana — De la Espriella anuncia fuerte golpe contra las Autodefensas Conquistadoras"
+      "url": "https://www.elcolombiano.com/colombia/corte-suprema-indaga-ivan-cepeda-financiacion-consulta-pacto-historico-PG41035219",
+      "url_label": "El Colombiano — Corte Suprema abre indagación contra Cepeda por financiación de consulta del Pacto"
     },
     {
       "filter": "valencia",
@@ -237,90 +321,6 @@
       ],
       "url": "https://www.semana.com/politica/articulo/paloma-valencia-revive-episodio-de-la-presidencia-del-congreso-y-el-senador-alfredo-deluque-le-saca-los-trapos-al-sol/202612/",
       "url_label": "Semana — Deluque a Valencia: 'ya basta, deja de mentir'"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae Colombia / El Colombiano (CB Global Data)",
-      "fuente_color": "#e74c3c",
-      "fecha": "16 sep 2026",
-      "tag": "ESPRIELLA · DÍA 40 · Top 3 LatAm · CB Global Data · 53,6% aprobación · Sheinbaum · Bukele",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella: tercer presidente con mayor aprobación en Latinoamérica según CB Global Data",
-      "resumen": "Una encuesta CB Global Data publicada el 15-16 de septiembre de 2026 ubicó al presidente Abelardo de la Espriella como el tercer mandatario con mayor imagen positiva en América Latina con un 53,6%, por detrás de Claudia Sheinbaum (México) y Nayib Bukele (El Salvador). Colombia ocupó también el primer lugar regional en el porcentaje de ciudadanos que califican su gobierno como 'bueno o excelente' (53%). La medición, realizada a menos de seis semanas de su posesión, fue interpretada en medios nacionales como un 'bono de luna de miel' sólido que refleja expectativas positivas frente al nuevo gobierno.",
-      "objetividad": 90,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "CB Global Data: De la Espriella 3° en LatAm por aprobación positiva (53,6%): Infobae / El Colombiano (15-16 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Colombia 1° en LatAm en porcentaje que califica gobierno como bueno/excelente (53%): El Colombiano (16 sep 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Ficha técnica completa y muestra de la encuesta CB Global Data no disponible en fuentes consultadas"
-        }
-      ],
-      "url": "https://www.elcolombiano.com/colombia/abelardo-de-la-espriella-tercer-presidente-mayor-aprobacion-latinoamerica-encuesta-cb-global-data-LF41113945",
-      "url_label": "El Colombiano — De la Espriella: tercer presidente con mayor aprobación en Latinoamérica (CB Global Data)"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "X (Presidencia Colombia) / Colombia One",
-      "fuente_color": "#e74c3c",
-      "fecha": "16 sep 2026",
-      "tag": "ESPRIELLA · DÍA 40 · 85 extradiciones · 6 semanas · Narcos · Cumplimiento promesa · Antidrogas",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella anuncia 85 extradiciones en 6 semanas: ritmo récord de cooperación antidrogas con EEUU",
-      "resumen": "El presidente Abelardo de la Espriella anunció el 16 de septiembre a través de su cuenta de X (antes Twitter) que su gobierno ha aprobado 85 extradiciones desde su posesión el 7 de agosto, en lo que representa un ritmo sin precedentes en la historia reciente de Colombia. El anuncio contrasta directamente con la política del gobierno Petro, que frenó o dilató decenas de solicitudes de extradición de jefes del narcotráfico. Media internacional como Colombia One y The Rio Times cubrieron el anuncio como señal del giro radical en la política antidrogas y la alianza bilateral con Washington.",
-      "objetividad": 85,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Anuncio de 85 extradiciones en 6 semanas por De la Espriella: X/Presidencia y Colombia One (16 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Contraste con gobierno Petro en política de extradiciones: cobertura internacional confirmada"
-        },
-        {
-          "ok": false,
-          "texto": "Lista oficial detallada de las 85 extradiciones no publicada en fuentes consultadas"
-        }
-      ],
-      "url": "https://colombiaone.com/2026/09/16/abelardo-de-la-espriella-approval-colombia/",
-      "url_label": "Colombia One — De la Espriella: 85 extradiciones en 6 semanas, aprobación en alza"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Semana",
-      "fuente_color": "#e74c3c",
-      "fecha": "15 sep 2026",
-      "tag": "ESPRIELLA · DÍA 39 · Presupuesto 2027 · Congreso · Primer round · Ajuste fiscal · Mininterior",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "Gobierno De la Espriella gana el primer round: Congreso aprueba monto del Presupuesto General 2027",
-      "resumen": "El gobierno de Abelardo de la Espriella obtuvo su primera victoria legislativa de peso cuando el Congreso aprobó el monto total del Presupuesto General de la Nación para 2027, propuesto con recortes de hasta el 40% respecto a vigencias anteriores. El ministro del Interior celebró el resultado como el inicio de la consolidación del ajuste fiscal. Según analistas, aún restan tres grandes batallas legislativas que definirán el primer año del gobierno: la Ley de Ajuste Fiscal, el Plan Nacional de Desarrollo y la reforma al sistema de salud.",
-      "objetividad": 87,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Congreso aprueba monto Presupuesto General 2027; Mininterior celebra: Semana (semana 15 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Tres grandes batallas legislativas pendientes: Ajuste Fiscal, PND y salud: analistas"
-        },
-        {
-          "ok": false,
-          "texto": "Texto final aprobado del monto del Presupuesto no disponible en fuentes consultadas"
-        }
-      ],
-      "url": "https://www.semana.com/politica/articulo/gobierno-de-abelardo-de-la-espriella-gana-el-primer-round-y-ministro-del-interior-celebra-aprobacion-del-monto-del-presupuesto-general/202634/",
-      "url_label": "Semana — Gobierno De la Espriella gana el primer round: aprobación del Presupuesto General"
     }
   ],
   "sentimiento": {
@@ -328,29 +328,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 52,
-        "negativo": 37,
-        "neutro": 11,
+        "positivo": 55,
+        "negativo": 30,
+        "neutro": 15,
         "tendencia": "up",
-        "tendencia_texto": "20 sep — DÍA 44 DE GOBIERNO — NO VA A LA ONU (El Tiempo, 19 sep): cumple promesa de no salir del país; VP Restrepo lo representará en la Asamblea General del 22-28 sep. El Pacto Histórico critica la decisión como 'un impresentable internacional'. CONSEJO SEGURIDAD CARTAGENA (Infobae, 18 sep): presidió reunión con alcalde Turbay y gobernador Arana, calificó Cartagena como 'la joya de la corona'. GOLPE A ACSN (Semana, 18 sep): captura de cabecilla de Autodefensas Conquistadoras de la Sierra Nevada; balance 44 días: 17.000+ arrestos, 1.761 armas, 75.613 kg drogas, 85 extradiciones. Sentimiento (52/37/11): seguridad genera positivos; polémica ONU eleva negativos levemente; balance favorable se mantiene."
+        "tendencia_texto": "22 sep — DÍA 46 DE GOBIERNO — PLAN DE CHOQUE SALUD (Infobae/El Colombiano, 22 sep): anuncia desbloqueo de atención para 1.069.196 pacientes con medicamentos y procedimientos pendientes; compra de cartera EPS al 0% interés. PARO ARMADO LOS PACHENCA (El Heraldo, 22 sep): responde con firmeza al paro armado en Magdalena: 'El que no se someta va a terminar en una bolsa'; consejo de seguridad extraordinario en Santa Marta. REUNIÓN COSTA RICA (Infobae, 22 sep): se reunirá con presidenta Laura Fernández Delgado para combatir narcotráfico transnacional. Sentimiento (55/30/15): plan de salud y postura de seguridad elevan positivos; críticas de sectores progresistas por retórica confrontacional."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 18,
-        "negativo": 48,
-        "neutro": 34,
+        "positivo": 20,
+        "negativo": 50,
+        "neutro": 30,
         "tendencia": "down",
-        "tendencia_texto": "20 sep — DÍA 44 DEL NUEVO GOBIERNO — RESPALDO A MOVILIZACIONES (Infobae, 19 sep): Cepeda anuncia apoyo a marchas del 14 de octubre convocadas por la CUT y el Pacto Histórico, citando amenazas a derechos de múltiples sectores sociales. El concejal Barrios (CD) lo calificó como 'la misma jugadita de siempre'. INVESTIGACIÓN CORTE SUPREMA (Infobae, 14 sep): apertura de indagación previa por irregularidades en financiación de la consulta del Pacto Histórico (oct 2025). Sentimiento (18/48/34): imagen negativa dominante; investigación judicial y convocatoria a protestas dividida en medios."
+        "tendencia_texto": "22 sep — DÍA 46 DEL NUEVO GOBIERNO — MARCHAS 14 OCT (Semana, 21 sep): continúa respaldando las movilizaciones convocadas por CUT y Pacto Histórico, compartió video sobre preparativos. INDAGACIÓN CORTE SUPREMA (El Colombiano, 14 sep): magistrado Farfán investiga irregularidades en financiación de la consulta interna del Pacto Histórico (oct 2025). CNE terminó proceso separado el 1 sep. Sentimiento (20/50/30): imagen negativa dominante por investigación judicial; convocatoria a protestas divide medios entre apoyo progresista y crítica conservadora."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 18,
-        "negativo": 40,
-        "neutro": 42,
-        "tendencia": "down",
-        "tendencia_texto": "20 sep — CHOQUE CON DELUQUE (Semana, 16 sep): Valencia revivió el episodio de la presidencia del Congreso del 20 de julio y fue respondida duramente por Deluque, quien reveló que ella misma viajó a La Guajira a pedirle apoyo durante la primaria presidencial. Deluque: 'Paloma, ya basta, deja de mentir y de justificarte.' Sin noticias significativas el 18-20 sep. Sentimiento (18/40/42): cobertura mayoritariamente neutral-a-negativa; el cruce con Deluque sigue erosionando su credibilidad opositora."
+        "positivo": 35,
+        "negativo": 25,
+        "neutro": 40,
+        "tendencia": "up",
+        "tendencia_texto": "22 sep — CONDECORACIÓN CONGRESO (Semana, sep 2026): el Congreso condecora a Valencia en reconocimiento de sus 12 años como senadora (2014–2026); su período concluyó el 20 de julio. POSIBLE RENUNCIA A CURUL (Semana, sep 2026): no descarta renunciar a su curul en los próximos días; Cepeda, en cambio, anunció que no dimitirá. CHOQUE CON DELUQUE (Semana, 16 sep): episodio de presidencia del Congreso continúa como lastre. Sentimiento (35/25/40): cobertura retrospectiva positiva por 12 años de gestión; imagen moderada tras período de transición post-electoral."
       }
     ]
   },
@@ -359,7 +359,7 @@
     "cepeda": 48.7,
     "fuente": "Registraduría Nacional — escrutinio oficial 100% concluido, 24 jun 2026",
     "tipo": "resultado_oficial",
-    "nota": "RESULTADO DEFINITIVO (escrutinio 100%, credencial CNE 25 jun): De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos). Diferencia oficial: 251.854 votos sobre 25.668.478 sufragios válidos. Registraduría: 118.350 mesas revisadas, coincidencia preconteo-escrutinio 99,997%. Cepeda reconoció derrota el 25 jun y aceptó curul en el Senado. ENCUESTAS PREVIAS A VEDA: Guarumo/Ecoanalítica (13 jun): De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). AtlasIntel (5-10 jun): 52,2% vs 44,5% (+7,7 pts). CNC (15 jun): 48,6% vs 44,7% (+3,9 pts). Promedio CONDOR: +7,0 pts."
+    "nota": "RESULTADO DEFINITIVO (escrutinio 100%, credencial CNE 25 jun): De la Espriella 49,66% (12.960.166 votos) vs Cepeda 48,70% (12.708.312 votos). Diferencia oficial: 251.854 votos sobre 25.668.478 sufragios válidos. Registraduría: 118.350 mesas revisadas, coincidencia preconteo-escrutinio 99,997%. Cepeda reconoció derrota el 25 jun y aceptó curul en el Senado. — APROBACIÓN PRESIDENCIAL (post-posesión): AtlasIntel (30 ago–3 sep 2026, publicado ~8-15 sep): aprueba 51,8%, desaprueba 43,2%; 52,8% califican el gobierno como 'excelente o bueno'. CB Global Data (sep 2026): 53,6% imagen positiva; 3° entre presidentes latinoamericanos. — ENCUESTAS PREVIAS A VEDA: Guarumo/Ecoanalítica (13 jun): De la Espriella 52,6% vs Cepeda 45% (+7,6 pts). AtlasIntel (5-10 jun): 52,2% vs 44,5% (+7,7 pts). CNC (15 jun): 48,6% vs 44,7% (+3,9 pts). Promedio CONDOR: +7,0 pts."
   },
   "prediccion": {
     "primero": {
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 44 DE GOBIERNO — 20 de septiembre de 2026. NO VA A LA ONU (El Tiempo, 19 sep): De la Espriella cumple promesa de no salir del país; VP Restrepo asistirá a la Asamblea General (22-28 sep). Oposición critica la decisión como 'impresentable internacional'. CEPEDA CONVOCA MOVILIZACIONES (Infobae, 19 sep): el líder opositor anuncia respaldo a marchas del 14 de octubre organizadas por la CUT y el Pacto Histórico. CONSEJO SEGURIDAD CARTAGENA (Infobae, 18 sep): presidió reunión con autoridades locales, calificó Cartagena como 'joya de la corona'. GOLPE A ACSN (Semana, 18 sep): captura de cabecilla; balance 44 días: 17.000+ arrestos, 85 extradiciones. VALENCIA vs DELUQUE (Semana, 16 sep): confrontación sobre presidencia del Congreso debilita posición de Valencia. RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
+    "resumen_analisis": "DÍA 46 DE GOBIERNO — 22 de septiembre de 2026. PLAN DE CHOQUE SALUD (Infobae/El Colombiano, 22 sep): De la Espriella anuncia desbloqueo de atención para 1.069.196 pacientes; compra de cartera EPS al 0% interés. PARO ARMADO LOS PACHENCA (El Heraldo, 22 sep): consejo de seguridad extraordinario en Santa Marta; 'El que no se someta va a terminar en una bolsa'. REUNIÓN COSTA RICA (Infobae, 22 sep): encuentro con presidenta Fernández Delgado para combatir narcotráfico transnacional. APROBACIÓN: 51,8% (AtlasIntel, sep) — 53,6% imagen positiva (CB Global Data). CEPEDA EN LA OPOSICIÓN: continúa preparando marchas del 14 oct; bajo investigación de la Corte Suprema por financiación de consulta del Pacto (magistrado Farfán). VALENCIA EN TRANSICIÓN: condecorada por 12 años en el Congreso; evalúa posible renuncia a curul. RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
   },
-  "ultimo_deploy": "20 de septiembre de 2026"
+  "ultimo_deploy": "22 de septiembre de 2026"
 }
