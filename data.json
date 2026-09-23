@@ -1,5 +1,5 @@
 {
-  "fecha": "22 de septiembre de 2026",
+  "fecha": "23 de septiembre de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,6 +100,34 @@
   "noticias": [
     {
       "filter": "espriella",
+      "fuente": "Vanguardia",
+      "fuente_color": "#e74c3c",
+      "fecha": "23 sep 2026",
+      "tag": "ESPRIELLA · DÍA 47 · Girón · Santander · Corte Constitucional · Primera visita oficial · Paola Meneses · Juvenal Díaz",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella en Girón, Santander: primera visita oficial con la Corte Constitucional y el gobernador",
+      "resumen": "El presidente Abelardo de la Espriella visita este miércoles 23 de septiembre el municipio de Girón, Santander, para asistir a un evento organizado por la Corte Constitucional. Estarán presentes la presidenta de la Corte Constitucional, Paola Meneses, y el gobernador de Santander, Juvenal Díaz Mateus. Es la primera visita oficial del presidente De la Espriella a Santander desde su posesión el 7 de agosto, y forma parte de su agenda de presencia regional y coordinación con ramas del poder público.",
+      "objetividad": 85,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Visita oficial a Girón con presidenta de la Corte Constitucional Paola Meneses y gobernador Juvenal Díaz: Vanguardia (22-23 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Primera visita oficial a Santander desde posesión el 7 de agosto: contexto confirmado"
+        },
+        {
+          "ok": false,
+          "texto": "Agenda específica del evento con la Corte Constitucional no detallada en fuentes consultadas"
+        }
+      ],
+      "url": "https://www.vanguardia.com/politica/2026/09/22/presidente-de-la-espriella-estara-este-miercoles-en-giron-santander/",
+      "url_label": "Vanguardia — De la Espriella estará en Girón, Santander, con la Corte Constitucional"
+    },
+    {
+      "filter": "espriella",
       "fuente": "Infobae Colombia / El Colombiano",
       "fuente_color": "#e74c3c",
       "fecha": "22 sep 2026",
@@ -184,6 +212,34 @@
     },
     {
       "filter": "cepeda",
+      "fuente": "El Comercio (Perú) / Oposición colombiana",
+      "fuente_color": "#2980b9",
+      "fecha": "21 sep 2026",
+      "tag": "Cepeda · Oposición · Tropas EEUU · Congreso · Sin autorización · Acciones legales",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda denuncia ingreso de tropas de EE.UU. sin autorización del Congreso y amenaza acciones legales",
+      "resumen": "El senador Iván Cepeda y la oposición colombiana denunciaron alrededor del 21 de septiembre el ingreso de tropas de Estados Unidos al territorio nacional sin autorización del Congreso, y amenazaron con acciones legales contra el gobierno de Abelardo de la Espriella. La denuncia refleja la creciente tensión entre la oposición del Pacto Histórico y las políticas de seguridad del nuevo gobierno, que ha estrechado lazos con Washington desde su llegada al poder en agosto.",
+      "objetividad": 80,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Oposición colombiana denuncia ingreso de tropas de EE.UU. sin autorización del Congreso: El Comercio Perú (~21 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Amenaza de acciones legales contra el gobierno De la Espriella: reportado por medios internacionales"
+        },
+        {
+          "ok": false,
+          "texto": "Respuesta del gobierno De la Espriella a la denuncia de Cepeda no documentada en fuentes consultadas"
+        }
+      ],
+      "url": "https://elcomercio.pe/mundo/latinoamerica/la-oposicion-colombiana-denuncia-el-ingreso-de-tropas-de-estados-unidos-en-el-pais-sin-autorizacion-ultimas-noticia/",
+      "url_label": "El Comercio — La oposición colombiana denuncia el ingreso de tropas de EE.UU. sin autorización"
+    },
+    {
+      "filter": "cepeda",
       "fuente": "Infobae Colombia",
       "fuente_color": "#2980b9",
       "fecha": "19 sep 2026",
@@ -239,62 +295,6 @@
       "url_label": "El Tiempo — De la Espriella no irá a la ONU; el vicepresidente Restrepo lo representará"
     },
     {
-      "filter": "espriella",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#e74c3c",
-      "fecha": "18 sep 2026",
-      "tag": "ESPRIELLA · DÍA 42 · Cartagena · Consejo Seguridad · Turbay · Arana · 'Joya de la corona'",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella lidera Consejo de Seguridad en Cartagena: 'Es la joya de la corona'",
-      "resumen": "El presidente Abelardo de la Espriella presidió el 18 de septiembre un Consejo de Seguridad en Cartagena junto al alcalde Dumek Turbay y el gobernador Yamil Arana, como parte de su gira regional de coordinación en seguridad pública. De la Espriella calificó a Cartagena como 'la joya de la corona' de Colombia y reafirmó el compromiso del gobierno de llevar coordinación directa entre ejecutivo nacional, distrital y departamental a las regiones más estratégicas del país.",
-      "objetividad": 87,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Consejo de Seguridad en Cartagena con alcalde Turbay y gobernador Arana: Infobae Colombia (18 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Cartagena definida como 'joya de la corona': declaración presidencial (18 sep 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Acuerdos o medidas concretas del Consejo de Seguridad no detalladas en fuentes consultadas"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/09/18/abelardo-de-la-espriella-lidero-un-consejo-de-seguridad-en-cartagena-es-la-joya-de-la-corona/",
-      "url_label": "Infobae — De la Espriella lidera Consejo de Seguridad en Cartagena"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "El Colombiano / El Espectador",
-      "fuente_color": "#2980b9",
-      "fecha": "14 sep 2026",
-      "tag": "Cepeda · Corte Suprema · Indagación previa · Pacto Histórico · Financiación consulta · Farfán",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Corte Suprema abre indagación previa contra Cepeda por financiación de la consulta del Pacto Histórico",
-      "resumen": "La Sala Especial de Instrucción de la Corte Suprema de Justicia abrió el 14 de septiembre una indagación previa contra el senador Iván Cepeda para determinar si hubo irregularidades en la financiación de la consulta interna del Pacto Histórico (oct 2025), en la que Cepeda obtuvo ~65% de los votos como candidato presidencial de la coalición. El magistrado Francisco Farfán está a cargo y ordenó pruebas y testimonios. El 1 de septiembre, el CNE ya había votado terminar su propio proceso relacionado, pero la Corte Suprema sigue una vía separada.",
-      "objetividad": 86,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Sala Especial de Instrucción CSJ abre indagación previa contra Cepeda por financiación consulta Pacto Histórico: El Colombiano (14 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Magistrado Farfán a cargo; CNE había terminado proceso separado el 1 sep: El Espectador (14 sep 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Respuesta formal de Cepeda a la indagación no documentada en fuentes consultadas"
-        }
-      ],
-      "url": "https://www.elcolombiano.com/colombia/corte-suprema-indaga-ivan-cepeda-financiacion-consulta-pacto-historico-PG41035219",
-      "url_label": "El Colombiano — Corte Suprema abre indagación contra Cepeda por financiación de consulta del Pacto"
-    },
-    {
       "filter": "valencia",
       "fuente": "Semana",
       "fuente_color": "#9b59b6",
@@ -332,7 +332,7 @@
         "negativo": 30,
         "neutro": 15,
         "tendencia": "up",
-        "tendencia_texto": "22 sep — DÍA 46 DE GOBIERNO — PLAN DE CHOQUE SALUD (Infobae/El Colombiano, 22 sep): anuncia desbloqueo de atención para 1.069.196 pacientes con medicamentos y procedimientos pendientes; compra de cartera EPS al 0% interés. PARO ARMADO LOS PACHENCA (El Heraldo, 22 sep): responde con firmeza al paro armado en Magdalena: 'El que no se someta va a terminar en una bolsa'; consejo de seguridad extraordinario en Santa Marta. REUNIÓN COSTA RICA (Infobae, 22 sep): se reunirá con presidenta Laura Fernández Delgado para combatir narcotráfico transnacional. Sentimiento (55/30/15): plan de salud y postura de seguridad elevan positivos; críticas de sectores progresistas por retórica confrontacional."
+        "tendencia_texto": "23 sep — DÍA 47 DE GOBIERNO — GIRÓN, SANTANDER (Vanguardia, 23 sep): primera visita oficial a Santander junto a presidenta de la Corte Constitucional Paola Meneses y gobernador Juvenal Díaz Mateus. PLAN DE CHOQUE SALUD (Infobae/El Colombiano, 22 sep): anuncia desbloqueo para 1.069.196 pacientes; compra de cartera EPS al 0% interés. PARO ARMADO LOS PACHENCA (El Heraldo, 22 sep): 'El que no se someta va a terminar en una bolsa'; consejo de seguridad extraordinario en Santa Marta. REUNIÓN COSTA RICA (Infobae, 22 sep): encuentro con presidenta Fernández Delgado para combatir narcotráfico transnacional. Sentimiento (55/30/15): agenda regional y de salud sostiene positivos; retórica de seguridad genera debate."
       },
       {
         "nombre": "Cepeda",
@@ -341,7 +341,7 @@
         "negativo": 50,
         "neutro": 30,
         "tendencia": "down",
-        "tendencia_texto": "22 sep — DÍA 46 DEL NUEVO GOBIERNO — MARCHAS 14 OCT (Semana, 21 sep): continúa respaldando las movilizaciones convocadas por CUT y Pacto Histórico, compartió video sobre preparativos. INDAGACIÓN CORTE SUPREMA (El Colombiano, 14 sep): magistrado Farfán investiga irregularidades en financiación de la consulta interna del Pacto Histórico (oct 2025). CNE terminó proceso separado el 1 sep. Sentimiento (20/50/30): imagen negativa dominante por investigación judicial; convocatoria a protestas divide medios entre apoyo progresista y crítica conservadora."
+        "tendencia_texto": "23 sep — DÍA 47 DEL NUEVO GOBIERNO — TROPAS EEUU SIN AUTORIZACIÓN (El Comercio/oposición, 21 sep): Cepeda y oposición denuncian ingreso de tropas de EE.UU. sin aval del Congreso; amenazan acciones legales contra el gobierno De la Espriella. MARCHAS 14 OCT (Infobae, 19 sep): continúa respaldando movilizaciones convocadas por CUT y Pacto Histórico. GABINETE ALTERNO (Proceso México, 26 ago): Cepeda designó 'gabinete alterno' para hacer contrapeso al gobierno. Sentimiento (20/50/30): activa oposición frente a políticas de seguridad; imagen negativa sostenida por postura confrontacional hacia el gobierno."
       },
       {
         "nombre": "Valencia",
@@ -350,7 +350,7 @@
         "negativo": 25,
         "neutro": 40,
         "tendencia": "up",
-        "tendencia_texto": "22 sep — CONDECORACIÓN CONGRESO (Semana, sep 2026): el Congreso condecora a Valencia en reconocimiento de sus 12 años como senadora (2014–2026); su período concluyó el 20 de julio. POSIBLE RENUNCIA A CURUL (Semana, sep 2026): no descarta renunciar a su curul en los próximos días; Cepeda, en cambio, anunció que no dimitirá. CHOQUE CON DELUQUE (Semana, 16 sep): episodio de presidencia del Congreso continúa como lastre. Sentimiento (35/25/40): cobertura retrospectiva positiva por 12 años de gestión; imagen moderada tras período de transición post-electoral."
+        "tendencia_texto": "23 sep — CONDECORACIÓN CONGRESO (Semana, sep 2026): el Congreso condecora a Valencia en reconocimiento de sus 12 años como senadora (2014–2026); su período concluyó el 20 de julio. POSIBLE RENUNCIA A CURUL (Semana, sep 2026): no descarta renunciar a su curul en los próximos días. CHOQUE CON DELUQUE (Semana, 16 sep): senador Deluque la confronta públicamente: 'Paloma, ya basta, deja de mentir'. Sin actividad pública confirmada en las últimas 48 horas. Sentimiento (35/25/40): cobertura moderada en período de transición post-electoral; perfil más bajo que otros actores."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 46 DE GOBIERNO — 22 de septiembre de 2026. PLAN DE CHOQUE SALUD (Infobae/El Colombiano, 22 sep): De la Espriella anuncia desbloqueo de atención para 1.069.196 pacientes; compra de cartera EPS al 0% interés. PARO ARMADO LOS PACHENCA (El Heraldo, 22 sep): consejo de seguridad extraordinario en Santa Marta; 'El que no se someta va a terminar en una bolsa'. REUNIÓN COSTA RICA (Infobae, 22 sep): encuentro con presidenta Fernández Delgado para combatir narcotráfico transnacional. APROBACIÓN: 51,8% (AtlasIntel, sep) — 53,6% imagen positiva (CB Global Data). CEPEDA EN LA OPOSICIÓN: continúa preparando marchas del 14 oct; bajo investigación de la Corte Suprema por financiación de consulta del Pacto (magistrado Farfán). VALENCIA EN TRANSICIÓN: condecorada por 12 años en el Congreso; evalúa posible renuncia a curul. RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
+    "resumen_analisis": "DÍA 47 DE GOBIERNO — 23 de septiembre de 2026. GIRÓN, SANTANDER (Vanguardia, 23 sep): De la Espriella realiza su primera visita oficial a Santander junto a la presidenta de la Corte Constitucional Paola Meneses y el gobernador Juvenal Díaz. PLAN DE CHOQUE SALUD (22 sep): desbloqueo para 1.069.196 pacientes; compra de cartera EPS al 0% interés. PARO ARMADO LOS PACHENCA (22 sep): consejo de seguridad extraordinario en Santa Marta; 'El que no se someta va a terminar en una bolsa'. APROBACIÓN: 51,8% (AtlasIntel, sep). CEPEDA EN LA OPOSICIÓN: denuncia tropas de EE.UU. sin autorización del Congreso (21 sep); amenazan acciones legales. Marchas del 14 oct en preparación. VALENCIA EN TRANSICIÓN: sin actividad pública en últimas 48h; evalúa renuncia a curul. RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
   },
-  "ultimo_deploy": "22 de septiembre de 2026"
+  "ultimo_deploy": "23 de septiembre de 2026"
 }
