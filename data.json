@@ -1,5 +1,5 @@
 {
-  "fecha": "23 de septiembre de 2026",
+  "fecha": "28 de septiembre de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -102,225 +102,225 @@
       "filter": "espriella",
       "fuente": "Vanguardia",
       "fuente_color": "#e74c3c",
-      "fecha": "23 sep 2026",
-      "tag": "ESPRIELLA · DÍA 47 · Girón · Santander · Corte Constitucional · Primera visita oficial · Paola Meneses · Juvenal Díaz",
+      "fecha": "28 sep 2026",
+      "tag": "ESPRIELLA · DÍA 52 · FMI · Crisis fiscal · 'Se robaron todo' · Alocución · Hacienda",
       "tag_color": "#c0392b",
       "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella en Girón, Santander: primera visita oficial con la Corte Constitucional y el gobernador",
-      "resumen": "El presidente Abelardo de la Espriella visita este miércoles 23 de septiembre el municipio de Girón, Santander, para asistir a un evento organizado por la Corte Constitucional. Estarán presentes la presidenta de la Corte Constitucional, Paola Meneses, y el gobernador de Santander, Juvenal Díaz Mateus. Es la primera visita oficial del presidente De la Espriella a Santander desde su posesión el 7 de agosto, y forma parte de su agenda de presencia regional y coordinación con ramas del poder público.",
-      "objetividad": 85,
+      "titulo": "'Se robaron todo': De la Espriella anuncia en alocución que buscará al FMI para sanear las finanzas",
+      "resumen": "En alocución presidencial del 28 de septiembre, el presidente Abelardo de la Espriella aseguró que el gobierno de Gustavo Petro dejó las finanzas públicas devastadas: 'Se robaron todo'. Anunció que Colombia buscará apoyo del Fondo Monetario Internacional (FMI) para sanear la situación fiscal y ordenó al ministro de Hacienda iniciar conversaciones con el organismo. El anuncio marca la primera vez que Colombia acude al FMI en años y genera debate en medios sobre el alcance del déficit heredado del gobierno anterior.",
+      "objetividad": 84,
       "criterios": [
         {
           "ok": true,
-          "texto": "Visita oficial a Girón con presidenta de la Corte Constitucional Paola Meneses y gobernador Juvenal Díaz: Vanguardia (22-23 sep 2026)"
+          "texto": "Alocución presidencial 28 sep: De la Espriella anuncia búsqueda de apoyo del FMI: Vanguardia (28 sep 2026)"
         },
         {
           "ok": true,
-          "texto": "Primera visita oficial a Santander desde posesión el 7 de agosto: contexto confirmado"
+          "texto": "Declaración 'Se robaron todo' y orden al ministro de Hacienda: El Colombiano (28 sep 2026)"
         },
         {
           "ok": false,
-          "texto": "Agenda específica del evento con la Corte Constitucional no detallada en fuentes consultadas"
+          "texto": "Monto del déficit fiscal específico y condiciones del eventual acuerdo con el FMI no detallados en fuentes consultadas"
         }
       ],
-      "url": "https://www.vanguardia.com/politica/2026/09/22/presidente-de-la-espriella-estara-este-miercoles-en-giron-santander/",
-      "url_label": "Vanguardia — De la Espriella estará en Girón, Santander, con la Corte Constitucional"
+      "url": "https://www.vanguardia.com/colombia/2026/09/28/se-robaron-todo-de-la-espriella-anuncia-en-alocucion-que-buscara-al-fmi-para-sanear-las-finanzas/",
+      "url_label": "Vanguardia — 'Se robaron todo': De la Espriella anuncia que buscará al FMI"
     },
     {
       "filter": "espriella",
-      "fuente": "Infobae Colombia / El Colombiano",
-      "fuente_color": "#e74c3c",
-      "fecha": "22 sep 2026",
-      "tag": "ESPRIELLA · DÍA 46 · Plan salud · EPS · 1.069.196 pacientes · Plan de choque · Medicamentos",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella anuncia plan de choque en salud para destrabar atención de más de un millón de pacientes",
-      "resumen": "El presidente Abelardo de la Espriella anunció el 22 de septiembre la primera fase de un plan de emergencia para destrabar la atención de 1.069.196 pacientes con medicamentos y procedimientos pendientes. El gobierno comprará cartera de EPS al 0% de interés con un año de gracia para su pago. La implementación comenzará antes de que termine septiembre de 2026. La medida busca aliviar la crisis heredada del sistema de salud y es presentada como el primer gran anuncio en política social del nuevo gobierno.",
-      "objetividad": 88,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Plan de choque salud: 1.069.196 pacientes con pendientes; compra de cartera EPS al 0% interés: Infobae Colombia (22 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Implementación antes de fin de septiembre: El Colombiano (22 sep 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Monto total de cartera a adquirir y fuente de financiación no detallados en fuentes consultadas"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/09/22/abelardo-de-la-espriella-anuncia-plan-de-choque-en-salud-para-destrabar-la-atencion-de-1069196-pacientes/",
-      "url_label": "Infobae — De la Espriella anuncia plan de choque en salud para más de un millón de pacientes"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Heraldo",
-      "fuente_color": "#e74c3c",
-      "fecha": "22 sep 2026",
-      "tag": "ESPRIELLA · DÍA 46 · Los Pachenca · Paro armado · Santa Marta · Seguridad · 'En una bolsa'",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella responde al paro armado de Los Pachenca: 'El que no se someta va a terminar en una bolsa'",
-      "resumen": "El presidente Abelardo de la Espriella confirmó su asistencia a un consejo de seguridad extraordinario en Santa Marta (Magdalena) ante la grave situación de orden público generada por un paro armado anunciado por el grupo criminal Los Pachenca (Autodefensas Conquistadoras de la Sierra Nevada). El presidente advirtió con total contundencia: 'El que no se someta va a terminar en una bolsa'. La declaración fue ampliamente cubierta por medios nacionales como emblema de la doctrina de seguridad del nuevo gobierno.",
-      "objetividad": 85,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Consejo seguridad extraordinario Santa Marta ante paro armado Los Pachenca: El Heraldo (22 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "De la Espriella: 'El que no se someta va a terminar en una bolsa': declaración presidencial documentada"
-        },
-        {
-          "ok": false,
-          "texto": "Medidas concretas adoptadas en el consejo de seguridad no detalladas en fuentes consultadas"
-        }
-      ],
-      "url": "https://www.elheraldo.co/colombia/2026/09/22/de-la-espriella-responde-a-anuncio-de-paro-armado-por-parte-de-los-pachenca-el-que-no-se-someta-va-a-terminar-en-una-bolsa/",
-      "url_label": "El Heraldo — De la Espriella responde a Los Pachenca: 'El que no se someta va a terminar en una bolsa'"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae / Unitel",
-      "fuente_color": "#e74c3c",
-      "fecha": "22 sep 2026",
-      "tag": "ESPRIELLA · DÍA 46 · Costa Rica · Fernández Delgado · Narcotráfico · Crimen transnacional · Política exterior",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella se reunirá con presidenta de Costa Rica para combatir el narcotráfico transnacional",
-      "resumen": "El presidente Abelardo de la Espriella se reunirá con la presidenta de Costa Rica, Laura Fernández Delgado, para discutir acciones conjuntas contra el narcotráfico y las organizaciones criminales transnacionales. La reunión se enmarca en la agenda de política exterior del nuevo gobierno, que prioriza la cooperación regional en seguridad. De la Espriella reafirma así su agenda internacional sin salir del país, usando al VP Restrepo en la ONU y él mismo recibiendo mandatarios extranjeros.",
-      "objetividad": 86,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Reunión De la Espriella-Fernández Delgado (Costa Rica) para combatir narcotráfico: Infobae/Unitel (22 sep 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Acuerdos o resultados concretos de la reunión no disponibles en fuentes consultadas al cierre"
-        },
-        {
-          "ok": false,
-          "texto": "Agenda detallada y sede del encuentro no especificadas en fuentes consultadas"
-        }
-      ],
-      "url": "https://www.infobae.com/america/agencias/2026/09/22/martes-22-de-septiembre-de-2026-0700-gmt/",
-      "url_label": "Infobae — De la Espriella se reúne con presidenta de Costa Rica para combatir narcotráfico"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "El Comercio (Perú) / Oposición colombiana",
-      "fuente_color": "#2980b9",
-      "fecha": "21 sep 2026",
-      "tag": "Cepeda · Oposición · Tropas EEUU · Congreso · Sin autorización · Acciones legales",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda denuncia ingreso de tropas de EE.UU. sin autorización del Congreso y amenaza acciones legales",
-      "resumen": "El senador Iván Cepeda y la oposición colombiana denunciaron alrededor del 21 de septiembre el ingreso de tropas de Estados Unidos al territorio nacional sin autorización del Congreso, y amenazaron con acciones legales contra el gobierno de Abelardo de la Espriella. La denuncia refleja la creciente tensión entre la oposición del Pacto Histórico y las políticas de seguridad del nuevo gobierno, que ha estrechado lazos con Washington desde su llegada al poder en agosto.",
-      "objetividad": 80,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Oposición colombiana denuncia ingreso de tropas de EE.UU. sin autorización del Congreso: El Comercio Perú (~21 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Amenaza de acciones legales contra el gobierno De la Espriella: reportado por medios internacionales"
-        },
-        {
-          "ok": false,
-          "texto": "Respuesta del gobierno De la Espriella a la denuncia de Cepeda no documentada en fuentes consultadas"
-        }
-      ],
-      "url": "https://elcomercio.pe/mundo/latinoamerica/la-oposicion-colombiana-denuncia-el-ingreso-de-tropas-de-estados-unidos-en-el-pais-sin-autorizacion-ultimas-noticia/",
-      "url_label": "El Comercio — La oposición colombiana denuncia el ingreso de tropas de EE.UU. sin autorización"
-    },
-    {
-      "filter": "cepeda",
       "fuente": "Infobae Colombia",
-      "fuente_color": "#2980b9",
-      "fecha": "19 sep 2026",
-      "tag": "Cepeda · Oposición · Movilizaciones · 14 oct · CUT · Derechos amenazados",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda anuncia respaldo a movilizaciones del 14 de octubre contra el gobierno De la Espriella",
-      "resumen": "El senador Iván Cepeda anunció el 19 de septiembre que respaldará las movilizaciones convocadas para el 14 de octubre por la CUT, el Comando Unitario Nacional y el Pacto Histórico contra el gobierno de Abelardo de la Espriella. Señaló que damnificados por sismos, campesinos, víctimas del conflicto, docentes, estudiantes, trabajadores públicos, pueblos indígenas, comunidades afrodescendientes, jóvenes, personas en reincorporación, el sector LGBTQ+, jueces, artistas y periodistas críticos tienen sus derechos amenazados. El concejal bogotano Andrés Barrios (Centro Democrático) respondió: 'La misma jugadita de siempre' y alertó a las autoridades capitalinas.",
+      "fuente_color": "#e74c3c",
+      "fecha": "28 sep 2026",
+      "tag": "ESPRIELLA · DÍA 52 · Corrupción Petro · UNGRD · Negociación · 'Castigo atenuado' · Justicia",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella propone negociar con acusados de corrupción del gobierno Petro: 'Tendrán un castigo atenuado'",
+      "resumen": "El presidente Abelardo de la Espriella propuso el 28 de septiembre que la justicia negocie con los investigados y acusados por corrupción durante el gobierno de Gustavo Petro —en particular del caso UNGRD—, a cambio de castigos atenuados. El pronunciamiento se da luego de que el Consejo de Estado declarara la 'muerte política' del expresidente del Congreso Iván Name, vinculado al escándalo. La propuesta genera debate: aliados la ven como pragmatismo judicial; la oposición la califica de impunidad selectiva.",
+      "objetividad": 82,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "De la Espriella propone negociación con acusados por corrupción en el gobierno Petro: Infobae Colombia (28 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Consejo de Estado declara 'muerte política' de Iván Name (caso UNGRD): reportado por medios nacionales (28 sep 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Reacción formal de la Fiscalía o el Congreso a la propuesta de negociación no disponible en fuentes consultadas"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/09/28/abelardo-de-la-espriella-propuso-negociar-con-acusados-por-corrupcion-en-el-gobierno-petro-tendran-un-castigo-atenuado/",
+      "url_label": "Infobae — De la Espriella propone negociar con acusados de corrupción del gobierno Petro"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#e74c3c",
+      "fecha": "28 sep 2026",
+      "tag": "ESPRIELLA · DÍA 52 · Seguridad · 'Estaré al frente' · Extradición Araña · Santa Marta · Cali",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella defiende política de seguridad en alocución: 'Estaré al frente de los operativos'",
+      "resumen": "En la misma alocución del 28 de septiembre, De la Espriella defendió su estrategia de seguridad y afirmó que estará 'al frente de los operativos' contra las estructuras criminales. Presentó como logros las operaciones en Santa Marta y Cali, la extradición a EE.UU. de Giovani Andrés Rojas alias 'Araña', y la reducción en delitos como secuestro, extorsión y masacres. Es la tercera alocución presidencial en el mes de septiembre, reafirmando el perfil de mano dura del gobierno.",
+      "objetividad": 87,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "De la Espriella: 'Estaré al frente de los operativos'; extradición alias Araña: Infobae Colombia (28 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Operaciones en Santa Marta y Cali presentadas como logros: reportado por medios nacionales"
+        },
+        {
+          "ok": false,
+          "texto": "Cifras exactas de reducción de delitos y fuente metodológica no detalladas en fuentes consultadas"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/09/28/abelardo-de-la-espriella-se-dirigio-ante-el-pais-para-defender-su-politica-de-seguridad-estare-al-frente-de-los-operativos/",
+      "url_label": "Infobae — De la Espriella defiende política de seguridad: 'Estaré al frente de los operativos'"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Universal (Cartagena)",
+      "fuente_color": "#e74c3c",
+      "fecha": "26 sep 2026",
+      "tag": "ESPRIELLA · DÍA 50 · Ofensiva criminal · Fuerza Pública · Seguridad · Continuidad",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "De la Espriella anuncia continuidad de la ofensiva de la Fuerza Pública contra grupos criminales",
+      "resumen": "El presidente Abelardo de la Espriella anunció el 26 de septiembre que su gobierno mantendrá las operaciones de la Fuerza Pública contra las estructuras criminales en todo el país y reiteró que hará cumplir la ley. El anuncio llega en el día 50 de su mandato, y consolida la doctrina de seguridad del gobierno como eje central de su gestión frente a grupos como Los Pachenca, las disidencias de las FARC y el ELN.",
       "objetividad": 85,
       "criterios": [
         {
           "ok": true,
-          "texto": "Cepeda anuncia respaldo a movilizaciones del 14 oct: Infobae Colombia (19 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Concejal Barrios (CD) critica convocatoria como 'la misma jugadita de siempre': Infobae (19 sep 2026)"
+          "texto": "De la Espriella anuncia continuidad de ofensiva contra grupos criminales: El Universal Cartagena (26 sep 2026)"
         },
         {
           "ok": false,
-          "texto": "Pliego de peticiones oficial de las organizaciones convocantes no disponible en fuentes consultadas"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/09/19/ivan-cepeda-informo-que-respaldara-las-movilizaciones-contra-el-gobierno-de-abelardo-de-la-espriella-por-presuntas-amenazas-a-derechos/",
-      "url_label": "Infobae — Cepeda respalda movilizaciones del 14 de octubre contra el gobierno De la Espriella"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Tiempo",
-      "fuente_color": "#e74c3c",
-      "fecha": "19 sep 2026",
-      "tag": "ESPRIELLA · DÍA 43 · ONU · Promesa cumplida · VP Restrepo · Política exterior",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella no irá a la ONU: el VP Restrepo lo representa y cumple promesa de no salir del país",
-      "resumen": "El presidente Abelardo de la Espriella confirmó el 19 de septiembre que no viajará a la Asamblea General de la ONU (22-28 septiembre) en Nueva York, cumpliendo su promesa de campaña de no salir del país durante su mandato. El vicepresidente José Manuel Restrepo asistirá en su nombre con una agenda para el jueves 24 de septiembre, centrada en cuatro prioridades: atraer inversión extranjera, fortalecer la seguridad nacional, promover la innovación digital y reconstruir alianzas estratégicas. Desde el Pacto Histórico, figuras como Francia Márquez y Gustavo Bolívar calificaron la decisión como 'un impresentable internacional'.",
-      "objetividad": 88,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "De la Espriella no irá a la ONU; VP Restrepo lo representará con agenda el 24 sep: El Tiempo (19 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Pacto Histórico critica decisión como 'impresentable internacional': Infobae (17 sep 2026)"
+          "texto": "Detalle de operaciones específicas anunciadas y unidades militares involucradas no disponible en fuentes consultadas"
         },
         {
           "ok": false,
-          "texto": "Agenda oficial detallada del VP Restrepo ante la ONU no disponible en fuentes consultadas"
+          "texto": "Resultados cuantitativos de la ofensiva en la semana previa no detallados en fuentes consultadas"
         }
       ],
-      "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-palpito-la-intervencion-de-colombia-en-la-asamblea-de-la-onu-va-generar-un-gran-impacto-3587178",
-      "url_label": "El Tiempo — De la Espriella no irá a la ONU; el vicepresidente Restrepo lo representará"
+      "url": "https://www.eluniversal.com.co/colombia/2026/09/26/de-la-espriella-anuncia-continuidad-de-ofensiva-contra-grupos-criminales/",
+      "url_label": "El Universal — De la Espriella anuncia continuidad de ofensiva contra grupos criminales"
     },
     {
       "filter": "valencia",
       "fuente": "Semana",
       "fuente_color": "#9b59b6",
-      "fecha": "16 sep 2026",
-      "tag": "Valencia · Centro Democrático · Deluque · Presidencia Congreso · 'Deja de mentir' · La Guajira",
+      "fecha": "25 sep 2026",
+      "tag": "Valencia · ANDI · Bruce Mac Master · Gobierno De la Espriella · Tensión empresarial · Autonomía gremial",
       "tag_color": "#8e44ad",
       "tag_bg": "rgba(142,68,173,0.15)",
-      "titulo": "Deluque le 'saca los trapos al sol' a Valencia: 'Paloma, ya basta, deja de mentir y de justificarte'",
-      "resumen": "El 16 de septiembre, el senador Alfredo Deluque respondió duramente a Paloma Valencia después de que ella reviviera el episodio de la elección de la presidencia del Congreso del 20 de julio. Deluque reveló públicamente que Valencia viajó personalmente a La Guajira para pedirle su apoyo durante su campaña presidencial y lo agradeció en privado, contradiciendo el posicionamiento que ella había adoptado en los debates sobre ese voto. La frase de Deluque —'Paloma, ya basta, deja de mentir y de justificarte a mí'— circuló ampliamente en medios y fue vista como un golpe a la credibilidad de la senadora del Centro Democrático en su rol opositor.",
-      "objetividad": 84,
+      "titulo": "Valencia defiende a Bruce Mac Master y pone 'punto final' al debate de la ANDI: 'Se debe quedar'",
+      "resumen": "La senadora Paloma Valencia publicó el 25 de septiembre un video defendiendo la continuidad de Bruce Mac Master al frente de la ANDI en medio de la creciente tensión entre el presidente del gremio y el gobierno De la Espriella. Valencia afirmó: 'Creo que Bruce Mac Master sí se debe quedar en la ANDI'. Recordó que durante los cuatro años de Petro, Mac Master defendió la institucionalidad y propuso alternativas. El gobierno de De la Espriella ha ordenado que ningún ministro se reúna con Mac Master, lo que ha provocado la salida de empresas como Coca-Cola Femsa, Incauca y Providencia del gremio.",
+      "objetividad": 87,
       "criterios": [
         {
           "ok": true,
-          "texto": "Deluque responde a Valencia: 'ya basta, deja de mentir'; viaje a La Guajira revelado: Semana (16 sep 2026)"
+          "texto": "Valencia defiende a Mac Master y pide que se quede en la ANDI: Semana (25 sep 2026)"
         },
         {
           "ok": true,
-          "texto": "Valencia revive episodio presidencia del Congreso del 20 de julio: Semana (16 sep 2026)"
+          "texto": "Tensión gobierno De la Espriella-ANDI: orden de no reunirse con Mac Master; salida de Coca-Cola Femsa y otras empresas: Semana/El Tiempo (sep 2026)"
         },
         {
           "ok": false,
-          "texto": "Réplica formal de Valencia a las declaraciones de Deluque no documentada en fuentes consultadas"
+          "texto": "Respuesta del gobierno De la Espriella al pronunciamiento de Valencia no documentada en fuentes consultadas"
         }
       ],
-      "url": "https://www.semana.com/politica/articulo/paloma-valencia-revive-episodio-de-la-presidencia-del-congreso-y-el-senador-alfredo-deluque-le-saca-los-trapos-al-sol/202612/",
-      "url_label": "Semana — Deluque a Valencia: 'ya basta, deja de mentir'"
+      "url": "https://www.semana.com/economia/empresas/articulo/paloma-valencia-le-pone-punto-final-al-debate-de-la-andi-y-dice-que-bruce-mac-master-se-debe-quedar/202612/",
+      "url_label": "Semana — Valencia defiende a Bruce Mac Master: 'Se debe quedar en la ANDI'"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Prensa Latina",
+      "fuente_color": "#2980b9",
+      "fecha": "23 sep 2026",
+      "tag": "Cepeda · Oposición · 'Panorama desastroso' · Damnificados · Guerra · Control armado",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda: 'Panorama en Colombia es desastroso' por mal manejo del gobierno y fenómenos naturales",
+      "resumen": "El senador Iván Cepeda calificó el 23 de septiembre como 'desastroso' el panorama del país bajo el gobierno de Abelardo de la Espriella. Denunció el abandono de cientos de miles de damnificados por fenómenos naturales y alertó que 'la guerra sin tregua de De la Espriella está comenzando a sumir departamentos enteros en la parálisis del control armado'. Cepeda señala que los municipios más golpeados son los más afectados por la política de seguridad sin inversión social.",
+      "objetividad": 78,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Cepeda califica como 'desastroso' el panorama bajo gobierno De la Espriella: Prensa Latina (23 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Denuncia abandono de damnificados y control armado en departamentos: Últimas Noticias Venezuela/Prensa Latina (23 sep 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Departamentos específicos citados y cifras de damnificados no detallados en fuentes consultadas"
+        }
+      ],
+      "url": "https://www.prensa-latina.cu/2026/09/23/panorama-en-colombia-es-desastroso-opina-lider-opositor/",
+      "url_label": "Prensa Latina — Cepeda: 'Panorama en Colombia es desastroso'"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Semanario Voz / Partido Comunista Colombiano",
+      "fuente_color": "#2980b9",
+      "fecha": "23 sep 2026",
+      "tag": "Cepeda · Oposición · Unificación · Marchas 14 oct · Paro nov · CUT · Pacto Histórico",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "La oposición se unifica y se moviliza: marchas el 14 de octubre y paro nacional en noviembre",
+      "resumen": "Organizaciones sociales, sindicales, campesinas, indígenas, afrodescendientes y políticas del Pacto Histórico se reunieron en un Encuentro Nacional para trazar una hoja de ruta de movilizaciones. Convocan marchas para el 14 de octubre en todo el país y preparan condiciones para un paro nacional en noviembre. Iván Cepeda lidera el frente político de la oposición junto a la CUT. Las demandas incluyen garantías en educación, salud pública, derechos laborales, paz y derechos campesinos.",
+      "objetividad": 80,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Encuentro Nacional de oposición: hoja de ruta con marchas 14 oct y paro nacional noviembre: Semanario Voz/PCC (sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Cepeda lidera frente político opositor junto a CUT: Prensa Latina (sep 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Número de organizaciones adheridas y pliego de peticiones oficial no disponibles en fuentes consultadas"
+        }
+      ],
+      "url": "https://semanariovoz.com/la-oposicion-se-unifica-y-se-moviliza/",
+      "url_label": "Semanario Voz — La oposición se unifica y se moviliza: marchas 14 oct, paro noviembre"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "El Colombiano",
+      "fuente_color": "#e74c3c",
+      "fecha": "28 sep 2026",
+      "tag": "ESPRIELLA · DÍA 52 · FMI · Fiscal · Colombia · Deuda · Crisis financiera heredada",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "Colombia vuelve a tocar las puertas del FMI ante la crisis fiscal: ¿qué busca el gobierno De la Espriella?",
+      "resumen": "El gobierno de Abelardo de la Espriella inició conversaciones con el Fondo Monetario Internacional ante una aguda crisis fiscal que atribuye al gobierno de Gustavo Petro. El Colombiano analiza las opciones disponibles: una Línea de Crédito Flexible (LCF), un programa de financiamiento de emergencia o una revisión del artículo IV. El ministro de Hacienda coordinará las negociaciones. Expertos consultados por el diario advierten que Colombia podría enfrentar exigencias de ajuste fiscal que afecten el gasto social del nuevo gobierno.",
+      "objetividad": 85,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Colombia busca apoyo del FMI ante crisis fiscal; ministro de Hacienda lidera negociaciones: El Colombiano (28 sep 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Análisis de opciones de línea de crédito y condiciones del FMI: El Colombiano (28 sep 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Cifra exacta del déficit fiscal y condiciones específicas de posible acuerdo no detalladas en fuentes consultadas"
+        }
+      ],
+      "url": "https://www.elcolombiano.com/negocios/colombia-pide-apoyo-fmi-crisis-fiscal-gobierno-abelardo-de-la-espriella-por-que-AJ41591670",
+      "url_label": "El Colombiano — Colombia vuelve a tocar las puertas del FMI ante la crisis fiscal"
     }
   ],
   "sentimiento": {
@@ -328,29 +328,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 55,
-        "negativo": 30,
+        "positivo": 52,
+        "negativo": 33,
         "neutro": 15,
-        "tendencia": "up",
-        "tendencia_texto": "23 sep — DÍA 47 DE GOBIERNO — GIRÓN, SANTANDER (Vanguardia, 23 sep): primera visita oficial a Santander junto a presidenta de la Corte Constitucional Paola Meneses y gobernador Juvenal Díaz Mateus. PLAN DE CHOQUE SALUD (Infobae/El Colombiano, 22 sep): anuncia desbloqueo para 1.069.196 pacientes; compra de cartera EPS al 0% interés. PARO ARMADO LOS PACHENCA (El Heraldo, 22 sep): 'El que no se someta va a terminar en una bolsa'; consejo de seguridad extraordinario en Santa Marta. REUNIÓN COSTA RICA (Infobae, 22 sep): encuentro con presidenta Fernández Delgado para combatir narcotráfico transnacional. Sentimiento (55/30/15): agenda regional y de salud sostiene positivos; retórica de seguridad genera debate."
+        "tendencia": "stable",
+        "tendencia_texto": "28 sep — DÍA 52 DE GOBIERNO — ALOCUCIÓN (28 sep): 'Se robaron todo'; busca apoyo del FMI para sanear finanzas heredadas del gobierno Petro — Vanguardia/El Colombiano. CORRUPCIÓN PETRO (28 sep): propone negociar con acusados por caso UNGRD; 'Tendrán un castigo atenuado' — Infobae. SEGURIDAD (28 sep): 'Estaré al frente de los operativos'; extradición alias Araña a EE.UU.; operaciones en Santa Marta y Cali — Infobae. OFENSIVA CRIMINAL (26 sep): anuncia continuidad de la Fuerza Pública contra grupos criminales — El Universal. Sentimiento (52/33/15): anuncios de FMI generan expectativa mixta; agenda de seguridad sostiene imagen de mano dura."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 20,
-        "negativo": 50,
+        "positivo": 18,
+        "negativo": 52,
         "neutro": 30,
         "tendencia": "down",
-        "tendencia_texto": "23 sep — DÍA 47 DEL NUEVO GOBIERNO — TROPAS EEUU SIN AUTORIZACIÓN (El Comercio/oposición, 21 sep): Cepeda y oposición denuncian ingreso de tropas de EE.UU. sin aval del Congreso; amenazan acciones legales contra el gobierno De la Espriella. MARCHAS 14 OCT (Infobae, 19 sep): continúa respaldando movilizaciones convocadas por CUT y Pacto Histórico. GABINETE ALTERNO (Proceso México, 26 ago): Cepeda designó 'gabinete alterno' para hacer contrapeso al gobierno. Sentimiento (20/50/30): activa oposición frente a políticas de seguridad; imagen negativa sostenida por postura confrontacional hacia el gobierno."
+        "tendencia_texto": "28 sep — DÍA 52 DEL NUEVO GOBIERNO — 'PANORAMA DESASTROSO' (Prensa Latina, 23 sep): Cepeda califica el gobierno De la Espriella de desastroso; denuncia abandono de damnificados y control armado en departamentos. OPOSICIÓN UNIFICADA (Semanario Voz, 23 sep): Encuentro Nacional fija marchas para el 14 de octubre y paro nacional en noviembre; Cepeda lidera frente político junto a CUT. GABINETE ALTERNO (Proceso México, 26 ago): Cepeda mantiene su gabinete alterno como contrapeso al gobierno. Sentimiento (18/52/30): postura confrontacional sostenida; imagen negativa persistente; movilizaciones del 14 oct como próxima prueba de convocatoria."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 35,
-        "negativo": 25,
+        "positivo": 40,
+        "negativo": 20,
         "neutro": 40,
         "tendencia": "up",
-        "tendencia_texto": "23 sep — CONDECORACIÓN CONGRESO (Semana, sep 2026): el Congreso condecora a Valencia en reconocimiento de sus 12 años como senadora (2014–2026); su período concluyó el 20 de julio. POSIBLE RENUNCIA A CURUL (Semana, sep 2026): no descarta renunciar a su curul en los próximos días. CHOQUE CON DELUQUE (Semana, 16 sep): senador Deluque la confronta públicamente: 'Paloma, ya basta, deja de mentir'. Sin actividad pública confirmada en las últimas 48 horas. Sentimiento (35/25/40): cobertura moderada en período de transición post-electoral; perfil más bajo que otros actores."
+        "tendencia_texto": "28 sep — ANDI / BRUCE MAC MASTER (Semana, 25 sep): Valencia defiende la continuidad de Mac Master como presidente de la ANDI en medio de tensión con el gobierno De la Espriella; 'Creo que Bruce Mac Master sí se debe quedar'. Posicionamiento crítico hacia el gobierno desde el Centro Democrático: en desacuerdo con la orden de no recibir al gremio empresarial. Sentimiento (40/20/40): posicionamiento empresarial-institucional gana perfil positivo; menor confrontación directa; visibilidad moderada en semana de alocuciones presidenciales."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 47 DE GOBIERNO — 23 de septiembre de 2026. GIRÓN, SANTANDER (Vanguardia, 23 sep): De la Espriella realiza su primera visita oficial a Santander junto a la presidenta de la Corte Constitucional Paola Meneses y el gobernador Juvenal Díaz. PLAN DE CHOQUE SALUD (22 sep): desbloqueo para 1.069.196 pacientes; compra de cartera EPS al 0% interés. PARO ARMADO LOS PACHENCA (22 sep): consejo de seguridad extraordinario en Santa Marta; 'El que no se someta va a terminar en una bolsa'. APROBACIÓN: 51,8% (AtlasIntel, sep). CEPEDA EN LA OPOSICIÓN: denuncia tropas de EE.UU. sin autorización del Congreso (21 sep); amenazan acciones legales. Marchas del 14 oct en preparación. VALENCIA EN TRANSICIÓN: sin actividad pública en últimas 48h; evalúa renuncia a curul. RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
+    "resumen_analisis": "DÍA 52 DE GOBIERNO — 28 de septiembre de 2026. ALOCUCIÓN PRESIDENCIAL (28 sep): De la Espriella anuncia que buscará al FMI tras declarar 'Se robaron todo' y revelar crisis fiscal heredada. Propone negociar con acusados de corrupción del gobierno Petro ('castigo atenuado'). Defiende política de seguridad: extradición de alias Araña, operaciones en Santa Marta y Cali. SEGURIDAD (26 sep): anuncia continuidad de ofensiva contra grupos criminales. CEPEDA EN OPOSICIÓN (23 sep): califica panorama de 'desastroso'; oposición unificada prepara marchas 14 oct y paro nacional en noviembre. VALENCIA (25 sep): defiende a Bruce Mac Master en la ANDI; toma distancia de política empresarial del gobierno. RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
   },
-  "ultimo_deploy": "23 de septiembre de 2026"
+  "ultimo_deploy": "28 de septiembre de 2026"
 }
