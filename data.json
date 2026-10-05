@@ -1,5 +1,5 @@
 {
-  "fecha": "28 de septiembre de 2026",
+  "fecha": "5 de octubre de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -240,31 +240,31 @@
     },
     {
       "filter": "cepeda",
-      "fuente": "Prensa Latina",
+      "fuente": "Vanguardia",
       "fuente_color": "#2980b9",
-      "fecha": "23 sep 2026",
-      "tag": "Cepeda · Oposición · 'Panorama desastroso' · Damnificados · Guerra · Control armado",
+      "fecha": "3 oct 2026",
+      "tag": "Cepeda · Pacto Histórico · Reorganización · Bogotá · 2027 · Elecciones territoriales",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "Cepeda: 'Panorama en Colombia es desastroso' por mal manejo del gobierno y fenómenos naturales",
-      "resumen": "El senador Iván Cepeda calificó el 23 de septiembre como 'desastroso' el panorama del país bajo el gobierno de Abelardo de la Espriella. Denunció el abandono de cientos de miles de damnificados por fenómenos naturales y alertó que 'la guerra sin tregua de De la Espriella está comenzando a sumir departamentos enteros en la parálisis del control armado'. Cepeda señala que los municipios más golpeados son los más afectados por la política de seguridad sin inversión social.",
-      "objetividad": 78,
+      "titulo": "'Tenemos toda la experiencia para volver a gobernar a Bogotá': Cepeda habla de la reorganización del Pacto",
+      "resumen": "El senador y excandidato presidencial Iván Cepeda aseguró el 3 de octubre que el Pacto Histórico está trazando una estrategia para disputar alcaldías, gobernaciones, concejos y asambleas en las elecciones territoriales de 2027. Cepeda afirmó: 'Tenemos toda la experiencia para volver a gobernar a Bogotá'. La coalición contempla nuevas consultas internas para elegir candidaturas y busca alianzas con otras fuerzas políticas, presentando una oferta 'variada, plural e incluyente'. El Pacto inicia su Congreso Fundacional para definir su funcionamiento como partido en la oposición al gobierno de De la Espriella.",
+      "objetividad": 86,
       "criterios": [
         {
           "ok": true,
-          "texto": "Cepeda califica como 'desastroso' el panorama bajo gobierno De la Espriella: Prensa Latina (23 sep 2026)"
+          "texto": "Cepeda: 'Tenemos toda la experiencia para volver a gobernar a Bogotá'; reorganización del Pacto: Vanguardia (3 oct 2026)"
         },
         {
           "ok": true,
-          "texto": "Denuncia abandono de damnificados y control armado en departamentos: Últimas Noticias Venezuela/Prensa Latina (23 sep 2026)"
+          "texto": "Congreso Fundacional del Pacto Histórico para definir funcionamiento en la oposición: Chicanoticias (3 oct 2026)"
         },
         {
           "ok": false,
-          "texto": "Departamentos específicos citados y cifras de damnificados no detallados en fuentes consultadas"
+          "texto": "Candidatos concretos del Pacto para alcaldías y gobernaciones no anunciados en fuentes consultadas"
         }
       ],
-      "url": "https://www.prensa-latina.cu/2026/09/23/panorama-en-colombia-es-desastroso-opina-lider-opositor/",
-      "url_label": "Prensa Latina — Cepeda: 'Panorama en Colombia es desastroso'"
+      "url": "https://www.vanguardia.com/colombia/2026/10/03/tenemos-toda-la-experiencia-para-volver-a-gobernar-a-bogota-ivan-cepeda-habla-de-la-reorganizacion-del-pacto/",
+      "url_label": "Vanguardia — Cepeda: 'Tenemos toda la experiencia para volver a gobernar a Bogotá'"
     },
     {
       "filter": "cepeda",
@@ -332,7 +332,7 @@
         "negativo": 33,
         "neutro": 15,
         "tendencia": "stable",
-        "tendencia_texto": "28 sep — DÍA 52 DE GOBIERNO — ALOCUCIÓN (28 sep): 'Se robaron todo'; busca apoyo del FMI para sanear finanzas heredadas del gobierno Petro — Vanguardia/El Colombiano. CORRUPCIÓN PETRO (28 sep): propone negociar con acusados por caso UNGRD; 'Tendrán un castigo atenuado' — Infobae. SEGURIDAD (28 sep): 'Estaré al frente de los operativos'; extradición alias Araña a EE.UU.; operaciones en Santa Marta y Cali — Infobae. OFENSIVA CRIMINAL (26 sep): anuncia continuidad de la Fuerza Pública contra grupos criminales — El Universal. Sentimiento (52/33/15): anuncios de FMI generan expectativa mixta; agenda de seguridad sostiene imagen de mano dura."
+        "tendencia_texto": "5 oct — DÍA 59 DE GOBIERNO — ALOCUCIÓN (28 sep): 'Se robaron todo'; busca apoyo del FMI para sanear finanzas heredadas del gobierno Petro — Vanguardia/El Colombiano. CORRUPCIÓN PETRO (28 sep): propone negociar con acusados por caso UNGRD; 'Tendrán un castigo atenuado' — Infobae. SEGURIDAD (28 sep): 'Estaré al frente de los operativos'; extradición alias Araña a EE.UU.; operaciones en Santa Marta y Cali — Infobae. OFENSIVA CRIMINAL (26 sep): anuncia continuidad de la Fuerza Pública contra grupos criminales — El Universal. PRÓXIMO RETO: marchas de oposición convocadas para el 14 de octubre. Sentimiento (52/33/15): anuncios de FMI generan expectativa mixta; agenda de seguridad sostiene imagen de mano dura."
       },
       {
         "nombre": "Cepeda",
@@ -341,7 +341,7 @@
         "negativo": 52,
         "neutro": 30,
         "tendencia": "down",
-        "tendencia_texto": "28 sep — DÍA 52 DEL NUEVO GOBIERNO — 'PANORAMA DESASTROSO' (Prensa Latina, 23 sep): Cepeda califica el gobierno De la Espriella de desastroso; denuncia abandono de damnificados y control armado en departamentos. OPOSICIÓN UNIFICADA (Semanario Voz, 23 sep): Encuentro Nacional fija marchas para el 14 de octubre y paro nacional en noviembre; Cepeda lidera frente político junto a CUT. GABINETE ALTERNO (Proceso México, 26 ago): Cepeda mantiene su gabinete alterno como contrapeso al gobierno. Sentimiento (18/52/30): postura confrontacional sostenida; imagen negativa persistente; movilizaciones del 14 oct como próxima prueba de convocatoria."
+        "tendencia_texto": "5 oct — DÍA 59 DEL NUEVO GOBIERNO — REORGANIZACIÓN DEL PACTO (Vanguardia, 3 oct): Cepeda lidera la reestructuración del Pacto Histórico para disputar elecciones territoriales de 2027; 'Tenemos toda la experiencia para volver a gobernar a Bogotá'. Congreso Fundacional del Pacto en preparación. MOVILIZACIONES (Semanario Voz, 23 sep): Marchas convocadas para el 14 de octubre — en 9 días — y paro nacional en noviembre; Cepeda lidera frente político junto a CUT. Sentimiento (18/52/30): Imagen negativa persistente en medios de centro y derecha; foco en 2027 puede mejorar perfil constructivo en izquierda; marchas del 14 oct son la próxima prueba de convocatoria."
       },
       {
         "nombre": "Valencia",
@@ -350,7 +350,7 @@
         "negativo": 20,
         "neutro": 40,
         "tendencia": "up",
-        "tendencia_texto": "28 sep — ANDI / BRUCE MAC MASTER (Semana, 25 sep): Valencia defiende la continuidad de Mac Master como presidente de la ANDI en medio de tensión con el gobierno De la Espriella; 'Creo que Bruce Mac Master sí se debe quedar'. Posicionamiento crítico hacia el gobierno desde el Centro Democrático: en desacuerdo con la orden de no recibir al gremio empresarial. Sentimiento (40/20/40): posicionamiento empresarial-institucional gana perfil positivo; menor confrontación directa; visibilidad moderada en semana de alocuciones presidenciales."
+        "tendencia_texto": "5 oct — ANDI / BRUCE MAC MASTER (Semana, 25 sep): Valencia defiende la continuidad de Mac Master como presidente de la ANDI en medio de tensión con el gobierno De la Espriella; 'Creo que Bruce Mac Master sí se debe quedar'. Mandato como senadora concluyó el 20 de julio de 2026; figura activa como opositora desde el Centro Democrático sin curul. Posicionamiento empresarial-institucional como contrapeso a De la Espriella. Sentimiento (40/20/40): perfil positivo en medios de centro; visibilidad moderada; sin noticias destacadas en la primera semana de octubre."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 52 DE GOBIERNO — 28 de septiembre de 2026. ALOCUCIÓN PRESIDENCIAL (28 sep): De la Espriella anuncia que buscará al FMI tras declarar 'Se robaron todo' y revelar crisis fiscal heredada. Propone negociar con acusados de corrupción del gobierno Petro ('castigo atenuado'). Defiende política de seguridad: extradición de alias Araña, operaciones en Santa Marta y Cali. SEGURIDAD (26 sep): anuncia continuidad de ofensiva contra grupos criminales. CEPEDA EN OPOSICIÓN (23 sep): califica panorama de 'desastroso'; oposición unificada prepara marchas 14 oct y paro nacional en noviembre. VALENCIA (25 sep): defiende a Bruce Mac Master en la ANDI; toma distancia de política empresarial del gobierno. RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
+    "resumen_analisis": "DÍA 59 DE GOBIERNO — 5 de octubre de 2026. CEPEDA MIRA A 2027 (3 oct): Lidera reorganización del Pacto Histórico para disputar elecciones territoriales; 'Tenemos toda la experiencia para volver a gobernar a Bogotá'. Congreso Fundacional del Pacto en preparación. MARCHAS 14 OCT EN 9 DÍAS: oposición unificada (Pacto + CUT) convocó movilizaciones para el 14 de octubre y prepara paro nacional en noviembre. ESPRIELLA (28 sep, día 52): 'Se robaron todo'; busca apoyo FMI por crisis fiscal heredada; propone negociar con acusados de corrupción del gobierno Petro; defiende política de seguridad. VALENCIA: sin mandato senatorial desde julio; mantiene visibilidad como figura empresarial-institucional del Centro Democrático. RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
   },
-  "ultimo_deploy": "28 de septiembre de 2026"
+  "ultimo_deploy": "5 de octubre de 2026"
 }
