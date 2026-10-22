@@ -1,5 +1,5 @@
 {
-  "fecha": "5 de octubre de 2026",
+  "fecha": "22 de octubre de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -100,6 +100,174 @@
   "noticias": [
     {
       "filter": "espriella",
+      "fuente": "El Tiempo",
+      "fuente_color": "#e74c3c",
+      "fecha": "22 oct 2026",
+      "tag": "ESPRIELLA · DÍA 76 · Gabinete · Lara · Ordóñez · MinInterior · Presupuesto 2027 · Crisis legislativa",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "Sale Rodrigo Lara del MinInterior tras hundimiento del presupuesto; Ordóñez llega al cargo",
+      "resumen": "El presidente Abelardo de la Espriella anunció el 22 de octubre la salida de Rodrigo Lara del Ministerio del Interior, tras el hundimiento del presupuesto 2027 en el Congreso por error de trámite. En su reemplazo llega Alejandro Ordóñez, hasta ahora embajador ante la OEA. El ministro de Justicia Iván Cancino asumirá interinamente las funciones de Interior mientras Ordóñez toma posesión. La remoción de Lara se enmarca en una semana de turbulencia legislativa: el gobierno expedirá por decreto el presupuesto de 2027, una medida sin precedentes recientes en Colombia.",
+      "objetividad": 88,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Salida de Rodrigo Lara del MinInterior; llega Alejandro Ordóñez: El Tiempo (22 oct 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Gobierno expedirá presupuesto 2027 por decreto tras error de trámite en Congreso: Noticias Caracol (22 oct 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Fecha exacta de posesión de Ordóñez y condiciones del decreto presupuestal no detalladas en fuentes consultadas"
+        }
+      ],
+      "url": "https://eltiempo.com/politica/gobierno/ministro-de-justicia-ivan-cancino-se-pronuncio-tras-salida-de-rodrigo-lara-del-ministerio-del-interior-mi-lealtad-siempre-para-rodrigo-3595384",
+      "url_label": "El Tiempo — Sale Lara del MinInterior; Ordóñez llega al cargo"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "El Universal / Semana",
+      "fuente_color": "#2980b9",
+      "fecha": "21 oct 2026",
+      "tag": "Cepeda · Corrupción · Gobierno Petro · 'Tenemos que dar explicaciones' · Pacto Histórico · Oposición",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Iván Cepeda admite corrupción en el gobierno Petro: 'Tenemos que dar las explicaciones necesarias'",
+      "resumen": "El senador Iván Cepeda reconoció el 21 de octubre la corrupción como el problema más grave del gobierno de Gustavo Petro, en entrevista con la agencia EFE. Afirmó: 'Para mí el más grave problema que hemos tenido en estos años es la corrupción' y que 'tenemos que dar las explicaciones necesarias'. Las declaraciones generan debate interno en el Pacto Histórico y alimentan las críticas de la oposición, que las interpretan como una admisión de responsabilidad política colectiva de la coalición que gobernó Colombia entre 2022 y 2026.",
+      "objetividad": 86,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Cepeda admite corrupción en gobierno Petro: 'el más grave problema'; 'tenemos que dar explicaciones': El Universal (21 oct 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Declaraciones a EFE sobre corrupción en el gobierno: Semana (21 oct 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Reacción formal del Pacto Histórico a las declaraciones de Cepeda no disponible en fuentes consultadas"
+        }
+      ],
+      "url": "https://www.eluniversal.com.co/colombia/2026/10/21/ivan-cepeda-admite-corrupcion-en-el-gobierno-petro-tenemos-que-dar-explicaciones/",
+      "url_label": "El Universal — Cepeda admite corrupción en el gobierno Petro"
+    },
+    {
+      "filter": "valencia",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#9b59b6",
+      "fecha": "21 oct 2026",
+      "tag": "Valencia · Cepeda · Corrupción Petro · 'Los hechos no se manipulan' · Centro Democrático · Oposición",
+      "tag_color": "#8e44ad",
+      "tag_bg": "rgba(142,68,173,0.15)",
+      "titulo": "Valencia cuestiona a Cepeda tras admitir corrupción en el gobierno Petro: 'Los hechos no se manipulan'",
+      "resumen": "La excandidata presidencial Paloma Valencia cuestionó el 21 de octubre al senador Iván Cepeda luego de que este reconociera la corrupción como el mayor problema del gobierno Petro. Valencia afirmó: 'Los hechos no se manipulan'. Sus declaraciones se enmarcaron en el debate sobre el denominado Pacto de Valledupar, relacionado con supuestas reuniones entre delegados del gobierno Petro y exjefes paramilitares. La intervención refuerza el posicionamiento de Valencia como voz crítica del legado de la izquierda, desde la oposición al gobierno De la Espriella.",
+      "objetividad": 85,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Valencia cuestiona a Cepeda tras admitir corrupción: 'Los hechos no se manipulan': Infobae (21 oct 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Contexto del Pacto de Valledupar como trasfondo del debate: Infobae (21 oct 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Respuesta de Cepeda a los cuestionamientos de Valencia no documentada en fuentes consultadas"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/10/21/paloma-valencia-cuestiono-a-ivan-cepeda-tras-reconocer-corrupcion-en-el-gobierno-petro-los-hechos-no-se-manipulan/",
+      "url_label": "Infobae — Valencia: 'Los hechos no se manipulan' tras admisión de Cepeda"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#2980b9",
+      "fecha": "20 oct 2026",
+      "tag": "Cepeda · Jota Pe Hernández · Mancuso · Congreso · Pacto Histórico · 'Se está volteando la torta'",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda y Jota Pe Hernández chocan en el Congreso por acusaciones de Mancuso contra el gobierno Petro",
+      "resumen": "El senador Iván Cepeda y Jota Pe Hernández protagonizaron el 20 de octubre un enfrentamiento en el Congreso tras la divulgación de grabaciones atribuidas al exjefe paramilitar Salvatore Mancuso, en las que supuestamente se hacen acusaciones contra el gobierno Petro. Hernández afirmó 'se está volteando la torta', mientras Cepeda negó categóricamente haber tenido reuniones con Mancuso para orientar declaraciones políticas. El incidente se suma a la investigación de la Procuraduría contra Benedetti y Angie Rodríguez por presuntas reuniones con exparamilitares.",
+      "objetividad": 83,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Cepeda y Jota Pe Hernández chocan en Congreso por acusaciones de Mancuso: Infobae Colombia (20 oct 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "Cepeda niega reuniones con Mancuso para orientar declaraciones políticas: Infobae (20 oct 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Autenticidad de las grabaciones de Mancuso y contexto exacto no verificados en fuentes consultadas"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/10/20/ivan-cepeda-y-jota-pe-hernandez-chocaron-en-el-congreso-tras-las-acusaciones-de-mancuso-contra-el-gobierno-petro-se-esta-volteando-la-torta/",
+      "url_label": "Infobae — Cepeda y Jota Pe chocan por acusaciones de Mancuso"
+    },
+    {
+      "filter": "cepeda",
+      "fuente": "Colombia.com / Minuto30",
+      "fuente_color": "#2980b9",
+      "fecha": "20 oct 2026",
+      "tag": "Cepeda · Ley de Sometimiento · Impedimento · Congreso · Conflicto de interés · Debate legislativo",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Apartan a Cepeda de los debates de la Ley de Sometimiento por conflicto de interés",
+      "resumen": "La Comisión Primera del Senado aprobó el impedimento presentado por el propio Iván Cepeda, por posible conflicto de interés en los debates de la Ley de Sometimiento del gobierno De la Espriella. Junto a Cepeda también quedó excluida la senadora Isabel Zuleta. El impedimento se relaciona con los nexos de Cepeda con la política de paz total del gobierno Petro, que está íntimamente ligada a los grupos armados que serían cobijados por esta ley. La exclusión debilita la voz crítica del Pacto Histórico en este debate central del primer año del gobierno.",
+      "objetividad": 84,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Comisión Primera aprueba impedimento de Cepeda en debate de Ley de Sometimiento: Colombia.com (oct 2026)"
+        },
+        {
+          "ok": true,
+          "texto": "También apartada Isabel Zuleta del debate: Minuto30 (oct 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Fecha exacta de la aprobación del impedimento y voto detallado de la comisión no disponibles en fuentes consultadas"
+        }
+      ],
+      "url": "https://www.colombia.com/actualidad/politica/ley-de-sometimiento-no-contara-con-participacion-de-ivan-cepeda-e-isabel-zuleta-608166",
+      "url_label": "Colombia.com — Apartan a Cepeda de la discusión de la Ley de Sometimiento"
+    },
+    {
+      "filter": "espriella",
+      "fuente": "Infobae Colombia",
+      "fuente_color": "#e74c3c",
+      "fecha": "19 oct 2026",
+      "tag": "ESPRIELLA · Influencers · Redes digitales · Campaña 2026 · Estudio · Digital · vs Cepeda",
+      "tag_color": "#c0392b",
+      "tag_bg": "rgba(192,57,43,0.15)",
+      "titulo": "Estudio: De la Espriella tuvo una red digital más activa que Cepeda en la campaña presidencial 2026",
+      "resumen": "Un estudio sobre el rol de los influenciadores en las elecciones 2026, publicado por Infobae el 19 de octubre, concluye que Abelardo de la Espriella contó con una red digital significativamente más activa y coordinada que la de Iván Cepeda durante la campaña. El análisis sugiere que la ventaja digital fue un factor clave en el estrecho resultado del 21 de junio, donde De la Espriella ganó por solo 251.854 votos. El hallazgo abre el debate sobre el papel de las redes sociales y los creadores de contenido en las elecciones presidenciales colombianas.",
+      "objetividad": 80,
+      "criterios": [
+        {
+          "ok": true,
+          "texto": "Espriella tuvo red digital más activa que Cepeda en elecciones 2026, según estudio: Infobae (19 oct 2026)"
+        },
+        {
+          "ok": false,
+          "texto": "Nombre de la firma o institución que realizó el estudio y metodología no especificados en el fragmento consultado"
+        },
+        {
+          "ok": false,
+          "texto": "Cuantificación exacta de la diferencia en actividad digital entre candidatos no disponible en fuentes consultadas"
+        }
+      ],
+      "url": "https://www.infobae.com/colombia/2026/10/19/influencers-en-las-elecciones-de-2026-abelardo-de-la-espriella-tuvo-una-red-digital-mas-activa-que-ivan-cepeda-segun-estudio/",
+      "url_label": "Infobae — Espriella tuvo red digital más activa que Cepeda, según estudio"
+    },
+    {
+      "filter": "espriella",
       "fuente": "Vanguardia",
       "fuente_color": "#e74c3c",
       "fecha": "28 sep 2026",
@@ -127,118 +295,6 @@
       "url_label": "Vanguardia — 'Se robaron todo': De la Espriella anuncia que buscará al FMI"
     },
     {
-      "filter": "espriella",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#e74c3c",
-      "fecha": "28 sep 2026",
-      "tag": "ESPRIELLA · DÍA 52 · Corrupción Petro · UNGRD · Negociación · 'Castigo atenuado' · Justicia",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella propone negociar con acusados de corrupción del gobierno Petro: 'Tendrán un castigo atenuado'",
-      "resumen": "El presidente Abelardo de la Espriella propuso el 28 de septiembre que la justicia negocie con los investigados y acusados por corrupción durante el gobierno de Gustavo Petro —en particular del caso UNGRD—, a cambio de castigos atenuados. El pronunciamiento se da luego de que el Consejo de Estado declarara la 'muerte política' del expresidente del Congreso Iván Name, vinculado al escándalo. La propuesta genera debate: aliados la ven como pragmatismo judicial; la oposición la califica de impunidad selectiva.",
-      "objetividad": 82,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "De la Espriella propone negociación con acusados por corrupción en el gobierno Petro: Infobae Colombia (28 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Consejo de Estado declara 'muerte política' de Iván Name (caso UNGRD): reportado por medios nacionales (28 sep 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Reacción formal de la Fiscalía o el Congreso a la propuesta de negociación no disponible en fuentes consultadas"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/09/28/abelardo-de-la-espriella-propuso-negociar-con-acusados-por-corrupcion-en-el-gobierno-petro-tendran-un-castigo-atenuado/",
-      "url_label": "Infobae — De la Espriella propone negociar con acusados de corrupción del gobierno Petro"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "Infobae Colombia",
-      "fuente_color": "#e74c3c",
-      "fecha": "28 sep 2026",
-      "tag": "ESPRIELLA · DÍA 52 · Seguridad · 'Estaré al frente' · Extradición Araña · Santa Marta · Cali",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella defiende política de seguridad en alocución: 'Estaré al frente de los operativos'",
-      "resumen": "En la misma alocución del 28 de septiembre, De la Espriella defendió su estrategia de seguridad y afirmó que estará 'al frente de los operativos' contra las estructuras criminales. Presentó como logros las operaciones en Santa Marta y Cali, la extradición a EE.UU. de Giovani Andrés Rojas alias 'Araña', y la reducción en delitos como secuestro, extorsión y masacres. Es la tercera alocución presidencial en el mes de septiembre, reafirmando el perfil de mano dura del gobierno.",
-      "objetividad": 87,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "De la Espriella: 'Estaré al frente de los operativos'; extradición alias Araña: Infobae Colombia (28 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Operaciones en Santa Marta y Cali presentadas como logros: reportado por medios nacionales"
-        },
-        {
-          "ok": false,
-          "texto": "Cifras exactas de reducción de delitos y fuente metodológica no detalladas en fuentes consultadas"
-        }
-      ],
-      "url": "https://www.infobae.com/colombia/2026/09/28/abelardo-de-la-espriella-se-dirigio-ante-el-pais-para-defender-su-politica-de-seguridad-estare-al-frente-de-los-operativos/",
-      "url_label": "Infobae — De la Espriella defiende política de seguridad: 'Estaré al frente de los operativos'"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Universal (Cartagena)",
-      "fuente_color": "#e74c3c",
-      "fecha": "26 sep 2026",
-      "tag": "ESPRIELLA · DÍA 50 · Ofensiva criminal · Fuerza Pública · Seguridad · Continuidad",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "De la Espriella anuncia continuidad de la ofensiva de la Fuerza Pública contra grupos criminales",
-      "resumen": "El presidente Abelardo de la Espriella anunció el 26 de septiembre que su gobierno mantendrá las operaciones de la Fuerza Pública contra las estructuras criminales en todo el país y reiteró que hará cumplir la ley. El anuncio llega en el día 50 de su mandato, y consolida la doctrina de seguridad del gobierno como eje central de su gestión frente a grupos como Los Pachenca, las disidencias de las FARC y el ELN.",
-      "objetividad": 85,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "De la Espriella anuncia continuidad de ofensiva contra grupos criminales: El Universal Cartagena (26 sep 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Detalle de operaciones específicas anunciadas y unidades militares involucradas no disponible en fuentes consultadas"
-        },
-        {
-          "ok": false,
-          "texto": "Resultados cuantitativos de la ofensiva en la semana previa no detallados en fuentes consultadas"
-        }
-      ],
-      "url": "https://www.eluniversal.com.co/colombia/2026/09/26/de-la-espriella-anuncia-continuidad-de-ofensiva-contra-grupos-criminales/",
-      "url_label": "El Universal — De la Espriella anuncia continuidad de ofensiva contra grupos criminales"
-    },
-    {
-      "filter": "valencia",
-      "fuente": "Semana",
-      "fuente_color": "#9b59b6",
-      "fecha": "25 sep 2026",
-      "tag": "Valencia · ANDI · Bruce Mac Master · Gobierno De la Espriella · Tensión empresarial · Autonomía gremial",
-      "tag_color": "#8e44ad",
-      "tag_bg": "rgba(142,68,173,0.15)",
-      "titulo": "Valencia defiende a Bruce Mac Master y pone 'punto final' al debate de la ANDI: 'Se debe quedar'",
-      "resumen": "La senadora Paloma Valencia publicó el 25 de septiembre un video defendiendo la continuidad de Bruce Mac Master al frente de la ANDI en medio de la creciente tensión entre el presidente del gremio y el gobierno De la Espriella. Valencia afirmó: 'Creo que Bruce Mac Master sí se debe quedar en la ANDI'. Recordó que durante los cuatro años de Petro, Mac Master defendió la institucionalidad y propuso alternativas. El gobierno de De la Espriella ha ordenado que ningún ministro se reúna con Mac Master, lo que ha provocado la salida de empresas como Coca-Cola Femsa, Incauca y Providencia del gremio.",
-      "objetividad": 87,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Valencia defiende a Mac Master y pide que se quede en la ANDI: Semana (25 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Tensión gobierno De la Espriella-ANDI: orden de no reunirse con Mac Master; salida de Coca-Cola Femsa y otras empresas: Semana/El Tiempo (sep 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Respuesta del gobierno De la Espriella al pronunciamiento de Valencia no documentada en fuentes consultadas"
-        }
-      ],
-      "url": "https://www.semana.com/economia/empresas/articulo/paloma-valencia-le-pone-punto-final-al-debate-de-la-andi-y-dice-que-bruce-mac-master-se-debe-quedar/202612/",
-      "url_label": "Semana — Valencia defiende a Bruce Mac Master: 'Se debe quedar en la ANDI'"
-    },
-    {
       "filter": "cepeda",
       "fuente": "Vanguardia",
       "fuente_color": "#2980b9",
@@ -247,7 +303,7 @@
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
       "titulo": "'Tenemos toda la experiencia para volver a gobernar a Bogotá': Cepeda habla de la reorganización del Pacto",
-      "resumen": "El senador y excandidato presidencial Iván Cepeda aseguró el 3 de octubre que el Pacto Histórico está trazando una estrategia para disputar alcaldías, gobernaciones, concejos y asambleas en las elecciones territoriales de 2027. Cepeda afirmó: 'Tenemos toda la experiencia para volver a gobernar a Bogotá'. La coalición contempla nuevas consultas internas para elegir candidaturas y busca alianzas con otras fuerzas políticas, presentando una oferta 'variada, plural e incluyente'. El Pacto inicia su Congreso Fundacional para definir su funcionamiento como partido en la oposición al gobierno de De la Espriella.",
+      "resumen": "El senador y excandidato presidencial Iván Cepeda aseguró el 3 de octubre que el Pacto Histórico está trazando una estrategia para disputar alcaldías, gobernaciones, concejos y asambleas en las elecciones territoriales de 2027. Cepeda afirmó: 'Tenemos toda la experiencia para volver a gobernar a Bogotá'. La coalición contempla nuevas consultas internas para elegir candidaturas y busca alianzas con otras fuerzas políticas. El Pacto inicia su Congreso Fundacional para definir su funcionamiento como partido en la oposición al gobierno de De la Espriella.",
       "objetividad": 86,
       "criterios": [
         {
@@ -265,62 +321,6 @@
       ],
       "url": "https://www.vanguardia.com/colombia/2026/10/03/tenemos-toda-la-experiencia-para-volver-a-gobernar-a-bogota-ivan-cepeda-habla-de-la-reorganizacion-del-pacto/",
       "url_label": "Vanguardia — Cepeda: 'Tenemos toda la experiencia para volver a gobernar a Bogotá'"
-    },
-    {
-      "filter": "cepeda",
-      "fuente": "Semanario Voz / Partido Comunista Colombiano",
-      "fuente_color": "#2980b9",
-      "fecha": "23 sep 2026",
-      "tag": "Cepeda · Oposición · Unificación · Marchas 14 oct · Paro nov · CUT · Pacto Histórico",
-      "tag_color": "#27ae60",
-      "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "La oposición se unifica y se moviliza: marchas el 14 de octubre y paro nacional en noviembre",
-      "resumen": "Organizaciones sociales, sindicales, campesinas, indígenas, afrodescendientes y políticas del Pacto Histórico se reunieron en un Encuentro Nacional para trazar una hoja de ruta de movilizaciones. Convocan marchas para el 14 de octubre en todo el país y preparan condiciones para un paro nacional en noviembre. Iván Cepeda lidera el frente político de la oposición junto a la CUT. Las demandas incluyen garantías en educación, salud pública, derechos laborales, paz y derechos campesinos.",
-      "objetividad": 80,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Encuentro Nacional de oposición: hoja de ruta con marchas 14 oct y paro nacional noviembre: Semanario Voz/PCC (sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Cepeda lidera frente político opositor junto a CUT: Prensa Latina (sep 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Número de organizaciones adheridas y pliego de peticiones oficial no disponibles en fuentes consultadas"
-        }
-      ],
-      "url": "https://semanariovoz.com/la-oposicion-se-unifica-y-se-moviliza/",
-      "url_label": "Semanario Voz — La oposición se unifica y se moviliza: marchas 14 oct, paro noviembre"
-    },
-    {
-      "filter": "espriella",
-      "fuente": "El Colombiano",
-      "fuente_color": "#e74c3c",
-      "fecha": "28 sep 2026",
-      "tag": "ESPRIELLA · DÍA 52 · FMI · Fiscal · Colombia · Deuda · Crisis financiera heredada",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "Colombia vuelve a tocar las puertas del FMI ante la crisis fiscal: ¿qué busca el gobierno De la Espriella?",
-      "resumen": "El gobierno de Abelardo de la Espriella inició conversaciones con el Fondo Monetario Internacional ante una aguda crisis fiscal que atribuye al gobierno de Gustavo Petro. El Colombiano analiza las opciones disponibles: una Línea de Crédito Flexible (LCF), un programa de financiamiento de emergencia o una revisión del artículo IV. El ministro de Hacienda coordinará las negociaciones. Expertos consultados por el diario advierten que Colombia podría enfrentar exigencias de ajuste fiscal que afecten el gasto social del nuevo gobierno.",
-      "objetividad": 85,
-      "criterios": [
-        {
-          "ok": true,
-          "texto": "Colombia busca apoyo del FMI ante crisis fiscal; ministro de Hacienda lidera negociaciones: El Colombiano (28 sep 2026)"
-        },
-        {
-          "ok": true,
-          "texto": "Análisis de opciones de línea de crédito y condiciones del FMI: El Colombiano (28 sep 2026)"
-        },
-        {
-          "ok": false,
-          "texto": "Cifra exacta del déficit fiscal y condiciones específicas de posible acuerdo no detalladas en fuentes consultadas"
-        }
-      ],
-      "url": "https://www.elcolombiano.com/negocios/colombia-pide-apoyo-fmi-crisis-fiscal-gobierno-abelardo-de-la-espriella-por-que-AJ41591670",
-      "url_label": "El Colombiano — Colombia vuelve a tocar las puertas del FMI ante la crisis fiscal"
     }
   ],
   "sentimiento": {
@@ -328,29 +328,29 @@
       {
         "nombre": "De la Espriella",
         "color": "#e67e22",
-        "positivo": 52,
-        "negativo": 33,
-        "neutro": 15,
-        "tendencia": "stable",
-        "tendencia_texto": "5 oct — DÍA 59 DE GOBIERNO — ALOCUCIÓN (28 sep): 'Se robaron todo'; busca apoyo del FMI para sanear finanzas heredadas del gobierno Petro — Vanguardia/El Colombiano. CORRUPCIÓN PETRO (28 sep): propone negociar con acusados por caso UNGRD; 'Tendrán un castigo atenuado' — Infobae. SEGURIDAD (28 sep): 'Estaré al frente de los operativos'; extradición alias Araña a EE.UU.; operaciones en Santa Marta y Cali — Infobae. OFENSIVA CRIMINAL (26 sep): anuncia continuidad de la Fuerza Pública contra grupos criminales — El Universal. PRÓXIMO RETO: marchas de oposición convocadas para el 14 de octubre. Sentimiento (52/33/15): anuncios de FMI generan expectativa mixta; agenda de seguridad sostiene imagen de mano dura."
+        "positivo": 48,
+        "negativo": 38,
+        "neutro": 14,
+        "tendencia": "down",
+        "tendencia_texto": "22 oct — DÍA 76 DE GOBIERNO — CRISIS LEGISLATIVA (22 oct): Rodrigo Lara sale del MinInterior tras hundimiento del presupuesto 2027; Alejandro Ordóñez es designado en su reemplazo — El Tiempo. PRESUPUESTO POR DECRETO (22 oct): el gobierno expedirá por decreto el presupuesto de 2027 tras error de trámite en el Congreso, medida sin precedentes recientes — Noticias Caracol. REDES DIGITALES (Infobae, 19 oct): estudio revela que Espriella tuvo red digital más activa que Cepeda en campaña 2026. FMI (28 sep, día 52): 'Se robaron todo'; buscó apoyo del FMI por crisis fiscal heredada. Sentimiento (48/38/14): turbulencia legislativa y cambio de gabinete erosionan imagen de estabilidad; presupuesto por decreto genera críticas de constitucionalistas."
       },
       {
         "nombre": "Cepeda",
         "color": "#27ae60",
-        "positivo": 18,
-        "negativo": 52,
-        "neutro": 30,
+        "positivo": 12,
+        "negativo": 62,
+        "neutro": 26,
         "tendencia": "down",
-        "tendencia_texto": "5 oct — DÍA 59 DEL NUEVO GOBIERNO — REORGANIZACIÓN DEL PACTO (Vanguardia, 3 oct): Cepeda lidera la reestructuración del Pacto Histórico para disputar elecciones territoriales de 2027; 'Tenemos toda la experiencia para volver a gobernar a Bogotá'. Congreso Fundacional del Pacto en preparación. MOVILIZACIONES (Semanario Voz, 23 sep): Marchas convocadas para el 14 de octubre — en 9 días — y paro nacional en noviembre; Cepeda lidera frente político junto a CUT. Sentimiento (18/52/30): Imagen negativa persistente en medios de centro y derecha; foco en 2027 puede mejorar perfil constructivo en izquierda; marchas del 14 oct son la próxima prueba de convocatoria."
+        "tendencia_texto": "22 oct — CORRUPCIÓN PETRO ADMITIDA (El Universal/Semana, 21 oct): Cepeda reconoció que 'el más grave problema que hemos tenido en estos años es la corrupción' en el gobierno Petro; 'tenemos que dar las explicaciones necesarias' — declaración muy dañina para la imagen del Pacto. CHOQUE CON JOTA PE/MANCUSO (Infobae, 20 oct): enfrentamiento en Congreso por grabaciones de Mancuso contra el gobierno Petro; Cepeda niega reuniones con exparamilitar. EXCLUIDO DE DEBATE (oct 2026): Comisión Primera apartó a Cepeda de los debates de la Ley de Sometimiento por conflicto de interés. REORGANIZACIÓN 2027 (Vanguardia, 3 oct): lidera reestructuración del Pacto para elecciones territoriales. Sentimiento (12/62/26): admisión de corrupción y escándalos Mancuso empujan imagen a mínimo histórico en este gobierno."
       },
       {
         "nombre": "Valencia",
         "color": "#9b59b6",
-        "positivo": 40,
-        "negativo": 20,
-        "neutro": 40,
+        "positivo": 45,
+        "negativo": 18,
+        "neutro": 37,
         "tendencia": "up",
-        "tendencia_texto": "5 oct — ANDI / BRUCE MAC MASTER (Semana, 25 sep): Valencia defiende la continuidad de Mac Master como presidente de la ANDI en medio de tensión con el gobierno De la Espriella; 'Creo que Bruce Mac Master sí se debe quedar'. Mandato como senadora concluyó el 20 de julio de 2026; figura activa como opositora desde el Centro Democrático sin curul. Posicionamiento empresarial-institucional como contrapeso a De la Espriella. Sentimiento (40/20/40): perfil positivo en medios de centro; visibilidad moderada; sin noticias destacadas en la primera semana de octubre."
+        "tendencia_texto": "22 oct — CUESTIONA A CEPEDA (Infobae, 21 oct): tras la admisión de Cepeda sobre corrupción en el gobierno Petro, Valencia lanzó: 'Los hechos no se manipulan' — posicionamiento efectivo frente al debate del Pacto de Valledupar. ANDI/MAC MASTER (Semana, 25 sep): defendió la continuidad de Bruce Mac Master al frente de la ANDI en medio de la tensión con el gobierno De la Espriella; diferenciación clara del partido de gobierno. Mandato senatorial concluyó en julio 2026; figura activa como voz crítica de ambos lados desde el Centro Democrático. Sentimiento (45/18/37): semana positiva; cuestionamiento a Cepeda y posicionamiento institucional refuerzan su imagen de oposición constructiva."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 59 DE GOBIERNO — 5 de octubre de 2026. CEPEDA MIRA A 2027 (3 oct): Lidera reorganización del Pacto Histórico para disputar elecciones territoriales; 'Tenemos toda la experiencia para volver a gobernar a Bogotá'. Congreso Fundacional del Pacto en preparación. MARCHAS 14 OCT EN 9 DÍAS: oposición unificada (Pacto + CUT) convocó movilizaciones para el 14 de octubre y prepara paro nacional en noviembre. ESPRIELLA (28 sep, día 52): 'Se robaron todo'; busca apoyo FMI por crisis fiscal heredada; propone negociar con acusados de corrupción del gobierno Petro; defiende política de seguridad. VALENCIA: sin mandato senatorial desde julio; mantiene visibilidad como figura empresarial-institucional del Centro Democrático. RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
+    "resumen_analisis": "DÍA 76 DE GOBIERNO — 22 de octubre de 2026. CRISIS LEGISLATIVA ESPRIELLA (22 oct): Sale Rodrigo Lara del MinInterior tras hundirse el presupuesto 2027 en el Congreso; llega Alejandro Ordóñez. Gobierno expedirá presupuesto por decreto. CEPEDA ADMITE CORRUPCIÓN PETRO (21 oct): Reconoció que fue el mayor problema del gobierno Petro; 'tenemos que dar las explicaciones'. CHOQUE CEPEDA/MANCUSO (20 oct): grabaciones de Mancuso generan enfrentamiento en el Congreso. CEPEDA EXCLUIDO de debates de la Ley de Sometimiento por conflicto de interés. VALENCIA ACTIVA (21 oct): cuestiona a Cepeda tras admisión de corrupción; 'los hechos no se manipulan'. RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
   },
-  "ultimo_deploy": "5 de octubre de 2026"
+  "ultimo_deploy": "22 de octubre de 2026"
 }
