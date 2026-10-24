@@ -1,5 +1,5 @@
 {
-  "fecha": "22 de octubre de 2026",
+  "fecha": "24 de octubre de 2026",
   "modo": "resultado",
   "primera_vuelta": {
     "espriella": 43.73,
@@ -267,60 +267,60 @@
       "url_label": "Infobae — Espriella tuvo red digital más activa que Cepeda, según estudio"
     },
     {
-      "filter": "espriella",
-      "fuente": "Vanguardia",
-      "fuente_color": "#e74c3c",
-      "fecha": "28 sep 2026",
-      "tag": "ESPRIELLA · DÍA 52 · FMI · Crisis fiscal · 'Se robaron todo' · Alocución · Hacienda",
-      "tag_color": "#c0392b",
-      "tag_bg": "rgba(192,57,43,0.15)",
-      "titulo": "'Se robaron todo': De la Espriella anuncia en alocución que buscará al FMI para sanear las finanzas",
-      "resumen": "En alocución presidencial del 28 de septiembre, el presidente Abelardo de la Espriella aseguró que el gobierno de Gustavo Petro dejó las finanzas públicas devastadas: 'Se robaron todo'. Anunció que Colombia buscará apoyo del Fondo Monetario Internacional (FMI) para sanear la situación fiscal y ordenó al ministro de Hacienda iniciar conversaciones con el organismo. El anuncio marca la primera vez que Colombia acude al FMI en años y genera debate en medios sobre el alcance del déficit heredado del gobierno anterior.",
-      "objetividad": 84,
+      "filter": "cepeda",
+      "fuente": "El Espectador / Vanguardia",
+      "fuente_color": "#2980b9",
+      "fecha": "23 oct 2026",
+      "tag": "Cepeda · Museo Nacional · 'Batalla cultural' · Censura · Pizarro · Protestas · Ordóñez",
+      "tag_color": "#27ae60",
+      "tag_bg": "rgba(39,174,96,0.15)",
+      "titulo": "Cepeda cuestiona a De la Espriella por retirar piezas del Museo Nacional: 'Es censura de Estado'",
+      "resumen": "El senador Iván Cepeda cuestionó al presidente Abelardo de la Espriella por el retiro de unas 50 piezas del Museo Nacional de Colombia, ordenado como parte de lo que el gobierno denominó una 'contrarrevolución cultural'. El mandatario había prohibido imágenes del M-19 y de Carlos Pizarro en espacios públicos, argumentando que hacen apología al terrorismo. Cepeda denunció censura de Estado y respaldó las protestas frente al museo, que el 19 de octubre terminaron con gases lacrimógenos de la Unidad Antidisturbios. La polémica cultural se suma a la controversia por el cambio de gabinete y el presupuesto por decreto.",
+      "objetividad": 82,
       "criterios": [
         {
           "ok": true,
-          "texto": "Alocución presidencial 28 sep: De la Espriella anuncia búsqueda de apoyo del FMI: Vanguardia (28 sep 2026)"
+          "texto": "Cepeda cuestiona retiro de piezas del Museo Nacional: El Espectador (oct 2026)"
         },
         {
           "ok": true,
-          "texto": "Declaración 'Se robaron todo' y orden al ministro de Hacienda: El Colombiano (28 sep 2026)"
+          "texto": "Gobierno ordena retirar imágenes de Carlos Pizarro en espacios públicos; ~50 piezas afectadas: Vanguardia (16-18 oct 2026)"
         },
         {
-          "ok": false,
-          "texto": "Monto del déficit fiscal específico y condiciones del eventual acuerdo con el FMI no detallados en fuentes consultadas"
+          "ok": true,
+          "texto": "Plantón frente al museo con gases lacrimógenos el 19 oct: El País de Cali (19 oct 2026)"
         }
       ],
-      "url": "https://www.vanguardia.com/colombia/2026/09/28/se-robaron-todo-de-la-espriella-anuncia-en-alocucion-que-buscara-al-fmi-para-sanear-las-finanzas/",
-      "url_label": "Vanguardia — 'Se robaron todo': De la Espriella anuncia que buscará al FMI"
+      "url": "https://www.elespectador.com/el-magazin-cultural/cepeda-cuestiona-a-de-la-espriella-por-retirar-piezas-del-museo-nacional-de-colombia/",
+      "url_label": "El Espectador — Cepeda cuestiona retiro de piezas del Museo Nacional"
     },
     {
       "filter": "cepeda",
-      "fuente": "Vanguardia",
+      "fuente": "Infobae / Prensa Latina",
       "fuente_color": "#2980b9",
-      "fecha": "3 oct 2026",
-      "tag": "Cepeda · Pacto Histórico · Reorganización · Bogotá · 2027 · Elecciones territoriales",
+      "fecha": "23 oct 2026",
+      "tag": "Cepeda · Pacto Histórico · Marcha · 24 noviembre · Presupuesto por decreto · Oposición",
       "tag_color": "#27ae60",
       "tag_bg": "rgba(39,174,96,0.15)",
-      "titulo": "'Tenemos toda la experiencia para volver a gobernar a Bogotá': Cepeda habla de la reorganización del Pacto",
-      "resumen": "El senador y excandidato presidencial Iván Cepeda aseguró el 3 de octubre que el Pacto Histórico está trazando una estrategia para disputar alcaldías, gobernaciones, concejos y asambleas en las elecciones territoriales de 2027. Cepeda afirmó: 'Tenemos toda la experiencia para volver a gobernar a Bogotá'. La coalición contempla nuevas consultas internas para elegir candidaturas y busca alianzas con otras fuerzas políticas. El Pacto inicia su Congreso Fundacional para definir su funcionamiento como partido en la oposición al gobierno de De la Espriella.",
-      "objetividad": 86,
+      "titulo": "Pacto Histórico convoca marcha nacional el 24 de noviembre contra el presupuesto por decreto",
+      "resumen": "El Pacto Histórico, con Iván Cepeda como principal líder legislativo, convocó una movilización nacional para el 24 de noviembre en rechazo al presupuesto 2027 expedido por decreto presidencial. La coalición opositora argumenta que 14 departamentos recibirán menos inversión real que en 2026 y que la medida tiene 'cifras que aún no cuadran'. El déficit fiscal a agosto ya alcanzó entre el 4,5 % y el 4,7 % del PIB. Cepeda señaló una 'confrontación social y política creciente' con el gobierno De la Espriella, que también prevé radicar una Ley de Rescate Fiscal la semana siguiente.",
+      "objetividad": 83,
       "criterios": [
         {
           "ok": true,
-          "texto": "Cepeda: 'Tenemos toda la experiencia para volver a gobernar a Bogotá'; reorganización del Pacto: Vanguardia (3 oct 2026)"
+          "texto": "Pacto Histórico convoca protesta para el 24 de noviembre contra el presupuesto: Infobae/EFE (20 oct 2026)"
         },
         {
           "ok": true,
-          "texto": "Congreso Fundacional del Pacto Histórico para definir funcionamiento en la oposición: Chicanoticias (3 oct 2026)"
+          "texto": "Gobierno expedirá presupuesto 2027 vía decreto; déficit fiscal 4,5-4,7% del PIB a agosto: Prensa Latina (22 oct 2026)"
         },
         {
           "ok": false,
-          "texto": "Candidatos concretos del Pacto para alcaldías y gobernaciones no anunciados en fuentes consultadas"
+          "texto": "Número de ciudades y organizaciones convocantes a la marcha no detallados en fuentes consultadas"
         }
       ],
-      "url": "https://www.vanguardia.com/colombia/2026/10/03/tenemos-toda-la-experiencia-para-volver-a-gobernar-a-bogota-ivan-cepeda-habla-de-la-reorganizacion-del-pacto/",
-      "url_label": "Vanguardia — Cepeda: 'Tenemos toda la experiencia para volver a gobernar a Bogotá'"
+      "url": "https://www.infobae.com/america/agencias/2026/10/20/oposicion-colombiana-convoca-una-protesta-contra-el-presupuesto-el-proximo-24-de-noviembre/",
+      "url_label": "Infobae — Pacto Histórico convoca marcha el 24 de noviembre contra el presupuesto"
     }
   ],
   "sentimiento": {
@@ -332,7 +332,7 @@
         "negativo": 38,
         "neutro": 14,
         "tendencia": "down",
-        "tendencia_texto": "22 oct — DÍA 76 DE GOBIERNO — CRISIS LEGISLATIVA (22 oct): Rodrigo Lara sale del MinInterior tras hundimiento del presupuesto 2027; Alejandro Ordóñez es designado en su reemplazo — El Tiempo. PRESUPUESTO POR DECRETO (22 oct): el gobierno expedirá por decreto el presupuesto de 2027 tras error de trámite en el Congreso, medida sin precedentes recientes — Noticias Caracol. REDES DIGITALES (Infobae, 19 oct): estudio revela que Espriella tuvo red digital más activa que Cepeda en campaña 2026. FMI (28 sep, día 52): 'Se robaron todo'; buscó apoyo del FMI por crisis fiscal heredada. Sentimiento (48/38/14): turbulencia legislativa y cambio de gabinete erosionan imagen de estabilidad; presupuesto por decreto genera críticas de constitucionalistas."
+        "tendencia_texto": "24 oct — DÍA 78 DE GOBIERNO — MUSEO NACIONAL (23 oct): Cepeda y opositores denuncian censura de Estado tras retirar ~50 piezas del Museo Nacional; plantón del 19 oct con gases lacrimógenos — El Espectador/Vanguardia. MARCHA 24 NOV (23 oct): Pacto Histórico convoca movilización nacional contra el presupuesto expedido por decreto — Infobae. CRISIS LEGISLATIVA (22 oct): Alejandro Ordóñez posesionado como MinInterior en reemplazo de Rodrigo Lara; gobierno expidió presupuesto 2027 por decreto — El Tiempo/Prensa Latina. REDES DIGITALES (Infobae, 19 oct): estudio revela que Espriella tuvo red digital más activa que Cepeda en campaña 2026. Sentimiento (48/38/14): presupuesto por decreto y 'batalla cultural' generan desgaste; Ordóñez como MinInterior amplía el frente de críticas."
       },
       {
         "nombre": "Cepeda",
@@ -341,7 +341,7 @@
         "negativo": 62,
         "neutro": 26,
         "tendencia": "down",
-        "tendencia_texto": "22 oct — CORRUPCIÓN PETRO ADMITIDA (El Universal/Semana, 21 oct): Cepeda reconoció que 'el más grave problema que hemos tenido en estos años es la corrupción' en el gobierno Petro; 'tenemos que dar las explicaciones necesarias' — declaración muy dañina para la imagen del Pacto. CHOQUE CON JOTA PE/MANCUSO (Infobae, 20 oct): enfrentamiento en Congreso por grabaciones de Mancuso contra el gobierno Petro; Cepeda niega reuniones con exparamilitar. EXCLUIDO DE DEBATE (oct 2026): Comisión Primera apartó a Cepeda de los debates de la Ley de Sometimiento por conflicto de interés. REORGANIZACIÓN 2027 (Vanguardia, 3 oct): lidera reestructuración del Pacto para elecciones territoriales. Sentimiento (12/62/26): admisión de corrupción y escándalos Mancuso empujan imagen a mínimo histórico en este gobierno."
+        "tendencia_texto": "24 oct — MUSEO NACIONAL (23 oct): denuncia 'censura de Estado' por retiro de piezas del Museo; respalda protestas — El Espectador. MARCHA 24 NOV (23 oct): convoca movilización nacional del Pacto Histórico contra el presupuesto por decreto; 14 departamentos recibirían menos inversión — Infobae. CORRUPCIÓN PETRO ADMITIDA (El Universal/Semana, 21 oct): reconoció que 'el más grave problema fue la corrupción' en el gobierno Petro — declaración dañina para el Pacto. CHOQUE MANCUSO (Infobae, 20 oct): enfrentamiento en Congreso; niega reuniones con exparamilitar. EXCLUIDO de debates de la Ley de Sometimiento por conflicto de interés. Sentimiento (12/62/26): admisión de corrupción, escándalo Mancuso y controversia cultural mantienen imagen negativa."
       },
       {
         "nombre": "Valencia",
@@ -350,7 +350,7 @@
         "negativo": 18,
         "neutro": 37,
         "tendencia": "up",
-        "tendencia_texto": "22 oct — CUESTIONA A CEPEDA (Infobae, 21 oct): tras la admisión de Cepeda sobre corrupción en el gobierno Petro, Valencia lanzó: 'Los hechos no se manipulan' — posicionamiento efectivo frente al debate del Pacto de Valledupar. ANDI/MAC MASTER (Semana, 25 sep): defendió la continuidad de Bruce Mac Master al frente de la ANDI en medio de la tensión con el gobierno De la Espriella; diferenciación clara del partido de gobierno. Mandato senatorial concluyó en julio 2026; figura activa como voz crítica de ambos lados desde el Centro Democrático. Sentimiento (45/18/37): semana positiva; cuestionamiento a Cepeda y posicionamiento institucional refuerzan su imagen de oposición constructiva."
+        "tendencia_texto": "24 oct — CUESTIONA A CEPEDA (Infobae, 21 oct): tras la admisión de Cepeda sobre corrupción en el gobierno Petro, Valencia lanzó: 'Los hechos no se manipulan' — posicionamiento efectivo frente al debate del Pacto de Valledupar. ORDÓÑEZ (23 oct): se espera posición de Valencia sobre el nombramiento del polémico exprocurador como MinInterior, habitual terreno de diferenciación del Centro Democrático. ANDI/MAC MASTER (Semana, 25 sep): defendió la continuidad de Bruce Mac Master al frente de la ANDI. Mandato senatorial concluyó en julio 2026; figura activa como voz crítica de ambos lados. Sentimiento (45/18/37): semana estable; se mantiene como voz independiente entre ambos polos."
       }
     ]
   },
@@ -376,7 +376,7 @@
       "pct": 48.7,
       "fuente_encuesta": "Registraduría — escrutinio oficial 100%, 24 jun 2026"
     },
-    "resumen_analisis": "DÍA 76 DE GOBIERNO — 22 de octubre de 2026. CRISIS LEGISLATIVA ESPRIELLA (22 oct): Sale Rodrigo Lara del MinInterior tras hundirse el presupuesto 2027 en el Congreso; llega Alejandro Ordóñez. Gobierno expedirá presupuesto por decreto. CEPEDA ADMITE CORRUPCIÓN PETRO (21 oct): Reconoció que fue el mayor problema del gobierno Petro; 'tenemos que dar las explicaciones'. CHOQUE CEPEDA/MANCUSO (20 oct): grabaciones de Mancuso generan enfrentamiento en el Congreso. CEPEDA EXCLUIDO de debates de la Ley de Sometimiento por conflicto de interés. VALENCIA ACTIVA (21 oct): cuestiona a Cepeda tras admisión de corrupción; 'los hechos no se manipulan'. RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
+    "resumen_analisis": "DÍA 78 DE GOBIERNO — 24 de octubre de 2026. MUSEO NACIONAL Y MARCHA (23 oct): Cepeda denuncia 'censura de Estado' por retiro de ~50 piezas del Museo Nacional; Pacto Histórico convoca marcha para el 24 de noviembre contra el presupuesto expedido por decreto. ORDÓÑEZ EN MinInterior (22 oct): el exprocurador que destituyó a Petro llega al gabinete en reemplazo de Rodrigo Lara — Bloomberg Línea / Las2Orillas. PRESUPUESTO POR DECRETO (22 oct): primera vez en décadas que Colombia expide el presupuesto por decreto; déficit fiscal 4,5-4,7 % del PIB a agosto. CEPEDA ADMITE CORRUPCIÓN PETRO (21 oct): 'el más grave problema que hemos tenido'. VALENCIA (21 oct): 'los hechos no se manipulan'. RESULTADO OFICIAL: De la Espriella 49,66% vs Cepeda 48,70%."
   },
-  "ultimo_deploy": "22 de octubre de 2026"
+  "ultimo_deploy": "24 de octubre de 2026"
 }
